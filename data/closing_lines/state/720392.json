@@ -7,7 +7,7 @@
   "team2": "Revitalize GC",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 3 (0-2)",
-  "captured_at": "2026-07-27T22:45:03.520102+00:00",
+  "captured_at": "2026-07-27T23:39:40.149993+00:00",
   "lines": [
     {
       "match_id": 720392,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": ":3",
       "team_tag": "MEOW",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6690821256038647,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6650485436893204,
       "source": "match:720392"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Revitalize GC",
       "team_tag": "REV",
-      "decimal_odds": 2.77,
+      "decimal_odds": 2.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36101083032490977,
-      "implied_prob_fair": 0.3309178743961353,
+      "implied_prob_raw": 0.36496350364963503,
+      "implied_prob_fair": 0.3349514563106796,
       "source": "match:720392"
     }
   ]
