@@ -7,7 +7,7 @@
   "team2": "BESTIA",
   "event_name": "VCL 26: Latin America Finals",
   "series": "Main Event\u2013Main Event",
-  "captured_at": "2026-07-27T21:45:31.056898+00:00",
+  "captured_at": "2026-07-27T21:55:07.743181+00:00",
   "lines": [
     {
       "match_id": 715113,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 3.75,
+      "decimal_odds": 5.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26666666666666666,
-      "implied_prob_fair": 0.24698795180722893,
+      "implied_prob_raw": 0.18796992481203006,
+      "implied_prob_fair": 0.17391304347826086,
       "source": "match:715113"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7530120481927711,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8260869565217391,
       "source": "match:715113"
     },
     {

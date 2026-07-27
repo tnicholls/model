@@ -39,6 +39,8 @@ STATE_DIR = Path("data/closing_lines/state")
 JSONL_PATH = Path("data/closing_lines/closing_lines.jsonl")
 FINALIZED_IDS_PATH = Path("data/closing_lines/finalized_ids.json")
 XLSX_PATH = Path("data/closing_lines/valorant_closing_lines.xlsx")
+VIG_SAMPLES_PATH = Path("data/closing_lines/vig_samples.jsonl")
+VIG_ESTIMATE_SAMPLE_SIZE = 10
 
 KNOWN_BOOKMAKERS = ["thunderpick", "rainbet", "shuffle"]
 
@@ -137,6 +139,36 @@ def _pair_by_bookmaker(lines: list[BetLine], team1_name: str | None, team2_name:
     return paired
 
 
+def _append_vig_sample(bookmaker: str, vig: float, sampled_at: str, source: str) -> None:
+    """Log one observed (real, paired-odds) vig reading for later averaging.
+
+    `source` is "closing" (captured right before a match went live/finished --
+    the most representative) or "pre_match_snapshot" (an earlier snapshot of a
+    still-upcoming match, used only when we don't yet have enough closing
+    samples). Used to estimate vig for matches where we only ever saw the
+    winner's one-sided payout odds.
+    """
+    VIG_SAMPLES_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with VIG_SAMPLES_PATH.open("a", encoding="utf-8") as f:
+        f.write(json.dumps({"bookmaker": bookmaker, "vig": vig, "sampled_at": sampled_at, "source": source}) + "\n")
+
+
+def estimate_vig_by_bookmaker(sample_size: int = VIG_ESTIMATE_SAMPLE_SIZE) -> dict[str, float]:
+    """Average of the most recent real vig samples per bookmaker, preferring
+    true closing-line samples over earlier pre-match snapshots when enough exist."""
+    if not VIG_SAMPLES_PATH.exists():
+        return {}
+    rows = [json.loads(line) for line in VIG_SAMPLES_PATH.read_text(encoding="utf-8").splitlines() if line.strip()]
+    estimates: dict[str, float] = {}
+    for bookmaker in {r["bookmaker"] for r in rows}:
+        bm_rows = [r for r in rows if r["bookmaker"] == bookmaker]
+        closing = [r["vig"] for r in bm_rows if r["source"] == "closing"][-sample_size:]
+        sample = closing if len(closing) >= min(3, sample_size) else [r["vig"] for r in bm_rows][-sample_size:]
+        if sample:
+            estimates[bookmaker] = sum(sample) / len(sample)
+    return estimates
+
+
 def poll_once(upcoming_pages: int = 1, results_pages: int = 2, verbose: bool = True) -> dict:
     """One poll cycle: snapshot upcoming/live odds, finalize newly-completed matches.
 
@@ -174,6 +206,10 @@ def poll_once(upcoming_pages: int = 1, results_pages: int = 2, verbose: bool = T
             summary["snapshotted"] += 1
             if verbose:
                 print(f"  snapshot match {m.match_id} ({m.team1} vs {m.team2}): {len(active_lines)} lines", file=sys.stderr)
+
+            for bookmaker, odds in _pair_by_bookmaker(active_lines, m.team1, m.team2).items():
+                sample_vig = 1 / odds["team1_odds"] + 1 / odds["team2_odds"] - 1
+                _append_vig_sample(bookmaker, sample_vig, state.captured_at, source="pre_match_snapshot")
 
         results: list[MatchSummary] = []
         for page in range(1, results_pages + 1):
@@ -220,12 +256,17 @@ def poll_once(upcoming_pages: int = 1, results_pages: int = 2, verbose: bool = T
                             "missed_pre_match": False,
                         }
                         jsonl_f.write(json.dumps(row) + "\n")
+                        _append_vig_sample(bookmaker, vig, state.captured_at, source="closing")
                     if paired:
                         summary["finalized"] += 1
                     _state_path(m.match_id).unlink(missing_ok=True)
                 else:
                     # Never snapshotted pre-match (e.g. first run after it already
-                    # finished) -- grab whatever's left: winner-only payout odds.
+                    # finished) -- vlr.gg only leaves the winner's payout odds on the
+                    # page, so exact vig is gone for good. We still record the raw
+                    # winner-side odds/implied prob (exact), and export_excel later
+                    # applies an *estimated* vig (avg of recent real vig samples) to
+                    # back out an estimated fair probability for these rows.
                     odds_html = fetcher.get_html(m.match_url)
                     lines = parse_match_odds(odds_html, match_id=m.match_id, source=f"match:{m.match_id}")
                     post_lines = [l for l in lines if l.stage == "post-match" and l.decimal_odds]
@@ -243,6 +284,9 @@ def poll_once(upcoming_pages: int = 1, results_pages: int = 2, verbose: bool = T
                             "team2_score": m.team2_score,
                             "winner": winner,
                             "bookmaker": l.bookmaker,
+                            "winner_team": l.team,
+                            "winner_odds": l.decimal_odds,
+                            "winner_implied_prob_raw": l.implied_prob_raw,
                             "team1_odds": None,
                             "team2_odds": None,
                             "implied_prob_team1": None,
@@ -270,6 +314,36 @@ def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> 
         raise FileNotFoundError(f"{jsonl_path} does not exist yet -- run `closing poll` first")
 
     rows = [json.loads(line) for line in jsonl_path.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+    vig_estimates = estimate_vig_by_bookmaker()
+    for row in rows:
+        if not row.get("missed_pre_match"):
+            # Real paired odds: derive a uniform "winner side" view for consistency
+            # with missed rows, purely for convenience -- vig/fair_prob here are exact.
+            if row.get("winner") == row.get("team1"):
+                row["winner_odds"] = row.get("team1_odds")
+                row["winner_implied_prob_raw"] = row.get("implied_prob_team1")
+                row["winner_fair_prob"] = row.get("fair_prob_team1")
+            elif row.get("winner") == row.get("team2"):
+                row["winner_odds"] = row.get("team2_odds")
+                row["winner_implied_prob_raw"] = row.get("implied_prob_team2")
+                row["winner_fair_prob"] = row.get("fair_prob_team2")
+            row["estimated_vig"] = row.get("vig")
+            row["vig_is_estimated"] = False
+        else:
+            # Historical match where only the winner's payout odds survived on
+            # vlr.gg -- back out an estimated fair probability using the
+            # bookmaker's recent average real vig (see estimate_vig_by_bookmaker).
+            est_vig = vig_estimates.get(row.get("bookmaker"))
+            p1 = row.get("winner_implied_prob_raw")
+            row["estimated_vig"] = est_vig
+            row["vig_is_estimated"] = True
+            if est_vig is not None and p1 is not None:
+                p2_est = max(0.0, 1 + est_vig - p1)
+                row["winner_fair_prob"] = p1 / (p1 + p2_est) if (p1 + p2_est) > 0 else None
+            else:
+                row["winner_fair_prob"] = None
+
     long_df = pd.DataFrame(rows)
     if long_df.empty:
         raise ValueError(f"{jsonl_path} has no rows yet")
@@ -284,6 +358,7 @@ def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> 
     metric_cols = [
         "team1_odds", "team2_odds", "implied_prob_team1", "implied_prob_team2",
         "vig", "fair_prob_team1", "fair_prob_team2", "closing_captured_at", "missed_pre_match",
+        "winner_odds", "winner_implied_prob_raw", "winner_fair_prob", "estimated_vig", "vig_is_estimated",
     ]
     for bm in bookmakers:
         bm_rows = long_df[long_df["bookmaker"] == bm].set_index("match_id")
