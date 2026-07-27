@@ -7,48 +7,20 @@
   "team2": "Shopify Rebellion Black",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-27T22:02:06.641884+00:00",
+  "captured_at": "2026-07-27T22:28:46.240980+00:00",
   "lines": [
     {
       "match_id": 715114,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50407",
-      "stage": "pre-match",
-      "team": "2Game Esports",
-      "team_tag": "2G",
-      "decimal_odds": 2.46,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.3772151898734177,
-      "source": "match:715114"
-    },
-    {
-      "match_id": 715114,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50407",
-      "stage": "pre-match",
-      "team": "Shopify Rebellion Black",
-      "team_tag": "SRB",
-      "decimal_odds": 1.49,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6227848101265823,
-      "source": "match:715114"
-    },
-    {
-      "match_id": 715114,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50395",
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 2.64,
+      "decimal_odds": 2.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3787878787878788,
-      "implied_prob_fair": 0.35135135135135137,
+      "implied_prob_raw": 0.38167938931297707,
+      "implied_prob_fair": 0.35467980295566504,
       "source": "match:715114"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6486486486486488,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.645320197044335,
       "source": "match:715114"
     }
   ]
