@@ -7,36 +7,8 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-27T22:28:33.775575+00:00",
+  "captured_at": "2026-07-27T22:44:58.786730+00:00",
   "lines": [
-    {
-      "match_id": 716580,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50495",
-      "stage": "live",
-      "team": "G2 Gozen",
-      "team_tag": "G2G",
-      "decimal_odds": 1.04,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9615384615384615,
-      "implied_prob_fair": 0.8915537017726799,
-      "source": "match:716580"
-    },
-    {
-      "match_id": 716580,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50495",
-      "stage": "live",
-      "team": "Karmine Corp GC",
-      "team_tag": "KCGC",
-      "decimal_odds": 8.55,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.11695906432748537,
-      "implied_prob_fair": 0.10844629822732013,
-      "source": "match:716580"
-    },
     {
       "match_id": 716580,
       "bookmaker": "rainbet",
