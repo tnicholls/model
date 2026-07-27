@@ -1,0 +1,5482 @@
+[
+  {
+    "player_id": 45492,
+    "player_alias": "swagzor",
+    "team_or_country": "NOVA",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "raze",
+        "pct": 47.0
+      },
+      {
+        "agent": "neon",
+        "pct": 42.0
+      },
+      {
+        "agent": "jett",
+        "pct": 5.0
+      }
+    ],
+    "maps": 19,
+    "rounds": 404,
+    "rating": 1.42,
+    "acs": 277.0,
+    "kd": 1.29,
+    "kast_pct": 74.0,
+    "adr": 171.1,
+    "kpr": 0.94,
+    "apr": 0.21,
+    "fkfd": 1.27,
+    "fkpr": 0.24,
+    "fdpr": 0.19,
+    "hs_pct": 27.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 27,
+    "kmax_match_url": "/701056/tyloo-vs-nova-esports-vct-2026-china-stage-2-w3/?game=274023",
+    "kills": 378,
+    "deaths": 292,
+    "assists": 86,
+    "first_kills": 52,
+    "first_deaths": 41,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 41739,
+    "player_alias": "slowly",
+    "team_or_country": "TYL",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "astra",
+        "pct": 15.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 15.0
+      },
+      {
+        "agent": "omen",
+        "pct": 15.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 425,
+    "rating": 1.4,
+    "acs": 215.0,
+    "kd": 1.13,
+    "kast_pct": 76.0,
+    "adr": 160.6,
+    "kpr": 0.76,
+    "apr": 0.23,
+    "fkfd": 1.55,
+    "fkpr": 0.2,
+    "fdpr": 0.13,
+    "hs_pct": 35.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 24,
+    "kmax_match_url": "/701039/edward-gaming-vs-tyloo-vct-2026-china-stage-2-w2/?game=273971",
+    "kills": 324,
+    "deaths": 286,
+    "assists": 98,
+    "first_kills": 45,
+    "first_deaths": 29,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 3741,
+    "player_alias": "vo0kashu",
+    "team_or_country": "DRG",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 71.0
+      },
+      {
+        "agent": "viper",
+        "pct": 24.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 5.0
+      }
+    ],
+    "maps": 21,
+    "rounds": 461,
+    "rating": 1.33,
+    "acs": 242.0,
+    "kd": 1.29,
+    "kast_pct": 78.0,
+    "adr": 168.4,
+    "kpr": 0.85,
+    "apr": 0.27,
+    "fkfd": 1.74,
+    "fkpr": 0.1,
+    "fdpr": 0.06,
+    "hs_pct": 30.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 13,
+    "kmax": 34,
+    "kmax_match_url": "/701060/jdg-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-2-seeding/?game=274036",
+    "kills": 390,
+    "deaths": 303,
+    "assists": 124,
+    "first_kills": 40,
+    "first_deaths": 23,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 10307,
+    "player_alias": "marteen",
+    "team_or_country": "M8",
+    "flag": "cz",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 86.0
+      },
+      {
+        "agent": "raze",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 144,
+    "rating": 1.33,
+    "acs": 264.0,
+    "kd": 1.36,
+    "kast_pct": 76.0,
+    "adr": 174.0,
+    "kpr": 0.94,
+    "apr": 0.33,
+    "fkfd": 1.62,
+    "fkpr": 0.15,
+    "fdpr": 0.09,
+    "hs_pct": 33.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 1,
+    "clutches_played": 12,
+    "kmax": 26,
+    "kmax_match_url": "/712809/gentle-mates-vs-fut-esports-vct-2026-emea-stage-2-w1/?game=276517",
+    "kills": 136,
+    "deaths": 100,
+    "assists": 47,
+    "first_kills": 21,
+    "first_deaths": 13,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 11600,
+    "player_alias": "Foxy9",
+    "team_or_country": "VL",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 60.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 40.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 114,
+    "rating": 1.29,
+    "acs": 256.0,
+    "kd": 1.36,
+    "kast_pct": 72.0,
+    "adr": 157.0,
+    "kpr": 0.9,
+    "apr": 0.18,
+    "fkfd": 1.25,
+    "fkpr": 0.13,
+    "fdpr": 0.11,
+    "hs_pct": 36.0,
+    "clutch_pct": 20.0,
+    "clutches_won": 2,
+    "clutches_played": 10,
+    "kmax": 27,
+    "kmax_match_url": "/698885/team-secret-vs-varrel-vct-2026-pacific-stage-2-w1/?game=273208",
+    "kills": 103,
+    "deaths": 76,
+    "assists": 20,
+    "first_kills": 15,
+    "first_deaths": 12,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 601,
+    "player_alias": "Asuna",
+    "team_or_country": "100T",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 100.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 106,
+    "rating": 1.28,
+    "acs": 254.0,
+    "kd": 1.45,
+    "kast_pct": 77.0,
+    "adr": 171.5,
+    "kpr": 0.89,
+    "apr": 0.42,
+    "fkfd": 1.09,
+    "fkpr": 0.11,
+    "fdpr": 0.1,
+    "hs_pct": 24.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 1,
+    "clutches_played": 6,
+    "kmax": 25,
+    "kmax_match_url": "/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1/?game=275077",
+    "kills": 94,
+    "deaths": 65,
+    "assists": 44,
+    "first_kills": 12,
+    "first_deaths": 11,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 36685,
+    "player_alias": "splash",
+    "team_or_country": "TYL",
+    "flag": "id",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 45.0
+      },
+      {
+        "agent": "neon",
+        "pct": 25.0
+      },
+      {
+        "agent": "raze",
+        "pct": 25.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 425,
+    "rating": 1.25,
+    "acs": 248.0,
+    "kd": 1.1,
+    "kast_pct": 72.0,
+    "adr": 171.7,
+    "kpr": 0.82,
+    "apr": 0.2,
+    "fkfd": 0.78,
+    "fkpr": 0.12,
+    "fdpr": 0.16,
+    "hs_pct": 30.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 29,
+    "kmax_match_url": "/701043/tyloo-vs-funplus-phoenix-vct-2026-china-stage-2-w2/?game=273984",
+    "kills": 350,
+    "deaths": 318,
+    "assists": 86,
+    "first_kills": 28,
+    "first_deaths": 36,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 5395,
+    "player_alias": "cortezia",
+    "team_or_country": "SEN",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "vyse",
+        "pct": 60.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 20.0
+      },
+      {
+        "agent": "viper",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 110,
+    "rating": 1.23,
+    "acs": 239.0,
+    "kd": 1.36,
+    "kast_pct": 75.0,
+    "adr": 151.4,
+    "kpr": 0.83,
+    "apr": 0.25,
+    "fkfd": 1.33,
+    "fkpr": 0.11,
+    "fdpr": 0.08,
+    "hs_pct": 31.0,
+    "clutch_pct": 27.0,
+    "clutches_won": 4,
+    "clutches_played": 15,
+    "kmax": 25,
+    "kmax_match_url": "/706350/sentinels-vs-cloud9-vct-2026-americas-stage-2-w1/?game=275067",
+    "kills": 91,
+    "deaths": 67,
+    "assists": 28,
+    "first_kills": 12,
+    "first_deaths": 9,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 9152,
+    "player_alias": "Deryeon",
+    "team_or_country": "WOL",
+    "flag": "sg",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 80.0
+      },
+      {
+        "agent": "astra",
+        "pct": 7.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 7.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 311,
+    "rating": 1.23,
+    "acs": 209.0,
+    "kd": 1.1,
+    "kast_pct": 76.0,
+    "adr": 137.5,
+    "kpr": 0.76,
+    "apr": 0.39,
+    "fkfd": 0.83,
+    "fkpr": 0.06,
+    "fdpr": 0.07,
+    "hs_pct": 25.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 32,
+    "kmax_match_url": "/701054/xi-lai-gaming-vs-wolves-esports-vct-2026-china-stage-2-w3/?game=274016",
+    "kills": 235,
+    "deaths": 214,
+    "assists": 121,
+    "first_kills": 15,
+    "first_deaths": 18,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 29243,
+    "player_alias": "Neon",
+    "team_or_country": "LEV",
+    "flag": "ar",
+    "agents": [
+      {
+        "agent": "chamber",
+        "pct": 43.0
+      },
+      {
+        "agent": "jett",
+        "pct": 25.0
+      },
+      {
+        "agent": "omen",
+        "pct": 25.0
+      }
+    ],
+    "maps": 28,
+    "rounds": 543,
+    "rating": 1.23,
+    "acs": 222.0,
+    "kd": 1.39,
+    "kast_pct": 76.0,
+    "adr": 145.6,
+    "kpr": 0.81,
+    "apr": 0.25,
+    "fkfd": 1.71,
+    "fkpr": 0.16,
+    "fdpr": 0.1,
+    "hs_pct": 29.0,
+    "clutch_pct": 12.0,
+    "clutches_won": 8,
+    "clutches_played": 68,
+    "kmax": 28,
+    "kmax_match_url": "/670466/paper-rex-vs-leviat-n-valorant-masters-london-2026-ubqf/?game=267805",
+    "kills": 442,
+    "deaths": 317,
+    "assists": 138,
+    "first_kills": 89,
+    "first_deaths": 52,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 46748,
+    "player_alias": "K1ra",
+    "team_or_country": "AG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "raze",
+        "pct": 42.0
+      },
+      {
+        "agent": "omen",
+        "pct": 26.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 16.0
+      }
+    ],
+    "maps": 19,
+    "rounds": 422,
+    "rating": 1.23,
+    "acs": 226.0,
+    "kd": 1.11,
+    "kast_pct": 73.0,
+    "adr": 148.4,
+    "kpr": 0.79,
+    "apr": 0.32,
+    "fkfd": 0.83,
+    "fkpr": 0.09,
+    "fdpr": 0.11,
+    "hs_pct": 27.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 28,
+    "kmax_match_url": "/701036/wolves-esports-vs-all-gamers-vct-2026-china-stage-2-w2/?game=273962",
+    "kills": 333,
+    "deaths": 299,
+    "assists": 135,
+    "first_kills": 19,
+    "first_deaths": 23,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4181,
+    "player_alias": "Cloud",
+    "team_or_country": "FNC",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "sage",
+        "pct": 43.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 29.0
+      },
+      {
+        "agent": "viper",
+        "pct": 29.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 168,
+    "rating": 1.22,
+    "acs": 218.0,
+    "kd": 1.11,
+    "kast_pct": 73.0,
+    "adr": 145.7,
+    "kpr": 0.76,
+    "apr": 0.37,
+    "fkfd": 2.0,
+    "fkpr": 0.08,
+    "fdpr": 0.04,
+    "hs_pct": 26.0,
+    "clutch_pct": 19.0,
+    "clutches_won": 6,
+    "clutches_played": 31,
+    "kmax": 27,
+    "kmax_match_url": "/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2-w2/?game=276533",
+    "kills": 127,
+    "deaths": 114,
+    "assists": 62,
+    "first_kills": 14,
+    "first_deaths": 7,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 5654,
+    "player_alias": "Avez",
+    "team_or_country": "KC",
+    "flag": "eg",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 57.0
+      },
+      {
+        "agent": "sova",
+        "pct": 43.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 166,
+    "rating": 1.22,
+    "acs": 231.0,
+    "kd": 1.32,
+    "kast_pct": 73.0,
+    "adr": 139.2,
+    "kpr": 0.8,
+    "apr": 0.28,
+    "fkfd": 0.8,
+    "fkpr": 0.07,
+    "fdpr": 0.09,
+    "hs_pct": 30.0,
+    "clutch_pct": 29.0,
+    "clutches_won": 5,
+    "clutches_played": 17,
+    "kmax": 28,
+    "kmax_match_url": "/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2-w2/?game=276532",
+    "kills": 133,
+    "deaths": 101,
+    "assists": 47,
+    "first_kills": 12,
+    "first_deaths": 15,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 41054,
+    "player_alias": "GuanG",
+    "team_or_country": "NOVA",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 42.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 26.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 16.0
+      }
+    ],
+    "maps": 19,
+    "rounds": 404,
+    "rating": 1.22,
+    "acs": 214.0,
+    "kd": 1.34,
+    "kast_pct": 77.0,
+    "adr": 144.5,
+    "kpr": 0.8,
+    "apr": 0.2,
+    "fkfd": 2.78,
+    "fkpr": 0.11,
+    "fdpr": 0.04,
+    "hs_pct": 34.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 27,
+    "kmax_match_url": "/701053/edward-gaming-vs-nova-esports-vct-2026-china-stage-2-w3/?game=274013",
+    "kills": 324,
+    "deaths": 242,
+    "assists": 79,
+    "first_kills": 25,
+    "first_deaths": 9,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 8497,
+    "player_alias": "Monyet",
+    "team_or_country": "RRQ",
+    "flag": "id",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 57.0
+      },
+      {
+        "agent": "astra",
+        "pct": 29.0
+      },
+      {
+        "agent": "viper",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 154,
+    "rating": 1.21,
+    "acs": 230.0,
+    "kd": 1.16,
+    "kast_pct": 75.0,
+    "adr": 147.8,
+    "kpr": 0.79,
+    "apr": 0.37,
+    "fkfd": 0.7,
+    "fkpr": 0.05,
+    "fdpr": 0.06,
+    "hs_pct": 35.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 2,
+    "clutches_played": 26,
+    "kmax": 22,
+    "kmax_match_url": "/698888/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-2-w1/?game=273218",
+    "kills": 121,
+    "deaths": 104,
+    "assists": 57,
+    "first_kills": 7,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 24344,
+    "player_alias": "Loita",
+    "team_or_country": "BBL",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 60.0
+      },
+      {
+        "agent": "astra",
+        "pct": 40.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 112,
+    "rating": 1.21,
+    "acs": 209.0,
+    "kd": 1.27,
+    "kast_pct": 74.0,
+    "adr": 136.5,
+    "kpr": 0.76,
+    "apr": 0.47,
+    "fkfd": 1.0,
+    "fkpr": 0.05,
+    "fdpr": 0.05,
+    "hs_pct": 33.0,
+    "clutch_pct": 33.0,
+    "clutches_won": 7,
+    "clutches_played": 21,
+    "kmax": 23,
+    "kmax_match_url": "/712812/team-vitality-vs-bbl-esports-vct-2026-emea-stage-2-w1/?game=276526",
+    "kills": 85,
+    "deaths": 67,
+    "assists": 53,
+    "first_kills": 6,
+    "first_deaths": 6,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 2168,
+    "player_alias": "trexx",
+    "team_or_country": "TL",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 50.0
+      },
+      {
+        "agent": "astra",
+        "pct": 17.0
+      },
+      {
+        "agent": "fade",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 120,
+    "rating": 1.2,
+    "acs": 223.0,
+    "kd": 1.22,
+    "kast_pct": 78.0,
+    "adr": 155.0,
+    "kpr": 0.78,
+    "apr": 0.45,
+    "fkfd": 0.83,
+    "fkpr": 0.04,
+    "fdpr": 0.05,
+    "hs_pct": 27.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 2,
+    "clutches_played": 14,
+    "kmax": 23,
+    "kmax_match_url": "/712819/team-liquid-vs-fnatic-vct-2026-emea-stage-2-w2/?game=276543",
+    "kills": 93,
+    "deaths": 76,
+    "assists": 54,
+    "first_kills": 5,
+    "first_deaths": 6,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 20144,
+    "player_alias": "LewN",
+    "team_or_country": "KC",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 86.0
+      },
+      {
+        "agent": "raze",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 166,
+    "rating": 1.2,
+    "acs": 247.0,
+    "kd": 1.43,
+    "kast_pct": 71.0,
+    "adr": 159.9,
+    "kpr": 0.94,
+    "apr": 0.09,
+    "fkfd": 1.04,
+    "fkpr": 0.14,
+    "fdpr": 0.14,
+    "hs_pct": 30.0,
+    "clutch_pct": 22.0,
+    "clutches_won": 4,
+    "clutches_played": 18,
+    "kmax": 34,
+    "kmax_match_url": "/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2-w2/?game=276533",
+    "kills": 156,
+    "deaths": 109,
+    "assists": 15,
+    "first_kills": 24,
+    "first_deaths": 23,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 8504,
+    "player_alias": "invy",
+    "team_or_country": "PRX",
+    "flag": "ph",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 50.0
+      },
+      {
+        "agent": "skye",
+        "pct": 25.0
+      },
+      {
+        "agent": "breach",
+        "pct": 15.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 433,
+    "rating": 1.19,
+    "acs": 212.0,
+    "kd": 1.24,
+    "kast_pct": 78.0,
+    "adr": 145.0,
+    "kpr": 0.75,
+    "apr": 0.37,
+    "fkfd": 0.88,
+    "fkpr": 0.05,
+    "fdpr": 0.06,
+    "hs_pct": 29.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 6,
+    "clutches_played": 48,
+    "kmax": 25,
+    "kmax_match_url": "/698895/detonation-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2/?game=273239",
+    "kills": 324,
+    "deaths": 262,
+    "assists": 162,
+    "first_kills": 21,
+    "first_deaths": 24,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 11494,
+    "player_alias": "keiko",
+    "team_or_country": "NRG",
+    "flag": "gb",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 23.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 23.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 15.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 285,
+    "rating": 1.18,
+    "acs": 228.0,
+    "kd": 1.21,
+    "kast_pct": 70.0,
+    "adr": 150.5,
+    "kpr": 0.84,
+    "apr": 0.29,
+    "fkfd": 1.5,
+    "fkpr": 0.12,
+    "fdpr": 0.08,
+    "hs_pct": 34.0,
+    "clutch_pct": 19.0,
+    "clutches_won": 6,
+    "clutches_played": 31,
+    "kmax": 34,
+    "kmax_match_url": "/684613/xi-lai-gaming-vs-nrg-valorant-masters-london-2026-r1/?game=270747",
+    "kills": 239,
+    "deaths": 197,
+    "assists": 84,
+    "first_kills": 33,
+    "first_deaths": 22,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 12365,
+    "player_alias": "coconut",
+    "team_or_country": "FPX",
+    "flag": "hk",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 57.0
+      },
+      {
+        "agent": "fade",
+        "pct": 36.0
+      },
+      {
+        "agent": "tejo",
+        "pct": 7.0
+      }
+    ],
+    "maps": 14,
+    "rounds": 298,
+    "rating": 1.18,
+    "acs": 181.0,
+    "kd": 0.99,
+    "kast_pct": 69.0,
+    "adr": 123.2,
+    "kpr": 0.62,
+    "apr": 0.24,
+    "fkfd": 0.33,
+    "fkpr": 0.03,
+    "fdpr": 0.08,
+    "hs_pct": 30.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 19,
+    "kmax_match_url": "/701043/tyloo-vs-funplus-phoenix-vct-2026-china-stage-2-w2/?game=273984",
+    "kills": 184,
+    "deaths": 185,
+    "assists": 72,
+    "first_kills": 6,
+    "first_deaths": 18,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 14125,
+    "player_alias": "Spring",
+    "team_or_country": "WOL",
+    "flag": "tw",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 87.0
+      },
+      {
+        "agent": "omen",
+        "pct": 13.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 311,
+    "rating": 1.18,
+    "acs": 231.0,
+    "kd": 1.1,
+    "kast_pct": 72.0,
+    "adr": 159.5,
+    "kpr": 0.79,
+    "apr": 0.32,
+    "fkfd": 0.81,
+    "fkpr": 0.07,
+    "fdpr": 0.09,
+    "hs_pct": 29.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 28,
+    "kmax_match_url": "/701062/funplus-phoenix-vs-wolves-esports-vct-2026-china-stage-2-seeding/?game=274041",
+    "kills": 247,
+    "deaths": 224,
+    "assists": 98,
+    "first_kills": 17,
+    "first_deaths": 21,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 17086,
+    "player_alias": "something",
+    "team_or_country": "PRX",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 45.0
+      },
+      {
+        "agent": "yoru",
+        "pct": 20.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 15.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 433,
+    "rating": 1.18,
+    "acs": 231.0,
+    "kd": 1.29,
+    "kast_pct": 76.0,
+    "adr": 147.2,
+    "kpr": 0.81,
+    "apr": 0.22,
+    "fkfd": 1.29,
+    "fkpr": 0.15,
+    "fdpr": 0.12,
+    "hs_pct": 27.0,
+    "clutch_pct": 22.0,
+    "clutches_won": 11,
+    "clutches_played": 50,
+    "kmax": 26,
+    "kmax_match_url": "/698895/detonation-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2/?game=273239",
+    "kills": 352,
+    "deaths": 273,
+    "assists": 96,
+    "first_kills": 67,
+    "first_deaths": 52,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 29867,
+    "player_alias": "hiro",
+    "team_or_country": "NAVI",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 57.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 14.0
+      },
+      {
+        "agent": "sova",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 147,
+    "rating": 1.18,
+    "acs": 237.0,
+    "kd": 1.19,
+    "kast_pct": 70.0,
+    "adr": 156.7,
+    "kpr": 0.84,
+    "apr": 0.24,
+    "fkfd": 1.73,
+    "fkpr": 0.13,
+    "fdpr": 0.07,
+    "hs_pct": 36.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 3,
+    "clutches_played": 18,
+    "kmax": 26,
+    "kmax_match_url": "/712817/gentle-mates-vs-natus-vincere-vct-2026-emea-stage-2-w2/?game=276537",
+    "kills": 124,
+    "deaths": 104,
+    "assists": 36,
+    "first_kills": 19,
+    "first_deaths": 11,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 42772,
+    "player_alias": "Xross",
+    "team_or_country": "NS",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 67.0
+      },
+      {
+        "agent": "fade",
+        "pct": 11.0
+      },
+      {
+        "agent": "jett",
+        "pct": 11.0
+      }
+    ],
+    "maps": 9,
+    "rounds": 181,
+    "rating": 1.18,
+    "acs": 220.0,
+    "kd": 1.22,
+    "kast_pct": 76.0,
+    "adr": 148.0,
+    "kpr": 0.77,
+    "apr": 0.28,
+    "fkfd": 1.26,
+    "fkpr": 0.13,
+    "fdpr": 0.1,
+    "hs_pct": 24.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 4,
+    "clutches_played": 22,
+    "kmax": 26,
+    "kmax_match_url": "/698890/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-2-w1/?game=273223",
+    "kills": 140,
+    "deaths": 115,
+    "assists": 50,
+    "first_kills": 24,
+    "first_deaths": 19,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 13039,
+    "player_alias": "Meteor",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 57.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 43.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 167,
+    "rating": 1.17,
+    "acs": 237.0,
+    "kd": 1.27,
+    "kast_pct": 72.0,
+    "adr": 155.4,
+    "kpr": 0.86,
+    "apr": 0.15,
+    "fkfd": 1.28,
+    "fkpr": 0.19,
+    "fdpr": 0.15,
+    "hs_pct": 28.0,
+    "clutch_pct": 12.0,
+    "clutches_won": 2,
+    "clutches_played": 17,
+    "kmax": 26,
+    "kmax_match_url": "/698889/paper-rex-vs-t1-vct-2026-pacific-stage-2-w1/?game=273220",
+    "kills": 143,
+    "deaths": 113,
+    "assists": 25,
+    "first_kills": 32,
+    "first_deaths": 25,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 29893,
+    "player_alias": "Timotino",
+    "team_or_country": "100T",
+    "flag": "ca",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 80.0
+      },
+      {
+        "agent": "jett",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 106,
+    "rating": 1.17,
+    "acs": 251.0,
+    "kd": 1.3,
+    "kast_pct": 76.0,
+    "adr": 159.3,
+    "kpr": 0.86,
+    "apr": 0.24,
+    "fkfd": 1.79,
+    "fkpr": 0.24,
+    "fdpr": 0.13,
+    "hs_pct": 28.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 3,
+    "kmax": 26,
+    "kmax_match_url": "/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1/?game=275077",
+    "kills": 91,
+    "deaths": 70,
+    "assists": 25,
+    "first_kills": 25,
+    "first_deaths": 14,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 19677,
+    "player_alias": "lucas",
+    "team_or_country": "TEC",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 45.0
+      },
+      {
+        "agent": "fade",
+        "pct": 40.0
+      },
+      {
+        "agent": "skye",
+        "pct": 10.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 453,
+    "rating": 1.16,
+    "acs": 222.0,
+    "kd": 1.16,
+    "kast_pct": 74.0,
+    "adr": 157.0,
+    "kpr": 0.79,
+    "apr": 0.29,
+    "fkfd": 1.0,
+    "fkpr": 0.06,
+    "fdpr": 0.06,
+    "hs_pct": 30.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 31,
+    "kmax_match_url": "/701058/trace-esports-vs-titan-esports-club-vct-2026-china-stage-2-seeding/?game=274028",
+    "kills": 356,
+    "deaths": 306,
+    "assists": 132,
+    "first_kills": 13,
+    "first_deaths": 13,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 37354,
+    "player_alias": "basic",
+    "team_or_country": "FUR",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 40.0
+      },
+      {
+        "agent": "deadlock",
+        "pct": 20.0
+      },
+      {
+        "agent": "harbor",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 102,
+    "rating": 1.16,
+    "acs": 214.0,
+    "kd": 1.1,
+    "kast_pct": 75.0,
+    "adr": 126.7,
+    "kpr": 0.75,
+    "apr": 0.49,
+    "fkfd": 1.0,
+    "fkpr": 0.06,
+    "fdpr": 0.06,
+    "hs_pct": 25.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 4,
+    "clutches_played": 19,
+    "kmax": 20,
+    "kmax_match_url": "/706349/leviat-n-vs-furia-vct-2026-americas-stage-2-w1/?game=275065",
+    "kills": 76,
+    "deaths": 69,
+    "assists": 50,
+    "first_kills": 6,
+    "first_deaths": 6,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4147,
+    "player_alias": "Cryocells",
+    "team_or_country": "100T",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 80.0
+      },
+      {
+        "agent": "viper",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 106,
+    "rating": 1.15,
+    "acs": 225.0,
+    "kd": 1.31,
+    "kast_pct": 74.0,
+    "adr": 136.0,
+    "kpr": 0.75,
+    "apr": 0.25,
+    "fkfd": 2.17,
+    "fkpr": 0.12,
+    "fdpr": 0.06,
+    "hs_pct": 26.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 1,
+    "clutches_played": 12,
+    "kmax": 18,
+    "kmax_match_url": "/706358/100-thieves-vs-kr-esports-vct-2026-americas-stage-2-w2/?game=275091",
+    "kills": 80,
+    "deaths": 61,
+    "assists": 26,
+    "first_kills": 13,
+    "first_deaths": 6,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4885,
+    "player_alias": "whzy",
+    "team_or_country": "BLG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "raze",
+        "pct": 53.0
+      },
+      {
+        "agent": "neon",
+        "pct": 20.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 13.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 318,
+    "rating": 1.15,
+    "acs": 237.0,
+    "kd": 1.18,
+    "kast_pct": 71.0,
+    "adr": 160.0,
+    "kpr": 0.84,
+    "apr": 0.22,
+    "fkfd": 1.86,
+    "fkpr": 0.19,
+    "fdpr": 0.1,
+    "hs_pct": 21.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 28,
+    "kmax_match_url": "/701030/bilibili-gaming-vs-wolves-esports-vct-2026-china-stage-2-w1/?game=273953",
+    "kills": 267,
+    "deaths": 226,
+    "assists": 69,
+    "first_kills": 41,
+    "first_deaths": 22,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 48925,
+    "player_alias": "Raxcal",
+    "team_or_country": "GEN",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 50.0
+      },
+      {
+        "agent": "sage",
+        "pct": 38.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 13.0
+      }
+    ],
+    "maps": 8,
+    "rounds": 173,
+    "rating": 1.15,
+    "acs": 220.0,
+    "kd": 1.14,
+    "kast_pct": 79.0,
+    "adr": 146.5,
+    "kpr": 0.72,
+    "apr": 0.33,
+    "fkfd": 1.07,
+    "fkpr": 0.09,
+    "fdpr": 0.09,
+    "hs_pct": 25.0,
+    "clutch_pct": 22.0,
+    "clutches_won": 5,
+    "clutches_played": 23,
+    "kmax": 19,
+    "kmax_match_url": "/698890/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-2-w1/?game=273225",
+    "kills": 124,
+    "deaths": 109,
+    "assists": 57,
+    "first_kills": 16,
+    "first_deaths": 15,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 25255,
+    "player_alias": "primmie",
+    "team_or_country": "FS",
+    "flag": "th",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 50.0
+      },
+      {
+        "agent": "deadlock",
+        "pct": 20.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 20.0
+      }
+    ],
+    "maps": 10,
+    "rounds": 197,
+    "rating": 1.14,
+    "acs": 232.0,
+    "kd": 1.21,
+    "kast_pct": 71.0,
+    "adr": 145.7,
+    "kpr": 0.85,
+    "apr": 0.15,
+    "fkfd": 1.17,
+    "fkpr": 0.14,
+    "fdpr": 0.12,
+    "hs_pct": 31.0,
+    "clutch_pct": 4.0,
+    "clutches_won": 1,
+    "clutches_played": 27,
+    "kmax": 27,
+    "kmax_match_url": "/684617/global-esports-vs-full-sense-valorant-masters-london-2026-r2-0-1/?game=270758",
+    "kills": 168,
+    "deaths": 139,
+    "assists": 30,
+    "first_kills": 28,
+    "first_deaths": 24,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 39485,
+    "player_alias": "Scales",
+    "team_or_country": "TYL",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 40.0
+      },
+      {
+        "agent": "viper",
+        "pct": 35.0
+      },
+      {
+        "agent": "sage",
+        "pct": 15.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 425,
+    "rating": 1.14,
+    "acs": 192.0,
+    "kd": 1.01,
+    "kast_pct": 72.0,
+    "adr": 133.6,
+    "kpr": 0.68,
+    "apr": 0.22,
+    "fkfd": 1.26,
+    "fkpr": 0.1,
+    "fdpr": 0.08,
+    "hs_pct": 32.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 25,
+    "kmax_match_url": "/681024/all-gamers-vs-tyloo-china-evolution-series-2026-act-2-cf/?game=269360",
+    "kills": 290,
+    "deaths": 288,
+    "assists": 95,
+    "first_kills": 24,
+    "first_deaths": 19,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 42733,
+    "player_alias": "XuNa",
+    "team_or_country": "VL",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 60.0
+      },
+      {
+        "agent": "sova",
+        "pct": 40.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 114,
+    "rating": 1.14,
+    "acs": 211.0,
+    "kd": 1.09,
+    "kast_pct": 75.0,
+    "adr": 147.0,
+    "kpr": 0.72,
+    "apr": 0.32,
+    "fkfd": 1.33,
+    "fkpr": 0.07,
+    "fdpr": 0.05,
+    "hs_pct": 33.0,
+    "clutch_pct": 11.0,
+    "clutches_won": 2,
+    "clutches_played": 19,
+    "kmax": 21,
+    "kmax_match_url": "/698893/t1-vs-varrel-vct-2026-pacific-stage-2-w2/?game=273232",
+    "kills": 82,
+    "deaths": 75,
+    "assists": 36,
+    "first_kills": 8,
+    "first_deaths": 6,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 10971,
+    "player_alias": "RieNs",
+    "team_or_country": "TH",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 44.0
+      },
+      {
+        "agent": "sova",
+        "pct": 44.0
+      },
+      {
+        "agent": "viper",
+        "pct": 11.0
+      }
+    ],
+    "maps": 9,
+    "rounds": 183,
+    "rating": 1.13,
+    "acs": 224.0,
+    "kd": 1.11,
+    "kast_pct": 70.0,
+    "adr": 143.0,
+    "kpr": 0.77,
+    "apr": 0.28,
+    "fkfd": 1.78,
+    "fkpr": 0.09,
+    "fdpr": 0.05,
+    "hs_pct": 39.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 2,
+    "clutches_played": 24,
+    "kmax": 25,
+    "kmax_match_url": "/712810/team-heretics-vs-team-liquid-vct-2026-emea-stage-2-w1/?game=276519",
+    "kills": 141,
+    "deaths": 127,
+    "assists": 52,
+    "first_kills": 16,
+    "first_deaths": 9,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 36245,
+    "player_alias": "N4RRATE",
+    "team_or_country": "KC",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "chamber",
+        "pct": 43.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 43.0
+      },
+      {
+        "agent": "sage",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 166,
+    "rating": 1.13,
+    "acs": 219.0,
+    "kd": 1.2,
+    "kast_pct": 74.0,
+    "adr": 147.1,
+    "kpr": 0.75,
+    "apr": 0.28,
+    "fkfd": 1.33,
+    "fkpr": 0.14,
+    "fdpr": 0.11,
+    "hs_pct": 26.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 3,
+    "clutches_played": 18,
+    "kmax": 26,
+    "kmax_match_url": "/712807/karmine-corp-vs-eternal-fire-vct-2026-emea-stage-2-w1/?game=276511",
+    "kills": 124,
+    "deaths": 103,
+    "assists": 46,
+    "first_kills": 24,
+    "first_deaths": 18,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 41720,
+    "player_alias": "Favian",
+    "team_or_country": "EF",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "veto",
+        "pct": 50.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 25.0
+      },
+      {
+        "agent": "raze",
+        "pct": 25.0
+      }
+    ],
+    "maps": 8,
+    "rounds": 155,
+    "rating": 1.13,
+    "acs": 242.0,
+    "kd": 1.13,
+    "kast_pct": 66.0,
+    "adr": 155.4,
+    "kpr": 0.86,
+    "apr": 0.17,
+    "fkfd": 0.85,
+    "fkpr": 0.11,
+    "fdpr": 0.13,
+    "hs_pct": 33.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 2,
+    "clutches_played": 14,
+    "kmax": 24,
+    "kmax_match_url": "/712804/team-liquid-vs-eternal-fire-vct-2026-emea-stage-2-w1/?game=276502",
+    "kills": 133,
+    "deaths": 118,
+    "assists": 26,
+    "first_kills": 17,
+    "first_deaths": 20,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 458,
+    "player_alias": "Chronicle",
+    "team_or_country": "VIT",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 38.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 24.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 19.0
+      }
+    ],
+    "maps": 21,
+    "rounds": 410,
+    "rating": 1.12,
+    "acs": 220.0,
+    "kd": 1.23,
+    "kast_pct": 74.0,
+    "adr": 148.6,
+    "kpr": 0.79,
+    "apr": 0.24,
+    "fkfd": 1.05,
+    "fkpr": 0.1,
+    "fdpr": 0.1,
+    "hs_pct": 22.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 6,
+    "clutches_played": 46,
+    "kmax": 27,
+    "kmax_match_url": "/712812/team-vitality-vs-bbl-esports-vct-2026-emea-stage-2-w1/?game=276526",
+    "kills": 322,
+    "deaths": 261,
+    "assists": 100,
+    "first_kills": 43,
+    "first_deaths": 41,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 804,
+    "player_alias": "BuZz",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 43.0
+      },
+      {
+        "agent": "omen",
+        "pct": 29.0
+      },
+      {
+        "agent": "harbor",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 167,
+    "rating": 1.12,
+    "acs": 228.0,
+    "kd": 1.13,
+    "kast_pct": 78.0,
+    "adr": 151.0,
+    "kpr": 0.77,
+    "apr": 0.38,
+    "fkfd": 1.33,
+    "fkpr": 0.1,
+    "fdpr": 0.07,
+    "hs_pct": 26.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 1,
+    "clutches_played": 10,
+    "kmax": 25,
+    "kmax_match_url": "/698893/t1-vs-varrel-vct-2026-pacific-stage-2-w2/?game=273232",
+    "kills": 128,
+    "deaths": 113,
+    "assists": 64,
+    "first_kills": 16,
+    "first_deaths": 12,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 7849,
+    "player_alias": "SiuFatBB",
+    "team_or_country": "TYL",
+    "flag": "hk",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 57.0
+      },
+      {
+        "agent": "sova",
+        "pct": 29.0
+      },
+      {
+        "agent": "skye",
+        "pct": 14.0
+      }
+    ],
+    "maps": 14,
+    "rounds": 296,
+    "rating": 1.12,
+    "acs": 168.0,
+    "kd": 1.05,
+    "kast_pct": 73.0,
+    "adr": 120.0,
+    "kpr": 0.62,
+    "apr": 0.35,
+    "fkfd": 0.8,
+    "fkpr": 0.03,
+    "fdpr": 0.04,
+    "hs_pct": 27.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 24,
+    "kmax_match_url": "/701056/tyloo-vs-nova-esports-vct-2026-china-stage-2-w3/?game=274022",
+    "kills": 183,
+    "deaths": 175,
+    "assists": 105,
+    "first_kills": 8,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 21659,
+    "player_alias": "Sato",
+    "team_or_country": "LEV",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 68.0
+      },
+      {
+        "agent": "raze",
+        "pct": 21.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 7.0
+      }
+    ],
+    "maps": 28,
+    "rounds": 543,
+    "rating": 1.12,
+    "acs": 235.0,
+    "kd": 1.16,
+    "kast_pct": 74.0,
+    "adr": 153.9,
+    "kpr": 0.82,
+    "apr": 0.32,
+    "fkfd": 1.03,
+    "fkpr": 0.11,
+    "fdpr": 0.11,
+    "hs_pct": 32.0,
+    "clutch_pct": 19.0,
+    "clutches_won": 6,
+    "clutches_played": 31,
+    "kmax": 27,
+    "kmax_match_url": "/684612/leviat-n-vs-global-esports-valorant-masters-london-2026-r1/?game=270744",
+    "kills": 443,
+    "deaths": 381,
+    "assists": 172,
+    "first_kills": 60,
+    "first_deaths": 58,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 39697,
+    "player_alias": "cb",
+    "team_or_country": "NOVA",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 62.0
+      },
+      {
+        "agent": "killjoy",
+        "pct": 23.0
+      },
+      {
+        "agent": "skye",
+        "pct": 15.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 283,
+    "rating": 1.12,
+    "acs": 201.0,
+    "kd": 1.06,
+    "kast_pct": 76.0,
+    "adr": 138.4,
+    "kpr": 0.67,
+    "apr": 0.35,
+    "fkfd": 1.0,
+    "fkpr": 0.09,
+    "fdpr": 0.09,
+    "hs_pct": 26.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 19,
+    "kmax_match_url": "/701053/edward-gaming-vs-nova-esports-vct-2026-china-stage-2-w3/?game=274013",
+    "kills": 190,
+    "deaths": 179,
+    "assists": 100,
+    "first_kills": 19,
+    "first_deaths": 19,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 46460,
+    "player_alias": "Ezeir",
+    "team_or_country": "NOVA",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 47.0
+      },
+      {
+        "agent": "astra",
+        "pct": 26.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 11.0
+      }
+    ],
+    "maps": 19,
+    "rounds": 404,
+    "rating": 1.12,
+    "acs": 197.0,
+    "kd": 1.07,
+    "kast_pct": 76.0,
+    "adr": 129.5,
+    "kpr": 0.7,
+    "apr": 0.39,
+    "fkfd": 1.31,
+    "fkpr": 0.08,
+    "fdpr": 0.06,
+    "hs_pct": 23.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 20,
+    "kmax_match_url": "/701053/edward-gaming-vs-nova-esports-vct-2026-china-stage-2-w3/?game=274014",
+    "kills": 283,
+    "deaths": 264,
+    "assists": 158,
+    "first_kills": 17,
+    "first_deaths": 13,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 5022,
+    "player_alias": "Derke",
+    "team_or_country": "VIT",
+    "flag": "fi",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 43.0
+      },
+      {
+        "agent": "raze",
+        "pct": 29.0
+      },
+      {
+        "agent": "neon",
+        "pct": 24.0
+      }
+    ],
+    "maps": 21,
+    "rounds": 410,
+    "rating": 1.11,
+    "acs": 238.0,
+    "kd": 1.15,
+    "kast_pct": 71.0,
+    "adr": 156.6,
+    "kpr": 0.82,
+    "apr": 0.21,
+    "fkfd": 1.17,
+    "fkpr": 0.15,
+    "fdpr": 0.13,
+    "hs_pct": 26.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 5,
+    "clutches_played": 40,
+    "kmax": 23,
+    "kmax_match_url": "/670467/team-heretics-vs-team-vitality-valorant-masters-london-2026-ubqf/?game=267808",
+    "kills": 337,
+    "deaths": 293,
+    "assists": 86,
+    "first_kills": 62,
+    "first_deaths": 53,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 28716,
+    "player_alias": "lukxo",
+    "team_or_country": "LOUD",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "harbor",
+        "pct": 40.0
+      },
+      {
+        "agent": "viper",
+        "pct": 40.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 109,
+    "rating": 1.11,
+    "acs": 232.0,
+    "kd": 1.21,
+    "kast_pct": 70.0,
+    "adr": 145.2,
+    "kpr": 0.81,
+    "apr": 0.2,
+    "fkfd": 1.42,
+    "fkpr": 0.16,
+    "fdpr": 0.11,
+    "hs_pct": 32.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 1,
+    "clutches_played": 7,
+    "kmax": 26,
+    "kmax_match_url": "/706352/kr-esports-vs-loud-vct-2026-americas-stage-2-w1/?game=275074",
+    "kills": 88,
+    "deaths": 73,
+    "assists": 22,
+    "first_kills": 17,
+    "first_deaths": 12,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 34974,
+    "player_alias": "Karon",
+    "team_or_country": "GEN",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 88.0
+      },
+      {
+        "agent": "astra",
+        "pct": 13.0
+      }
+    ],
+    "maps": 8,
+    "rounds": 173,
+    "rating": 1.11,
+    "acs": 202.0,
+    "kd": 1.13,
+    "kast_pct": 76.0,
+    "adr": 130.4,
+    "kpr": 0.74,
+    "apr": 0.38,
+    "fkfd": 1.62,
+    "fkpr": 0.08,
+    "fdpr": 0.05,
+    "hs_pct": 39.0,
+    "clutch_pct": 25.0,
+    "clutches_won": 4,
+    "clutches_played": 16,
+    "kmax": 34,
+    "kmax_match_url": "/698884/gen-g-vs-zeta-division-vct-2026-pacific-stage-2-w1/?game=273206",
+    "kills": 128,
+    "deaths": 113,
+    "assists": 66,
+    "first_kills": 13,
+    "first_deaths": 8,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4056,
+    "player_alias": "Sylvan",
+    "team_or_country": "TS",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 86.0
+      },
+      {
+        "agent": "astra",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 138,
+    "rating": 1.1,
+    "acs": 194.0,
+    "kd": 1.1,
+    "kast_pct": 70.0,
+    "adr": 134.6,
+    "kpr": 0.74,
+    "apr": 0.31,
+    "fkfd": 0.58,
+    "fkpr": 0.05,
+    "fdpr": 0.09,
+    "hs_pct": 33.0,
+    "clutch_pct": 37.0,
+    "clutches_won": 7,
+    "clutches_played": 19,
+    "kmax": 19,
+    "kmax_match_url": "/698885/team-secret-vs-varrel-vct-2026-pacific-stage-2-w1/?game=273209",
+    "kills": 102,
+    "deaths": 93,
+    "assists": 43,
+    "first_kills": 7,
+    "first_deaths": 12,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 8419,
+    "player_alias": "Reduxx",
+    "team_or_country": "SEN",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 60.0
+      },
+      {
+        "agent": "jett",
+        "pct": 20.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 110,
+    "rating": 1.1,
+    "acs": 201.0,
+    "kd": 1.17,
+    "kast_pct": 78.0,
+    "adr": 135.8,
+    "kpr": 0.76,
+    "apr": 0.33,
+    "fkfd": 1.33,
+    "fkpr": 0.15,
+    "fdpr": 0.11,
+    "hs_pct": 40.0,
+    "clutch_pct": 50.0,
+    "clutches_won": 3,
+    "clutches_played": 6,
+    "kmax": 31,
+    "kmax_match_url": "/706350/sentinels-vs-cloud9-vct-2026-americas-stage-2-w1/?game=275069",
+    "kills": 84,
+    "deaths": 72,
+    "assists": 36,
+    "first_kills": 16,
+    "first_deaths": 12,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 13002,
+    "player_alias": "Akame",
+    "team_or_country": "DFM",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 40.0
+      },
+      {
+        "agent": "sova",
+        "pct": 40.0
+      },
+      {
+        "agent": "skye",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 118,
+    "rating": 1.1,
+    "acs": 232.0,
+    "kd": 1.07,
+    "kast_pct": 74.0,
+    "adr": 151.1,
+    "kpr": 0.75,
+    "apr": 0.25,
+    "fkfd": 1.43,
+    "fkpr": 0.08,
+    "fdpr": 0.06,
+    "hs_pct": 31.0,
+    "clutch_pct": 6.0,
+    "clutches_won": 1,
+    "clutches_played": 17,
+    "kmax": 24,
+    "kmax_match_url": "/698887/kiwoom-drx-vs-detonation-focusme-vct-2026-pacific-stage-2-w1/?game=273216",
+    "kills": 89,
+    "deaths": 83,
+    "assists": 30,
+    "first_kills": 10,
+    "first_deaths": 7,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 15500,
+    "player_alias": "trent",
+    "team_or_country": "G2",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 50.0
+      },
+      {
+        "agent": "fade",
+        "pct": 30.0
+      },
+      {
+        "agent": "skye",
+        "pct": 20.0
+      }
+    ],
+    "maps": 10,
+    "rounds": 209,
+    "rating": 1.1,
+    "acs": 202.0,
+    "kd": 0.96,
+    "kast_pct": 76.0,
+    "adr": 135.5,
+    "kpr": 0.64,
+    "apr": 0.49,
+    "fkfd": 1.4,
+    "fkpr": 0.07,
+    "fdpr": 0.05,
+    "hs_pct": 27.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 33,
+    "kmax": 18,
+    "kmax_match_url": "/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1/?game=275077",
+    "kills": 134,
+    "deaths": 140,
+    "assists": 102,
+    "first_kills": 14,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 21251,
+    "player_alias": "blowz",
+    "team_or_country": "LEV",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 39.0
+      },
+      {
+        "agent": "fade",
+        "pct": 32.0
+      },
+      {
+        "agent": "skye",
+        "pct": 21.0
+      }
+    ],
+    "maps": 28,
+    "rounds": 543,
+    "rating": 1.1,
+    "acs": 181.0,
+    "kd": 1.1,
+    "kast_pct": 77.0,
+    "adr": 122.5,
+    "kpr": 0.65,
+    "apr": 0.36,
+    "fkfd": 1.38,
+    "fkpr": 0.06,
+    "fdpr": 0.04,
+    "hs_pct": 32.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 9,
+    "clutches_played": 64,
+    "kmax": 22,
+    "kmax_match_url": "/670471/paper-rex-vs-leviat-n-valorant-masters-london-2026-gf/?game=267821",
+    "kills": 351,
+    "deaths": 318,
+    "assists": 198,
+    "first_kills": 33,
+    "first_deaths": 24,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 9196,
+    "player_alias": "t3xture",
+    "team_or_country": "GEN",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "chamber",
+        "pct": 88.0
+      },
+      {
+        "agent": "raze",
+        "pct": 13.0
+      }
+    ],
+    "maps": 8,
+    "rounds": 173,
+    "rating": 1.09,
+    "acs": 221.0,
+    "kd": 1.22,
+    "kast_pct": 71.0,
+    "adr": 143.5,
+    "kpr": 0.8,
+    "apr": 0.13,
+    "fkfd": 1.27,
+    "fkpr": 0.16,
+    "fdpr": 0.13,
+    "hs_pct": 24.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 4,
+    "clutches_played": 24,
+    "kmax": 22,
+    "kmax_match_url": "/698884/gen-g-vs-zeta-division-vct-2026-pacific-stage-2-w1/?game=273206",
+    "kills": 138,
+    "deaths": 113,
+    "assists": 22,
+    "first_kills": 28,
+    "first_deaths": 22,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 14681,
+    "player_alias": "kamo",
+    "team_or_country": "TL",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 50.0
+      },
+      {
+        "agent": "raze",
+        "pct": 50.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 120,
+    "rating": 1.09,
+    "acs": 245.0,
+    "kd": 1.12,
+    "kast_pct": 73.0,
+    "adr": 165.5,
+    "kpr": 0.84,
+    "apr": 0.3,
+    "fkfd": 1.14,
+    "fkpr": 0.13,
+    "fdpr": 0.12,
+    "hs_pct": 37.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 12,
+    "kmax": 21,
+    "kmax_match_url": "/712819/team-liquid-vs-fnatic-vct-2026-emea-stage-2-w2/?game=276544",
+    "kills": 101,
+    "deaths": 90,
+    "assists": 36,
+    "first_kills": 16,
+    "first_deaths": 14,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 21661,
+    "player_alias": "spike",
+    "team_or_country": "LEV",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 79.0
+      },
+      {
+        "agent": "omen",
+        "pct": 21.0
+      }
+    ],
+    "maps": 28,
+    "rounds": 543,
+    "rating": 1.09,
+    "acs": 230.0,
+    "kd": 1.16,
+    "kast_pct": 75.0,
+    "adr": 149.0,
+    "kpr": 0.83,
+    "apr": 0.29,
+    "fkfd": 1.21,
+    "fkpr": 0.16,
+    "fdpr": 0.13,
+    "hs_pct": 25.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 2,
+    "clutches_played": 21,
+    "kmax": 27,
+    "kmax_match_url": "/670466/paper-rex-vs-leviat-n-valorant-masters-london-2026-ubqf/?game=267805",
+    "kills": 449,
+    "deaths": 387,
+    "assists": 160,
+    "first_kills": 88,
+    "first_deaths": 73,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 29833,
+    "player_alias": "iZu",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 43.0
+      },
+      {
+        "agent": "sova",
+        "pct": 43.0
+      },
+      {
+        "agent": "skye",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 167,
+    "rating": 1.09,
+    "acs": 224.0,
+    "kd": 1.16,
+    "kast_pct": 74.0,
+    "adr": 145.0,
+    "kpr": 0.77,
+    "apr": 0.28,
+    "fkfd": 0.9,
+    "fkpr": 0.11,
+    "fdpr": 0.12,
+    "hs_pct": 26.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 4,
+    "clutches_played": 22,
+    "kmax": 26,
+    "kmax_match_url": "/698889/paper-rex-vs-t1-vct-2026-pacific-stage-2-w1/?game=273222",
+    "kills": 128,
+    "deaths": 110,
+    "assists": 46,
+    "first_kills": 18,
+    "first_deaths": 20,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 40935,
+    "player_alias": "lovers rock",
+    "team_or_country": "BBL",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 80.0
+      },
+      {
+        "agent": "yoru",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 112,
+    "rating": 1.09,
+    "acs": 219.0,
+    "kd": 1.15,
+    "kast_pct": 75.0,
+    "adr": 141.8,
+    "kpr": 0.76,
+    "apr": 0.16,
+    "fkfd": 2.56,
+    "fkpr": 0.21,
+    "fdpr": 0.08,
+    "hs_pct": 20.0,
+    "clutch_pct": 22.0,
+    "clutches_won": 2,
+    "clutches_played": 9,
+    "kmax": 20,
+    "kmax_match_url": "/712812/team-vitality-vs-bbl-esports-vct-2026-emea-stage-2-w1/?game=276525",
+    "kills": 85,
+    "deaths": 74,
+    "assists": 18,
+    "first_kills": 23,
+    "first_deaths": 9,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 47629,
+    "player_alias": "Coco",
+    "team_or_country": "TEC",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 40.0
+      },
+      {
+        "agent": "omen",
+        "pct": 35.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 10.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 453,
+    "rating": 1.09,
+    "acs": 195.0,
+    "kd": 0.96,
+    "kast_pct": 74.0,
+    "adr": 119.6,
+    "kpr": 0.67,
+    "apr": 0.38,
+    "fkfd": 0.8,
+    "fkpr": 0.03,
+    "fdpr": 0.04,
+    "hs_pct": 34.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 23,
+    "kmax_match_url": "/701037/xi-lai-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w2/?game=273965",
+    "kills": 302,
+    "deaths": 313,
+    "assists": 174,
+    "first_kills": 8,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 3993,
+    "player_alias": "jawgemo",
+    "team_or_country": "G2",
+    "flag": "kh",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 40.0
+      },
+      {
+        "agent": "raze",
+        "pct": 30.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 10.0
+      }
+    ],
+    "maps": 10,
+    "rounds": 209,
+    "rating": 1.08,
+    "acs": 214.0,
+    "kd": 1.05,
+    "kast_pct": 74.0,
+    "adr": 145.1,
+    "kpr": 0.76,
+    "apr": 0.3,
+    "fkfd": 1.81,
+    "fkpr": 0.14,
+    "fdpr": 0.08,
+    "hs_pct": 24.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 2,
+    "clutches_played": 13,
+    "kmax": 31,
+    "kmax_match_url": "/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1/?game=275077",
+    "kills": 158,
+    "deaths": 151,
+    "assists": 62,
+    "first_kills": 29,
+    "first_deaths": 16,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 6672,
+    "player_alias": "Meiy",
+    "team_or_country": "DFM",
+    "flag": "jp",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 60.0
+      },
+      {
+        "agent": "neon",
+        "pct": 20.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 118,
+    "rating": 1.08,
+    "acs": 232.0,
+    "kd": 1.03,
+    "kast_pct": 67.0,
+    "adr": 158.3,
+    "kpr": 0.81,
+    "apr": 0.15,
+    "fkfd": 1.92,
+    "fkpr": 0.21,
+    "fdpr": 0.11,
+    "hs_pct": 23.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 8,
+    "kmax": 31,
+    "kmax_match_url": "/698895/detonation-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2/?game=273239",
+    "kills": 95,
+    "deaths": 92,
+    "assists": 18,
+    "first_kills": 25,
+    "first_deaths": 13,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 11332,
+    "player_alias": "ara",
+    "team_or_country": "GX",
+    "flag": "ro",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 50.0
+      },
+      {
+        "agent": "neon",
+        "pct": 50.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 1.08,
+    "acs": 252.0,
+    "kd": 1.15,
+    "kast_pct": 67.0,
+    "adr": 157.3,
+    "kpr": 0.87,
+    "apr": 0.14,
+    "fkfd": 1.67,
+    "fkpr": 0.2,
+    "fdpr": 0.12,
+    "hs_pct": 30.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 3,
+    "kmax": 24,
+    "kmax_match_url": "/712805/fnatic-vs-giantx-vct-2026-emea-stage-2-w1/?game=276504",
+    "kills": 109,
+    "deaths": 95,
+    "assists": 18,
+    "first_kills": 25,
+    "first_deaths": 15,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 12795,
+    "player_alias": "Crewen",
+    "team_or_country": "BBL",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 40.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 40.0
+      },
+      {
+        "agent": "viper",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 112,
+    "rating": 1.08,
+    "acs": 208.0,
+    "kd": 1.06,
+    "kast_pct": 71.0,
+    "adr": 139.1,
+    "kpr": 0.77,
+    "apr": 0.2,
+    "fkfd": 2.0,
+    "fkpr": 0.14,
+    "fdpr": 0.07,
+    "hs_pct": 37.0,
+    "clutch_pct": 6.0,
+    "clutches_won": 1,
+    "clutches_played": 17,
+    "kmax": 22,
+    "kmax_match_url": "/712812/team-vitality-vs-bbl-esports-vct-2026-emea-stage-2-w1/?game=276525",
+    "kills": 86,
+    "deaths": 81,
+    "assists": 22,
+    "first_kills": 16,
+    "first_deaths": 8,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 33902,
+    "player_alias": "Sayonara",
+    "team_or_country": "VIT",
+    "flag": "md",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 38.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 19.0
+      },
+      {
+        "agent": "viper",
+        "pct": 19.0
+      }
+    ],
+    "maps": 21,
+    "rounds": 410,
+    "rating": 1.08,
+    "acs": 204.0,
+    "kd": 1.15,
+    "kast_pct": 72.0,
+    "adr": 132.5,
+    "kpr": 0.74,
+    "apr": 0.24,
+    "fkfd": 1.0,
+    "fkpr": 0.09,
+    "fdpr": 0.09,
+    "hs_pct": 26.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 6,
+    "clutches_played": 40,
+    "kmax": 22,
+    "kmax_match_url": "/712808/team-vitality-vs-natus-vincere-vct-2026-emea-stage-2-w1/?game=276515",
+    "kills": 302,
+    "deaths": 263,
+    "assists": 99,
+    "first_kills": 38,
+    "first_deaths": 38,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 55085,
+    "player_alias": "Erv",
+    "team_or_country": "TYL",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 55.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 15.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 15.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 425,
+    "rating": 1.08,
+    "acs": 174.0,
+    "kd": 0.87,
+    "kast_pct": 77.0,
+    "adr": 116.3,
+    "kpr": 0.58,
+    "apr": 0.35,
+    "fkfd": 1.0,
+    "fkpr": 0.07,
+    "fdpr": 0.07,
+    "hs_pct": 26.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 22,
+    "kmax_match_url": "/681024/all-gamers-vs-tyloo-china-evolution-series-2026-act-2-cf/?game=269357",
+    "kills": 247,
+    "deaths": 285,
+    "assists": 147,
+    "first_kills": 15,
+    "first_deaths": 15,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 7378,
+    "player_alias": "Jinggg",
+    "team_or_country": "PRX",
+    "flag": "sg",
+    "agents": [
+      {
+        "agent": "raze",
+        "pct": 55.0
+      },
+      {
+        "agent": "omen",
+        "pct": 20.0
+      },
+      {
+        "agent": "harbor",
+        "pct": 15.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 433,
+    "rating": 1.07,
+    "acs": 215.0,
+    "kd": 1.07,
+    "kast_pct": 77.0,
+    "adr": 145.9,
+    "kpr": 0.76,
+    "apr": 0.3,
+    "fkfd": 1.23,
+    "fkpr": 0.11,
+    "fdpr": 0.09,
+    "hs_pct": 24.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 7,
+    "clutches_played": 33,
+    "kmax": 30,
+    "kmax_match_url": "/670470/edward-gaming-vs-paper-rex-valorant-masters-london-2026-ubf/?game=267816",
+    "kills": 327,
+    "deaths": 305,
+    "assists": 131,
+    "first_kills": 49,
+    "first_deaths": 40,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 11118,
+    "player_alias": "skuba",
+    "team_or_country": "NRG",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 38.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 31.0
+      },
+      {
+        "agent": "astra",
+        "pct": 15.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 285,
+    "rating": 1.07,
+    "acs": 185.0,
+    "kd": 1.09,
+    "kast_pct": 75.0,
+    "adr": 119.2,
+    "kpr": 0.66,
+    "apr": 0.32,
+    "fkfd": 1.9,
+    "fkpr": 0.07,
+    "fdpr": 0.04,
+    "hs_pct": 26.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 8,
+    "clutches_played": 54,
+    "kmax": 20,
+    "kmax_match_url": "/706354/nrg-vs-mibr-vct-2026-americas-stage-2-w1/?game=275080",
+    "kills": 189,
+    "deaths": 174,
+    "assists": 91,
+    "first_kills": 19,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 18677,
+    "player_alias": "Ruxic",
+    "team_or_country": "NAVI",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 86.0
+      },
+      {
+        "agent": "viper",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 147,
+    "rating": 1.07,
+    "acs": 217.0,
+    "kd": 1.06,
+    "kast_pct": 73.0,
+    "adr": 140.9,
+    "kpr": 0.76,
+    "apr": 0.3,
+    "fkfd": 1.88,
+    "fkpr": 0.1,
+    "fdpr": 0.05,
+    "hs_pct": 28.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 2,
+    "clutches_played": 21,
+    "kmax": 21,
+    "kmax_match_url": "/712817/gentle-mates-vs-natus-vincere-vct-2026-emea-stage-2-w2/?game=276537",
+    "kills": 111,
+    "deaths": 105,
+    "assists": 44,
+    "first_kills": 15,
+    "first_deaths": 8,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 37927,
+    "player_alias": "happywei",
+    "team_or_country": "XLG",
+    "flag": "tw",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 40.0
+      },
+      {
+        "agent": "viper",
+        "pct": 30.0
+      },
+      {
+        "agent": "omen",
+        "pct": 27.0
+      }
+    ],
+    "maps": 30,
+    "rounds": 633,
+    "rating": 1.07,
+    "acs": 212.0,
+    "kd": 1.02,
+    "kast_pct": 72.0,
+    "adr": 147.3,
+    "kpr": 0.73,
+    "apr": 0.27,
+    "fkfd": 1.64,
+    "fkpr": 0.13,
+    "fdpr": 0.08,
+    "hs_pct": 33.0,
+    "clutch_pct": 7.0,
+    "clutches_won": 3,
+    "clutches_played": 43,
+    "kmax": 35,
+    "kmax_match_url": "/684616/dragon-ranger-gaming-vs-xi-lai-gaming-valorant-masters-london-2026-r2-0-1/?game=270757",
+    "kills": 459,
+    "deaths": 448,
+    "assists": 172,
+    "first_kills": 69,
+    "first_deaths": 42,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 50025,
+    "player_alias": "Setrod",
+    "team_or_country": "FPX",
+    "flag": "tw",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 43.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 21.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 21.0
+      }
+    ],
+    "maps": 14,
+    "rounds": 298,
+    "rating": 1.07,
+    "acs": 230.0,
+    "kd": 1.18,
+    "kast_pct": 69.0,
+    "adr": 146.3,
+    "kpr": 0.8,
+    "apr": 0.19,
+    "fkfd": 1.71,
+    "fkpr": 0.21,
+    "fdpr": 0.12,
+    "hs_pct": 25.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 28,
+    "kmax_match_url": "/701062/funplus-phoenix-vs-wolves-esports-vct-2026-china-stage-2-seeding/?game=274041",
+    "kills": 238,
+    "deaths": 202,
+    "assists": 57,
+    "first_kills": 48,
+    "first_deaths": 28,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 5796,
+    "player_alias": "Kr1stal",
+    "team_or_country": "GE",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 31.0
+      },
+      {
+        "agent": "killjoy",
+        "pct": 25.0
+      },
+      {
+        "agent": "fade",
+        "pct": 19.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 342,
+    "rating": 1.06,
+    "acs": 187.0,
+    "kd": 1.1,
+    "kast_pct": 71.0,
+    "adr": 124.4,
+    "kpr": 0.65,
+    "apr": 0.22,
+    "fkfd": 1.93,
+    "fkpr": 0.08,
+    "fdpr": 0.04,
+    "hs_pct": 26.0,
+    "clutch_pct": 25.0,
+    "clutches_won": 16,
+    "clutches_played": 64,
+    "kmax": 25,
+    "kmax_match_url": "/684617/global-esports-vs-full-sense-valorant-masters-london-2026-r2-0-1/?game=270760",
+    "kills": 223,
+    "deaths": 203,
+    "assists": 76,
+    "first_kills": 27,
+    "first_deaths": 14,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 9803,
+    "player_alias": "d4v41",
+    "team_or_country": "PRX",
+    "flag": "my",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 55.0
+      },
+      {
+        "agent": "killjoy",
+        "pct": 20.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 20.0
+      }
+    ],
+    "maps": 20,
+    "rounds": 433,
+    "rating": 1.06,
+    "acs": 200.0,
+    "kd": 1.17,
+    "kast_pct": 74.0,
+    "adr": 133.6,
+    "kpr": 0.73,
+    "apr": 0.2,
+    "fkfd": 1.92,
+    "fkpr": 0.11,
+    "fdpr": 0.06,
+    "hs_pct": 33.0,
+    "clutch_pct": 12.0,
+    "clutches_won": 6,
+    "clutches_played": 52,
+    "kmax": 28,
+    "kmax_match_url": "/698895/detonation-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2/?game=273239",
+    "kills": 314,
+    "deaths": 269,
+    "assists": 88,
+    "first_kills": 48,
+    "first_deaths": 25,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 9810,
+    "player_alias": "Alfajer",
+    "team_or_country": "FNC",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "chamber",
+        "pct": 43.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 29.0
+      },
+      {
+        "agent": "neon",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 168,
+    "rating": 1.06,
+    "acs": 232.0,
+    "kd": 1.07,
+    "kast_pct": 64.0,
+    "adr": 154.9,
+    "kpr": 0.83,
+    "apr": 0.13,
+    "fkfd": 0.96,
+    "fkpr": 0.14,
+    "fdpr": 0.15,
+    "hs_pct": 38.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 3,
+    "clutches_played": 17,
+    "kmax": 35,
+    "kmax_match_url": "/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2-w2/?game=276533",
+    "kills": 140,
+    "deaths": 131,
+    "assists": 22,
+    "first_kills": 24,
+    "first_deaths": 25,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 10557,
+    "player_alias": "Darker",
+    "team_or_country": "LOUD",
+    "flag": "co",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 40.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 40.0
+      },
+      {
+        "agent": "omen",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 109,
+    "rating": 1.06,
+    "acs": 205.0,
+    "kd": 1.12,
+    "kast_pct": 68.0,
+    "adr": 140.1,
+    "kpr": 0.75,
+    "apr": 0.28,
+    "fkfd": 1.25,
+    "fkpr": 0.05,
+    "fdpr": 0.04,
+    "hs_pct": 32.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 3,
+    "clutches_played": 14,
+    "kmax": 26,
+    "kmax_match_url": "/706352/kr-esports-vs-loud-vct-2026-americas-stage-2-w1/?game=275074",
+    "kills": 82,
+    "deaths": 73,
+    "assists": 31,
+    "first_kills": 5,
+    "first_deaths": 4,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 20140,
+    "player_alias": "vora",
+    "team_or_country": "100T",
+    "flag": "ca",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 80.0
+      },
+      {
+        "agent": "fade",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 106,
+    "rating": 1.06,
+    "acs": 189.0,
+    "kd": 1.12,
+    "kast_pct": 75.0,
+    "adr": 133.1,
+    "kpr": 0.68,
+    "apr": 0.32,
+    "fkfd": 0.5,
+    "fkpr": 0.06,
+    "fdpr": 0.11,
+    "hs_pct": 26.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 2,
+    "clutches_played": 11,
+    "kmax": 18,
+    "kmax_match_url": "/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1/?game=275077",
+    "kills": 72,
+    "deaths": 64,
+    "assists": 34,
+    "first_kills": 6,
+    "first_deaths": 12,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 41224,
+    "player_alias": "tkzin",
+    "team_or_country": "LOUD",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 40.0
+      },
+      {
+        "agent": "raze",
+        "pct": 40.0
+      },
+      {
+        "agent": "neon",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 109,
+    "rating": 1.06,
+    "acs": 228.0,
+    "kd": 1.09,
+    "kast_pct": 72.0,
+    "adr": 146.6,
+    "kpr": 0.81,
+    "apr": 0.12,
+    "fkfd": 0.76,
+    "fkpr": 0.15,
+    "fdpr": 0.19,
+    "hs_pct": 33.0,
+    "clutch_pct": 20.0,
+    "clutches_won": 1,
+    "clutches_played": 5,
+    "kmax": 25,
+    "kmax_match_url": "/706352/kr-esports-vs-loud-vct-2026-americas-stage-2-w1/?game=275074",
+    "kills": 88,
+    "deaths": 81,
+    "assists": 13,
+    "first_kills": 16,
+    "first_deaths": 21,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4581,
+    "player_alias": "JonahP",
+    "team_or_country": "SEN",
+    "flag": "ca",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 60.0
+      },
+      {
+        "agent": "sova",
+        "pct": 40.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 110,
+    "rating": 1.05,
+    "acs": 178.0,
+    "kd": 1.08,
+    "kast_pct": 74.0,
+    "adr": 121.4,
+    "kpr": 0.63,
+    "apr": 0.27,
+    "fkfd": 0.4,
+    "fkpr": 0.04,
+    "fdpr": 0.09,
+    "hs_pct": 21.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 1,
+    "clutches_played": 13,
+    "kmax": 21,
+    "kmax_match_url": "/706350/sentinels-vs-cloud9-vct-2026-americas-stage-2-w1/?game=275069",
+    "kills": 69,
+    "deaths": 64,
+    "assists": 30,
+    "first_kills": 4,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 15559,
+    "player_alias": "CHICHOO",
+    "team_or_country": "EDG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 38.0
+      },
+      {
+        "agent": "viper",
+        "pct": 38.0
+      },
+      {
+        "agent": "omen",
+        "pct": 15.0
+      }
+    ],
+    "maps": 26,
+    "rounds": 555,
+    "rating": 1.05,
+    "acs": 194.0,
+    "kd": 1.07,
+    "kast_pct": 69.0,
+    "adr": 138.6,
+    "kpr": 0.7,
+    "apr": 0.26,
+    "fkfd": 0.88,
+    "fkpr": 0.07,
+    "fdpr": 0.08,
+    "hs_pct": 29.0,
+    "clutch_pct": 20.0,
+    "clutches_won": 10,
+    "clutches_played": 50,
+    "kmax": 26,
+    "kmax_match_url": "/701053/edward-gaming-vs-nova-esports-vct-2026-china-stage-2-w3/?game=274013",
+    "kills": 388,
+    "deaths": 361,
+    "assists": 145,
+    "first_kills": 35,
+    "first_deaths": 40,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 34684,
+    "player_alias": "westside",
+    "team_or_country": "GX",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 67.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 33.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 1.05,
+    "acs": 209.0,
+    "kd": 1.08,
+    "kast_pct": 72.0,
+    "adr": 135.7,
+    "kpr": 0.75,
+    "apr": 0.29,
+    "fkfd": 1.33,
+    "fkpr": 0.1,
+    "fdpr": 0.07,
+    "hs_pct": 44.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 2,
+    "clutches_played": 24,
+    "kmax": 24,
+    "kmax_match_url": "/712805/fnatic-vs-giantx-vct-2026-emea-stage-2-w1/?game=276505",
+    "kills": 95,
+    "deaths": 88,
+    "assists": 36,
+    "first_kills": 12,
+    "first_deaths": 9,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 45494,
+    "player_alias": "Proxh",
+    "team_or_country": "M8",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 100.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 144,
+    "rating": 1.05,
+    "acs": 194.0,
+    "kd": 1.06,
+    "kast_pct": 79.0,
+    "adr": 126.3,
+    "kpr": 0.69,
+    "apr": 0.47,
+    "fkfd": 0.69,
+    "fkpr": 0.06,
+    "fdpr": 0.09,
+    "hs_pct": 28.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 3,
+    "clutches_played": 17,
+    "kmax": 23,
+    "kmax_match_url": "/712809/gentle-mates-vs-fut-esports-vct-2026-emea-stage-2-w1/?game=276516",
+    "kills": 100,
+    "deaths": 94,
+    "assists": 68,
+    "first_kills": 9,
+    "first_deaths": 13,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 46135,
+    "player_alias": "Zeus",
+    "team_or_country": "TS",
+    "flag": "ph",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 100.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 138,
+    "rating": 1.05,
+    "acs": 220.0,
+    "kd": 1.07,
+    "kast_pct": 73.0,
+    "adr": 147.6,
+    "kpr": 0.8,
+    "apr": 0.17,
+    "fkfd": 1.0,
+    "fkpr": 0.2,
+    "fdpr": 0.2,
+    "hs_pct": 30.0,
+    "clutch_pct": 25.0,
+    "clutches_won": 2,
+    "clutches_played": 8,
+    "kmax": 26,
+    "kmax_match_url": "/698885/team-secret-vs-varrel-vct-2026-pacific-stage-2-w1/?game=273210",
+    "kills": 111,
+    "deaths": 104,
+    "assists": 24,
+    "first_kills": 27,
+    "first_deaths": 27,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 872,
+    "player_alias": "Autumn",
+    "team_or_country": "GE",
+    "flag": "au",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 31.0
+      },
+      {
+        "agent": "veto",
+        "pct": 19.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 13.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 342,
+    "rating": 1.04,
+    "acs": 205.0,
+    "kd": 1.14,
+    "kast_pct": 69.0,
+    "adr": 130.1,
+    "kpr": 0.75,
+    "apr": 0.16,
+    "fkfd": 1.0,
+    "fkpr": 0.11,
+    "fdpr": 0.11,
+    "hs_pct": 30.0,
+    "clutch_pct": 19.0,
+    "clutches_won": 7,
+    "clutches_played": 36,
+    "kmax": 21,
+    "kmax_match_url": "/698892/global-esports-vs-full-sense-vct-2026-pacific-stage-2-w2/?game=273229",
+    "kills": 255,
+    "deaths": 223,
+    "assists": 54,
+    "first_kills": 39,
+    "first_deaths": 39,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 5554,
+    "player_alias": "PROFEK",
+    "team_or_country": "VIT",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 57.0
+      },
+      {
+        "agent": "harbor",
+        "pct": 19.0
+      },
+      {
+        "agent": "astra",
+        "pct": 14.0
+      }
+    ],
+    "maps": 21,
+    "rounds": 410,
+    "rating": 1.04,
+    "acs": 188.0,
+    "kd": 1.1,
+    "kast_pct": 74.0,
+    "adr": 121.6,
+    "kpr": 0.69,
+    "apr": 0.37,
+    "fkfd": 1.55,
+    "fkpr": 0.08,
+    "fdpr": 0.05,
+    "hs_pct": 25.0,
+    "clutch_pct": 12.0,
+    "clutches_won": 6,
+    "clutches_played": 49,
+    "kmax": 23,
+    "kmax_match_url": "/684614/team-vitality-vs-fut-esports-valorant-masters-london-2026-r2-1-0/?game=270751",
+    "kills": 284,
+    "deaths": 258,
+    "assists": 153,
+    "first_kills": 34,
+    "first_deaths": 22,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 7873,
+    "player_alias": "leaf",
+    "team_or_country": "G2",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 50.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 20.0
+      },
+      {
+        "agent": "sage",
+        "pct": 20.0
+      }
+    ],
+    "maps": 10,
+    "rounds": 209,
+    "rating": 1.04,
+    "acs": 205.0,
+    "kd": 0.97,
+    "kast_pct": 72.0,
+    "adr": 135.3,
+    "kpr": 0.68,
+    "apr": 0.3,
+    "fkfd": 0.67,
+    "fkpr": 0.09,
+    "fdpr": 0.13,
+    "hs_pct": 32.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 4,
+    "clutches_played": 26,
+    "kmax": 20,
+    "kmax_match_url": "/670472/g2-esports-vs-fut-esports-valorant-masters-london-2026-lr1/?game=267825",
+    "kills": 143,
+    "deaths": 148,
+    "assists": 63,
+    "first_kills": 18,
+    "first_deaths": 27,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 23169,
+    "player_alias": "Minny",
+    "team_or_country": "M8",
+    "flag": "cz",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 71.0
+      },
+      {
+        "agent": "jett",
+        "pct": 14.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 144,
+    "rating": 1.04,
+    "acs": 234.0,
+    "kd": 1.12,
+    "kast_pct": 71.0,
+    "adr": 149.9,
+    "kpr": 0.81,
+    "apr": 0.2,
+    "fkfd": 1.2,
+    "fkpr": 0.17,
+    "fdpr": 0.14,
+    "hs_pct": 29.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 1,
+    "clutches_played": 10,
+    "kmax": 26,
+    "kmax_match_url": "/712806/pcific-esports-vs-gentle-mates-vct-2026-emea-stage-2-w1/?game=276508",
+    "kills": 117,
+    "deaths": 104,
+    "assists": 29,
+    "first_kills": 24,
+    "first_deaths": 20,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4678,
+    "player_alias": "BeYN",
+    "team_or_country": "KRX",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 57.0
+      },
+      {
+        "agent": "fade",
+        "pct": 29.0
+      },
+      {
+        "agent": "skye",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 133,
+    "rating": 1.03,
+    "acs": 197.0,
+    "kd": 1.01,
+    "kast_pct": 68.0,
+    "adr": 126.2,
+    "kpr": 0.7,
+    "apr": 0.27,
+    "fkfd": 0.82,
+    "fkpr": 0.07,
+    "fdpr": 0.08,
+    "hs_pct": 30.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 5,
+    "clutches_played": 29,
+    "kmax": 19,
+    "kmax_match_url": "/698891/kiwoom-drx-vs-team-secret-vct-2026-pacific-stage-2-w1/?game=273227",
+    "kills": 93,
+    "deaths": 92,
+    "assists": 36,
+    "first_kills": 9,
+    "first_deaths": 11,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4774,
+    "player_alias": "Knight",
+    "team_or_country": "BLG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 33.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 27.0
+      },
+      {
+        "agent": "fade",
+        "pct": 20.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 318,
+    "rating": 1.03,
+    "acs": 213.0,
+    "kd": 1.03,
+    "kast_pct": 67.0,
+    "adr": 133.3,
+    "kpr": 0.71,
+    "apr": 0.28,
+    "fkfd": 1.27,
+    "fkpr": 0.09,
+    "fdpr": 0.07,
+    "hs_pct": 23.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 20,
+    "kmax_match_url": "/701040/all-gamers-vs-bilibili-gaming-vct-2026-china-stage-2-w2/?game=273975",
+    "kills": 225,
+    "deaths": 219,
+    "assists": 90,
+    "first_kills": 19,
+    "first_deaths": 15,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 6582,
+    "player_alias": "neT",
+    "team_or_country": "GX",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 83.0
+      },
+      {
+        "agent": "fade",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 1.03,
+    "acs": 215.0,
+    "kd": 1.05,
+    "kast_pct": 73.0,
+    "adr": 139.9,
+    "kpr": 0.71,
+    "apr": 0.25,
+    "fkfd": 2.17,
+    "fkpr": 0.1,
+    "fdpr": 0.05,
+    "hs_pct": 31.0,
+    "clutch_pct": 6.0,
+    "clutches_won": 1,
+    "clutches_played": 18,
+    "kmax": 18,
+    "kmax_match_url": "/712821/eternal-fire-vs-giantx-vct-2026-emea-stage-2-w2/?game=276549",
+    "kills": 89,
+    "deaths": 85,
+    "assists": 32,
+    "first_kills": 13,
+    "first_deaths": 6,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 8226,
+    "player_alias": "waddle",
+    "team_or_country": "PCF",
+    "flag": "gb",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 63.0
+      },
+      {
+        "agent": "fade",
+        "pct": 38.0
+      }
+    ],
+    "maps": 8,
+    "rounds": 155,
+    "rating": 1.03,
+    "acs": 205.0,
+    "kd": 0.91,
+    "kast_pct": 68.0,
+    "adr": 142.0,
+    "kpr": 0.68,
+    "apr": 0.28,
+    "fkfd": 0.29,
+    "fkpr": 0.03,
+    "fdpr": 0.09,
+    "hs_pct": 30.0,
+    "clutch_pct": 11.0,
+    "clutches_won": 3,
+    "clutches_played": 27,
+    "kmax": 17,
+    "kmax_match_url": "/712814/fut-esports-vs-pcific-esports-vct-2026-emea-stage-2-w2/?game=276528",
+    "kills": 106,
+    "deaths": 116,
+    "assists": 44,
+    "first_kills": 4,
+    "first_deaths": 14,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 8549,
+    "player_alias": "kiNgg",
+    "team_or_country": "LEV",
+    "flag": "cl",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 25.0
+      },
+      {
+        "agent": "astra",
+        "pct": 21.0
+      },
+      {
+        "agent": "omen",
+        "pct": 21.0
+      }
+    ],
+    "maps": 28,
+    "rounds": 543,
+    "rating": 1.03,
+    "acs": 173.0,
+    "kd": 1.08,
+    "kast_pct": 76.0,
+    "adr": 113.9,
+    "kpr": 0.62,
+    "apr": 0.33,
+    "fkfd": 1.06,
+    "fkpr": 0.06,
+    "fdpr": 0.06,
+    "hs_pct": 29.0,
+    "clutch_pct": 12.0,
+    "clutches_won": 9,
+    "clutches_played": 73,
+    "kmax": 24,
+    "kmax_match_url": "/670477/edward-gaming-vs-leviat-n-valorant-masters-london-2026-lbf/?game=267841",
+    "kills": 337,
+    "deaths": 311,
+    "assists": 177,
+    "first_kills": 34,
+    "first_deaths": 32,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 34926,
+    "player_alias": "oonzmlp",
+    "team_or_country": "VL",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 40.0
+      },
+      {
+        "agent": "sage",
+        "pct": 40.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 114,
+    "rating": 1.03,
+    "acs": 198.0,
+    "kd": 0.93,
+    "kast_pct": 74.0,
+    "adr": 134.6,
+    "kpr": 0.66,
+    "apr": 0.52,
+    "fkfd": 0.7,
+    "fkpr": 0.06,
+    "fdpr": 0.09,
+    "hs_pct": 29.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 1,
+    "clutches_played": 6,
+    "kmax": 21,
+    "kmax_match_url": "/698885/team-secret-vs-varrel-vct-2026-pacific-stage-2-w1/?game=273210",
+    "kills": 75,
+    "deaths": 81,
+    "assists": 59,
+    "first_kills": 7,
+    "first_deaths": 10,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 54487,
+    "player_alias": "Xlele",
+    "team_or_country": "FPX",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 36.0
+      },
+      {
+        "agent": "neon",
+        "pct": 21.0
+      },
+      {
+        "agent": "raze",
+        "pct": 21.0
+      }
+    ],
+    "maps": 14,
+    "rounds": 298,
+    "rating": 1.03,
+    "acs": 188.0,
+    "kd": 0.91,
+    "kast_pct": 68.0,
+    "adr": 134.3,
+    "kpr": 0.66,
+    "apr": 0.13,
+    "fkfd": 1.11,
+    "fkpr": 0.13,
+    "fdpr": 0.12,
+    "hs_pct": 29.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 21,
+    "kmax_match_url": "/701027/funplus-phoenix-vs-trace-esports-vct-2026-china-stage-2-w1/?game=273944",
+    "kills": 196,
+    "deaths": 216,
+    "assists": 38,
+    "first_kills": 31,
+    "first_deaths": 28,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 3880,
+    "player_alias": "bang",
+    "team_or_country": "100T",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 80.0
+      },
+      {
+        "agent": "harbor",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 106,
+    "rating": 1.02,
+    "acs": 176.0,
+    "kd": 1.05,
+    "kast_pct": 77.0,
+    "adr": 114.6,
+    "kpr": 0.64,
+    "apr": 0.3,
+    "fkfd": 1.33,
+    "fkpr": 0.04,
+    "fdpr": 0.03,
+    "hs_pct": 30.0,
+    "clutch_pct": 27.0,
+    "clutches_won": 4,
+    "clutches_played": 15,
+    "kmax": 17,
+    "kmax_match_url": "/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1/?game=275077",
+    "kills": 68,
+    "deaths": 65,
+    "assists": 32,
+    "first_kills": 4,
+    "first_deaths": 3,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 4428,
+    "player_alias": "UdoTan",
+    "team_or_country": "GE",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 44.0
+      },
+      {
+        "agent": "raze",
+        "pct": 31.0
+      },
+      {
+        "agent": "jett",
+        "pct": 19.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 342,
+    "rating": 1.02,
+    "acs": 223.0,
+    "kd": 1.07,
+    "kast_pct": 70.0,
+    "adr": 145.8,
+    "kpr": 0.77,
+    "apr": 0.2,
+    "fkfd": 1.17,
+    "fkpr": 0.16,
+    "fdpr": 0.13,
+    "hs_pct": 30.0,
+    "clutch_pct": 24.0,
+    "clutches_won": 5,
+    "clutches_played": 21,
+    "kmax": 25,
+    "kmax_match_url": "/698888/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-2-w1/?game=273218",
+    "kills": 264,
+    "deaths": 246,
+    "assists": 69,
+    "first_kills": 54,
+    "first_deaths": 46,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 5568,
+    "player_alias": "sociablEE",
+    "team_or_country": "FUT",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 72.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 16.0
+      },
+      {
+        "agent": "fade",
+        "pct": 8.0
+      }
+    ],
+    "maps": 25,
+    "rounds": 533,
+    "rating": 1.02,
+    "acs": 191.0,
+    "kd": 0.99,
+    "kast_pct": 73.0,
+    "adr": 124.6,
+    "kpr": 0.67,
+    "apr": 0.41,
+    "fkfd": 0.82,
+    "fkpr": 0.08,
+    "fdpr": 0.1,
+    "hs_pct": 24.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 13,
+    "clutches_played": 71,
+    "kmax": 24,
+    "kmax_match_url": "/712809/gentle-mates-vs-fut-esports-vct-2026-emea-stage-2-w1/?game=276516",
+    "kills": 355,
+    "deaths": 357,
+    "assists": 219,
+    "first_kills": 45,
+    "first_deaths": 55,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 8369,
+    "player_alias": "yetujey",
+    "team_or_country": "FUT",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 56.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 20.0
+      },
+      {
+        "agent": "viper",
+        "pct": 12.0
+      }
+    ],
+    "maps": 25,
+    "rounds": 533,
+    "rating": 1.02,
+    "acs": 198.0,
+    "kd": 1.02,
+    "kast_pct": 72.0,
+    "adr": 137.2,
+    "kpr": 0.69,
+    "apr": 0.27,
+    "fkfd": 1.0,
+    "fkpr": 0.08,
+    "fdpr": 0.08,
+    "hs_pct": 26.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 13,
+    "clutches_played": 101,
+    "kmax": 24,
+    "kmax_match_url": "/670472/g2-esports-vs-fut-esports-valorant-masters-london-2026-lr1/?game=267824",
+    "kills": 366,
+    "deaths": 360,
+    "assists": 143,
+    "first_kills": 40,
+    "first_deaths": 40,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 22047,
+    "player_alias": "Rarga",
+    "team_or_country": "XLG",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "phoenix",
+        "pct": 37.0
+      },
+      {
+        "agent": "sage",
+        "pct": 17.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 17.0
+      }
+    ],
+    "maps": 30,
+    "rounds": 633,
+    "rating": 1.02,
+    "acs": 210.0,
+    "kd": 1.07,
+    "kast_pct": 72.0,
+    "adr": 136.2,
+    "kpr": 0.76,
+    "apr": 0.18,
+    "fkfd": 1.0,
+    "fkpr": 0.14,
+    "fdpr": 0.14,
+    "hs_pct": 32.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 5,
+    "clutches_played": 28,
+    "kmax": 26,
+    "kmax_match_url": "/701037/xi-lai-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w2/?game=273967",
+    "kills": 482,
+    "deaths": 450,
+    "assists": 114,
+    "first_kills": 79,
+    "first_deaths": 79,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 11225,
+    "player_alias": "Ethan",
+    "team_or_country": "NRG",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 31.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 31.0
+      },
+      {
+        "agent": "tejo",
+        "pct": 15.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 285,
+    "rating": 1.01,
+    "acs": 198.0,
+    "kd": 0.94,
+    "kast_pct": 74.0,
+    "adr": 130.7,
+    "kpr": 0.64,
+    "apr": 0.4,
+    "fkfd": 1.03,
+    "fkpr": 0.11,
+    "fdpr": 0.11,
+    "hs_pct": 23.0,
+    "clutch_pct": 18.0,
+    "clutches_won": 4,
+    "clutches_played": 22,
+    "kmax": 23,
+    "kmax_match_url": "/706354/nrg-vs-mibr-vct-2026-americas-stage-2-w1/?game=275081",
+    "kills": 182,
+    "deaths": 194,
+    "assists": 114,
+    "first_kills": 32,
+    "first_deaths": 31,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 15735,
+    "player_alias": "KROSTALY",
+    "team_or_country": "FUT",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 44.0
+      },
+      {
+        "agent": "fade",
+        "pct": 28.0
+      },
+      {
+        "agent": "skye",
+        "pct": 20.0
+      }
+    ],
+    "maps": 25,
+    "rounds": 533,
+    "rating": 1.01,
+    "acs": 181.0,
+    "kd": 1.0,
+    "kast_pct": 75.0,
+    "adr": 121.7,
+    "kpr": 0.64,
+    "apr": 0.3,
+    "fkfd": 1.17,
+    "fkpr": 0.05,
+    "fdpr": 0.04,
+    "hs_pct": 31.0,
+    "clutch_pct": 16.0,
+    "clutches_won": 10,
+    "clutches_played": 61,
+    "kmax": 22,
+    "kmax_match_url": "/684619/fut-esports-vs-nrg-valorant-masters-london-2026-r3-1-1/?game=270765",
+    "kills": 340,
+    "deaths": 339,
+    "assists": 160,
+    "first_kills": 27,
+    "first_deaths": 23,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 39357,
+    "player_alias": "s0pp",
+    "team_or_country": "FUT",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 52.0
+      },
+      {
+        "agent": "neon",
+        "pct": 40.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 8.0
+      }
+    ],
+    "maps": 25,
+    "rounds": 533,
+    "rating": 1.01,
+    "acs": 220.0,
+    "kd": 1.0,
+    "kast_pct": 70.0,
+    "adr": 140.9,
+    "kpr": 0.76,
+    "apr": 0.2,
+    "fkfd": 1.2,
+    "fkpr": 0.18,
+    "fdpr": 0.15,
+    "hs_pct": 27.0,
+    "clutch_pct": 23.0,
+    "clutches_won": 7,
+    "clutches_played": 31,
+    "kmax": 27,
+    "kmax_match_url": "/670472/g2-esports-vs-fut-esports-valorant-masters-london-2026-lr1/?game=267825",
+    "kills": 405,
+    "deaths": 404,
+    "assists": 105,
+    "first_kills": 98,
+    "first_deaths": 82,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  },
+  {
+    "player_id": 58959,
+    "player_alias": "iamgrq",
+    "team_or_country": "AG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 68.0
+      },
+      {
+        "agent": "phoenix",
+        "pct": 26.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 5.0
+      }
+    ],
+    "maps": 19,
+    "rounds": 422,
+    "rating": 1.01,
+    "acs": 198.0,
+    "kd": 1.03,
+    "kast_pct": 75.0,
+    "adr": 135.2,
+    "kpr": 0.71,
+    "apr": 0.34,
+    "fkfd": 1.1,
+    "fkpr": 0.1,
+    "fdpr": 0.09,
+    "hs_pct": 29.0,
+    "clutch_pct": null,
+    "clutches_won": null,
+    "clutches_played": null,
+    "kmax": 24,
+    "kmax_match_url": "/681024/all-gamers-vs-tyloo-china-evolution-series-2026-act-2-cf/?game=269358",
+    "kills": 300,
+    "deaths": 292,
+    "assists": 143,
+    "first_kills": 22,
+    "first_deaths": 20,
+    "source": "global",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "200",
+      "event_group_id": "all",
+      "event_id": "all",
+      "region": "na",
+      "min_rating": "0",
+      "timespan": "60d"
+    }
+  }
+]

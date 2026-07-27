@@ -1,0 +1,11 @@
+match_id,match_url,date_display,time_display,team1,team1_flag,team1_score,team1_won,team2,team2_flag,team2_score,team2_won,status,eta,event_name,series,source
+701063,/701063/nova-esports-vs-bilibili-gaming-vct-2026-china-stage-2-seeding,"Sun, July 26, 2026",12:30 PM,Nova Esports,cn,2,True,Bilibili Gaming,cn,0,False,Completed,5h 28m,VCT 2026: China Stage 2,Group Stage–Seeding,global:results
+698901,/698901/gen-g-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w2,"Sun, July 26, 2026",10:50 AM,Gen.G,kr,2,True,Rex Regum Qeon,id,1,False,Completed,7h 8m,VCT 2026: Pacific Stage 2,Group Stage–Week 2,global:results
+701062,/701062/funplus-phoenix-vs-wolves-esports-vct-2026-china-stage-2-seeding,"Sun, July 26, 2026",10:00 AM,FunPlus Phoenix,cn,2,True,Wolves Esports,cn,0,False,Completed,7h 58m,VCT 2026: China Stage 2,Group Stage–Seeding,global:results
+698899,/698899/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-2-w2,"Sun, July 26, 2026",9:00 AM,Paper Rex,sg,2,True,KIWOOM DRX,kr,0,False,Completed,8h 58m,VCT 2026: Pacific Stage 2,Group Stage–Week 2,global:results
+675272,/675272/reject-vs-qt-dig-challengers-2026-japan-season-finals-gf,"Sun, July 26, 2026",6:00 AM,REJECT,jp,2,False,QT DIG∞,jp,3,True,Completed,11h 58m,Challengers 2026: Japan Season Finals,Main Event–Grand Final,global:results
+706360,/706360/sentinels-vs-loud-vct-2026-americas-stage-2-w2,"Sat, July 25, 2026",11:55 PM,Sentinels,us,2,True,LOUD,br,0,False,Completed,18h 3m,VCT 2026: Americas Stage 2,Group Stage–Week 2,global:results
+706359,/706359/g2-esports-vs-cloud9-vct-2026-americas-stage-2-w2,"Sat, July 25, 2026",10:00 PM,G2 Esports,us,2,True,Cloud9,us,0,False,Completed,19h 58m,VCT 2026: Americas Stage 2,Group Stage–Week 2,global:results
+712821,/712821/eternal-fire-vs-giantx-vct-2026-emea-stage-2-w2,"Sat, July 25, 2026",6:00 PM,Eternal Fire,tr,0,False,GIANTX,eu,2,True,Completed,23h 58m,VCT 2026: EMEA Stage 2,Group Stage–Week 2,global:results
+712820,/712820/pcific-esports-vs-team-vitality-vct-2026-emea-stage-2-w2,"Sat, July 25, 2026",4:00 PM,PCIFIC Esports,tr,0,False,Team Vitality,eu,2,True,Completed,1d 1h,VCT 2026: EMEA Stage 2,Group Stage–Week 2,global:results
+701061,/701061/tyloo-vs-xi-lai-gaming-vct-2026-china-stage-2-seeding,"Sat, July 25, 2026",1:35 PM,TYLOO,cn,0,False,Xi Lai Gaming,cn,2,True,Completed,1d 4h,VCT 2026: China Stage 2,Group Stage–Seeding,global:results

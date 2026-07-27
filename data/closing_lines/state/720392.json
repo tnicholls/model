@@ -1,0 +1,41 @@
+{
+  "match_id": 720392,
+  "match_url": "/720392/3-vs-revitalize-gc-game-changers-2026-north-america-stage-2-swiss-stage-r3-0-2",
+  "date_display": "Mon, July 27, 2026",
+  "time_display": "6:30 PM",
+  "team1": ":3",
+  "team2": "Revitalize GC",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Swiss Stage\u2013Round 3 (0-2)",
+  "captured_at": "2026-07-27T20:28:27.622280+00:00",
+  "lines": [
+    {
+      "match_id": 720392,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50618",
+      "stage": "pre-match",
+      "team": ":3",
+      "team_tag": "MEOW",
+      "decimal_odds": 1.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6706730769230769,
+      "source": "match:720392"
+    },
+    {
+      "match_id": 720392,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50618",
+      "stage": "pre-match",
+      "team": "Revitalize GC",
+      "team_tag": "REV",
+      "decimal_odds": 2.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35842293906810035,
+      "implied_prob_fair": 0.3293269230769231,
+      "source": "match:720392"
+    }
+  ]
+}

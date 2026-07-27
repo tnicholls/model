@@ -1,0 +1,78 @@
+{
+  "team_id": 1034,
+  "name": "NRG",
+  "tag": "NRG",
+  "country": "United States",
+  "links": [
+    "https://NRG.gg/",
+    "https://x.com/NRGgg"
+  ],
+  "roster": [
+    {
+      "player_id": 11225,
+      "alias": "Ethan",
+      "real_name": "Ethan Arnold",
+      "country": "us",
+      "role": null,
+      "is_captain": true
+    },
+    {
+      "player_id": 11494,
+      "alias": "keiko",
+      "real_name": "Georgio Sanassy",
+      "country": "gb",
+      "role": null,
+      "is_captain": false
+    },
+    {
+      "player_id": 2172,
+      "alias": "brawk",
+      "real_name": "Brock Somerhalder",
+      "country": "us",
+      "role": null,
+      "is_captain": false
+    },
+    {
+      "player_id": 5132,
+      "alias": "mada",
+      "real_name": "Adam Pampuch",
+      "country": "ca",
+      "role": null,
+      "is_captain": false
+    },
+    {
+      "player_id": 11118,
+      "alias": "skuba",
+      "real_name": "Logan Jenkins",
+      "country": "us",
+      "role": null,
+      "is_captain": false
+    }
+  ],
+  "staff": [
+    {
+      "player_id": 47029,
+      "alias": "Ry",
+      "real_name": "Zachary Parr",
+      "country": "co",
+      "role": "manager",
+      "is_captain": false
+    },
+    {
+      "player_id": 7,
+      "alias": "bonkar",
+      "real_name": "Malkolm Rench",
+      "country": "se",
+      "role": "head coach",
+      "is_captain": false
+    },
+    {
+      "player_id": 612,
+      "alias": "mitch",
+      "real_name": "Mitch Semago",
+      "country": "us",
+      "role": "assistant coach",
+      "is_captain": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "match_id": 698905,
+  "match_url": "/698905/global-esports-vs-gen-g-vct-2026-pacific-stage-2-w3",
+  "date_display": "Fri, July 31, 2026",
+  "time_display": "5:00 AM",
+  "team1": "Global Esports",
+  "team2": "Gen.G",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:29:06.728033+00:00",
+  "lines": [
+    {
+      "match_id": 698905,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50528",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48525469168900803,
+      "source": "match:698905"
+    },
+    {
+      "match_id": 698905,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50528",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 1.81,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.514745308310992,
+      "source": "match:698905"
+    },
+    {
+      "match_id": 698905,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50537",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 2.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
+      "source": "match:698905"
+    },
+    {
+      "match_id": 698905,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50537",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
+      "source": "match:698905"
+    }
+  ]
+}

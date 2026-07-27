@@ -1,0 +1,9 @@
+team_id,team_name,team_tag,team_country,player_id,alias,real_name,country,role,is_captain
+1034,NRG,NRG,United States,11225,Ethan,Ethan Arnold,us,,True
+1034,NRG,NRG,United States,11494,keiko,Georgio Sanassy,gb,,False
+1034,NRG,NRG,United States,2172,brawk,Brock Somerhalder,us,,False
+1034,NRG,NRG,United States,5132,mada,Adam Pampuch,ca,,False
+1034,NRG,NRG,United States,11118,skuba,Logan Jenkins,us,,False
+1034,NRG,NRG,United States,47029,Ry,Zachary Parr,co,manager,False
+1034,NRG,NRG,United States,7,bonkar,Malkolm Rench,se,head coach,False
+1034,NRG,NRG,United States,612,mitch,Mitch Semago,us,assistant coach,False

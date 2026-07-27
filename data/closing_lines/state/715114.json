@@ -1,0 +1,69 @@
+{
+  "match_id": 715114,
+  "match_url": "/715114/2game-esports-vs-shopify-rebellion-black-vcl-26-americas-last-chance-qualifier-main-event-rr",
+  "date_display": "Tue, July 28, 2026",
+  "time_display": "2:00 PM",
+  "team1": "2Game Esports",
+  "team2": "Shopify Rebellion Black",
+  "event_name": "VCL 26: Americas Last Chance Qualifier",
+  "series": "Main Event\u2013Round Robin",
+  "captured_at": "2026-07-27T20:28:35.117636+00:00",
+  "lines": [
+    {
+      "match_id": 715114,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50407",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 2.86,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3496503496503497,
+      "implied_prob_fair": 0.3254716981132076,
+      "source": "match:715114"
+    },
+    {
+      "match_id": 715114,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50407",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Black",
+      "team_tag": "SRB",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6745283018867926,
+      "source": "match:715114"
+    },
+    {
+      "match_id": 715114,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50395",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 2.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.35135135135135137,
+      "source": "match:715114"
+    },
+    {
+      "match_id": 715114,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50395",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Black",
+      "team_tag": "SRB",
+      "decimal_odds": 1.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6486486486486488,
+      "source": "match:715114"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+"""Closing-line capture pipeline for vlr.gg's Betting widget.
+
+vlr.gg only shows *paired* team1/team2 odds (needed to compute vig) while a
+match is upcoming or live. The moment a match finishes, the widget collapses
+to a single "$100 -> $payout" line for the winning side only, so a closing
+line can only be captured by polling *before* the match ends -- there is no
+way to retroactively reconstruct it for a match that already finished.
+
+Design: each poll cycle
+  1. fetches the current upcoming/live match list and snapshots pre-match/live
+     odds for each one, overwriting a small per-match JSON state file each time
+     (so the state file always holds the *latest* known snapshot);
+  2. fetches the recent results list and, for any match that has now
+     completed, "finalizes" it -- the last snapshot in its state file becomes
+     the closing line, gets vig/implied-prob computed, and is appended to the
+     long-format JSONL store. Matches that complete between polls without
+     ever being snapshotted are recorded too, flagged `missed_pre_match=True`,
+     with vig left blank since only the winner's payout is left on the page.
+
+`export_excel` reads the JSONL store and writes a workbook with the three
+known bookmakers (thunderpick/rainbet/shuffle) side by side, plus a long-format
+sheet, so it can just be re-run after any poll to refresh the .xlsx.
+"""
+
+from __future__ import annotations
+
+import difflib
+import json
+import sys
+from dataclasses import asdict, dataclass
+from datetime import datetime, timezone
+from pathlib import Path
+
+from .fetch import Fetcher
+from .models import BetLine, MatchSummary
+from .parse import parse_match_odds, parse_matches
+
+STATE_DIR = Path("data/closing_lines/state")
+JSONL_PATH = Path("data/closing_lines/closing_lines.jsonl")
+FINALIZED_IDS_PATH = Path("data/closing_lines/finalized_ids.json")
+XLSX_PATH = Path("data/closing_lines/valorant_closing_lines.xlsx")
+
+KNOWN_BOOKMAKERS = ["thunderpick", "rainbet", "shuffle"]
+
+
+@dataclass
+class MatchState:
+    match_id: int
+    match_url: str
+    date_display: str | None
+    time_display: str | None
+    team1: str | None
+    team2: str | None
+    event_name: str | None
+    series: str | None
+    captured_at: str
+    lines: list[dict]
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+
+def _now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def _state_path(match_id: int) -> Path:
+    return STATE_DIR / f"{match_id}.json"
+
+
+def _save_state(state: MatchState) -> None:
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+    _state_path(state.match_id).write_text(json.dumps(state.to_dict(), indent=2), encoding="utf-8")
+
+
+def _load_state(match_id: int) -> MatchState | None:
+    path = _state_path(match_id)
+    if not path.exists():
+        return None
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return MatchState(**data)
+
+
+def _load_finalized_ids() -> set[int]:
+    if not FINALIZED_IDS_PATH.exists():
+        return set()
+    return set(json.loads(FINALIZED_IDS_PATH.read_text(encoding="utf-8")))
+
+
+def _save_finalized_ids(ids: set[int]) -> None:
+    FINALIZED_IDS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    FINALIZED_IDS_PATH.write_text(json.dumps(sorted(ids)), encoding="utf-8")
+
+
+def _classify_side(team: str | None, team_tag: str | None, team1_name: str | None, team2_name: str | None) -> str | None:
+    """Best-effort match of a BetLine's team label to the match's team1/team2."""
+    candidates = [c for c in (team, team_tag) if c]
+    best_side, best_score = None, 0.0
+    for c in candidates:
+        cu = c.upper()
+        for side, name in (("team1", team1_name), ("team2", team2_name)):
+            if not name:
+                continue
+            nu = name.upper()
+            score = difflib.SequenceMatcher(None, cu, nu).ratio()
+            if cu in nu or nu.startswith(cu):
+                score = max(score, 0.9)
+            if score > best_score:
+                best_score, best_side = score, side
+    return best_side
+
+
+def _pair_by_bookmaker(lines: list[BetLine], team1_name: str | None, team2_name: str | None) -> dict[str, dict]:
+    """Group pre-match/live BetLines by bookmaker, keeping only fully-paired (both sides) books."""
+    by_bookmaker: dict[str, list[BetLine]] = {}
+    for line in lines:
+        if line.stage == "post-match" or not line.bookmaker:
+            continue
+        by_bookmaker.setdefault(line.bookmaker, []).append(line)
+
+    paired: dict[str, dict] = {}
+    for bookmaker, bm_lines in by_bookmaker.items():
+        if len(bm_lines) != 2:
+            continue
+        a, b = bm_lines
+        side_a = _classify_side(a.team, a.team_tag, team1_name, team2_name)
+        side_b = _classify_side(b.team, b.team_tag, team1_name, team2_name)
+        if side_a == "team1" and side_b == "team2":
+            team1_line, team2_line = a, b
+        elif side_a == "team2" and side_b == "team1":
+            team1_line, team2_line = b, a
+        else:
+            team1_line, team2_line = a, b  # fall back to widget order
+        if not team1_line.decimal_odds or not team2_line.decimal_odds:
+            continue
+        paired[bookmaker] = {"team1_odds": team1_line.decimal_odds, "team2_odds": team2_line.decimal_odds}
+    return paired
+
+
+def poll_once(upcoming_pages: int = 1, results_pages: int = 2, verbose: bool = True) -> dict:
+    """One poll cycle: snapshot upcoming/live odds, finalize newly-completed matches.
+
+    Returns a summary dict: {"snapshotted": N, "finalized": N, "missed": N}.
+    """
+    summary = {"snapshotted": 0, "finalized": 0, "missed": 0}
+    finalized_ids = _load_finalized_ids()
+
+    with Fetcher() as fetcher:
+        upcoming: list[MatchSummary] = []
+        for page in range(1, upcoming_pages + 1):
+            html = fetcher.get_html("/matches", params={"page": page})
+            upcoming.extend(parse_matches(html, source="global:upcoming"))
+
+        pending = [m for m in upcoming if m.status in ("Upcoming", "LIVE")]
+        for m in pending:
+            odds_html = fetcher.get_html(m.match_url)
+            lines = parse_match_odds(odds_html, match_id=m.match_id, source=f"match:{m.match_id}")
+            active_lines = [l for l in lines if l.stage != "post-match"]
+            if not active_lines:
+                continue
+            state = MatchState(
+                match_id=m.match_id,
+                match_url=m.match_url,
+                date_display=m.date_display,
+                time_display=m.time_display,
+                team1=m.team1,
+                team2=m.team2,
+                event_name=m.event_name,
+                series=m.series,
+                captured_at=_now_iso(),
+                lines=[l.to_dict() for l in active_lines],
+            )
+            _save_state(state)
+            summary["snapshotted"] += 1
+            if verbose:
+                print(f"  snapshot match {m.match_id} ({m.team1} vs {m.team2}): {len(active_lines)} lines", file=sys.stderr)
+
+        results: list[MatchSummary] = []
+        for page in range(1, results_pages + 1):
+            html = fetcher.get_html("/matches/results", params={"page": page})
+            results.extend(parse_matches(html, source="global:results"))
+
+        with JSONL_PATH.open("a", encoding="utf-8") as jsonl_f:
+            JSONL_PATH.parent.mkdir(parents=True, exist_ok=True)
+            for m in results:
+                if m.status != "Completed" or m.match_id in finalized_ids:
+                    continue
+                winner = m.team1 if m.team1_won else (m.team2 if m.team2_won else None)
+                state = _load_state(m.match_id)
+
+                if state is not None:
+                    paired = _pair_by_bookmaker(
+                        [BetLine(**d) for d in state.lines], state.team1, state.team2
+                    )
+                    for bookmaker, odds in paired.items():
+                        implied1 = 1 / odds["team1_odds"]
+                        implied2 = 1 / odds["team2_odds"]
+                        vig = implied1 + implied2 - 1
+                        row = {
+                            "match_id": m.match_id,
+                            "match_url": state.match_url,
+                            "date_display": state.date_display,
+                            "time_display": state.time_display,
+                            "event_name": state.event_name,
+                            "series": state.series,
+                            "team1": state.team1,
+                            "team2": state.team2,
+                            "team1_score": m.team1_score,
+                            "team2_score": m.team2_score,
+                            "winner": winner,
+                            "bookmaker": bookmaker,
+                            "team1_odds": odds["team1_odds"],
+                            "team2_odds": odds["team2_odds"],
+                            "implied_prob_team1": implied1,
+                            "implied_prob_team2": implied2,
+                            "vig": vig,
+                            "fair_prob_team1": implied1 / (implied1 + implied2),
+                            "fair_prob_team2": implied2 / (implied1 + implied2),
+                            "closing_captured_at": state.captured_at,
+                            "missed_pre_match": False,
+                        }
+                        jsonl_f.write(json.dumps(row) + "\n")
+                    if paired:
+                        summary["finalized"] += 1
+                    _state_path(m.match_id).unlink(missing_ok=True)
+                else:
+                    # Never snapshotted pre-match (e.g. first run after it already
+                    # finished) -- grab whatever's left: winner-only payout odds.
+                    odds_html = fetcher.get_html(m.match_url)
+                    lines = parse_match_odds(odds_html, match_id=m.match_id, source=f"match:{m.match_id}")
+                    post_lines = [l for l in lines if l.stage == "post-match" and l.decimal_odds]
+                    for l in post_lines:
+                        row = {
+                            "match_id": m.match_id,
+                            "match_url": m.match_url,
+                            "date_display": m.date_display,
+                            "time_display": m.time_display,
+                            "event_name": m.event_name,
+                            "series": m.series,
+                            "team1": m.team1,
+                            "team2": m.team2,
+                            "team1_score": m.team1_score,
+                            "team2_score": m.team2_score,
+                            "winner": winner,
+                            "bookmaker": l.bookmaker,
+                            "team1_odds": None,
+                            "team2_odds": None,
+                            "implied_prob_team1": None,
+                            "implied_prob_team2": None,
+                            "vig": None,
+                            "fair_prob_team1": None,
+                            "fair_prob_team2": None,
+                            "closing_captured_at": None,
+                            "missed_pre_match": True,
+                        }
+                        jsonl_f.write(json.dumps(row) + "\n")
+                    summary["missed"] += 1
+
+                finalized_ids.add(m.match_id)
+
+    _save_finalized_ids(finalized_ids)
+    return summary
+
+
+def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> int:
+    """Rebuild the Excel workbook (long + wide-by-bookmaker sheets) from the JSONL store."""
+    import pandas as pd
+
+    if not jsonl_path.exists():
+        raise FileNotFoundError(f"{jsonl_path} does not exist yet -- run `closing poll` first")
+
+    rows = [json.loads(line) for line in jsonl_path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    long_df = pd.DataFrame(rows)
+    if long_df.empty:
+        raise ValueError(f"{jsonl_path} has no rows yet")
+
+    match_cols = [
+        "match_id", "date_display", "time_display", "event_name", "series",
+        "team1", "team2", "team1_score", "team2_score", "winner",
+    ]
+    wide = long_df.drop_duplicates("match_id")[match_cols].set_index("match_id")
+
+    bookmakers = list(dict.fromkeys(KNOWN_BOOKMAKERS + sorted(long_df["bookmaker"].dropna().unique())))
+    metric_cols = [
+        "team1_odds", "team2_odds", "implied_prob_team1", "implied_prob_team2",
+        "vig", "fair_prob_team1", "fair_prob_team2", "closing_captured_at", "missed_pre_match",
+    ]
+    for bm in bookmakers:
+        bm_rows = long_df[long_df["bookmaker"] == bm].set_index("match_id")
+        for col in metric_cols:
+            wide[f"{bm}_{col}"] = bm_rows[col] if col in bm_rows.columns else None
+
+    vig_cols = [f"{bm}_vig" for bm in bookmakers if f"{bm}_vig" in wide.columns]
+    wide["avg_vig"] = wide[vig_cols].mean(axis=1, skipna=True) if vig_cols else None
+
+    wide = wide.reset_index().sort_values("match_id", ascending=False)
+    long_df = long_df.sort_values(["match_id", "bookmaker"], ascending=[False, True])
+
+    xlsx_path.parent.mkdir(parents=True, exist_ok=True)
+    with pd.ExcelWriter(xlsx_path, engine="openpyxl") as writer:
+        wide.to_excel(writer, sheet_name="Closing Lines (wide)", index=False)
+        long_df.to_excel(writer, sheet_name="Closing Lines (long)", index=False)
+
+    return len(wide)

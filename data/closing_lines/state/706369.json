@@ -1,0 +1,69 @@
+{
+  "match_id": 706369,
+  "match_url": "/706369/leviat-n-vs-nrg-vct-2026-americas-stage-2-w3",
+  "date_display": "Sat, August 1, 2026",
+  "time_display": "7:00 PM",
+  "team1": "LEVIAT\u00c1N",
+  "team2": "NRG",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:29:21.795675+00:00",
+  "lines": [
+    {
+      "match_id": 706369,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50591",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5188172043010751,
+      "source": "match:706369"
+    },
+    {
+      "match_id": 706369,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50591",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48118279569892475,
+      "source": "match:706369"
+    },
+    {
+      "match_id": 706369,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50594",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5132978723404255,
+      "source": "match:706369"
+    },
+    {
+      "match_id": 706369,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50594",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48670212765957455,
+      "source": "match:706369"
+    }
+  ]
+}

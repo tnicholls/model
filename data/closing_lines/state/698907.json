@@ -1,0 +1,41 @@
+{
+  "match_id": 698907,
+  "match_url": "/698907/full-sense-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w3",
+  "date_display": "Sat, August 1, 2026",
+  "time_display": "5:00 AM",
+  "team1": "FULL SENSE",
+  "team2": "Rex Regum Qeon",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:29:15.754819+00:00",
+  "lines": [
+    {
+      "match_id": 698907,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50587",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5811518324607331,
+      "source": "match:698907"
+    },
+    {
+      "match_id": 698907,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50587",
+      "stage": "pre-match",
+      "team": "Rex Regum Qeon",
+      "team_tag": "RRQ",
+      "decimal_odds": 2.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.418848167539267,
+      "source": "match:698907"
+    }
+  ]
+}

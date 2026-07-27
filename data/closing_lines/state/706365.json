@@ -1,0 +1,41 @@
+{
+  "match_id": 706365,
+  "match_url": "/706365/100-thieves-vs-sentinels-vct-2026-americas-stage-2-w3",
+  "date_display": "Thu, July 30, 2026",
+  "time_display": "7:00 PM",
+  "team1": "100 Thieves",
+  "team2": "Sentinels",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:29:03.729515+00:00",
+  "lines": [
+    {
+      "match_id": 706365,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50562",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6880733944954128,
+      "source": "match:706365"
+    },
+    {
+      "match_id": 706365,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50562",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 3.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3333333333333333,
+      "implied_prob_fair": 0.3119266055045871,
+      "source": "match:706365"
+    }
+  ]
+}

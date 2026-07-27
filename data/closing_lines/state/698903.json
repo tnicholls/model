@@ -1,0 +1,41 @@
+{
+  "match_id": 698903,
+  "match_url": "/698903/full-sense-vs-zeta-division-vct-2026-pacific-stage-2-w3",
+  "date_display": "Thu, July 30, 2026",
+  "time_display": "5:00 AM",
+  "team1": "FULL SENSE",
+  "team2": "ZETA DIVISION",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:28:51.691442+00:00",
+  "lines": [
+    {
+      "match_id": 698903,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50484",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.647921760391198,
+      "source": "match:698903"
+    },
+    {
+      "match_id": 698903,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50484",
+      "stage": "pre-match",
+      "team": "ZETA DIVISION",
+      "team_tag": "ZETA",
+      "decimal_odds": 2.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37735849056603776,
+      "implied_prob_fair": 0.35207823960880197,
+      "source": "match:698903"
+    }
+  ]
+}

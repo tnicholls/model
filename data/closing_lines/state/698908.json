@@ -1,0 +1,41 @@
+{
+  "match_id": 698908,
+  "match_url": "/698908/varrel-vs-kiwoom-drx-vct-2026-pacific-stage-2-w3",
+  "date_display": "Sun, August 2, 2026",
+  "time_display": "3:00 AM",
+  "team1": "VARREL",
+  "team2": "KIWOOM DRX",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:29:23.272287+00:00",
+  "lines": [
+    {
+      "match_id": 698908,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50620",
+      "stage": "pre-match",
+      "team": "VARREL",
+      "team_tag": "VL",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3924050632911393,
+      "source": "match:698908"
+    },
+    {
+      "match_id": 698908,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50620",
+      "stage": "pre-match",
+      "team": "KIWOOM DRX",
+      "team_tag": "KRX",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6075949367088608,
+      "source": "match:698908"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+match_id,match_url,date_display,time_display,team1,team1_flag,team1_score,team1_won,team2,team2_flag,team2_score,team2_won,status,eta,event_name,series,source
+542195,/542195/paper-rex-vs-xi-lai-gaming-valorant-champions-2025-opening-a,"Fri, September 12, 2025",2:00 PM,Paper Rex,sg,2,True,Xi Lai Gaming,cn,0,False,Completed,10mo,Group Stage,Opening (A),event:2283
+542196,/542196/giantx-vs-sentinels-valorant-champions-2025-opening-a,"Fri, September 12, 2025",4:25 PM,GIANTX,eu,2,True,Sentinels,us,1,False,Completed,10mo,Group Stage,Opening (A),event:2283
+542207,/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c,"Sat, September 13, 2025",2:00 PM,NRG,us,2,True,EDward Gaming,cn,0,False,Completed,10mo,Group Stage,Opening (C),event:2283
+542205,/542205/team-liquid-vs-drx-valorant-champions-2025-opening-c,"Sat, September 13, 2025",4:55 PM,Team Liquid,eu,0,False,KIWOOM DRX,kr,2,True,Completed,10mo,Group Stage,Opening (C),event:2283
+542212,/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d,"Sun, September 14, 2025",2:00 PM,Dragon Ranger Gaming,cn,0,False,T1,kr,2,True,Completed,10mo,Group Stage,Opening (D),event:2283
+542211,/542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d,"Sun, September 14, 2025",5:20 PM,G2 Esports,us,0,False,Team Heretics,eu,2,True,Completed,10mo,Group Stage,Opening (D),event:2283
+542200,/542200/bilibili-gaming-vs-mibr-valorant-champions-2025-opening-b,"Mon, September 15, 2025",2:00 PM,Bilibili Gaming,cn,0,False,MIBR,br,2,True,Completed,10mo,Group Stage,Opening (B),event:2283
+542201,/542201/rex-regum-qeon-vs-fnatic-valorant-champions-2025-opening-b,"Mon, September 15, 2025",4:10 PM,Rex Regum Qeon,id,0,False,FNATIC,eu,2,True,Completed,10mo,Group Stage,Opening (B),event:2283
+542197,/542197/paper-rex-vs-giantx-valorant-champions-2025-winners-a,"Wed, September 17, 2025",2:00 PM,Paper Rex,sg,2,True,GIANTX,eu,1,False,Completed,10mo,Group Stage,Winner's (A),event:2283
+542208,/542208/drx-vs-nrg-valorant-champions-2025-winners-c,"Wed, September 17, 2025",5:10 PM,KIWOOM DRX,kr,1,False,NRG,us,2,True,Completed,10mo,Group Stage,Winner's (C),event:2283
+542213,/542213/team-heretics-vs-t1-valorant-champions-2025-winners-d,"Thu, September 18, 2025",2:00 PM,Team Heretics,eu,2,True,T1,kr,0,False,Completed,10mo,Group Stage,Winner's (D),event:2283
+542202,/542202/mibr-vs-fnatic-valorant-champions-2025-winners-b,"Thu, September 18, 2025",4:25 PM,MIBR,br,1,False,FNATIC,eu,2,True,Completed,10mo,Group Stage,Winner's (B),event:2283
+542209,/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c,"Fri, September 19, 2025",2:00 PM,Team Liquid,eu,2,True,EDward Gaming,cn,1,False,Completed,10mo,Group Stage,Elimination (C),event:2283
+542198,/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a,"Fri, September 19, 2025",5:30 PM,Xi Lai Gaming,cn,2,True,Sentinels,us,1,False,Completed,10mo,Group Stage,Elimination (A),event:2283
+542203,/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b,"Sat, September 20, 2025",2:00 PM,Bilibili Gaming,cn,1,False,Rex Regum Qeon,id,2,True,Completed,10mo,Group Stage,Elimination (B),event:2283
+542214,/542214/g2-esports-vs-dragon-ranger-gaming-valorant-champions-2025-elim-d,"Sat, September 20, 2025",5:00 PM,G2 Esports,us,2,True,Dragon Ranger Gaming,cn,0,False,Completed,10mo,Group Stage,Elimination (D),event:2283
+542210,/542210/drx-vs-team-liquid-valorant-champions-2025-decider-c,"Sun, September 21, 2025",2:00 PM,KIWOOM DRX,kr,2,True,Team Liquid,eu,0,False,Completed,10mo,Group Stage,Decider (C),event:2283
+542199,/542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a,"Sun, September 21, 2025",4:20 PM,GIANTX,eu,2,True,Xi Lai Gaming,cn,0,False,Completed,10mo,Group Stage,Decider (A),event:2283
+542215,/542215/t1-vs-g2-esports-valorant-champions-2025-decider-d,"Mon, September 22, 2025",2:00 PM,T1,kr,0,False,G2 Esports,us,2,True,Completed,10mo,Group Stage,Decider (D),event:2283
+542204,/542204/mibr-vs-rex-regum-qeon-valorant-champions-2025-decider-b,"Mon, September 22, 2025",4:15 PM,MIBR,br,2,True,Rex Regum Qeon,id,0,False,Completed,10mo,Group Stage,Decider (B),event:2283
+542265,/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf,"Thu, September 25, 2025",2:00 PM,Paper Rex,sg,2,True,G2 Esports,us,1,False,Completed,9mo,Playoffs,Upper Quarterfinals,event:2283
+542264,/542264/fnatic-vs-drx-valorant-champions-2025-ubqf,"Thu, September 25, 2025",5:50 PM,FNATIC,eu,2,True,KIWOOM DRX,kr,1,False,Completed,9mo,Playoffs,Upper Quarterfinals,event:2283
+542266,/542266/team-heretics-vs-mibr-valorant-champions-2025-ubqf,"Fri, September 26, 2025",2:00 PM,Team Heretics,eu,0,False,MIBR,br,2,True,Completed,9mo,Playoffs,Upper Quarterfinals,event:2283
+542267,/542267/nrg-vs-giantx-valorant-champions-2025-ubqf,"Fri, September 26, 2025",4:35 PM,NRG,us,2,True,GIANTX,eu,0,False,Completed,9mo,Playoffs,Upper Quarterfinals,event:2283
+542273,/542273/drx-vs-g2-esports-valorant-champions-2025-lr1,"Sat, September 27, 2025",2:00 PM,KIWOOM DRX,kr,2,True,G2 Esports,us,1,False,Completed,9mo,Playoffs,Lower Round 1,event:2283
+542274,/542274/team-heretics-vs-giantx-valorant-champions-2025-lr1,"Sat, September 27, 2025",5:20 PM,Team Heretics,eu,2,True,GIANTX,eu,1,False,Completed,9mo,Playoffs,Lower Round 1,event:2283
+542268,/542268/fnatic-vs-paper-rex-valorant-champions-2025-ubsf,"Sun, September 28, 2025",2:00 PM,FNATIC,eu,2,True,Paper Rex,sg,1,False,Completed,9mo,Playoffs,Upper Semifinals,event:2283
+542269,/542269/mibr-vs-nrg-valorant-champions-2025-ubsf,"Sun, September 28, 2025",5:20 PM,MIBR,br,1,False,NRG,us,2,True,Completed,9mo,Playoffs,Upper Semifinals,event:2283
+542277,/542277/paper-rex-vs-team-heretics-valorant-champions-2025-lr2,"Mon, September 29, 2025",2:00 PM,Paper Rex,sg,2,True,Team Heretics,eu,1,False,Completed,9mo,Playoffs,Lower Round 2,event:2283
+542276,/542276/mibr-vs-drx-valorant-champions-2025-lr2,"Mon, September 29, 2025",5:20 PM,MIBR,br,1,False,KIWOOM DRX,kr,2,True,Completed,9mo,Playoffs,Lower Round 2,event:2283
+542270,/542270/fnatic-vs-nrg-valorant-champions-2025-ubf,"Fri, October 3, 2025",12:00 PM,FNATIC,eu,0,False,NRG,us,2,True,Completed,9mo,Playoffs,Upper Final,event:2283
+542278,/542278/drx-vs-paper-rex-valorant-champions-2025-lr3,"Fri, October 3, 2025",2:35 PM,KIWOOM DRX,kr,2,True,Paper Rex,sg,0,False,Completed,9mo,Playoffs,Lower Round 3,event:2283
+542279,/542279/fnatic-vs-drx-valorant-champions-2025-lbf,"Sat, October 4, 2025",12:00 PM,FNATIC,eu,3,True,KIWOOM DRX,kr,1,False,Completed,9mo,Playoffs,Lower Final,event:2283
+542272,/542272/nrg-vs-fnatic-valorant-champions-2025-gf,"Sun, October 5, 2025",12:00 PM,NRG,us,3,True,FNATIC,eu,2,False,Completed,9mo,Playoffs,Grand Final,event:2283

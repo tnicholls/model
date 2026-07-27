@@ -1,0 +1,3476 @@
+[
+  {
+    "player_id": 8480,
+    "player_alias": "aspas",
+    "team_or_country": "MIBR",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 33.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 27.0
+      },
+      {
+        "agent": "jett",
+        "pct": 27.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 330,
+    "rating": 1.33,
+    "acs": 262.0,
+    "kd": 1.66,
+    "kast_pct": 79.0,
+    "adr": 164.7,
+    "kpr": 0.97,
+    "apr": 0.13,
+    "fkfd": 2.91,
+    "fkpr": 0.2,
+    "fdpr": 0.07,
+    "hs_pct": 26.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 2,
+    "clutches_played": 26,
+    "kmax": 32,
+    "kmax_match_url": "/542269/mibr-vs-nrg-valorant-champions-2025-ubsf/?game=233472",
+    "kills": 319,
+    "deaths": 192,
+    "assists": 44,
+    "first_kills": 67,
+    "first_deaths": 23,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 10971,
+    "player_alias": "RieNs",
+    "team_or_country": "TH",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 67.0
+      },
+      {
+        "agent": "sova",
+        "pct": 33.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 256,
+    "rating": 1.17,
+    "acs": 226.0,
+    "kd": 1.14,
+    "kast_pct": 73.0,
+    "adr": 148.9,
+    "kpr": 0.79,
+    "apr": 0.33,
+    "fkfd": 1.5,
+    "fkpr": 0.07,
+    "fdpr": 0.05,
+    "hs_pct": 34.0,
+    "clutch_pct": 20.0,
+    "clutches_won": 7,
+    "clutches_played": 35,
+    "kmax": 23,
+    "kmax_match_url": "/542213/team-heretics-vs-t1-valorant-champions-2025-winners-d/?game=233448",
+    "kills": 203,
+    "deaths": 178,
+    "assists": 85,
+    "first_kills": 18,
+    "first_deaths": 12,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 2172,
+    "player_alias": "brawk",
+    "team_or_country": "NRG",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 82.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 18.0
+      }
+    ],
+    "maps": 17,
+    "rounds": 377,
+    "rating": 1.16,
+    "acs": 225.0,
+    "kd": 1.17,
+    "kast_pct": 76.0,
+    "adr": 144.7,
+    "kpr": 0.73,
+    "apr": 0.34,
+    "fkfd": 1.13,
+    "fkpr": 0.07,
+    "fdpr": 0.06,
+    "hs_pct": 17.0,
+    "clutch_pct": 9.0,
+    "clutches_won": 4,
+    "clutches_played": 47,
+    "kmax": 28,
+    "kmax_match_url": "/542208/drx-vs-nrg-valorant-champions-2025-winners-c/?game=233435",
+    "kills": 275,
+    "deaths": 236,
+    "assists": 128,
+    "first_kills": 26,
+    "first_deaths": 23,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 9554,
+    "player_alias": "kaajak",
+    "team_or_country": "FNC",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 64.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 18.0
+      },
+      {
+        "agent": "raze",
+        "pct": 14.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 453,
+    "rating": 1.15,
+    "acs": 228.0,
+    "kd": 1.2,
+    "kast_pct": 71.0,
+    "adr": 148.2,
+    "kpr": 0.82,
+    "apr": 0.2,
+    "fkfd": 1.61,
+    "fkpr": 0.21,
+    "fdpr": 0.13,
+    "hs_pct": 32.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 4,
+    "clutches_played": 30,
+    "kmax": 30,
+    "kmax_match_url": "/542268/fnatic-vs-paper-rex-valorant-champions-2025-ubsf/?game=233469",
+    "kills": 372,
+    "deaths": 311,
+    "assists": 90,
+    "first_kills": 95,
+    "first_deaths": 59,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 1265,
+    "player_alias": "johnqt",
+    "team_or_country": "SEN",
+    "flag": "ma",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 67.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 17.0
+      },
+      {
+        "agent": "sova",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 1.14,
+    "acs": 187.0,
+    "kd": 1.13,
+    "kast_pct": 79.0,
+    "adr": 118.7,
+    "kpr": 0.67,
+    "apr": 0.27,
+    "fkfd": 1.0,
+    "fkpr": 0.04,
+    "fdpr": 0.04,
+    "hs_pct": 33.0,
+    "clutch_pct": 9.0,
+    "clutches_won": 2,
+    "clutches_played": 22,
+    "kmax": 17,
+    "kmax_match_url": "/542196/giantx-vs-sentinels-valorant-champions-2025-opening-a/?game=233402",
+    "kills": 85,
+    "deaths": 75,
+    "assists": 34,
+    "first_kills": 5,
+    "first_deaths": 5,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4742,
+    "player_alias": "Smoggy",
+    "team_or_country": "EDG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 80.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 119,
+    "rating": 1.13,
+    "acs": 206.0,
+    "kd": 1.09,
+    "kast_pct": 77.0,
+    "adr": 135.3,
+    "kpr": 0.74,
+    "apr": 0.4,
+    "fkfd": 2.2,
+    "fkpr": 0.09,
+    "fdpr": 0.04,
+    "hs_pct": 25.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 4,
+    "clutches_played": 23,
+    "kmax": 26,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 88,
+    "deaths": 81,
+    "assists": 48,
+    "first_kills": 11,
+    "first_deaths": 5,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 7873,
+    "player_alias": "leaf",
+    "team_or_country": "G2",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 58.0
+      },
+      {
+        "agent": "deadlock",
+        "pct": 17.0
+      },
+      {
+        "agent": "chamber",
+        "pct": 17.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 268,
+    "rating": 1.11,
+    "acs": 223.0,
+    "kd": 1.13,
+    "kast_pct": 71.0,
+    "adr": 151.5,
+    "kpr": 0.79,
+    "apr": 0.26,
+    "fkfd": 1.25,
+    "fkpr": 0.11,
+    "fdpr": 0.09,
+    "hs_pct": 21.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 5,
+    "clutches_played": 33,
+    "kmax": 30,
+    "kmax_match_url": "/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf/?game=233462",
+    "kills": 213,
+    "deaths": 188,
+    "assists": 69,
+    "first_kills": 30,
+    "first_deaths": 24,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 17086,
+    "player_alias": "something",
+    "team_or_country": "PRX",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 88.0
+      },
+      {
+        "agent": "sova",
+        "pct": 13.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 356,
+    "rating": 1.1,
+    "acs": 220.0,
+    "kd": 1.17,
+    "kast_pct": 72.0,
+    "adr": 141.0,
+    "kpr": 0.79,
+    "apr": 0.26,
+    "fkfd": 1.19,
+    "fkpr": 0.16,
+    "fdpr": 0.13,
+    "hs_pct": 25.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 5,
+    "clutches_played": 38,
+    "kmax": 28,
+    "kmax_match_url": "/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf/?game=233461",
+    "kills": 281,
+    "deaths": 240,
+    "assists": 94,
+    "first_kills": 57,
+    "first_deaths": 48,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 11118,
+    "player_alias": "skuba",
+    "team_or_country": "NRG",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 41.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 35.0
+      },
+      {
+        "agent": "killjoy",
+        "pct": 18.0
+      }
+    ],
+    "maps": 17,
+    "rounds": 377,
+    "rating": 1.09,
+    "acs": 190.0,
+    "kd": 1.17,
+    "kast_pct": 76.0,
+    "adr": 124.9,
+    "kpr": 0.71,
+    "apr": 0.25,
+    "fkfd": 0.88,
+    "fkpr": 0.06,
+    "fdpr": 0.06,
+    "hs_pct": 30.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 12,
+    "clutches_played": 58,
+    "kmax": 28,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 266,
+    "deaths": 228,
+    "assists": 94,
+    "first_kills": 21,
+    "first_deaths": 24,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 5395,
+    "player_alias": "cortezia",
+    "team_or_country": "MIBR",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 40.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 33.0
+      },
+      {
+        "agent": "killjoy",
+        "pct": 20.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 330,
+    "rating": 1.08,
+    "acs": 196.0,
+    "kd": 1.27,
+    "kast_pct": 75.0,
+    "adr": 130.2,
+    "kpr": 0.72,
+    "apr": 0.21,
+    "fkfd": 1.59,
+    "fkpr": 0.11,
+    "fdpr": 0.07,
+    "hs_pct": 33.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 3,
+    "clutches_played": 40,
+    "kmax": 25,
+    "kmax_match_url": "/542269/mibr-vs-nrg-valorant-champions-2025-ubsf/?game=233472",
+    "kills": 237,
+    "deaths": 186,
+    "assists": 68,
+    "first_kills": 35,
+    "first_deaths": 22,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 11527,
+    "player_alias": "NoMan",
+    "team_or_country": "XLG",
+    "flag": "hk",
+    "agents": [
+      {
+        "agent": "skye",
+        "pct": 29.0
+      },
+      {
+        "agent": "neon",
+        "pct": 14.0
+      },
+      {
+        "agent": "jett",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 157,
+    "rating": 1.08,
+    "acs": 221.0,
+    "kd": 1.18,
+    "kast_pct": 73.0,
+    "adr": 140.7,
+    "kpr": 0.78,
+    "apr": 0.19,
+    "fkfd": 1.0,
+    "fkpr": 0.1,
+    "fdpr": 0.1,
+    "hs_pct": 32.0,
+    "clutch_pct": 5.0,
+    "clutches_won": 1,
+    "clutches_played": 19,
+    "kmax": 23,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233408",
+    "kills": 123,
+    "deaths": 104,
+    "assists": 30,
+    "first_kills": 16,
+    "first_deaths": 16,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 458,
+    "player_alias": "Chronicle",
+    "team_or_country": "FNC",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 55.0
+      },
+      {
+        "agent": "breach",
+        "pct": 23.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 18.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 453,
+    "rating": 1.07,
+    "acs": 204.0,
+    "kd": 1.07,
+    "kast_pct": 70.0,
+    "adr": 138.7,
+    "kpr": 0.72,
+    "apr": 0.28,
+    "fkfd": 1.2,
+    "fkpr": 0.09,
+    "fdpr": 0.08,
+    "hs_pct": 29.0,
+    "clutch_pct": 7.0,
+    "clutches_won": 4,
+    "clutches_played": 60,
+    "kmax": 31,
+    "kmax_match_url": "/542268/fnatic-vs-paper-rex-valorant-champions-2025-ubsf/?game=233471",
+    "kills": 326,
+    "deaths": 304,
+    "assists": 125,
+    "first_kills": 42,
+    "first_deaths": 35,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4181,
+    "player_alias": "Cloud",
+    "team_or_country": "GX",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 54.0
+      },
+      {
+        "agent": "fade",
+        "pct": 31.0
+      },
+      {
+        "agent": "gekko",
+        "pct": 15.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 261,
+    "rating": 1.07,
+    "acs": 203.0,
+    "kd": 1.02,
+    "kast_pct": 70.0,
+    "adr": 135.2,
+    "kpr": 0.69,
+    "apr": 0.33,
+    "fkfd": 1.13,
+    "fkpr": 0.07,
+    "fdpr": 0.06,
+    "hs_pct": 29.0,
+    "clutch_pct": 7.0,
+    "clutches_won": 3,
+    "clutches_played": 43,
+    "kmax": 23,
+    "kmax_match_url": "/542196/giantx-vs-sentinels-valorant-champions-2025-opening-a/?game=233401",
+    "kills": 179,
+    "deaths": 176,
+    "assists": 85,
+    "first_kills": 18,
+    "first_deaths": 16,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 9810,
+    "player_alias": "Alfajer",
+    "team_or_country": "FNC",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "killjoy",
+        "pct": 26.0
+      },
+      {
+        "agent": "sage",
+        "pct": 21.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 21.0
+      }
+    ],
+    "maps": 19,
+    "rounds": 391,
+    "rating": 1.06,
+    "acs": 212.0,
+    "kd": 1.14,
+    "kast_pct": 69.0,
+    "adr": 141.3,
+    "kpr": 0.76,
+    "apr": 0.18,
+    "fkfd": 1.29,
+    "fkpr": 0.14,
+    "fdpr": 0.1,
+    "hs_pct": 34.0,
+    "clutch_pct": 5.0,
+    "clutches_won": 2,
+    "clutches_played": 40,
+    "kmax": 25,
+    "kmax_match_url": "/542264/fnatic-vs-drx-valorant-champions-2025-ubqf/?game=233457",
+    "kills": 299,
+    "deaths": 263,
+    "assists": 72,
+    "first_kills": 53,
+    "first_deaths": 41,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 3993,
+    "player_alias": "jawgemo",
+    "team_or_country": "G2",
+    "flag": "kh",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 92.0
+      },
+      {
+        "agent": "raze",
+        "pct": 8.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 268,
+    "rating": 1.05,
+    "acs": 230.0,
+    "kd": 1.09,
+    "kast_pct": 68.0,
+    "adr": 141.7,
+    "kpr": 0.8,
+    "apr": 0.2,
+    "fkfd": 1.39,
+    "fkpr": 0.2,
+    "fdpr": 0.14,
+    "hs_pct": 28.0,
+    "clutch_pct": 19.0,
+    "clutches_won": 6,
+    "clutches_played": 31,
+    "kmax": 28,
+    "kmax_match_url": "/542273/drx-vs-g2-esports-valorant-champions-2025-lr1/?game=233483",
+    "kills": 214,
+    "deaths": 196,
+    "assists": 54,
+    "first_kills": 53,
+    "first_deaths": 38,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 7378,
+    "player_alias": "Jinggg",
+    "team_or_country": "PRX",
+    "flag": "sg",
+    "agents": [
+      {
+        "agent": "raze",
+        "pct": 69.0
+      },
+      {
+        "agent": "sage",
+        "pct": 25.0
+      },
+      {
+        "agent": "omen",
+        "pct": 6.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 356,
+    "rating": 1.05,
+    "acs": 224.0,
+    "kd": 1.1,
+    "kast_pct": 74.0,
+    "adr": 146.0,
+    "kpr": 0.78,
+    "apr": 0.24,
+    "fkfd": 0.91,
+    "fkpr": 0.12,
+    "fdpr": 0.13,
+    "hs_pct": 22.0,
+    "clutch_pct": 12.0,
+    "clutches_won": 3,
+    "clutches_played": 25,
+    "kmax": 28,
+    "kmax_match_url": "/542278/drx-vs-paper-rex-valorant-champions-2025-lr3/?game=233495",
+    "kills": 278,
+    "deaths": 252,
+    "assists": 84,
+    "first_kills": 43,
+    "first_deaths": 47,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 21668,
+    "player_alias": "Verno",
+    "team_or_country": "MIBR",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 87.0
+      },
+      {
+        "agent": "fade",
+        "pct": 13.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 330,
+    "rating": 1.05,
+    "acs": 199.0,
+    "kd": 1.15,
+    "kast_pct": 76.0,
+    "adr": 129.3,
+    "kpr": 0.67,
+    "apr": 0.33,
+    "fkfd": 1.68,
+    "fkpr": 0.1,
+    "fdpr": 0.06,
+    "hs_pct": 25.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 4,
+    "clutches_played": 24,
+    "kmax": 22,
+    "kmax_match_url": "/542269/mibr-vs-nrg-valorant-champions-2025-ubsf/?game=233474",
+    "kills": 220,
+    "deaths": 191,
+    "assists": 110,
+    "first_kills": 32,
+    "first_deaths": 19,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 3520,
+    "player_alias": "ZmjjKK",
+    "team_or_country": "EDG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 80.0
+      },
+      {
+        "agent": "neon",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 119,
+    "rating": 1.04,
+    "acs": 237.0,
+    "kd": 1.08,
+    "kast_pct": 62.0,
+    "adr": 143.5,
+    "kpr": 0.82,
+    "apr": 0.18,
+    "fkfd": 1.09,
+    "fkpr": 0.21,
+    "fdpr": 0.19,
+    "hs_pct": 24.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 15,
+    "kmax": 23,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 97,
+    "deaths": 90,
+    "assists": 22,
+    "first_kills": 25,
+    "first_deaths": 23,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 13039,
+    "player_alias": "Meteor",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "vyse",
+        "pct": 67.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 33.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 148,
+    "rating": 1.04,
+    "acs": 219.0,
+    "kd": 0.96,
+    "kast_pct": 68.0,
+    "adr": 144.2,
+    "kpr": 0.74,
+    "apr": 0.18,
+    "fkfd": 2.27,
+    "fkpr": 0.17,
+    "fdpr": 0.07,
+    "hs_pct": 36.0,
+    "clutch_pct": 11.0,
+    "clutches_won": 3,
+    "clutches_played": 27,
+    "kmax": 29,
+    "kmax_match_url": "/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d/?game=233446",
+    "kills": 110,
+    "deaths": 114,
+    "assists": 26,
+    "first_kills": 25,
+    "first_deaths": 11,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 29833,
+    "player_alias": "iZu",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 83.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 148,
+    "rating": 1.04,
+    "acs": 212.0,
+    "kd": 1.09,
+    "kast_pct": 70.0,
+    "adr": 124.8,
+    "kpr": 0.76,
+    "apr": 0.15,
+    "fkfd": 1.4,
+    "fkpr": 0.14,
+    "fdpr": 0.1,
+    "hs_pct": 26.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 4,
+    "clutches_played": 19,
+    "kmax": 22,
+    "kmax_match_url": "/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d/?game=233445",
+    "kills": 113,
+    "deaths": 104,
+    "assists": 22,
+    "first_kills": 21,
+    "first_deaths": 15,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 35013,
+    "player_alias": "Flashback",
+    "team_or_country": "KRX",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 86.0
+      },
+      {
+        "agent": "neon",
+        "pct": 14.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 477,
+    "rating": 1.04,
+    "acs": 223.0,
+    "kd": 1.12,
+    "kast_pct": 66.0,
+    "adr": 144.3,
+    "kpr": 0.8,
+    "apr": 0.16,
+    "fkfd": 1.03,
+    "fkpr": 0.17,
+    "fdpr": 0.16,
+    "hs_pct": 24.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 3,
+    "clutches_played": 30,
+    "kmax": 26,
+    "kmax_match_url": "/542208/drx-vs-nrg-valorant-champions-2025-winners-c/?game=233434",
+    "kills": 380,
+    "deaths": 338,
+    "assists": 78,
+    "first_kills": 80,
+    "first_deaths": 78,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 3885,
+    "player_alias": "valyn",
+    "team_or_country": "G2",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 75.0
+      },
+      {
+        "agent": "astra",
+        "pct": 17.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 8.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 268,
+    "rating": 1.03,
+    "acs": 192.0,
+    "kd": 0.97,
+    "kast_pct": 75.0,
+    "adr": 124.1,
+    "kpr": 0.65,
+    "apr": 0.37,
+    "fkfd": 1.2,
+    "fkpr": 0.09,
+    "fdpr": 0.07,
+    "hs_pct": 26.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 3,
+    "clutches_played": 21,
+    "kmax": 21,
+    "kmax_match_url": "/542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d/?game=233443",
+    "kills": 173,
+    "deaths": 179,
+    "assists": 100,
+    "first_kills": 24,
+    "first_deaths": 20,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 9801,
+    "player_alias": "f0rsakeN",
+    "team_or_country": "PRX",
+    "flag": "id",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 75.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 19.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 6.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 356,
+    "rating": 1.03,
+    "acs": 213.0,
+    "kd": 1.04,
+    "kast_pct": 73.0,
+    "adr": 135.5,
+    "kpr": 0.75,
+    "apr": 0.42,
+    "fkfd": 0.7,
+    "fkpr": 0.09,
+    "fdpr": 0.12,
+    "hs_pct": 31.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 5,
+    "clutches_played": 29,
+    "kmax": 28,
+    "kmax_match_url": "/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf/?game=233462",
+    "kills": 266,
+    "deaths": 257,
+    "assists": 149,
+    "first_kills": 31,
+    "first_deaths": 44,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 21328,
+    "player_alias": "Wo0t",
+    "team_or_country": "TH",
+    "flag": "tr",
+    "agents": [
+      {
+        "agent": "chamber",
+        "pct": 33.0
+      },
+      {
+        "agent": "viper",
+        "pct": 25.0
+      },
+      {
+        "agent": "jett",
+        "pct": 17.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 256,
+    "rating": 1.03,
+    "acs": 210.0,
+    "kd": 1.05,
+    "kast_pct": 71.0,
+    "adr": 138.2,
+    "kpr": 0.75,
+    "apr": 0.16,
+    "fkfd": 1.13,
+    "fkpr": 0.13,
+    "fdpr": 0.12,
+    "hs_pct": 30.0,
+    "clutch_pct": 26.0,
+    "clutches_won": 7,
+    "clutches_played": 27,
+    "kmax": 25,
+    "kmax_match_url": "/542277/paper-rex-vs-team-heretics-valorant-champions-2025-lr2/?game=233493",
+    "kills": 193,
+    "deaths": 183,
+    "assists": 40,
+    "first_kills": 34,
+    "first_deaths": 30,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 37927,
+    "player_alias": "happywei",
+    "team_or_country": "XLG",
+    "flag": "tw",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 43.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 43.0
+      },
+      {
+        "agent": "omen",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 157,
+    "rating": 1.03,
+    "acs": 216.0,
+    "kd": 1.06,
+    "kast_pct": 70.0,
+    "adr": 145.8,
+    "kpr": 0.75,
+    "apr": 0.32,
+    "fkfd": 0.65,
+    "fkpr": 0.1,
+    "fdpr": 0.15,
+    "hs_pct": 39.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 2,
+    "clutches_played": 21,
+    "kmax": 24,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233408",
+    "kills": 118,
+    "deaths": 111,
+    "assists": 50,
+    "first_kills": 15,
+    "first_deaths": 23,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 457,
+    "player_alias": "nAts",
+    "team_or_country": "TL",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 57.0
+      },
+      {
+        "agent": "viper",
+        "pct": 29.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 148,
+    "rating": 1.02,
+    "acs": 194.0,
+    "kd": 1.06,
+    "kast_pct": 69.0,
+    "adr": 126.7,
+    "kpr": 0.69,
+    "apr": 0.18,
+    "fkfd": 1.0,
+    "fkpr": 0.11,
+    "fdpr": 0.11,
+    "hs_pct": 26.0,
+    "clutch_pct": 19.0,
+    "clutches_won": 4,
+    "clutches_played": 21,
+    "kmax": 27,
+    "kmax_match_url": "/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c/?game=233437",
+    "kills": 102,
+    "deaths": 96,
+    "assists": 27,
+    "first_kills": 16,
+    "first_deaths": 16,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 28400,
+    "player_alias": "HYUNMIN",
+    "team_or_country": "KRX",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "waylay",
+        "pct": 95.0
+      },
+      {
+        "agent": "raze",
+        "pct": 5.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 477,
+    "rating": 1.02,
+    "acs": 213.0,
+    "kd": 1.11,
+    "kast_pct": 68.0,
+    "adr": 141.3,
+    "kpr": 0.76,
+    "apr": 0.19,
+    "fkfd": 1.2,
+    "fkpr": 0.11,
+    "fdpr": 0.09,
+    "hs_pct": 40.0,
+    "clutch_pct": 6.0,
+    "clutches_won": 2,
+    "clutches_played": 36,
+    "kmax": 36,
+    "kmax_match_url": "/542278/drx-vs-paper-rex-valorant-champions-2025-lr3/?game=233495",
+    "kills": 362,
+    "deaths": 327,
+    "assists": 92,
+    "first_kills": 53,
+    "first_deaths": 44,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4462,
+    "player_alias": "MaKo",
+    "team_or_country": "KRX",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 82.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 18.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 477,
+    "rating": 1.01,
+    "acs": 172.0,
+    "kd": 1.02,
+    "kast_pct": 72.0,
+    "adr": 108.9,
+    "kpr": 0.61,
+    "apr": 0.37,
+    "fkfd": 0.86,
+    "fkpr": 0.08,
+    "fdpr": 0.09,
+    "hs_pct": 25.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 9,
+    "clutches_played": 68,
+    "kmax": 21,
+    "kmax_match_url": "/542273/drx-vs-g2-esports-valorant-champions-2025-lr1/?game=233485",
+    "kills": 291,
+    "deaths": 284,
+    "assists": 177,
+    "first_kills": 36,
+    "first_deaths": 42,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 9803,
+    "player_alias": "d4v41",
+    "team_or_country": "PRX",
+    "flag": "my",
+    "agents": [
+      {
+        "agent": "vyse",
+        "pct": 69.0
+      },
+      {
+        "agent": "viper",
+        "pct": 19.0
+      },
+      {
+        "agent": "sage",
+        "pct": 13.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 356,
+    "rating": 1.01,
+    "acs": 187.0,
+    "kd": 1.03,
+    "kast_pct": 71.0,
+    "adr": 127.3,
+    "kpr": 0.67,
+    "apr": 0.26,
+    "fkfd": 0.61,
+    "fkpr": 0.05,
+    "fdpr": 0.09,
+    "hs_pct": 27.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 9,
+    "clutches_played": 54,
+    "kmax": 20,
+    "kmax_match_url": "/542277/paper-rex-vs-team-heretics-valorant-champions-2025-lr2/?game=233492",
+    "kills": 238,
+    "deaths": 230,
+    "assists": 93,
+    "first_kills": 19,
+    "first_deaths": 31,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 36415,
+    "player_alias": "Viva",
+    "team_or_country": "XLG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 57.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 29.0
+      },
+      {
+        "agent": "fade",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 157,
+    "rating": 1.01,
+    "acs": 167.0,
+    "kd": 0.96,
+    "kast_pct": 73.0,
+    "adr": 119.6,
+    "kpr": 0.6,
+    "apr": 0.29,
+    "fkfd": 0.91,
+    "fkpr": 0.06,
+    "fdpr": 0.07,
+    "hs_pct": 34.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 3,
+    "clutches_played": 24,
+    "kmax": 23,
+    "kmax_match_url": "/542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a/?game=233409",
+    "kills": 94,
+    "deaths": 98,
+    "assists": 46,
+    "first_kills": 10,
+    "first_deaths": 11,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4,
+    "player_alias": "crashies",
+    "team_or_country": "FNC",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 55.0
+      },
+      {
+        "agent": "fade",
+        "pct": 45.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 453,
+    "rating": 1.0,
+    "acs": 180.0,
+    "kd": 0.97,
+    "kast_pct": 71.0,
+    "adr": 120.3,
+    "kpr": 0.62,
+    "apr": 0.28,
+    "fkfd": 0.8,
+    "fkpr": 0.06,
+    "fdpr": 0.08,
+    "hs_pct": 31.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 7,
+    "clutches_played": 49,
+    "kmax": 22,
+    "kmax_match_url": "/542272/nrg-vs-fnatic-valorant-champions-2025-gf/?game=233480",
+    "kills": 283,
+    "deaths": 292,
+    "assists": 129,
+    "first_kills": 28,
+    "first_deaths": 35,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 5132,
+    "player_alias": "mada",
+    "team_or_country": "NRG",
+    "flag": "ca",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 24.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 24.0
+      },
+      {
+        "agent": "neon",
+        "pct": 24.0
+      }
+    ],
+    "maps": 17,
+    "rounds": 377,
+    "rating": 1.0,
+    "acs": 214.0,
+    "kd": 1.06,
+    "kast_pct": 66.0,
+    "adr": 137.2,
+    "kpr": 0.75,
+    "apr": 0.19,
+    "fkfd": 0.84,
+    "fkpr": 0.17,
+    "fdpr": 0.2,
+    "hs_pct": 26.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 3,
+    "clutches_played": 20,
+    "kmax": 31,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 284,
+    "deaths": 268,
+    "assists": 71,
+    "first_kills": 65,
+    "first_deaths": 77,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 11494,
+    "player_alias": "keiko",
+    "team_or_country": "TL",
+    "flag": "gb",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 57.0
+      },
+      {
+        "agent": "raze",
+        "pct": 29.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 148,
+    "rating": 1.0,
+    "acs": 200.0,
+    "kd": 0.94,
+    "kast_pct": 70.0,
+    "adr": 131.0,
+    "kpr": 0.68,
+    "apr": 0.26,
+    "fkfd": 1.58,
+    "fkpr": 0.13,
+    "fdpr": 0.08,
+    "hs_pct": 35.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 2,
+    "clutches_played": 14,
+    "kmax": 18,
+    "kmax_match_url": "/542210/drx-vs-team-liquid-valorant-champions-2025-decider-c/?game=233439",
+    "kills": 101,
+    "deaths": 108,
+    "assists": 38,
+    "first_kills": 19,
+    "first_deaths": 12,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 34684,
+    "player_alias": "westside",
+    "team_or_country": "GX",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 77.0
+      },
+      {
+        "agent": "deadlock",
+        "pct": 15.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 8.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 261,
+    "rating": 1.0,
+    "acs": 187.0,
+    "kd": 1.0,
+    "kast_pct": 66.0,
+    "adr": 121.3,
+    "kpr": 0.69,
+    "apr": 0.19,
+    "fkfd": 0.85,
+    "fkpr": 0.09,
+    "fdpr": 0.1,
+    "hs_pct": 41.0,
+    "clutch_pct": 11.0,
+    "clutches_won": 4,
+    "clutches_played": 35,
+    "kmax": 20,
+    "kmax_match_url": "/542197/paper-rex-vs-giantx-valorant-champions-2025-winners-a/?game=233403",
+    "kills": 181,
+    "deaths": 181,
+    "assists": 49,
+    "first_kills": 23,
+    "first_deaths": 27,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 3017,
+    "player_alias": "nobody",
+    "team_or_country": "EDG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 60.0
+      },
+      {
+        "agent": "fade",
+        "pct": 40.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 119,
+    "rating": 0.99,
+    "acs": 171.0,
+    "kd": 0.97,
+    "kast_pct": 69.0,
+    "adr": 115.2,
+    "kpr": 0.62,
+    "apr": 0.16,
+    "fkfd": 0.63,
+    "fkpr": 0.04,
+    "fdpr": 0.07,
+    "hs_pct": 30.0,
+    "clutch_pct": 27.0,
+    "clutches_won": 3,
+    "clutches_played": 11,
+    "kmax": 20,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 74,
+    "deaths": 76,
+    "assists": 19,
+    "first_kills": 5,
+    "first_deaths": 8,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4164,
+    "player_alias": "s0m",
+    "team_or_country": "NRG",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 59.0
+      },
+      {
+        "agent": "harbor",
+        "pct": 24.0
+      },
+      {
+        "agent": "viper",
+        "pct": 18.0
+      }
+    ],
+    "maps": 17,
+    "rounds": 377,
+    "rating": 0.99,
+    "acs": 197.0,
+    "kd": 0.97,
+    "kast_pct": 75.0,
+    "adr": 124.2,
+    "kpr": 0.68,
+    "apr": 0.37,
+    "fkfd": 0.77,
+    "fkpr": 0.08,
+    "fdpr": 0.1,
+    "hs_pct": 24.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 5,
+    "clutches_played": 37,
+    "kmax": 23,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233431",
+    "kills": 258,
+    "deaths": 266,
+    "assists": 140,
+    "first_kills": 30,
+    "first_deaths": 39,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 5957,
+    "player_alias": "artzin",
+    "team_or_country": "MIBR",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "kayo",
+        "pct": 53.0
+      },
+      {
+        "agent": "viper",
+        "pct": 33.0
+      },
+      {
+        "agent": "yoru",
+        "pct": 13.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 330,
+    "rating": 0.99,
+    "acs": 202.0,
+    "kd": 1.05,
+    "kast_pct": 73.0,
+    "adr": 127.0,
+    "kpr": 0.66,
+    "apr": 0.38,
+    "fkfd": 0.82,
+    "fkpr": 0.12,
+    "fdpr": 0.15,
+    "hs_pct": 24.0,
+    "clutch_pct": 20.0,
+    "clutches_won": 3,
+    "clutches_played": 15,
+    "kmax": 24,
+    "kmax_match_url": "/542266/team-heretics-vs-mibr-valorant-champions-2025-ubqf/?game=233463",
+    "kills": 219,
+    "deaths": 209,
+    "assists": 124,
+    "first_kills": 41,
+    "first_deaths": 50,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4004,
+    "player_alias": "zekken",
+    "team_or_country": "SEN",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 67.0
+      },
+      {
+        "agent": "jett",
+        "pct": 17.0
+      },
+      {
+        "agent": "raze",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 0.98,
+    "acs": 229.0,
+    "kd": 0.94,
+    "kast_pct": 68.0,
+    "adr": 157.7,
+    "kpr": 0.75,
+    "apr": 0.31,
+    "fkfd": 0.77,
+    "fkpr": 0.16,
+    "fdpr": 0.21,
+    "hs_pct": 26.0,
+    "clutch_pct": 22.0,
+    "clutches_won": 2,
+    "clutches_played": 9,
+    "kmax": 23,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233407",
+    "kills": 94,
+    "deaths": 100,
+    "assists": 39,
+    "first_kills": 20,
+    "first_deaths": 26,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 11225,
+    "player_alias": "Ethan",
+    "team_or_country": "NRG",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 41.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 35.0
+      },
+      {
+        "agent": "fade",
+        "pct": 18.0
+      }
+    ],
+    "maps": 17,
+    "rounds": 377,
+    "rating": 0.98,
+    "acs": 176.0,
+    "kd": 0.93,
+    "kast_pct": 72.0,
+    "adr": 115.1,
+    "kpr": 0.6,
+    "apr": 0.42,
+    "fkfd": 0.65,
+    "fkpr": 0.07,
+    "fdpr": 0.11,
+    "hs_pct": 24.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 4,
+    "clutches_played": 24,
+    "kmax": 23,
+    "kmax_match_url": "/542272/nrg-vs-fnatic-valorant-champions-2025-gf/?game=233482",
+    "kills": 225,
+    "deaths": 243,
+    "assists": 157,
+    "first_kills": 28,
+    "first_deaths": 43,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 15500,
+    "player_alias": "trent",
+    "team_or_country": "G2",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "tejo",
+        "pct": 83.0
+      },
+      {
+        "agent": "fade",
+        "pct": 8.0
+      },
+      {
+        "agent": "sova",
+        "pct": 8.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 268,
+    "rating": 0.98,
+    "acs": 174.0,
+    "kd": 0.98,
+    "kast_pct": 72.0,
+    "adr": 117.6,
+    "kpr": 0.62,
+    "apr": 0.24,
+    "fkfd": 0.32,
+    "fkpr": 0.03,
+    "fdpr": 0.08,
+    "hs_pct": 31.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 6,
+    "clutches_played": 40,
+    "kmax": 21,
+    "kmax_match_url": "/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf/?game=233461",
+    "kills": 166,
+    "deaths": 170,
+    "assists": 63,
+    "first_kills": 7,
+    "first_deaths": 22,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 43057,
+    "player_alias": "DH",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 100.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 148,
+    "rating": 0.98,
+    "acs": 186.0,
+    "kd": 0.9,
+    "kast_pct": 68.0,
+    "adr": 122.4,
+    "kpr": 0.64,
+    "apr": 0.39,
+    "fkfd": 0.63,
+    "fkpr": 0.07,
+    "fdpr": 0.11,
+    "hs_pct": 34.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 4,
+    "clutches_played": 19,
+    "kmax": 27,
+    "kmax_match_url": "/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d/?game=233445",
+    "kills": 95,
+    "deaths": 106,
+    "assists": 57,
+    "first_kills": 10,
+    "first_deaths": 16,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4678,
+    "player_alias": "BeYN",
+    "team_or_country": "KRX",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 50.0
+      },
+      {
+        "agent": "fade",
+        "pct": 50.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 477,
+    "rating": 0.97,
+    "acs": 171.0,
+    "kd": 0.98,
+    "kast_pct": 71.0,
+    "adr": 114.5,
+    "kpr": 0.6,
+    "apr": 0.26,
+    "fkfd": 1.11,
+    "fkpr": 0.06,
+    "fdpr": 0.06,
+    "hs_pct": 28.0,
+    "clutch_pct": 23.0,
+    "clutches_won": 14,
+    "clutches_played": 61,
+    "kmax": 24,
+    "kmax_match_url": "/542276/mibr-vs-drx-valorant-champions-2025-lr2/?game=233490",
+    "kills": 288,
+    "deaths": 294,
+    "assists": 126,
+    "first_kills": 30,
+    "first_deaths": 27,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 11332,
+    "player_alias": "ara",
+    "team_or_country": "GX",
+    "flag": "ro",
+    "agents": [
+      {
+        "agent": "raze",
+        "pct": 38.0
+      },
+      {
+        "agent": "neon",
+        "pct": 31.0
+      },
+      {
+        "agent": "jett",
+        "pct": 23.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 261,
+    "rating": 0.97,
+    "acs": 199.0,
+    "kd": 1.01,
+    "kast_pct": 66.0,
+    "adr": 133.8,
+    "kpr": 0.72,
+    "apr": 0.13,
+    "fkfd": 1.2,
+    "fkpr": 0.18,
+    "fdpr": 0.15,
+    "hs_pct": 29.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 3,
+    "clutches_played": 21,
+    "kmax": 27,
+    "kmax_match_url": "/542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a/?game=233409",
+    "kills": 189,
+    "deaths": 187,
+    "assists": 35,
+    "first_kills": 48,
+    "first_deaths": 40,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 20240,
+    "player_alias": "xenom",
+    "team_or_country": "MIBR",
+    "flag": "br",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 67.0
+      },
+      {
+        "agent": "astra",
+        "pct": 20.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 13.0
+      }
+    ],
+    "maps": 15,
+    "rounds": 330,
+    "rating": 0.97,
+    "acs": 155.0,
+    "kd": 0.95,
+    "kast_pct": 78.0,
+    "adr": 96.1,
+    "kpr": 0.55,
+    "apr": 0.53,
+    "fkfd": 0.9,
+    "fkpr": 0.05,
+    "fdpr": 0.06,
+    "hs_pct": 24.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 3,
+    "clutches_played": 39,
+    "kmax": 18,
+    "kmax_match_url": "/542202/mibr-vs-fnatic-valorant-champions-2025-winners-b/?game=233420",
+    "kills": 180,
+    "deaths": 190,
+    "assists": 175,
+    "first_kills": 18,
+    "first_deaths": 20,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 24895,
+    "player_alias": "Jemkin",
+    "team_or_country": "RRQ",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 43.0
+      },
+      {
+        "agent": "yoru",
+        "pct": 29.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 29.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 137,
+    "rating": 0.97,
+    "acs": 216.0,
+    "kd": 1.06,
+    "kast_pct": 63.0,
+    "adr": 132.8,
+    "kpr": 0.74,
+    "apr": 0.13,
+    "fkfd": 1.28,
+    "fkpr": 0.17,
+    "fdpr": 0.13,
+    "hs_pct": 35.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 1,
+    "clutches_played": 13,
+    "kmax": 26,
+    "kmax_match_url": "/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b/?game=233423",
+    "kills": 102,
+    "deaths": 96,
+    "assists": 18,
+    "first_kills": 23,
+    "first_deaths": 18,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 22047,
+    "player_alias": "Rarga",
+    "team_or_country": "XLG",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 29.0
+      },
+      {
+        "agent": "raze",
+        "pct": 14.0
+      },
+      {
+        "agent": "sage",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 157,
+    "rating": 0.96,
+    "acs": 209.0,
+    "kd": 0.98,
+    "kast_pct": 73.0,
+    "adr": 129.8,
+    "kpr": 0.73,
+    "apr": 0.21,
+    "fkfd": 1.69,
+    "fkpr": 0.17,
+    "fdpr": 0.1,
+    "hs_pct": 34.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 1,
+    "clutches_played": 12,
+    "kmax": 21,
+    "kmax_match_url": "/542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a/?game=233409",
+    "kills": 115,
+    "deaths": 117,
+    "assists": 33,
+    "first_kills": 27,
+    "first_deaths": 16,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 36245,
+    "player_alias": "N4RRATE",
+    "team_or_country": "SEN",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 50.0
+      },
+      {
+        "agent": "sova",
+        "pct": 33.0
+      },
+      {
+        "agent": "omen",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 0.95,
+    "acs": 190.0,
+    "kd": 0.87,
+    "kast_pct": 70.0,
+    "adr": 121.2,
+    "kpr": 0.63,
+    "apr": 0.39,
+    "fkfd": 0.62,
+    "fkpr": 0.06,
+    "fdpr": 0.1,
+    "hs_pct": 26.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 3,
+    "clutches_played": 18,
+    "kmax": 19,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233406",
+    "kills": 79,
+    "deaths": 91,
+    "assists": 49,
+    "first_kills": 8,
+    "first_deaths": 13,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 14681,
+    "player_alias": "kamo",
+    "team_or_country": "TL",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "jett",
+        "pct": 43.0
+      },
+      {
+        "agent": "yoru",
+        "pct": 29.0
+      },
+      {
+        "agent": "raze",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 148,
+    "rating": 0.93,
+    "acs": 190.0,
+    "kd": 0.94,
+    "kast_pct": 63.0,
+    "adr": 128.4,
+    "kpr": 0.68,
+    "apr": 0.12,
+    "fkfd": 0.58,
+    "fkpr": 0.14,
+    "fdpr": 0.24,
+    "hs_pct": 32.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 2,
+    "clutches_played": 13,
+    "kmax": 22,
+    "kmax_match_url": "/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c/?game=233438",
+    "kills": 100,
+    "deaths": 106,
+    "assists": 18,
+    "first_kills": 21,
+    "first_deaths": 36,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 18350,
+    "player_alias": "MiniBoo",
+    "team_or_country": "TH",
+    "flag": "lt",
+    "agents": [
+      {
+        "agent": "yoru",
+        "pct": 50.0
+      },
+      {
+        "agent": "raze",
+        "pct": 33.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 17.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 256,
+    "rating": 0.93,
+    "acs": 204.0,
+    "kd": 0.95,
+    "kast_pct": 65.0,
+    "adr": 134.9,
+    "kpr": 0.71,
+    "apr": 0.16,
+    "fkfd": 1.09,
+    "fkpr": 0.19,
+    "fdpr": 0.17,
+    "hs_pct": 26.0,
+    "clutch_pct": 27.0,
+    "clutches_won": 3,
+    "clutches_played": 11,
+    "kmax": 23,
+    "kmax_match_url": "/542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d/?game=233442",
+    "kills": 183,
+    "deaths": 192,
+    "assists": 41,
+    "first_kills": 48,
+    "first_deaths": 44,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 6959,
+    "player_alias": "Flickless",
+    "team_or_country": "GX",
+    "flag": "be",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 46.0
+      },
+      {
+        "agent": "breach",
+        "pct": 31.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 23.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 261,
+    "rating": 0.92,
+    "acs": 174.0,
+    "kd": 0.83,
+    "kast_pct": 74.0,
+    "adr": 115.8,
+    "kpr": 0.56,
+    "apr": 0.47,
+    "fkfd": 0.88,
+    "fkpr": 0.06,
+    "fdpr": 0.07,
+    "hs_pct": 26.0,
+    "clutch_pct": 9.0,
+    "clutches_won": 3,
+    "clutches_played": 33,
+    "kmax": 17,
+    "kmax_match_url": "/542274/team-heretics-vs-giantx-valorant-champions-2025-lr1/?game=233488",
+    "kills": 146,
+    "deaths": 175,
+    "assists": 122,
+    "first_kills": 15,
+    "first_deaths": 17,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 8497,
+    "player_alias": "Monyet",
+    "team_or_country": "RRQ",
+    "flag": "id",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 71.0
+      },
+      {
+        "agent": "raze",
+        "pct": 14.0
+      },
+      {
+        "agent": "neon",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 137,
+    "rating": 0.92,
+    "acs": 175.0,
+    "kd": 0.88,
+    "kast_pct": 69.0,
+    "adr": 109.6,
+    "kpr": 0.61,
+    "apr": 0.4,
+    "fkfd": 0.58,
+    "fkpr": 0.05,
+    "fdpr": 0.09,
+    "hs_pct": 28.0,
+    "clutch_pct": 11.0,
+    "clutches_won": 2,
+    "clutches_played": 19,
+    "kmax": 21,
+    "kmax_match_url": "/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b/?game=233422",
+    "kills": 84,
+    "deaths": 96,
+    "assists": 55,
+    "first_kills": 7,
+    "first_deaths": 12,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4581,
+    "player_alias": "JonahP",
+    "team_or_country": "G2",
+    "flag": "ca",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 67.0
+      },
+      {
+        "agent": "sova",
+        "pct": 17.0
+      },
+      {
+        "agent": "sage",
+        "pct": 8.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 268,
+    "rating": 0.91,
+    "acs": 173.0,
+    "kd": 0.84,
+    "kast_pct": 71.0,
+    "adr": 108.3,
+    "kpr": 0.58,
+    "apr": 0.37,
+    "fkfd": 0.79,
+    "fkpr": 0.08,
+    "fdpr": 0.1,
+    "hs_pct": 19.0,
+    "clutch_pct": 21.0,
+    "clutches_won": 5,
+    "clutches_played": 24,
+    "kmax": 26,
+    "kmax_match_url": "/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf/?game=233461",
+    "kills": 155,
+    "deaths": 184,
+    "assists": 99,
+    "first_kills": 22,
+    "first_deaths": 28,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4866,
+    "player_alias": "Kushy",
+    "team_or_country": "RRQ",
+    "flag": "id",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 43.0
+      },
+      {
+        "agent": "kayo",
+        "pct": 43.0
+      },
+      {
+        "agent": "sova",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 137,
+    "rating": 0.91,
+    "acs": 179.0,
+    "kd": 0.85,
+    "kast_pct": 66.0,
+    "adr": 120.7,
+    "kpr": 0.63,
+    "apr": 0.29,
+    "fkfd": 0.59,
+    "fkpr": 0.07,
+    "fdpr": 0.12,
+    "hs_pct": 40.0,
+    "clutch_pct": 14.0,
+    "clutches_won": 2,
+    "clutches_played": 14,
+    "kmax": 20,
+    "kmax_match_url": "/542201/rex-regum-qeon-vs-fnatic-valorant-champions-2025-opening-b/?game=233415",
+    "kills": 86,
+    "deaths": 101,
+    "assists": 40,
+    "first_kills": 10,
+    "first_deaths": 17,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 438,
+    "player_alias": "Boaster",
+    "team_or_country": "FNC",
+    "flag": "gb",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 59.0
+      },
+      {
+        "agent": "astra",
+        "pct": 41.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 453,
+    "rating": 0.89,
+    "acs": 145.0,
+    "kd": 0.77,
+    "kast_pct": 70.0,
+    "adr": 94.0,
+    "kpr": 0.49,
+    "apr": 0.38,
+    "fkfd": 0.5,
+    "fkpr": 0.04,
+    "fdpr": 0.08,
+    "hs_pct": 22.0,
+    "clutch_pct": 16.0,
+    "clutches_won": 5,
+    "clutches_played": 31,
+    "kmax": 24,
+    "kmax_match_url": "/542201/rex-regum-qeon-vs-fnatic-valorant-champions-2025-opening-b/?game=233416",
+    "kills": 220,
+    "deaths": 285,
+    "assists": 172,
+    "first_kills": 18,
+    "first_deaths": 36,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 15559,
+    "player_alias": "CHICHOO",
+    "team_or_country": "EDG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "viper",
+        "pct": 40.0
+      },
+      {
+        "agent": "sage",
+        "pct": 20.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 119,
+    "rating": 0.89,
+    "acs": 158.0,
+    "kd": 0.9,
+    "kast_pct": 69.0,
+    "adr": 113.5,
+    "kpr": 0.59,
+    "apr": 0.25,
+    "fkfd": 0.8,
+    "fkpr": 0.07,
+    "fdpr": 0.08,
+    "hs_pct": 21.0,
+    "clutch_pct": 15.0,
+    "clutches_won": 2,
+    "clutches_played": 13,
+    "kmax": 21,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 70,
+    "deaths": 78,
+    "assists": 30,
+    "first_kills": 8,
+    "first_deaths": 10,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 29873,
+    "player_alias": "benjyfishy",
+    "team_or_country": "TH",
+    "flag": "gb",
+    "agents": [
+      {
+        "agent": "deadlock",
+        "pct": 33.0
+      },
+      {
+        "agent": "vyse",
+        "pct": 25.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 25.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 256,
+    "rating": 0.89,
+    "acs": 175.0,
+    "kd": 0.83,
+    "kast_pct": 71.0,
+    "adr": 115.0,
+    "kpr": 0.59,
+    "apr": 0.28,
+    "fkfd": 0.94,
+    "fkpr": 0.06,
+    "fdpr": 0.07,
+    "hs_pct": 27.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 6,
+    "clutches_played": 35,
+    "kmax": 25,
+    "kmax_match_url": "/542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d/?game=233442",
+    "kills": 152,
+    "deaths": 184,
+    "assists": 71,
+    "first_kills": 16,
+    "first_deaths": 17,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 1144,
+    "player_alias": "Boo",
+    "team_or_country": "TH",
+    "flag": "lt",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 67.0
+      },
+      {
+        "agent": "astra",
+        "pct": 17.0
+      },
+      {
+        "agent": "brimstone",
+        "pct": 17.0
+      }
+    ],
+    "maps": 12,
+    "rounds": 256,
+    "rating": 0.88,
+    "acs": 144.0,
+    "kd": 0.74,
+    "kast_pct": 71.0,
+    "adr": 93.1,
+    "kpr": 0.5,
+    "apr": 0.53,
+    "fkfd": 0.61,
+    "fkpr": 0.05,
+    "fdpr": 0.09,
+    "hs_pct": 31.0,
+    "clutch_pct": 17.0,
+    "clutches_won": 8,
+    "clutches_played": 46,
+    "kmax": 16,
+    "kmax_match_url": "/542274/team-heretics-vs-giantx-valorant-champions-2025-lr1/?game=233488",
+    "kills": 128,
+    "deaths": 172,
+    "assists": 135,
+    "first_kills": 14,
+    "first_deaths": 23,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 2168,
+    "player_alias": "trexx",
+    "team_or_country": "TL",
+    "flag": "ru",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 43.0
+      },
+      {
+        "agent": "gekko",
+        "pct": 14.0
+      },
+      {
+        "agent": "fade",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 148,
+    "rating": 0.87,
+    "acs": 160.0,
+    "kd": 0.73,
+    "kast_pct": 63.0,
+    "adr": 109.7,
+    "kpr": 0.51,
+    "apr": 0.26,
+    "fkfd": 0.6,
+    "fkpr": 0.04,
+    "fdpr": 0.07,
+    "hs_pct": 20.0,
+    "clutch_pct": 4.0,
+    "clutches_won": 1,
+    "clutches_played": 24,
+    "kmax": 17,
+    "kmax_match_url": "/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c/?game=233438",
+    "kills": 76,
+    "deaths": 104,
+    "assists": 39,
+    "first_kills": 6,
+    "first_deaths": 10,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 1916,
+    "player_alias": "free1ng",
+    "team_or_country": "KRX",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "vyse",
+        "pct": 41.0
+      },
+      {
+        "agent": "cypher",
+        "pct": 36.0
+      },
+      {
+        "agent": "viper",
+        "pct": 23.0
+      }
+    ],
+    "maps": 22,
+    "rounds": 477,
+    "rating": 0.86,
+    "acs": 160.0,
+    "kd": 0.88,
+    "kast_pct": 68.0,
+    "adr": 107.1,
+    "kpr": 0.57,
+    "apr": 0.2,
+    "fkfd": 1.0,
+    "fkpr": 0.09,
+    "fdpr": 0.09,
+    "hs_pct": 35.0,
+    "clutch_pct": 16.0,
+    "clutches_won": 8,
+    "clutches_played": 51,
+    "kmax": 23,
+    "kmax_match_url": "/542276/mibr-vs-drx-valorant-champions-2025-lr2/?game=233490",
+    "kills": 270,
+    "deaths": 308,
+    "assists": 97,
+    "first_kills": 43,
+    "first_deaths": 43,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 804,
+    "player_alias": "BuZz",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 100.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 148,
+    "rating": 0.85,
+    "acs": 190.0,
+    "kd": 0.92,
+    "kast_pct": 69.0,
+    "adr": 127.4,
+    "kpr": 0.7,
+    "apr": 0.25,
+    "fkfd": 0.33,
+    "fkpr": 0.06,
+    "fdpr": 0.18,
+    "hs_pct": 25.0,
+    "clutch_pct": 38.0,
+    "clutches_won": 3,
+    "clutches_played": 8,
+    "kmax": 31,
+    "kmax_match_url": "/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d/?game=233446",
+    "kills": 103,
+    "deaths": 112,
+    "assists": 37,
+    "first_kills": 9,
+    "first_deaths": 27,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 4871,
+    "player_alias": "xffero",
+    "team_or_country": "RRQ",
+    "flag": "id",
+    "agents": [
+      {
+        "agent": "cypher",
+        "pct": 71.0
+      },
+      {
+        "agent": "viper",
+        "pct": 29.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 137,
+    "rating": 0.85,
+    "acs": 172.0,
+    "kd": 0.88,
+    "kast_pct": 66.0,
+    "adr": 113.5,
+    "kpr": 0.61,
+    "apr": 0.2,
+    "fkfd": 1.0,
+    "fkpr": 0.12,
+    "fdpr": 0.12,
+    "hs_pct": 27.0,
+    "clutch_pct": 8.0,
+    "clutches_won": 1,
+    "clutches_played": 12,
+    "kmax": 16,
+    "kmax_match_url": "/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b/?game=233422",
+    "kills": 83,
+    "deaths": 94,
+    "assists": 27,
+    "first_kills": 16,
+    "first_deaths": 16,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 13744,
+    "player_alias": "PatMen",
+    "team_or_country": "PRX",
+    "flag": "ph",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 63.0
+      },
+      {
+        "agent": "sova",
+        "pct": 25.0
+      },
+      {
+        "agent": "viper",
+        "pct": 13.0
+      }
+    ],
+    "maps": 16,
+    "rounds": 356,
+    "rating": 0.84,
+    "acs": 158.0,
+    "kd": 0.83,
+    "kast_pct": 68.0,
+    "adr": 106.5,
+    "kpr": 0.55,
+    "apr": 0.21,
+    "fkfd": 0.64,
+    "fkpr": 0.04,
+    "fdpr": 0.06,
+    "hs_pct": 31.0,
+    "clutch_pct": 5.0,
+    "clutches_won": 2,
+    "clutches_played": 42,
+    "kmax": 21,
+    "kmax_match_url": "/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf/?game=233461",
+    "kills": 196,
+    "deaths": 235,
+    "assists": 76,
+    "first_kills": 14,
+    "first_deaths": 22,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 5550,
+    "player_alias": "grubinho",
+    "team_or_country": "GX",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 85.0
+      },
+      {
+        "agent": "astra",
+        "pct": 15.0
+      }
+    ],
+    "maps": 13,
+    "rounds": 261,
+    "rating": 0.83,
+    "acs": 169.0,
+    "kd": 0.8,
+    "kast_pct": 70.0,
+    "adr": 108.0,
+    "kpr": 0.6,
+    "apr": 0.39,
+    "fkfd": 1.11,
+    "fkpr": 0.11,
+    "fdpr": 0.1,
+    "hs_pct": 29.0,
+    "clutch_pct": 22.0,
+    "clutches_won": 4,
+    "clutches_played": 18,
+    "kmax": 17,
+    "kmax_match_url": "/542196/giantx-vs-sentinels-valorant-champions-2025-opening-a/?game=233402",
+    "kills": 156,
+    "deaths": 196,
+    "assists": 102,
+    "first_kills": 30,
+    "first_deaths": 27,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 1430,
+    "player_alias": "crazyguy",
+    "team_or_country": "RRQ",
+    "flag": "vn",
+    "agents": [
+      {
+        "agent": "sova",
+        "pct": 43.0
+      },
+      {
+        "agent": "omen",
+        "pct": 29.0
+      },
+      {
+        "agent": "tejo",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 137,
+    "rating": 0.82,
+    "acs": 152.0,
+    "kd": 0.71,
+    "kast_pct": 68.0,
+    "adr": 109.8,
+    "kpr": 0.49,
+    "apr": 0.33,
+    "fkfd": 0.42,
+    "fkpr": 0.04,
+    "fdpr": 0.09,
+    "hs_pct": 24.0,
+    "clutch_pct": 13.0,
+    "clutches_won": 3,
+    "clutches_played": 24,
+    "kmax": 15,
+    "kmax_match_url": "/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b/?game=233422",
+    "kills": 67,
+    "deaths": 94,
+    "assists": 45,
+    "first_kills": 5,
+    "first_deaths": 12,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 51244,
+    "player_alias": "Jieni7",
+    "team_or_country": "EDG",
+    "flag": "cn",
+    "agents": [
+      {
+        "agent": "neon",
+        "pct": 40.0
+      },
+      {
+        "agent": "breach",
+        "pct": 20.0
+      },
+      {
+        "agent": "waylay",
+        "pct": 20.0
+      }
+    ],
+    "maps": 5,
+    "rounds": 119,
+    "rating": 0.82,
+    "acs": 192.0,
+    "kd": 0.83,
+    "kast_pct": 67.0,
+    "adr": 117.9,
+    "kpr": 0.65,
+    "apr": 0.23,
+    "fkfd": 1.4,
+    "fkpr": 0.12,
+    "fdpr": 0.08,
+    "hs_pct": 26.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 2,
+    "kmax": 21,
+    "kmax_match_url": "/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c/?game=233430",
+    "kills": 77,
+    "deaths": 93,
+    "assists": 27,
+    "first_kills": 14,
+    "first_deaths": 10,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 309,
+    "player_alias": "paTiTek",
+    "team_or_country": "TL",
+    "flag": "pl",
+    "agents": [
+      {
+        "agent": "kayo",
+        "pct": 43.0
+      },
+      {
+        "agent": "fade",
+        "pct": 29.0
+      },
+      {
+        "agent": "skye",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 148,
+    "rating": 0.81,
+    "acs": 157.0,
+    "kd": 0.74,
+    "kast_pct": 66.0,
+    "adr": 101.1,
+    "kpr": 0.53,
+    "apr": 0.36,
+    "fkfd": 0.5,
+    "fkpr": 0.03,
+    "fdpr": 0.05,
+    "hs_pct": 27.0,
+    "clutch_pct": 9.0,
+    "clutches_won": 1,
+    "clutches_played": 11,
+    "kmax": 16,
+    "kmax_match_url": "/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c/?game=233438",
+    "kills": 78,
+    "deaths": 106,
+    "assists": 54,
+    "first_kills": 4,
+    "first_deaths": 8,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 729,
+    "player_alias": "Zellsis",
+    "team_or_country": "SEN",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "vyse",
+        "pct": 33.0
+      },
+      {
+        "agent": "killjoy",
+        "pct": 33.0
+      },
+      {
+        "agent": "breach",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 0.8,
+    "acs": 152.0,
+    "kd": 0.77,
+    "kast_pct": 67.0,
+    "adr": 99.7,
+    "kpr": 0.54,
+    "apr": 0.27,
+    "fkfd": 1.21,
+    "fkpr": 0.13,
+    "fdpr": 0.11,
+    "hs_pct": 20.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 13,
+    "kmax": 16,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233406",
+    "kills": 68,
+    "deaths": 88,
+    "assists": 34,
+    "first_kills": 17,
+    "first_deaths": 14,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 3880,
+    "player_alias": "bang",
+    "team_or_country": "SEN",
+    "flag": "us",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 83.0
+      },
+      {
+        "agent": "astra",
+        "pct": 17.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 126,
+    "rating": 0.79,
+    "acs": 141.0,
+    "kd": 0.79,
+    "kast_pct": 67.0,
+    "adr": 92.4,
+    "kpr": 0.53,
+    "apr": 0.29,
+    "fkfd": 0.64,
+    "fkpr": 0.06,
+    "fdpr": 0.09,
+    "hs_pct": 35.0,
+    "clutch_pct": 11.0,
+    "clutches_won": 1,
+    "clutches_played": 9,
+    "kmax": 15,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233406",
+    "kills": 67,
+    "deaths": 85,
+    "assists": 37,
+    "first_kills": 7,
+    "first_deaths": 11,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 12365,
+    "player_alias": "coconut",
+    "team_or_country": "XLG",
+    "flag": "hk",
+    "agents": [
+      {
+        "agent": "omen",
+        "pct": 57.0
+      },
+      {
+        "agent": "gekko",
+        "pct": 29.0
+      },
+      {
+        "agent": "astra",
+        "pct": 14.0
+      }
+    ],
+    "maps": 7,
+    "rounds": 157,
+    "rating": 0.77,
+    "acs": 150.0,
+    "kd": 0.71,
+    "kast_pct": 71.0,
+    "adr": 92.6,
+    "kpr": 0.5,
+    "apr": 0.44,
+    "fkfd": 1.09,
+    "fkpr": 0.08,
+    "fdpr": 0.07,
+    "hs_pct": 30.0,
+    "clutch_pct": 0.0,
+    "clutches_won": 0,
+    "clutches_played": 11,
+    "kmax": 16,
+    "kmax_match_url": "/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a/?game=233407",
+    "kills": 79,
+    "deaths": 112,
+    "assists": 69,
+    "first_kills": 12,
+    "first_deaths": 11,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  },
+  {
+    "player_id": 485,
+    "player_alias": "stax",
+    "team_or_country": "T1",
+    "flag": "kr",
+    "agents": [
+      {
+        "agent": "fade",
+        "pct": 67.0
+      },
+      {
+        "agent": "sova",
+        "pct": 33.0
+      }
+    ],
+    "maps": 6,
+    "rounds": 148,
+    "rating": 0.75,
+    "acs": 147.0,
+    "kd": 0.69,
+    "kast_pct": 66.0,
+    "adr": 98.8,
+    "kpr": 0.49,
+    "apr": 0.31,
+    "fkfd": 0.4,
+    "fkpr": 0.03,
+    "fdpr": 0.07,
+    "hs_pct": 38.0,
+    "clutch_pct": 10.0,
+    "clutches_won": 2,
+    "clutches_played": 20,
+    "kmax": 16,
+    "kmax_match_url": "/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d/?game=233445",
+    "kills": 73,
+    "deaths": 106,
+    "assists": 46,
+    "first_kills": 4,
+    "first_deaths": 10,
+    "source": "event:2283",
+    "filters": {
+      "side": "all",
+      "role": "all",
+      "agent": "all",
+      "map_id": "all",
+      "min_rounds": "100"
+    }
+  }
+]

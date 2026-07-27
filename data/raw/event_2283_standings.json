@@ -1,0 +1,74 @@
+[
+  {
+    "event_id": 2283,
+    "place_display": "1st",
+    "place_rank": 1,
+    "prize": "$1,000,000",
+    "team_id": 1034,
+    "team_name": "NRG",
+    "team_country": "United States"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "2nd",
+    "place_rank": 2,
+    "prize": "$400,000",
+    "team_id": 2593,
+    "team_name": "FNATIC",
+    "team_country": "Europe"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "3rd",
+    "place_rank": 3,
+    "prize": "$250,000",
+    "team_id": 8185,
+    "team_name": "KIWOOM DRX",
+    "team_country": "South Korea"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "4th",
+    "place_rank": 4,
+    "prize": "$130,000",
+    "team_id": 624,
+    "team_name": "Paper Rex",
+    "team_country": "Singapore"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "5th–6th",
+    "place_rank": 5,
+    "prize": "$85,000",
+    "team_id": 7386,
+    "team_name": "MIBR",
+    "team_country": "Brazil"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "5th–6th",
+    "place_rank": 5,
+    "prize": "$85,000",
+    "team_id": 1001,
+    "team_name": "Team Heretics",
+    "team_country": "Europe"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "7th–8th",
+    "place_rank": 7,
+    "prize": "$50,000",
+    "team_id": 11058,
+    "team_name": "G2 Esports",
+    "team_country": "United States"
+  },
+  {
+    "event_id": 2283,
+    "place_display": "7th–8th",
+    "place_rank": 7,
+    "prize": "$50,000",
+    "team_id": 14419,
+    "team_name": "GIANTX",
+    "team_country": "Europe"
+  }
+]

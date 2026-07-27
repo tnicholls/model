@@ -1,0 +1,69 @@
+{
+  "match_id": 706368,
+  "match_url": "/706368/envy-vs-furia-vct-2026-americas-stage-2-w3",
+  "date_display": "Sat, August 1, 2026",
+  "time_display": "4:00 PM",
+  "team1": "ENVY",
+  "team2": "FURIA",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-27T20:29:20.253989+00:00",
+  "lines": [
+    {
+      "match_id": 706368,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50589",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 2.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32235294117647056,
+      "source": "match:706368"
+    },
+    {
+      "match_id": 706368,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50589",
+      "stage": "pre-match",
+      "team": "FURIA",
+      "team_tag": "FUR",
+      "decimal_odds": 1.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6776470588235294,
+      "source": "match:706368"
+    },
+    {
+      "match_id": 706368,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50592",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 2.96,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31797235023041476,
+      "source": "match:706368"
+    },
+    {
+      "match_id": 706368,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50592",
+      "stage": "pre-match",
+      "team": "FURIA",
+      "team_tag": "FUR",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6820276497695854,
+      "source": "match:706368"
+    }
+  ]
+}
