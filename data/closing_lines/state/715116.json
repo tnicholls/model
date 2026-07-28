@@ -7,7 +7,7 @@
   "team2": "Contra",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-28T17:18:26.936757+00:00",
+  "captured_at": "2026-07-28T17:34:52.291120+00:00",
   "lines": [
     {
       "match_id": 715116,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6493827160493827,
+      "implied_prob_fair": 0.6502463054187192,
       "source": "match:715116"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.63,
+      "decimal_odds": 2.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3802281368821293,
-      "implied_prob_fair": 0.3506172839506173,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.34975369458128075,
       "source": "match:715116"
     },
     {

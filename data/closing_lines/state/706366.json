@@ -7,8 +7,36 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T17:19:01.384970+00:00",
+  "captured_at": "2026-07-28T17:35:26.562737+00:00",
   "lines": [
+    {
+      "match_id": 706366,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50558",
+      "stage": "pre-match",
+      "team": "Cloud9",
+      "team_tag": "C9",
+      "decimal_odds": 1.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48525469168900803,
+      "source": "match:706366"
+    },
+    {
+      "match_id": 706366,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50558",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.81,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.514745308310992,
+      "source": "match:706366"
+    },
     {
       "match_id": 706366,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4511873350923483,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4397905759162304,
       "source": "match:706366"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5488126649076518,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5602094240837696,
       "source": "match:706366"
     }
   ]
