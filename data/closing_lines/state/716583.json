@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T16:45:29.378824+00:00",
+  "captured_at": "2026-07-28T17:01:54.805986+00:00",
   "lines": [
     {
       "match_id": 716583,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5789473684210527,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.575197889182058,
       "source": "match:716583"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42105263157894735,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.42480211081794195,
       "source": "match:716583"
     },
     {
