@@ -287,6 +287,31 @@ def parse_agent_pick_rates(html: str, event_id: int) -> list[AgentMapPickRate]:
     """Parse an event's `/event/agents/{id}/{slug}` "Agent Pick Rates and
     Compositions" page: one row per map (plus an event-wide "All" row) x one
     column per agent, giving that agent's pick rate on that map.
+
+    NOT covered here or anywhere else in this codebase: rating (R2.0) broken
+    down by agent AND map together (e.g. "Sova's average rating on Haven").
+    The global /stats page (see cmd_stats in cli.py) has `agent` and `map_id`
+    query params that look like they'd give this, but they're a dead end for
+    plain HTTP requests -- confirmed by testing both directly: requesting
+    /stats with agent=sova or map_id=haven returns byte-identical results to
+    the unfiltered page. Only the coarse filters (tier, region, span) are
+    server-rendered from the query string; the granular ones (agent, map_id,
+    side, role) only take effect through the page's own "Apply Filter"
+    button/JS, which a bare `requests.get()` doesn't trigger -- likely
+    session- or Referer-gated, not just a param-naming issue (both `agent`
+    and `map_id` were tested and both no-op).
+
+    To actually get this stat, one of:
+      (a) proxy it: for a given map, take players whose dominant pick on
+          that map is agent X (>~50% from parse_stats_table's `agents` list)
+          and use their overall rating as an estimate -- fast, reuses
+          existing scraping, but conflates player skill with agent effect;
+      (b) do it for real via browser automation driving the actual
+          Apply-Filter click per (map, agent) combo -- exact, but one real
+          page load per combo (7 maps x 29 agents = ~200 loads minimum).
+    Neither is implemented. (a) was proposed and explicitly declined in
+    favor of shipping pick-rate-by-player/team/map first; (b) wasn't
+    attempted at all.
     """
     soup = BeautifulSoup(html, "lxml")
     table = soup.find("table", class_="mod-pr-global")
@@ -532,3 +557,26 @@ def parse_match_odds(html: str, match_id: int, source: str = "") -> list[BetLine
             )
         )
     return lines
+
+
+_EVENT_HREF_RE = re.compile(r"/event/(\d+)/")
+
+
+def parse_events_list(html: str) -> list[dict]:
+    """Parse a `/events` listing page into [{event_id, name, status}, ...]."""
+    soup = BeautifulSoup(html, "lxml")
+    out: list[dict] = []
+    for a in soup.find_all("a", class_="event-item"):
+        m = _EVENT_HREF_RE.search(a.get("href", ""))
+        if not m:
+            continue
+        title_div = a.find(class_="event-item-title")
+        status_div = a.find(class_="event-item-desc-item-status")
+        out.append(
+            {
+                "event_id": int(m.group(1)),
+                "name": _clean(title_div.get_text()) if title_div else None,
+                "status": _clean(status_div.get_text()) if status_div else None,
+            }
+        )
+    return out

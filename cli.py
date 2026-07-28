@@ -80,13 +80,16 @@ def cmd_stats(args: argparse.Namespace) -> None:
         source = f"event:{args.event_id}"
     else:
         path = "/stats"
+        # NOTE: the live site's actual query params are tier/region/span, not
+        # event_group_id/event_id/timespan (confirmed via the site's own
+        # <select> elements and the URL produced by its "Apply Filter"
+        # button) -- the old param names here were silently no-ops.
         params.update(
             {
-                "event_group_id": "all",
-                "event_id": "all",
+                "tier": args.tier,
                 "region": args.region,
                 "min_rating": args.min_rating,
-                "timespan": args.timespan,
+                "span": args.timespan,
             }
         )
         source = "global"
@@ -255,7 +258,8 @@ def build_parser() -> argparse.ArgumentParser:
     stats_p.add_argument("--min-rounds", dest="min_rounds", default="0")
     stats_p.add_argument("--min-rating", dest="min_rating", default="0", help="Global stats only")
     stats_p.add_argument("--region", default="all", help="Global stats only")
-    stats_p.add_argument("--timespan", default="all", help="Global stats only, e.g. 30d/60d/90d/all")
+    stats_p.add_argument("--tier", default="all", help="Global stats only, e.g. vct/vcl/t3/gc/cg/off/all")
+    stats_p.add_argument("--timespan", default="all", help="Global stats only, e.g. 30d/60d/90d/2026/.../all")
     stats_p.add_argument("--sort", default=None, help="Column to sort by, e.g. rating2, acs, adr")
     stats_p.add_argument("--dir", default="desc", choices=["asc", "desc"])
     stats_p.add_argument("--out", required=True, help="Output raw JSON path")
