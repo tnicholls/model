@@ -6,7 +6,7 @@ import csv
 import json
 from pathlib import Path
 
-from .models import BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
+from .models import AgentMapPickRate, BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
 
 
 def save_json(data, path: str | Path) -> None:
@@ -56,6 +56,10 @@ def matches_to_rows(matches: list[MatchSummary]) -> list[dict]:
 
 def odds_to_rows(lines: list[BetLine]) -> list[dict]:
     return [b.to_dict() for b in lines]
+
+
+def agent_pick_rates_to_rows(entries: list[AgentMapPickRate]) -> list[dict]:
+    return [e.to_dict() for e in entries]
 
 
 def roster_to_rows(team: TeamInfo) -> list[dict]:

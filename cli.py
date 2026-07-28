@@ -7,6 +7,7 @@ Examples:
         --out data/raw/global_stats.json
     python cli.py standings --event-id 2283 --out data/raw/event_2283_standings.json
     python cli.py team --team-id 1034 --out data/raw/team_1034.json
+    python cli.py agents --event-id 2283 --out data/raw/event_2283_agents.json
     python cli.py matches --event-id 2283 --out data/raw/event_2283_matches.json
     python cli.py matches --status results --pages 3 --out data/raw/global_results.json
     python cli.py matches --status upcoming --out data/raw/global_upcoming.json
@@ -25,6 +26,8 @@ Examples:
         --out data/processed/event_2283_odds.csv
     python cli.py flatten team --input data/raw/team_1034.json \
         --out data/processed/team_1034_roster.csv
+    python cli.py flatten agents --input data/raw/event_2283_agents.json \
+        --out data/processed/event_2283_agents.csv
 
     python cli.py closing poll     # snapshot upcoming odds + finalize newly-completed matches
     python cli.py closing export   # rebuild data/closing_lines/valorant_closing_lines.xlsx
@@ -38,9 +41,17 @@ import sys
 
 from vlr_scraper import closing_lines, veto
 from vlr_scraper.fetch import Fetcher
-from vlr_scraper.models import BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
-from vlr_scraper.parse import parse_event_standings, parse_match_odds, parse_matches, parse_stats_table, parse_team
+from vlr_scraper.models import AgentMapPickRate, BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
+from vlr_scraper.parse import (
+    parse_agent_pick_rates,
+    parse_event_standings,
+    parse_match_odds,
+    parse_matches,
+    parse_stats_table,
+    parse_team,
+)
 from vlr_scraper.storage import (
+    agent_pick_rates_to_rows,
     load_json,
     matches_to_rows,
     odds_to_rows,
@@ -151,6 +162,16 @@ def cmd_team(args: argparse.Namespace) -> None:
     print(f"Wrote {args.out}", file=sys.stderr)
 
 
+def cmd_agents(args: argparse.Namespace) -> None:
+    with Fetcher() as fetcher:
+        html = fetcher.get_html(f"/event/agents/{args.event_id}", params={"map_id": "all"})
+
+    entries = parse_agent_pick_rates(html, event_id=args.event_id)
+    print(f"Parsed {len(entries)} agent/map pick-rate rows for event {args.event_id}", file=sys.stderr)
+    save_json([e.to_dict() for e in entries], args.out)
+    print(f"Wrote {args.out}", file=sys.stderr)
+
+
 def cmd_closing(args: argparse.Namespace) -> None:
     if args.action in ("poll", "run"):
         summary = closing_lines.poll_once(upcoming_pages=args.upcoming_pages, results_pages=args.results_pages)
@@ -200,6 +221,8 @@ def cmd_flatten(args: argparse.Namespace) -> None:
         rows = matches_to_rows([MatchSummary(**d) for d in data])
     elif args.kind == "odds":
         rows = odds_to_rows([BetLine(**d) for d in data])
+    elif args.kind == "agents":
+        rows = agent_pick_rates_to_rows([AgentMapPickRate(**d) for d in data])
     elif args.kind == "team":
         team = TeamInfo(
             team_id=data["team_id"],
@@ -266,6 +289,11 @@ def build_parser() -> argparse.ArgumentParser:
     team_p.add_argument("--out", required=True, help="Output raw JSON path")
     team_p.set_defaults(func=cmd_team)
 
+    agents_p = sub.add_parser("agents", help="Scrape an event's agent pick rates by map")
+    agents_p.add_argument("--event-id", type=int, required=True)
+    agents_p.add_argument("--out", required=True, help="Output raw JSON path")
+    agents_p.set_defaults(func=cmd_agents)
+
     closing_p = sub.add_parser(
         "closing",
         help="Poll upcoming/live matches for pre-match odds and finalize closing lines + vig once matches complete",
@@ -284,7 +312,7 @@ def build_parser() -> argparse.ArgumentParser:
     veto_p.set_defaults(func=cmd_veto)
 
     flatten_p = sub.add_parser("flatten", help="Flatten a raw JSON file into a tabular CSV")
-    flatten_p.add_argument("kind", choices=["stats", "standings", "matches", "odds", "team"])
+    flatten_p.add_argument("kind", choices=["stats", "standings", "matches", "odds", "team", "agents"])
     flatten_p.add_argument("--input", required=True, help="Raw JSON path produced by stats/standings/team")
     flatten_p.add_argument("--out", required=True, help="Output CSV path")
     flatten_p.set_defaults(func=cmd_flatten)

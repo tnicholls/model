@@ -133,6 +133,23 @@ class BetLine:
 
 
 @dataclass
+class AgentMapPickRate:
+    """One (map, agent) pick-rate row from an event's `/event/agents/{id}/{slug}`
+    page. `map_name` is "All" for the table's event-wide aggregate row."""
+
+    event_id: int
+    map_name: str
+    games: int | None
+    atk_win_pct: float | None
+    def_win_pct: float | None
+    agent: str
+    pick_rate_pct: float | None
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+
+@dataclass
 class TeamInfo:
     team_id: int
     name: str

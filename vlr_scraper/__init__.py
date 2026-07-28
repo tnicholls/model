@@ -1,5 +1,12 @@
 from .fetch import Fetcher
-from .parse import parse_event_standings, parse_match_odds, parse_matches, parse_stats_table, parse_team
+from .parse import (
+    parse_agent_pick_rates,
+    parse_event_standings,
+    parse_match_odds,
+    parse_matches,
+    parse_stats_table,
+    parse_team,
+)
 
 __all__ = [
     "Fetcher",
@@ -8,4 +15,5 @@ __all__ = [
     "parse_team",
     "parse_matches",
     "parse_match_odds",
+    "parse_agent_pick_rates",
 ]

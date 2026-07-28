@@ -14,7 +14,7 @@ import re
 
 from bs4 import BeautifulSoup, Tag
 
-from .models import AgentUsage, BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
+from .models import AgentMapPickRate, AgentUsage, BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
 
 _PLAYER_HREF_RE = re.compile(r"/player/(\d+)/")
 _TEAM_HREF_RE = re.compile(r"/team/(\d+)/")
@@ -281,6 +281,51 @@ def parse_team(html: str, team_id: int) -> TeamInfo:
         roster=roster,
         staff=staff,
     )
+
+
+def parse_agent_pick_rates(html: str, event_id: int) -> list[AgentMapPickRate]:
+    """Parse an event's `/event/agents/{id}/{slug}` "Agent Pick Rates and
+    Compositions" page: one row per map (plus an event-wide "All" row) x one
+    column per agent, giving that agent's pick rate on that map.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    table = soup.find("table", class_="mod-pr-global")
+    if table is None:
+        return []
+
+    rows = table.find_all("tr")
+    if len(rows) < 2:
+        return []
+
+    agent_names: list[str | None] = []
+    for th in rows[0].find_all("th")[4:]:
+        img = th.find("img")
+        agent_names.append(_agent_name(img.get("src", "")) if img else None)
+
+    entries: list[AgentMapPickRate] = []
+    for tr in rows[1:]:
+        cells = tr.find_all("td")
+        if len(cells) < 4:
+            continue
+        map_name = _direct_text(cells[0]) or "All"
+        games = _num(cells[1].get_text(), cast=int)
+        atk_win_pct = _num(cells[2].get_text())
+        def_win_pct = _num(cells[3].get_text())
+        for agent, td in zip(agent_names, cells[4:]):
+            if agent is None:
+                continue
+            entries.append(
+                AgentMapPickRate(
+                    event_id=event_id,
+                    map_name=map_name,
+                    games=games,
+                    atk_win_pct=atk_win_pct,
+                    def_win_pct=def_win_pct,
+                    agent=agent,
+                    pick_rate_pct=_num(td.get_text()),
+                )
+            )
+    return entries
 
 
 _MATCH_HREF_RE = re.compile(r"^/(\d+)/")
