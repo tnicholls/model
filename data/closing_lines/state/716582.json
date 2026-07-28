@@ -7,7 +7,7 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T18:07:35.067860+00:00",
+  "captured_at": "2026-07-28T18:24:00.224799+00:00",
   "lines": [
     {
       "match_id": 716582,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Bar\u00e7a eSports GC",
       "team_tag": "BAR.",
-      "decimal_odds": 2.08,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.44533333333333336,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.6926605504587157,
       "source": "match:716582"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 1.67,
+      "decimal_odds": 3.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5546666666666668,
+      "implied_prob_raw": 0.33112582781456956,
+      "implied_prob_fair": 0.30733944954128445,
       "source": "match:716582"
     },
     {
