@@ -7,8 +7,36 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T05:06:29.091790+00:00",
+  "captured_at": "2026-07-28T05:22:53.933504+00:00",
   "lines": [
+    {
+      "match_id": 716581,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50644",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7806691449814127,
+      "source": "match:716581"
+    },
+    {
+      "match_id": 716581,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50644",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 4.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.23809523809523808,
+      "implied_prob_fair": 0.21933085501858735,
+      "source": "match:716581"
+    },
     {
       "match_id": 716581,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7593688362919132,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7655038759689923,
       "source": "match:716581"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 3.85,
+      "decimal_odds": 3.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.24063116370808674,
+      "implied_prob_raw": 0.2531645569620253,
+      "implied_prob_fair": 0.23449612403100772,
       "source": "match:716581"
     }
   ]
