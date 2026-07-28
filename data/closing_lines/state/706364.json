@@ -7,8 +7,36 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T05:39:54.210131+00:00",
+  "captured_at": "2026-07-28T07:07:28.646978+00:00",
   "lines": [
+    {
+      "match_id": 706364,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50550",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 3.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.26595744680851063,
+      "implied_prob_fair": 0.248,
+      "source": "match:706364"
+    },
+    {
+      "match_id": 706364,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50550",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7520000000000001,
+      "source": "match:706364"
+    },
     {
       "match_id": 706364,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 3.7,
+      "decimal_odds": 4.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27027027027027023,
-      "implied_prob_fair": 0.2540322580645161,
+      "implied_prob_raw": 0.23809523809523808,
+      "implied_prob_fair": 0.22365988909426987,
       "source": "match:706364"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7459677419354839,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7763401109057302,
       "source": "match:706364"
     }
   ]
