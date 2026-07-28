@@ -7,7 +7,7 @@
   "team2": "Gentle Mates",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T05:23:34.516631+00:00",
+  "captured_at": "2026-07-28T05:40:00.412051+00:00",
   "lines": [
     {
       "match_id": 712828,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5427807486631016,
+      "implied_prob_fair": 0.5439999999999999,
       "source": "match:712828"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.45721925133689845,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45599999999999996,
       "source": "match:712828"
     },
     {
