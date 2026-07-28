@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T16:12:37.438347+00:00",
+  "captured_at": "2026-07-28T16:29:02.014550+00:00",
   "lines": [
     {
       "match_id": 716581,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 4.69,
+      "decimal_odds": 8.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21321961620469082,
-      "implied_prob_fair": 0.19691780821917804,
+      "implied_prob_raw": 0.11185682326621925,
+      "implied_prob_fair": 0.10330992978936812,
       "source": "match:716581"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8030821917808219,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.896690070210632,
       "source": "match:716581"
     },
     {
