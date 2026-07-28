@@ -7,7 +7,7 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T08:12:41.198690+00:00",
+  "captured_at": "2026-07-28T15:07:02.580009+00:00",
   "lines": [
     {
       "match_id": 716584,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.09,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8456090651558072,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.844632768361582,
       "source": "match:716584"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 5.97,
+      "decimal_odds": 5.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16750418760469013,
-      "implied_prob_fair": 0.15439093484419264,
+      "implied_prob_raw": 0.16722408026755853,
+      "implied_prob_fair": 0.1553672316384181,
       "source": "match:716584"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.834575260804769,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8450704225352113,
       "source": "match:716584"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 5.6,
+      "decimal_odds": 6.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17857142857142858,
-      "implied_prob_fair": 0.165424739195231,
+      "implied_prob_raw": 0.16666666666666666,
+      "implied_prob_fair": 0.15492957746478872,
       "source": "match:716584"
     }
   ]

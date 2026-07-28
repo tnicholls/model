@@ -7,34 +7,34 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T08:12:38.052221+00:00",
+  "captured_at": "2026-07-28T15:06:59.441314+00:00",
   "lines": [
     {
       "match_id": 716582,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50643",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Bar\u00e7a eSports GC",
       "team_tag": "BAR.",
-      "decimal_odds": 1.97,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.46900269541778977,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.3953488372093023,
       "source": "match:716582"
     },
     {
       "match_id": 716582,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50643",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 1.74,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5747126436781609,
-      "implied_prob_fair": 0.5309973045822103,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6046511627906976,
       "source": "match:716582"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports GC",
       "team_tag": "BAR.",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4613333333333334,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41514360313315923,
       "source": "match:716582"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5386666666666667,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5848563968668407,
       "source": "match:716582"
     }
   ]

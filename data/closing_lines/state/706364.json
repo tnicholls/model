@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T08:13:10.857616+00:00",
+  "captured_at": "2026-07-28T15:07:31.835359+00:00",
   "lines": [
     {
       "match_id": 706364,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 3.76,
+      "decimal_odds": 3.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26595744680851063,
-      "implied_prob_fair": 0.248,
+      "implied_prob_raw": 0.26881720430107525,
+      "implied_prob_fair": 0.2515090543259557,
       "source": "match:706364"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7520000000000001,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7484909456740443,
       "source": "match:706364"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 4.2,
+      "decimal_odds": 4.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.22365988909426987,
+      "implied_prob_raw": 0.23255813953488372,
+      "implied_prob_fair": 0.21818181818181814,
       "source": "match:706364"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7763401109057302,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7818181818181817,
       "source": "match:706364"
     }
   ]

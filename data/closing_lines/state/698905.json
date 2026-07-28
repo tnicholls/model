@@ -7,7 +7,7 @@
   "team2": "Gen.G",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T08:13:15.509776+00:00",
+  "captured_at": "2026-07-28T15:07:36.341153+00:00",
   "lines": [
     {
       "match_id": 698905,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48525469168900803,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.48930481283422456,
       "source": "match:698905"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gen.G",
       "team_tag": "GEN",
-      "decimal_odds": 1.81,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5524861878453039,
-      "implied_prob_fair": 0.514745308310992,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5106951871657753,
       "source": "match:698905"
     },
     {

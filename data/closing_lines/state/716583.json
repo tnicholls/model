@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T08:12:39.637388+00:00",
+  "captured_at": "2026-07-28T15:07:01.038555+00:00",
   "lines": [
     {
       "match_id": 716583,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5879265091863517,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5926892950391646,
       "source": "match:716583"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.24,
+      "decimal_odds": 2.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4464285714285714,
-      "implied_prob_fair": 0.41207349081364825,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.40731070496083555,
       "source": "match:716583"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6086956521739131,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.599483204134367,
       "source": "match:716583"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.38,
+      "decimal_odds": 2.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42016806722689076,
-      "implied_prob_fair": 0.391304347826087,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.4005167958656331,
       "source": "match:716583"
     }
   ]
