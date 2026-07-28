@@ -7,7 +7,7 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T03:43:42.635724+00:00",
+  "captured_at": "2026-07-28T04:00:10.899837+00:00",
   "lines": [
     {
       "match_id": 716582,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.5813953488372093,
       "implied_prob_fair": 0.5351351351351351,
+      "source": "match:716582"
+    },
+    {
+      "match_id": 716582,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50649",
+      "stage": "pre-match",
+      "team": "Bar\u00e7a eSports GC",
+      "team_tag": "BAR.",
+      "decimal_odds": 2.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4638069705093834,
+      "source": "match:716582"
+    },
+    {
+      "match_id": 716582,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50649",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 1.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5361930294906166,
+      "source": "match:716582"
+    },
+    {
+      "match_id": 716582,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50652",
+      "stage": "pre-match",
+      "team": "Bar\u00e7a eSports GC",
+      "team_tag": "BAR.",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4692737430167598,
+      "source": "match:716582"
+    },
+    {
+      "match_id": 716582,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50652",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 1.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5307262569832403,
       "source": "match:716582"
     }
   ]
