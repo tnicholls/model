@@ -7,7 +7,7 @@
   "team2": "Contra",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-28T20:57:05.476133+00:00",
+  "captured_at": "2026-07-28T21:13:33.462768+00:00",
   "lines": [
     {
       "match_id": 715116,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7309322033898306,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7422680412371133,
       "source": "match:715116"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 3.45,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2898550724637681,
-      "implied_prob_fair": 0.26906779661016955,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.25773195876288657,
       "source": "match:715116"
     }
   ]
