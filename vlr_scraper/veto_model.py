@@ -118,6 +118,23 @@ def shrunk_rate(counts: list[int], global_counts: list[int], kappa: float) -> fl
     return ((wins + kappa * global_rate) / denom) if denom > 0 else 0.5
 
 
+def wins_above_expected(counts: list[int], global_counts: list[int]) -> float:
+    """Wins on this map minus what you'd expect given your overall win rate
+    and how many times you've played it: wins - n * global_rate. Unlike a
+    rate, this naturally grows with sample size -- a team 6-2 on a map reads
+    as more evidence of map strength than 3-1, even though both are 75%.
+    Needs no shrinkage parameter: n=0 games gives 0 automatically (no
+    evidence, no signal), so the evidence-weighting is baked into the
+    feature itself rather than bolted on via kappa.
+    """
+    wins, losses = counts
+    n = wins + losses
+    gw, gl = global_counts
+    global_n = gw + gl
+    global_rate = (gw / global_n) if global_n > 0 else 0.5
+    return wins - n * global_rate
+
+
 def _eligible(decisions: list[dict], min_history_games: int) -> list[dict]:
     """Decisions where both teams have enough *global* history to estimate
     team strength at all -- shrinkage handles per-map sparsity directly, so
@@ -138,17 +155,34 @@ def _softmax(logits: list[float]) -> list[float]:
     return [e / s for e in exps]
 
 
-def _build_features(decisions: list[dict], kappa: float) -> list[tuple[int, list[float], list[float]]]:
-    """(chosen_index, own_weakness_features, opp_strength_features) per decision,
-    features aligned to d['pool'] order. own_weakness = -shrunk_own_rate (so a
-    positive coefficient means "more likely to act on your weak maps")."""
+def _build_features(
+    decisions: list[dict], kappa: float, feature: str = "rate"
+) -> list[tuple[int, list[float], list[float]]]:
+    """(chosen_index, own_feature, opp_feature) per decision, aligned to
+    d['pool'] order.
+
+    feature="rate" (bans): shrinkage-based win rate, own negated so a positive
+    coefficient reads as "more likely to act on your weak maps". Needs kappa.
+
+    feature="wins_above_expected" (picks): evidence-weighted wins above what
+    your overall record would predict, own left positive so a positive
+    coefficient reads as "more likely to act on maps you've overperformed on".
+    kappa is unused for this feature (ignored, kept in the signature so
+    callers don't need to branch).
+    """
     out = []
     for d in decisions:
         pool = d["pool"]
         chosen_idx = pool.index(d["chosen"])
-        own_weak = [-shrunk_rate(d["own_counts"][m], d["own_global"], kappa) for m in pool]
-        opp_strong = [shrunk_rate(d["opp_counts"][m], d["opp_global"], kappa) for m in pool]
-        out.append((chosen_idx, own_weak, opp_strong))
+        if feature == "rate":
+            own = [-shrunk_rate(d["own_counts"][m], d["own_global"], kappa) for m in pool]
+            opp = [shrunk_rate(d["opp_counts"][m], d["opp_global"], kappa) for m in pool]
+        elif feature == "wins_above_expected":
+            own = [wins_above_expected(d["own_counts"][m], d["own_global"]) for m in pool]
+            opp = [wins_above_expected(d["opp_counts"][m], d["opp_global"]) for m in pool]
+        else:
+            raise ValueError(f"unknown feature type: {feature}")
+        out.append((chosen_idx, own, opp))
     return out
 
 
@@ -166,15 +200,18 @@ def _null_log_likelihood(decisions: list[dict]) -> float:
     return sum(-math.log(len(d["pool"])) for d in decisions)
 
 
-def fit_model(decisions: list[dict], kappa: float, max_iters: int = 5000, grad_tol: float = 1e-7) -> dict:
+def fit_model(
+    decisions: list[dict], kappa: float, feature: str = "rate", max_iters: int = 5000, grad_tol: float = 1e-7
+) -> dict:
     """Fit the 2-parameter softmax model (own weakness, opponent strength) by
     gradient ascent with backtracking line search on log-likelihood. The
     objective is concave (standard multinomial logistic), so this converges
     reliably from beta=(0,0) -- but a fixed step size can still fail to
     converge if the true coefficients turn out to be large (seen with the
-    pick-decision fit), hence the line search rather than a fixed lr/iters.
+    pick-decision fit under the "rate" feature, which is what motivated the
+    "wins_above_expected" feature -- see _build_features).
     """
-    features = _build_features(decisions, kappa)
+    features = _build_features(decisions, kappa, feature=feature)
     beta = [0.0, 0.0]
     ll = _log_likelihood(features, beta)
     step = 1.0
@@ -226,6 +263,7 @@ def run_likelihood_ratio_test(
     min_history_games: int = 3,
     kappa_grid: tuple[float, ...] = (0.5, 1, 2, 3, 5, 8, 12, 20, 40),
     test_frac: float = 0.2,
+    feature: str = "rate",
 ) -> dict:
     """End-to-end: collect decisions, chronologically split into
     fit/kappa-select/final-test (60/20/20), pick kappa by held-out
@@ -234,12 +272,79 @@ def run_likelihood_ratio_test(
 
     p-value uses the exact chi-square(df=2) survival function, which has a
     closed form (no scipy needed): P(chi2_2 > x) = exp(-x/2).
+
+    feature="wins_above_expected" skips the kappa search entirely (kappa is
+    meaningless for that feature -- see _build_features) and just fits once
+    on fit+select.
     """
     raw = collect_decisions(action_types=action_types)
     eligible = _eligible(raw, min_history_games)
     if len(eligible) < 30:
         raise ValueError(f"only {len(eligible)} eligible decisions -- too few to fit/test reliably")
 
+    n = len(eligible)
+    n_test = max(10, int(n * test_frac))
+    n_select = max(10, int(n * test_frac))
+    fit_only = eligible[: n - n_test - n_select]
+    select = eligible[n - n_test - n_select : n - n_test]
+    test = eligible[n - n_test :]
+
+    if feature == "wins_above_expected":
+        best_kappa = None
+        kappa_scores = []
+        final_fit = fit_model(fit_only + select, kappa=0.0, feature=feature)
+    else:
+        kappa_scores = []
+        for kappa in kappa_grid:
+            fit = fit_model(fit_only, kappa, feature=feature)
+            select_features = _build_features(select, kappa, feature=feature)
+            select_ll = _log_likelihood(select_features, (fit["beta_own_weakness"], fit["beta_opp_strength"]))
+            kappa_scores.append((kappa, select_ll))
+        best_kappa = max(kappa_scores, key=lambda t: t[1])[0]
+        final_fit = fit_model(fit_only + select, best_kappa, feature=feature)
+
+    beta = (final_fit["beta_own_weakness"], final_fit["beta_opp_strength"])
+
+    test_features = _build_features(test, best_kappa or 0.0, feature=feature)
+    fitted_ll = _log_likelihood(test_features, beta)
+    null_ll = _null_log_likelihood(test)
+    lr_stat = 2 * (fitted_ll - null_ll)
+    p_value = math.exp(-lr_stat / 2) if lr_stat > 0 else 1.0
+
+    return {
+        "action_types": action_types,
+        "feature": feature,
+        "test_log_likelihood_fitted": fitted_ll,
+        "test_log_likelihood_null": null_ll,
+        "n_total_eligible": n,
+        "n_fit": len(fit_only),
+        "n_kappa_select": len(select),
+        "n_test": len(test),
+        "kappa_grid_scores": kappa_scores,
+        "best_kappa": best_kappa,
+        "beta_own_weakness": beta[0],
+        "beta_opp_strength": beta[1],
+        "likelihood_ratio_stat": lr_stat,
+        "p_value": p_value,
+        "converged": final_fit["converged"],
+    }
+
+
+def compare_to_naive_rule(
+    action_types: tuple[str, ...] = ("ban",),
+    min_history_games: int = 3,
+    kappa_grid: tuple[float, ...] = (0.5, 1, 2, 3, 5, 8, 12, 20, 40),
+    test_frac: float = 0.2,
+) -> dict:
+    """Beating random isn't the bar -- beating the one-line rule the model is
+    built on top of is. Evaluates the naive rule ("act on your single
+    worst/best available map") and the fitted 2-feature model on the exact
+    same held-out test slice used by run_likelihood_ratio_test, same kappa.
+    If the model barely beats the naive rule's accuracy, the extra
+    complexity (opponent feature, continuous fit) isn't earning its keep.
+    """
+    raw = collect_decisions(action_types=action_types)
+    eligible = _eligible(raw, min_history_games)
     n = len(eligible)
     n_test = max(10, int(n * test_frac))
     n_select = max(10, int(n * test_frac))
@@ -254,29 +359,27 @@ def run_likelihood_ratio_test(
         select_ll = _log_likelihood(select_features, (fit["beta_own_weakness"], fit["beta_opp_strength"]))
         kappa_scores.append((kappa, select_ll))
     best_kappa = max(kappa_scores, key=lambda t: t[1])[0]
-
     final_fit = fit_model(fit_only + select, best_kappa)
     beta = (final_fit["beta_own_weakness"], final_fit["beta_opp_strength"])
 
     test_features = _build_features(test, best_kappa)
-    fitted_ll = _log_likelihood(test_features, beta)
-    null_ll = _null_log_likelihood(test)
-    lr_stat = 2 * (fitted_ll - null_ll)
-    p_value = math.exp(-lr_stat / 2) if lr_stat > 0 else 1.0
+    naive_correct = 0
+    model_correct = 0
+    agree = 0
+    for chosen_idx, x1, x2 in test_features:
+        # own-weakness feature is already -rate, so its argmax IS "act on your single worst/best map"
+        naive_pred = max(range(len(x1)), key=lambda i: x1[i])
+        model_logits = [beta[0] * x1[i] + beta[1] * x2[i] for i in range(len(x1))]
+        model_pred = max(range(len(model_logits)), key=lambda i: model_logits[i])
+        naive_correct += int(naive_pred == chosen_idx)
+        model_correct += int(model_pred == chosen_idx)
+        agree += int(naive_pred == model_pred)
 
+    n_t = len(test_features)
     return {
-        "action_types": action_types,
-        "n_total_eligible": n,
-        "n_fit": len(fit_only),
-        "n_kappa_select": len(select),
-        "n_test": len(test),
-        "kappa_grid_scores": kappa_scores,
+        "n_test": n_t,
         "best_kappa": best_kappa,
-        "beta_own_weakness": beta[0],
-        "beta_opp_strength": beta[1],
-        "test_log_likelihood_fitted": fitted_ll,
-        "test_log_likelihood_null": null_ll,
-        "likelihood_ratio_stat": lr_stat,
-        "p_value": p_value,
-        "converged": final_fit["converged"],
+        "naive_rule_accuracy": naive_correct / n_t,
+        "fitted_model_accuracy": model_correct / n_t,
+        "pct_decisions_where_model_and_naive_rule_agree": agree / n_t,
     }
