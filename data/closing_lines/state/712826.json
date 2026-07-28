@@ -2,13 +2,41 @@
   "match_id": 712826,
   "match_url": "/712826/natus-vincere-vs-pcific-esports-vct-2026-emea-stage-2-w3",
   "date_display": "Thu, July 30, 2026",
-  "time_display": "4:00 PM",
+  "time_display": "10:00 AM",
   "team1": "Natus Vincere",
   "team2": "PCIFIC Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T02:42:09.711378+00:00",
+  "captured_at": "2026-07-28T02:58:36.992096+00:00",
   "lines": [
+    {
+      "match_id": 712826,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50575",
+      "stage": "pre-match",
+      "team": "Natus Vincere",
+      "team_tag": "NAVI",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8187599364069953,
+      "source": "match:712826"
+    },
+    {
+      "match_id": 712826,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50575",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 5.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1941747572815534,
+      "implied_prob_fair": 0.18124006359300476,
+      "source": "match:712826"
+    },
     {
       "match_id": 712826,
       "bookmaker": "rainbet",
@@ -35,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.1724137931034483,
       "implied_prob_fair": 0.16184971098265896,
-      "source": "match:712826"
-    },
-    {
-      "match_id": 712826,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50596",
-      "stage": "pre-match",
-      "team": "Natus Vincere",
-      "team_tag": "NAVI",
-      "decimal_odds": 1.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8405797101449275,
-      "source": "match:712826"
-    },
-    {
-      "match_id": 712826,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50596",
-      "stage": "pre-match",
-      "team": "PCIFIC Esports",
-      "team_tag": "PCF",
-      "decimal_odds": 5.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.15942028985507248,
       "source": "match:712826"
     }
   ]

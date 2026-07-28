@@ -2,12 +2,12 @@
   "match_id": 706366,
   "match_url": "/706366/cloud9-vs-loud-vct-2026-americas-stage-2-w3",
   "date_display": "Fri, July 31, 2026",
-  "time_display": "10:00 PM",
+  "time_display": "4:00 PM",
   "team1": "Cloud9",
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T02:42:28.512177+00:00",
+  "captured_at": "2026-07-28T02:58:55.462425+00:00",
   "lines": [
     {
       "match_id": 706366,
@@ -63,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.5714285714285714,
       "implied_prob_fair": 0.5358090185676393,
-      "source": "match:706366"
-    },
-    {
-      "match_id": 706366,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50573",
-      "stage": "pre-match",
-      "team": "Cloud9",
-      "team_tag": "C9",
-      "decimal_odds": 2.0,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
-      "source": "match:706366"
-    },
-    {
-      "match_id": 706366,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50573",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 1.72,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
       "source": "match:706366"
     }
   ]
