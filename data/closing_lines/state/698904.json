@@ -2,12 +2,12 @@
   "match_id": 698904,
   "match_url": "/698904/team-secret-vs-paper-rex-vct-2026-pacific-stage-2-w3",
   "date_display": "Fri, July 31, 2026",
-  "time_display": "3:00 AM",
+  "time_display": "9:00 AM",
   "team1": "Team Secret",
   "team2": "Paper Rex",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T00:40:49.274408+00:00",
+  "captured_at": "2026-07-28T00:57:11.450634+00:00",
   "lines": [
     {
       "match_id": 698904,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.9433962264150942,
       "implied_prob_fair": 0.8879492600422834,
+      "source": "match:698904"
+    },
+    {
+      "match_id": 698904,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50536",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 7.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.13333333333333333,
+      "implied_prob_fair": 0.12280701754385966,
+      "source": "match:698904"
+    },
+    {
+      "match_id": 698904,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50536",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8771929824561404,
       "source": "match:698904"
     }
   ]

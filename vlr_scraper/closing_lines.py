@@ -441,6 +441,12 @@ def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> 
     if long_df.empty:
         raise ValueError(f"{jsonl_path} has no rows yet")
 
+    # A (match_id, bookmaker) pair can rarely end up double-written -- e.g. the
+    # scheduled poll finalizes a match with real paired odds at the same time a
+    # one-off backfill/recheck script independently records it as missed. Prefer
+    # the real (non-missed, exact-vig) row when both exist for the same pair.
+    long_df = long_df.sort_values("missed_pre_match").drop_duplicates(subset=["match_id", "bookmaker"], keep="first")
+
     match_cols = [
         "match_id", "date_display", "time_display", "event_name", "series",
         "team1", "team2", "team1_score", "team2_score", "winner",
