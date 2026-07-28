@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T22:19:27.054653+00:00",
+  "captured_at": "2026-07-28T22:35:51.659811+00:00",
   "lines": [
     {
       "match_id": 712825,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.38190954773869346,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.3944020356234097,
       "source": "match:712825"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6180904522613065,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6055979643765903,
       "source": "match:712825"
     }
   ]

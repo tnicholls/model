@@ -1,0 +1,41 @@
+{
+  "match_id": 716585,
+  "match_url": "/716585/sk-nebula-vs-g2-gozen-game-changers-2026-emea-stage-3-w2",
+  "date_display": "Wed, July 29, 2026",
+  "time_display": "10:00 AM",
+  "team1": "SK Nebula",
+  "team2": "G2 Gozen",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 2",
+  "captured_at": "2026-07-28T22:35:48.627563+00:00",
+  "lines": [
+    {
+      "match_id": 716585,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50670",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 1.89,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.4864130434782609,
+      "source": "match:716585"
+    },
+    {
+      "match_id": 716585,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50670",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.513586956521739,
+      "source": "match:716585"
+    }
+  ]
+}
