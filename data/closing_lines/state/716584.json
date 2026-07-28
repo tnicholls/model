@@ -7,7 +7,7 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T18:40:28.098937+00:00",
+  "captured_at": "2026-07-28T18:56:54.087746+00:00",
   "lines": [
     {
       "match_id": 716584,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8197767145135566,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8921161825726142,
       "source": "match:716584"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 5.14,
+      "decimal_odds": 8.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.19455252918287938,
-      "implied_prob_fair": 0.18022328548644337,
+      "implied_prob_raw": 0.11627906976744186,
+      "implied_prob_fair": 0.1078838174273859,
       "source": "match:716584"
     },
     {
