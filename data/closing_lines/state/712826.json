@@ -7,8 +7,36 @@
   "team2": "PCIFIC Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T22:03:11.020197+00:00",
+  "captured_at": "2026-07-28T22:19:36.370259+00:00",
   "lines": [
+    {
+      "match_id": 712826,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50575",
+      "stage": "pre-match",
+      "team": "Natus Vincere",
+      "team_tag": "NAVI",
+      "decimal_odds": 1.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.8030560271646858,
+      "source": "match:712826"
+    },
+    {
+      "match_id": 712826,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50575",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 4.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2114164904862579,
+      "implied_prob_fair": 0.19694397283531406,
+      "source": "match:712826"
+    },
     {
       "match_id": 712826,
       "bookmaker": "rainbet",
