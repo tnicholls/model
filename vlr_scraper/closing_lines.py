@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import difflib
 import json
+import statistics
 import sys
 from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
@@ -153,19 +154,32 @@ def _append_vig_sample(bookmaker: str, vig: float, sampled_at: str, source: str)
         f.write(json.dumps({"bookmaker": bookmaker, "vig": vig, "sampled_at": sampled_at, "source": source}) + "\n")
 
 
-def estimate_vig_by_bookmaker(sample_size: int = VIG_ESTIMATE_SAMPLE_SIZE) -> dict[str, float]:
-    """Average of the most recent real vig samples per bookmaker, preferring
-    true closing-line samples over earlier pre-match snapshots when enough exist."""
+def estimate_vig_by_bookmaker(sample_size: int = VIG_ESTIMATE_SAMPLE_SIZE) -> dict[str, dict]:
+    """Per-bookmaker vig estimate from the most recent real samples, preferring
+    true closing-line samples over earlier pre-match snapshots when enough exist.
+
+    Returns {bookmaker: {"mean": ..., "stddev": ..., "n": ..., "source": "closing"|"pre_match_snapshot"}}.
+    stddev is the spread of the underlying samples -- a rough confidence signal
+    for the estimate itself (tight spread = consistently-priced margin, wide
+    spread = noisier estimate, often because the sample is really just a
+    handful of matches resampled repeatedly rather than independent readings).
+    """
     if not VIG_SAMPLES_PATH.exists():
         return {}
     rows = [json.loads(line) for line in VIG_SAMPLES_PATH.read_text(encoding="utf-8").splitlines() if line.strip()]
-    estimates: dict[str, float] = {}
+    estimates: dict[str, dict] = {}
     for bookmaker in {r["bookmaker"] for r in rows}:
         bm_rows = [r for r in rows if r["bookmaker"] == bookmaker]
         closing = [r["vig"] for r in bm_rows if r["source"] == "closing"][-sample_size:]
-        sample = closing if len(closing) >= min(3, sample_size) else [r["vig"] for r in bm_rows][-sample_size:]
+        used_closing = len(closing) >= min(3, sample_size)
+        sample = closing if used_closing else [r["vig"] for r in bm_rows][-sample_size:]
         if sample:
-            estimates[bookmaker] = sum(sample) / len(sample)
+            estimates[bookmaker] = {
+                "mean": sum(sample) / len(sample),
+                "stddev": statistics.pstdev(sample) if len(sample) > 1 else 0.0,
+                "n": len(sample),
+                "source": "closing" if used_closing else "pre_match_snapshot",
+            }
     return estimates
 
 
@@ -306,6 +320,80 @@ def poll_once(upcoming_pages: int = 1, results_pages: int = 2, verbose: bool = T
     return summary
 
 
+def backfill_historical(target_total: int = 300, max_pages: int = 80, verbose: bool = True) -> dict:
+    """Expand historical coverage further back through /matches/results.
+
+    These are always missed_pre_match=True rows (winner-only odds, estimated
+    vig applied at export time) since the pipeline wasn't polling before the
+    match happened -- there's no way to recover the losing side's odds for
+    matches that finished before this pipeline started tracking them.
+    """
+    finalized_ids = _load_finalized_ids()
+    summary = {"already_had": len(finalized_ids), "added": 0, "pages_scanned": 0}
+    needed = target_total - len(finalized_ids)
+    if needed <= 0:
+        return summary
+
+    JSONL_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with Fetcher() as fetcher:
+        with JSONL_PATH.open("a", encoding="utf-8") as jsonl_f:
+            page = 1
+            while summary["added"] < needed and page <= max_pages:
+                html = fetcher.get_html("/matches/results", params={"page": page})
+                matches = parse_matches(html, source="global:results")
+                summary["pages_scanned"] += 1
+                if not matches:
+                    break
+                for m in matches:
+                    if summary["added"] >= needed:
+                        break
+                    if m.status != "Completed" or m.match_id in finalized_ids:
+                        continue
+                    winner = m.team1 if m.team1_won else (m.team2 if m.team2_won else None)
+                    odds_html = fetcher.get_html(m.match_url)
+                    lines = parse_match_odds(odds_html, match_id=m.match_id, source=f"match:{m.match_id}")
+                    post_lines = [l for l in lines if l.stage == "post-match" and l.decimal_odds]
+                    for l in post_lines:
+                        row = {
+                            "match_id": m.match_id,
+                            "match_url": m.match_url,
+                            "date_display": m.date_display,
+                            "time_display": m.time_display,
+                            "event_name": m.event_name,
+                            "series": m.series,
+                            "team1": m.team1,
+                            "team2": m.team2,
+                            "team1_score": m.team1_score,
+                            "team2_score": m.team2_score,
+                            "winner": winner,
+                            "bookmaker": l.bookmaker,
+                            "winner_team": l.team,
+                            "winner_odds": l.decimal_odds,
+                            "winner_implied_prob_raw": l.implied_prob_raw,
+                            "team1_odds": None,
+                            "team2_odds": None,
+                            "implied_prob_team1": None,
+                            "implied_prob_team2": None,
+                            "vig": None,
+                            "fair_prob_team1": None,
+                            "fair_prob_team2": None,
+                            "closing_captured_at": None,
+                            "missed_pre_match": True,
+                        }
+                        jsonl_f.write(json.dumps(row) + "\n")
+                    finalized_ids.add(m.match_id)
+                    summary["added"] += 1
+                    if verbose:
+                        print(
+                            f"  [{summary['added']}/{needed}] match {m.match_id} "
+                            f"({m.team1} vs {m.team2}): {len(post_lines)} bookmakers",
+                            file=sys.stderr,
+                        )
+                page += 1
+    _save_finalized_ids(finalized_ids)
+    return summary
+
+
 def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> int:
     """Rebuild the Excel workbook (long + wide-by-bookmaker sheets) from the JSONL store."""
     import pandas as pd
@@ -329,14 +417,19 @@ def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> 
                 row["winner_implied_prob_raw"] = row.get("implied_prob_team2")
                 row["winner_fair_prob"] = row.get("fair_prob_team2")
             row["estimated_vig"] = row.get("vig")
+            row["estimated_vig_stddev"] = None
+            row["estimated_vig_n"] = None
             row["vig_is_estimated"] = False
         else:
             # Historical match where only the winner's payout odds survived on
             # vlr.gg -- back out an estimated fair probability using the
             # bookmaker's recent average real vig (see estimate_vig_by_bookmaker).
-            est_vig = vig_estimates.get(row.get("bookmaker"))
+            est = vig_estimates.get(row.get("bookmaker"))
+            est_vig = est["mean"] if est else None
             p1 = row.get("winner_implied_prob_raw")
             row["estimated_vig"] = est_vig
+            row["estimated_vig_stddev"] = est["stddev"] if est else None
+            row["estimated_vig_n"] = est["n"] if est else None
             row["vig_is_estimated"] = True
             if est_vig is not None and p1 is not None:
                 p2_est = max(0.0, 1 + est_vig - p1)
@@ -358,7 +451,8 @@ def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> 
     metric_cols = [
         "team1_odds", "team2_odds", "implied_prob_team1", "implied_prob_team2",
         "vig", "fair_prob_team1", "fair_prob_team2", "closing_captured_at", "missed_pre_match",
-        "winner_odds", "winner_implied_prob_raw", "winner_fair_prob", "estimated_vig", "vig_is_estimated",
+        "winner_odds", "winner_implied_prob_raw", "winner_fair_prob",
+        "estimated_vig", "estimated_vig_stddev", "estimated_vig_n", "vig_is_estimated",
     ]
     for bm in bookmakers:
         bm_rows = long_df[long_df["bookmaker"] == bm].set_index("match_id")
@@ -367,6 +461,18 @@ def export_excel(jsonl_path: Path = JSONL_PATH, xlsx_path: Path = XLSX_PATH) -> 
 
     vig_cols = [f"{bm}_vig" for bm in bookmakers if f"{bm}_vig" in wide.columns]
     wide["avg_vig"] = wide[vig_cols].mean(axis=1, skipna=True) if vig_cols else None
+
+    # Cross-bookmaker disagreement per match: spread of each book's *fair* (de-vigged)
+    # win probability for the same outcome. High spread = the books are pricing this
+    # match very differently; needs 2+ books with a fair-prob reading to be meaningful.
+    fair_cols = [f"{bm}_winner_fair_prob" for bm in bookmakers if f"{bm}_winner_fair_prob" in wide.columns]
+
+    def _disagreement(row):
+        vals = [row[c] for c in fair_cols if pd.notna(row[c])]
+        return statistics.pstdev(vals) if len(vals) >= 2 else None
+
+    wide["book_disagreement_stddev"] = wide.apply(_disagreement, axis=1) if fair_cols else None
+    wide["book_disagreement_n"] = wide.apply(lambda row: sum(1 for c in fair_cols if pd.notna(row[c])), axis=1) if fair_cols else 0
 
     wide = wide.reset_index().sort_values("match_id", ascending=False)
     long_df = long_df.sort_values(["match_id", "bookmaker"], ascending=[False, True])

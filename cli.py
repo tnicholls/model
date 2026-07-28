@@ -159,6 +159,13 @@ def cmd_closing(args: argparse.Namespace) -> None:
             f"{summary['finalized']} finalized with vig, {summary['missed']} missed pre-match",
             file=sys.stderr,
         )
+    if args.action == "backfill":
+        summary = closing_lines.backfill_historical(target_total=args.target)
+        print(
+            f"Backfill done: had {summary['already_had']}, added {summary['added']} "
+            f"(scanned {summary['pages_scanned']} results pages)",
+            file=sys.stderr,
+        )
     if args.action in ("export", "run"):
         n = closing_lines.export_excel()
         print(f"Wrote {n} matches to {closing_lines.XLSX_PATH}", file=sys.stderr)
@@ -245,9 +252,10 @@ def build_parser() -> argparse.ArgumentParser:
         "closing",
         help="Poll upcoming/live matches for pre-match odds and finalize closing lines + vig once matches complete",
     )
-    closing_p.add_argument("action", choices=["poll", "export", "run"], help="poll: snapshot+finalize; export: rebuild xlsx; run: both")
+    closing_p.add_argument("action", choices=["poll", "backfill", "export", "run"], help="poll: snapshot+finalize; backfill: extend history; export: rebuild xlsx; run: poll+export")
     closing_p.add_argument("--upcoming-pages", type=int, default=1, help="Pages of /matches (upcoming) to poll")
     closing_p.add_argument("--results-pages", type=int, default=2, help="Pages of /matches/results to check for newly-completed matches")
+    closing_p.add_argument("--target", type=int, default=300, help="backfill only: total historical matches to have on record")
     closing_p.set_defaults(func=cmd_closing)
 
     flatten_p = sub.add_parser("flatten", help="Flatten a raw JSON file into a tabular CSV")
