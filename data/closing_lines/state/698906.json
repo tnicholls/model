@@ -2,12 +2,12 @@
   "match_id": 698906,
   "match_url": "/698906/t1-vs-detonation-focusme-vct-2026-pacific-stage-2-w3",
   "date_display": "Sat, August 1, 2026",
-  "time_display": "3:00 AM",
+  "time_display": "4:00 AM",
   "team1": "T1",
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T03:15:22.968484+00:00",
+  "captured_at": "2026-07-28T03:44:27.897248+00:00",
   "lines": [
     {
       "match_id": 698906,
@@ -63,6 +63,62 @@
       "payout": null,
       "implied_prob_raw": 0.23809523809523808,
       "implied_prob_fair": 0.22365988909426987,
+      "source": "match:698906"
+    },
+    {
+      "match_id": 698906,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50635",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7692307692307692,
+      "source": "match:698906"
+    },
+    {
+      "match_id": 698906,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50635",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 4.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23076923076923073,
+      "source": "match:698906"
+    },
+    {
+      "match_id": 698906,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50604",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7645875251509054,
+      "source": "match:698906"
+    },
+    {
+      "match_id": 698906,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50604",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.23541247484909456,
       "source": "match:698906"
     }
   ]

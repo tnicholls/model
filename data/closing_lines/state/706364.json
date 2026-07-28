@@ -2,12 +2,12 @@
   "match_id": 706364,
   "match_url": "/706364/kr-esports-vs-g2-esports-vct-2026-americas-stage-2-w3",
   "date_display": "Thu, July 30, 2026",
-  "time_display": "4:00 PM",
+  "time_display": "5:00 PM",
   "team1": "KR\u00dc Esports",
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T03:15:10.662728+00:00",
+  "captured_at": "2026-07-28T03:44:15.314495+00:00",
   "lines": [
     {
       "match_id": 706364,
@@ -63,6 +63,62 @@
       "payout": null,
       "implied_prob_raw": 0.7936507936507936,
       "implied_prob_fair": 0.7459677419354839,
+      "source": "match:706364"
+    },
+    {
+      "match_id": 706364,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50570",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 4.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23076923076923073,
+      "source": "match:706364"
+    },
+    {
+      "match_id": 706364,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50570",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7692307692307692,
+      "source": "match:706364"
+    },
+    {
+      "match_id": 706364,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50567",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.23541247484909456,
+      "source": "match:706364"
+    },
+    {
+      "match_id": 706364,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50567",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7645875251509054,
       "source": "match:706364"
     }
   ]

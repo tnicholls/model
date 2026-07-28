@@ -2,12 +2,12 @@
   "match_id": 715114,
   "match_url": "/715114/2game-esports-vs-shopify-rebellion-black-vcl-26-americas-last-chance-qualifier-main-event-rr",
   "date_display": "Tue, July 28, 2026",
-  "time_display": "2:00 PM",
+  "time_display": "3:00 PM",
   "team1": "2Game Esports",
   "team2": "Shopify Rebellion Black",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-28T03:14:43.123522+00:00",
+  "captured_at": "2026-07-28T03:43:47.329729+00:00",
   "lines": [
     {
       "match_id": 715114,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.6944444444444444,
       "implied_prob_fair": 0.645320197044335,
+      "source": "match:715114"
+    },
+    {
+      "match_id": 715114,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50396",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 2.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.3556701030927835,
+      "source": "match:715114"
+    },
+    {
+      "match_id": 715114,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50396",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Black",
+      "team_tag": "SRB",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6443298969072165,
       "source": "match:715114"
     }
   ]

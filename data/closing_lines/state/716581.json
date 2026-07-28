@@ -2,12 +2,12 @@
   "match_id": 716581,
   "match_url": "/716581/g2-gozen-vs-fokus-sakura-game-changers-2026-emea-stage-3-w2",
   "date_display": "Tue, July 28, 2026",
-  "time_display": "4:00 PM",
+  "time_display": "11:00 AM",
   "team1": "G2 Gozen",
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T02:41:44.742314+00:00",
+  "captured_at": "2026-07-28T03:43:41.059836+00:00",
   "lines": [
     {
       "match_id": 716581,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7416666666666666,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7540322580645161,
       "source": "match:716581"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 3.56,
+      "decimal_odds": 3.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2808988764044944,
-      "implied_prob_fair": 0.2583333333333333,
+      "implied_prob_raw": 0.267379679144385,
+      "implied_prob_fair": 0.24596774193548385,
       "source": "match:716581"
     }
   ]
