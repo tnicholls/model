@@ -36,7 +36,7 @@ from __future__ import annotations
 import argparse
 import sys
 
-from vlr_scraper import closing_lines
+from vlr_scraper import closing_lines, veto
 from vlr_scraper.fetch import Fetcher
 from vlr_scraper.models import BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
 from vlr_scraper.parse import parse_event_standings, parse_match_odds, parse_matches, parse_stats_table, parse_team
@@ -171,6 +171,24 @@ def cmd_closing(args: argparse.Namespace) -> None:
         print(f"Wrote {n} matches to {closing_lines.XLSX_PATH}", file=sys.stderr)
 
 
+def cmd_veto(args: argparse.Namespace) -> None:
+    if args.action == "collect":
+        summary = veto.collect_veto_dataset(target_matches=args.target)
+        print(f"Collect done: {summary}", file=sys.stderr)
+    elif args.action == "tags":
+        summary = veto.build_team_tag_cache()
+        print(f"Team tag cache: {summary}", file=sys.stderr)
+    elif args.action == "test":
+        report = veto.test_naive_ban_rule(recent_n=args.recent_n, min_history_games=args.min_history_games)
+        print(
+            f"Naive first-ban test: {report['n_correct']}/{report['n']} correct "
+            f"({report['accuracy']:.1%}) over the most recent {report['n']} eligible matches "
+            f"(of {report['total_eligible_ever']} ever eligible; "
+            f"{report['skipped_unresolved_team_name']} skipped for unresolved team tag)",
+            file=sys.stderr,
+        )
+
+
 def cmd_flatten(args: argparse.Namespace) -> None:
     data = load_json(args.input)
 
@@ -257,6 +275,13 @@ def build_parser() -> argparse.ArgumentParser:
     closing_p.add_argument("--results-pages", type=int, default=2, help="Pages of /matches/results to check for newly-completed matches")
     closing_p.add_argument("--target", type=int, default=300, help="backfill only: total historical matches to have on record")
     closing_p.set_defaults(func=cmd_closing)
+
+    veto_p = sub.add_parser("veto", help="Collect veto sequences + map results, then test a naive 'ban your worst map' rule")
+    veto_p.add_argument("action", choices=["collect", "tags", "test"], help="collect: fetch matches; tags: build team tag cache; test: run the walk-forward test")
+    veto_p.add_argument("--target", type=int, default=700, help="collect only: total historical matches to have on record")
+    veto_p.add_argument("--recent-n", type=int, default=200, help="test only: how many recent eligible matches to score")
+    veto_p.add_argument("--min-history-games", type=int, default=3, help="test only: min prior maps played before a team is eligible")
+    veto_p.set_defaults(func=cmd_veto)
 
     flatten_p = sub.add_parser("flatten", help="Flatten a raw JSON file into a tabular CSV")
     flatten_p.add_argument("kind", choices=["stats", "standings", "matches", "odds", "team"])
