@@ -7,7 +7,7 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T02:58:57.016605+00:00",
+  "captured_at": "2026-07-28T03:15:21.400955+00:00",
   "lines": [
     {
       "match_id": 706367,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 4.7,
+      "decimal_odds": 4.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2127659574468085,
-      "implied_prob_fair": 0.20068027210884354,
+      "implied_prob_raw": 0.20833333333333334,
+      "implied_prob_fair": 0.19597989949748745,
       "source": "match:706367"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.18,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.7993197278911565,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.8040201005025126,
       "source": "match:706367"
     }
   ]
