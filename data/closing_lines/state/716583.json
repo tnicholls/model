@@ -2,12 +2,12 @@
   "match_id": 716583,
   "match_url": "/716583/twisted-minds-orchid-vs-habos-babos-game-changers-2026-emea-stage-3-w2",
   "date_display": "Tue, July 28, 2026",
-  "time_display": "2:00 PM",
+  "time_display": "1:00 PM",
   "team1": "Twisted Minds Orchid",
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-28T04:33:27.240404+00:00",
+  "captured_at": "2026-07-28T04:50:06.198668+00:00",
   "lines": [
     {
       "match_id": 716583,
@@ -63,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.4310344827586207,
       "implied_prob_fair": 0.4005167958656331,
-      "source": "match:716583"
-    },
-    {
-      "match_id": 716583,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50655",
-      "stage": "pre-match",
-      "team": "Twisted Minds Orchid",
-      "team_tag": "TWO",
-      "decimal_odds": 1.48,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6032171581769437,
-      "source": "match:716583"
-    },
-    {
-      "match_id": 716583,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50655",
-      "stage": "pre-match",
-      "team": "Habos Babos",
-      "team_tag": "HABO",
-      "decimal_odds": 2.25,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.3967828418230563,
       "source": "match:716583"
     }
   ]

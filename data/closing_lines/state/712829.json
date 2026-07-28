@@ -2,12 +2,12 @@
   "match_id": 712829,
   "match_url": "/712829/giantx-vs-team-heretics-vct-2026-emea-stage-2-w3",
   "date_display": "Fri, July 31, 2026",
-  "time_display": "2:00 PM",
+  "time_display": "1:00 PM",
   "team1": "GIANTX",
   "team2": "Team Heretics",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T04:34:16.676849+00:00",
+  "captured_at": "2026-07-28T04:50:45.542444+00:00",
   "lines": [
     {
       "match_id": 712829,
@@ -63,62 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.78125,
       "implied_prob_fair": 0.7322175732217574,
-      "source": "match:712829"
-    },
-    {
-      "match_id": 712829,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50633",
-      "stage": "pre-match",
-      "team": "GIANTX",
-      "team_tag": "GX",
-      "decimal_odds": 3.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.29411764705882354,
-      "implied_prob_fair": 0.2703862660944206,
-      "source": "match:712829"
-    },
-    {
-      "match_id": 712829,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50633",
-      "stage": "pre-match",
-      "team": "Team Heretics",
-      "team_tag": "TH",
-      "decimal_odds": 1.26,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7296137339055794,
-      "source": "match:712829"
-    },
-    {
-      "match_id": 712829,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50602",
-      "stage": "pre-match",
-      "team": "GIANTX",
-      "team_tag": "GX",
-      "decimal_odds": 3.3,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.2699115044247788,
-      "source": "match:712829"
-    },
-    {
-      "match_id": 712829,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50602",
-      "stage": "pre-match",
-      "team": "Team Heretics",
-      "team_tag": "TH",
-      "decimal_odds": 1.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7300884955752213,
       "source": "match:712829"
     }
   ]

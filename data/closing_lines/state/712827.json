@@ -2,12 +2,12 @@
   "match_id": 712827,
   "match_url": "/712827/eternal-fire-vs-fnatic-vct-2026-emea-stage-2-w3",
   "date_display": "Thu, July 30, 2026",
-  "time_display": "2:00 PM",
+  "time_display": "1:00 PM",
   "team1": "Eternal Fire",
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T04:34:04.179360+00:00",
+  "captured_at": "2026-07-28T04:50:32.978228+00:00",
   "lines": [
     {
       "match_id": 712827,
@@ -63,62 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.7352941176470588,
       "implied_prob_fair": 0.6880733944954128,
-      "source": "match:712827"
-    },
-    {
-      "match_id": 712827,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50569",
-      "stage": "pre-match",
-      "team": "Eternal Fire",
-      "team_tag": "EF",
-      "decimal_odds": 3.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
-      "source": "match:712827"
-    },
-    {
-      "match_id": 712827,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/50569",
-      "stage": "pre-match",
-      "team": "FNATIC",
-      "team_tag": "FNC",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
-      "source": "match:712827"
-    },
-    {
-      "match_id": 712827,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50560",
-      "stage": "pre-match",
-      "team": "Eternal Fire",
-      "team_tag": "EF",
-      "decimal_odds": 2.9,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.3062200956937799,
-      "source": "match:712827"
-    },
-    {
-      "match_id": 712827,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50560",
-      "stage": "pre-match",
-      "team": "FNATIC",
-      "team_tag": "FNC",
-      "decimal_odds": 1.28,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.69377990430622,
       "source": "match:712827"
     }
   ]
