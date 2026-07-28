@@ -7,12 +7,12 @@
   "team2": "Contra",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-28T18:24:07.894308+00:00",
+  "captured_at": "2026-07-28T18:40:32.745748+00:00",
   "lines": [
     {
       "match_id": 715116,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/50664",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50661",
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
@@ -20,7 +20,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6602409638554217,
+      "implied_prob_fair": 0.6560975609756098,
+      "source": "match:715116"
+    },
+    {
+      "match_id": 715116,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50661",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 2.69,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3717472118959108,
+      "implied_prob_fair": 0.34390243902439027,
+      "source": "match:715116"
+    },
+    {
+      "match_id": 715116,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50664",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6713947990543735,
       "source": "match:715116"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.74,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36496350364963503,
-      "implied_prob_fair": 0.33975903614457836,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.32860520094562645,
       "source": "match:715116"
     }
   ]

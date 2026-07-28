@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Black",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-28T18:24:06.389443+00:00",
+  "captured_at": "2026-07-28T18:40:31.267191+00:00",
   "lines": [
     {
       "match_id": 715115,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 4.6,
+      "decimal_odds": 5.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2173913043478261,
-      "implied_prob_fair": 0.20277296360485267,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.18566775244299674,
       "source": "match:715115"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7972270363951472,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8143322475570033,
       "source": "match:715115"
     }
   ]
