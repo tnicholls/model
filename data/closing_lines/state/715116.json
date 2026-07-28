@@ -7,7 +7,7 @@
   "team2": "Contra",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-07-28T21:46:27.332968+00:00",
+  "captured_at": "2026-07-28T22:02:55.361826+00:00",
   "lines": [
     {
       "match_id": 715116,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.733050847457627,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7303609341825902,
       "source": "match:715116"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 3.46,
+      "decimal_odds": 3.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28901734104046245,
-      "implied_prob_fair": 0.2669491525423729,
+      "implied_prob_raw": 0.29069767441860467,
+      "implied_prob_fair": 0.26963906581740976,
       "source": "match:715116"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7352941176470589,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7309322033898306,
       "source": "match:715116"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.2647058823529412,
+      "implied_prob_raw": 0.2898550724637681,
+      "implied_prob_fair": 0.26906779661016955,
       "source": "match:715116"
     }
   ]
