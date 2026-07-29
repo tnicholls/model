@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-29T19:15:32.199755+00:00",
+  "captured_at": "2026-07-29T20:02:48.027725+00:00",
   "lines": [
     {
       "match_id": 716588,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 3.62,
+      "decimal_odds": 7.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27624309392265195,
-      "implied_prob_fair": 0.2551440329218107,
+      "implied_prob_raw": 0.13386880856760375,
+      "implied_prob_fair": 0.1242672919109027,
       "source": "match:716588"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7448559670781892,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8757327080890973,
       "source": "match:716588"
     },
     {
