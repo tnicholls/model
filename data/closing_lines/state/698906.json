@@ -7,8 +7,36 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-29T08:44:36.080678+00:00",
+  "captured_at": "2026-07-29T09:01:04.834379+00:00",
   "lines": [
+    {
+      "match_id": 698906,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50583",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7848101265822784,
+      "source": "match:698906"
+    },
+    {
+      "match_id": 698906,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50583",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 4.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2304147465437788,
+      "implied_prob_fair": 0.21518987341772153,
+      "source": "match:698906"
+    },
     {
       "match_id": 698906,
       "bookmaker": "rainbet",
