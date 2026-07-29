@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-29T07:18:08.273897+00:00",
+  "captured_at": "2026-07-29T07:34:37.362446+00:00",
   "lines": [
     {
       "match_id": 716586,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.18761726078799248,
       "implied_prob_fair": 0.17364341085271318,
+      "source": "match:716586"
+    },
+    {
+      "match_id": 716586,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50679",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:716586"
+    },
+    {
+      "match_id": 716586,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50679",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
       "source": "match:716586"
     }
   ]

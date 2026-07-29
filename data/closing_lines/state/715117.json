@@ -7,7 +7,7 @@
   "team2": "2Game Esports",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-07-29T07:18:14.824320+00:00",
+  "captured_at": "2026-07-29T07:34:43.872926+00:00",
   "lines": [
     {
       "match_id": 715117,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7042889390519187,
+      "implied_prob_fair": 0.7082405345211582,
       "source": "match:715117"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 3.12,
+      "decimal_odds": 3.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3205128205128205,
-      "implied_prob_fair": 0.29571106094808125,
+      "implied_prob_raw": 0.31446540880503143,
+      "implied_prob_fair": 0.2917594654788419,
       "source": "match:715117"
     }
   ]
