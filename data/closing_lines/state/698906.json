@@ -7,7 +7,7 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-29T10:56:20.119617+00:00",
+  "captured_at": "2026-07-29T18:59:34.376870+00:00",
   "lines": [
     {
       "match_id": 698906,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7848101265822784,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7900355871886121,
       "source": "match:698906"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 4.34,
+      "decimal_odds": 4.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2304147465437788,
-      "implied_prob_fair": 0.21518987341772153,
+      "implied_prob_raw": 0.2252252252252252,
+      "implied_prob_fair": 0.20996441281138786,
       "source": "match:698906"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7763401109057302,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7818181818181817,
       "source": "match:698906"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 4.2,
+      "decimal_odds": 4.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.22365988909426987,
+      "implied_prob_raw": 0.23255813953488372,
+      "implied_prob_fair": 0.21818181818181814,
       "source": "match:698906"
     }
   ]

@@ -1,0 +1,41 @@
+{
+  "match_id": 724621,
+  "match_url": "/724621/funplus-phoenix-vs-jdg-esports-vct-2026-china-stage-2-ubqf",
+  "date_display": "Thu, August 6, 2026",
+  "time_display": "3:00 AM",
+  "team1": "FunPlus Phoenix",
+  "team2": "JDG Esports",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-07-29T19:00:17.299197+00:00",
+  "lines": [
+    {
+      "match_id": 724621,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50628",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5435356200527705,
+      "source": "match:724621"
+    },
+    {
+      "match_id": 724621,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50628",
+      "stage": "pre-match",
+      "team": "JDG Esports",
+      "team_tag": "JDG",
+      "decimal_odds": 2.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.4564643799472295,
+      "source": "match:724621"
+    }
+  ]
+}

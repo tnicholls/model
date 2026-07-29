@@ -7,7 +7,7 @@
   "team2": "2Game Esports",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-07-29T10:55:53.596646+00:00",
+  "captured_at": "2026-07-29T18:59:08.408503+00:00",
   "lines": [
     {
       "match_id": 715117,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.703370786516854,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7677543186180423,
       "source": "match:715117"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 3.13,
+      "decimal_odds": 4.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3194888178913738,
-      "implied_prob_fair": 0.2966292134831461,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23224568138195778,
       "source": "match:715117"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7422680412371133,
       "source": "match:715117"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 3.1,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.25773195876288657,
       "source": "match:715117"
     }
   ]
