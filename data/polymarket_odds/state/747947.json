@@ -1,0 +1,100 @@
+{
+  "event_id": "747947",
+  "match_meta": {
+    "event_id": "747947",
+    "slug": "val-var-dfm1-2026-07-30",
+    "title": "Valorant: VARREL vs DetonatioN FocusMe (BO3) - VCT Pacific Group Omega",
+    "region": "pacific",
+    "bo_x": 3,
+    "team_a": "VARREL",
+    "team_b": "DetonatioN FocusMe",
+    "team_a_raw": "VARREL",
+    "team_b_raw": "DetonatioN FocusMe",
+    "game_start_time": "2026-07-30 08:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-29T23:03:26.977645+00:00",
+          "source_timestamp_ms_a": 1785366205953,
+          "source_timestamp_ms_b": 1785366205953,
+          "price_team_a": 0.5,
+          "price_team_b": 0.51,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.49,
+            "best_ask": 0.5,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 56161.75,
+            "effective_buy_price": 0.5,
+            "effective_sell_price": 0.49,
+            "book_timestamp_ms": 1785366205953
+          },
+          "book_team_b": {
+            "best_bid": 0.5,
+            "best_ask": 0.51,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 72279.29000000001,
+            "effective_buy_price": 0.51,
+            "effective_sell_price": 0.5,
+            "book_timestamp_ms": 1785366205953
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-29T23:03:27.583899+00:00",
+          "source_timestamp_ms_a": 1785366157187,
+          "source_timestamp_ms_b": 1785366157187,
+          "price_team_a": 0.5,
+          "price_team_b": 0.51,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.49,
+            "best_ask": 0.5,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 7009.09,
+            "effective_buy_price": 0.517263675158412,
+            "effective_sell_price": 0.49,
+            "book_timestamp_ms": 1785366157187
+          },
+          "book_team_b": {
+            "best_bid": 0.5,
+            "best_ask": 0.51,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 11865.09,
+            "effective_buy_price": 0.51,
+            "effective_sell_price": 0.4825527038031185,
+            "book_timestamp_ms": 1785366157187
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-29T23:03:28.212781+00:00",
+          "source_timestamp_ms_a": 1785366157190,
+          "source_timestamp_ms_b": 1785366157190,
+          "price_team_a": 0.52,
+          "price_team_b": 0.5,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.5,
+            "best_ask": 0.52,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 9327.45,
+            "effective_buy_price": 0.5297880847660935,
+            "effective_sell_price": 0.49320851869753496,
+            "book_timestamp_ms": 1785366157190
+          },
+          "book_team_b": {
+            "best_bid": 0.48,
+            "best_ask": 0.5,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 9327.45,
+            "effective_buy_price": 0.5067036898162692,
+            "effective_sell_price": 0.47018807523009204,
+            "book_timestamp_ms": 1785366157190
+          }
+        }
+      },
+      "captured_at": "2026-07-29T23:03:28.212828+00:00"
+    }
+  ]
+}

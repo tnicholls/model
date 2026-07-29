@@ -1,0 +1,100 @@
+{
+  "event_id": "752249",
+  "match_meta": {
+    "event_id": "752249",
+    "slug": "val-100t1-sen-2026-07-30",
+    "title": "Valorant: 100 Thieves vs Sentinels (BO3) - VCT Americas Stage 2 Group Omega",
+    "region": "americas",
+    "bo_x": 3,
+    "team_a": "100 Thieves",
+    "team_b": "Sentinels",
+    "team_a_raw": "100 Thieves",
+    "team_b_raw": "Sentinels",
+    "game_start_time": "2026-07-31 00:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-29T23:03:30.657252+00:00",
+          "source_timestamp_ms_a": 1785366207328,
+          "source_timestamp_ms_b": 1785366207328,
+          "price_team_a": 0.71,
+          "price_team_b": 0.3,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.7,
+            "best_ask": 0.71,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 38555.04,
+            "effective_buy_price": 0.71,
+            "effective_sell_price": 0.6828644799203699,
+            "book_timestamp_ms": 1785366207328
+          },
+          "book_team_b": {
+            "best_bid": 0.29,
+            "best_ask": 0.3,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 20274.91,
+            "effective_buy_price": 0.3186632713095109,
+            "effective_sell_price": 0.29,
+            "book_timestamp_ms": 1785366207328
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-29T23:03:31.267928+00:00",
+          "source_timestamp_ms_a": 1785366189502,
+          "source_timestamp_ms_b": 1785366189502,
+          "price_team_a": 0.67,
+          "price_team_b": 0.36,
+          "vig": 0.030000000000000027,
+          "book_team_a": {
+            "best_bid": 0.64,
+            "best_ask": 0.67,
+            "spread": 0.030000000000000027,
+            "depth_near_mid": 322.0,
+            "effective_buy_price": 0.6922160307343918,
+            "effective_sell_price": 0.6221151916516154,
+            "book_timestamp_ms": 1785366189502
+          },
+          "book_team_b": {
+            "best_bid": 0.33,
+            "best_ask": 0.36,
+            "spread": 0.02999999999999997,
+            "depth_near_mid": 103.25,
+            "effective_buy_price": 0.37871237791508866,
+            "effective_sell_price": 0.3024654480159935,
+            "book_timestamp_ms": 1785366189502
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-29T23:03:31.866310+00:00",
+          "source_timestamp_ms_a": 1785366189503,
+          "source_timestamp_ms_b": 1785366189503,
+          "price_team_a": 0.67,
+          "price_team_b": 0.36,
+          "vig": 0.030000000000000027,
+          "book_team_a": {
+            "best_bid": 0.64,
+            "best_ask": 0.67,
+            "spread": 0.030000000000000027,
+            "depth_near_mid": 288.5,
+            "effective_buy_price": 0.6933713697056144,
+            "effective_sell_price": 0.6224743354835471,
+            "book_timestamp_ms": 1785366189503
+          },
+          "book_team_b": {
+            "best_bid": 0.33,
+            "best_ask": 0.36,
+            "spread": 0.02999999999999997,
+            "depth_near_mid": 87.25,
+            "effective_buy_price": 0.378495480465151,
+            "effective_sell_price": 0.3020920814165244,
+            "book_timestamp_ms": 1785366189503
+          }
+        }
+      },
+      "captured_at": "2026-07-29T23:03:31.866393+00:00"
+    }
+  ]
+}

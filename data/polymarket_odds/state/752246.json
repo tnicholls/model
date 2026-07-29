@@ -1,0 +1,100 @@
+{
+  "event_id": "752246",
+  "match_meta": {
+    "event_id": "752246",
+    "slug": "val-kru1-g21-2026-07-30",
+    "title": "Valorant: KR\u00dc Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Group Omega",
+    "region": "americas",
+    "bo_x": 3,
+    "team_a": "KR\u00dc Esports",
+    "team_b": "G2 Esports",
+    "team_a_raw": "KR\u00dc Esports",
+    "team_b_raw": "G2 Esports",
+    "game_start_time": "2026-07-30 21:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-29T23:03:28.786385+00:00",
+          "source_timestamp_ms_a": 1785366190673,
+          "source_timestamp_ms_b": 1785366190673,
+          "price_team_a": 0.22,
+          "price_team_b": 0.79,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.21,
+            "best_ask": 0.22,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 287.27,
+            "effective_buy_price": 0.2297827633755048,
+            "effective_sell_price": 0.20096463022508038,
+            "book_timestamp_ms": 1785366190673
+          },
+          "book_team_b": {
+            "best_bid": 0.78,
+            "best_ask": 0.79,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 32401.84,
+            "effective_buy_price": 0.7961783439490446,
+            "effective_sell_price": 0.7707286468627441,
+            "book_timestamp_ms": 1785366190673
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-29T23:03:29.426757+00:00",
+          "source_timestamp_ms_a": 1785366168572,
+          "source_timestamp_ms_b": 1785366168572,
+          "price_team_a": 0.3,
+          "price_team_b": 0.73,
+          "vig": 0.030000000000000027,
+          "book_team_a": {
+            "best_bid": 0.27,
+            "best_ask": 0.3,
+            "spread": 0.02999999999999997,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.31309297912713474,
+            "effective_sell_price": 0.25543567108059506,
+            "book_timestamp_ms": 1785366168572
+          },
+          "book_team_b": {
+            "best_bid": 0.7,
+            "best_ask": 0.73,
+            "spread": 0.030000000000000027,
+            "depth_near_mid": 3461.62,
+            "effective_buy_price": 0.7387441349705501,
+            "effective_sell_price": 0.6980802792321117,
+            "book_timestamp_ms": 1785366168572
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-29T23:03:30.019552+00:00",
+          "source_timestamp_ms_a": 1785366170557,
+          "source_timestamp_ms_b": 1785366170557,
+          "price_team_a": 0.31,
+          "price_team_b": 0.72,
+          "vig": 0.030000000000000027,
+          "book_team_a": {
+            "best_bid": 0.28,
+            "best_ask": 0.31,
+            "spread": 0.02999999999999997,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.31681978983135206,
+            "effective_sell_price": 0.25658131061733463,
+            "book_timestamp_ms": 1785366170557
+          },
+          "book_team_b": {
+            "best_bid": 0.69,
+            "best_ask": 0.72,
+            "spread": 0.030000000000000027,
+            "depth_near_mid": 2706.54,
+            "effective_buy_price": 0.730215117426485,
+            "effective_sell_price": 0.6895508306450991,
+            "book_timestamp_ms": 1785366170557
+          }
+        }
+      },
+      "captured_at": "2026-07-29T23:03:30.019585+00:00"
+    }
+  ]
+}

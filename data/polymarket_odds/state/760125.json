@@ -1,0 +1,100 @@
+{
+  "event_id": "760125",
+  "match_meta": {
+    "event_id": "760125",
+    "slug": "val-fs1-zeta2-2026-07-30",
+    "title": "Valorant: FULL SENSE vs ZETA DIVISION (BO3) - VCT Pacific Group Alpha",
+    "region": "pacific",
+    "bo_x": 3,
+    "team_a": "FULL SENSE",
+    "team_b": "ZETA DIVISION",
+    "team_a_raw": "FULL SENSE",
+    "team_b_raw": "ZETA DIVISION",
+    "game_start_time": "2026-07-30 11:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-29T23:03:36.335828+00:00",
+          "source_timestamp_ms_a": 1785366195388,
+          "source_timestamp_ms_b": 1785366195388,
+          "price_team_a": 0.74,
+          "price_team_b": 0.27,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.73,
+            "best_ask": 0.74,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 63406.53,
+            "effective_buy_price": 0.74,
+            "effective_sell_price": 0.73,
+            "book_timestamp_ms": 1785366195388
+          },
+          "book_team_b": {
+            "best_bid": 0.26,
+            "best_ask": 0.27,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 14397.869999999999,
+            "effective_buy_price": 0.27,
+            "effective_sell_price": 0.26,
+            "book_timestamp_ms": 1785366195388
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-29T23:03:36.893466+00:00",
+          "source_timestamp_ms_a": 1785366199636,
+          "source_timestamp_ms_b": 1785366199636,
+          "price_team_a": 0.65,
+          "price_team_b": 0.36,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.64,
+            "best_ask": 0.65,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 3966.54,
+            "effective_buy_price": 0.6621731137949438,
+            "effective_sell_price": 0.6249564042508325,
+            "book_timestamp_ms": 1785366199636
+          },
+          "book_team_b": {
+            "best_bid": 0.35,
+            "best_ask": 0.36,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 962.54,
+            "effective_buy_price": 0.3770100090204605,
+            "effective_sell_price": 0.33394725657268926,
+            "book_timestamp_ms": 1785366199636
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-29T23:03:37.457469+00:00",
+          "source_timestamp_ms_a": 1785366194912,
+          "source_timestamp_ms_b": 1785366194912,
+          "price_team_a": 0.66,
+          "price_team_b": 0.36,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.64,
+            "best_ask": 0.66,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 6877.07,
+            "effective_buy_price": 0.66,
+            "effective_sell_price": 0.6266052970786247,
+            "book_timestamp_ms": 1785366194912
+          },
+          "book_team_b": {
+            "best_bid": 0.34,
+            "best_ask": 0.36,
+            "spread": 0.019999999999999962,
+            "depth_near_mid": 801.0,
+            "effective_buy_price": 0.37603605354515907,
+            "effective_sell_price": 0.3352363924500701,
+            "book_timestamp_ms": 1785366194912
+          }
+        }
+      },
+      "captured_at": "2026-07-29T23:03:37.457541+00:00"
+    }
+  ]
+}

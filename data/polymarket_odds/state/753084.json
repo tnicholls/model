@@ -1,0 +1,100 @@
+{
+  "event_id": "753084",
+  "match_meta": {
+    "event_id": "753084",
+    "slug": "val-ef-fnc1-2026-07-30",
+    "title": "Valorant: Eternal Fire vs Fnatic (BO3) - VCT EMEA Group Omega",
+    "region": "emea",
+    "bo_x": 3,
+    "team_a": "Eternal Fire",
+    "team_b": "FNATIC",
+    "team_a_raw": "Eternal Fire",
+    "team_b_raw": "Fnatic",
+    "game_start_time": "2026-07-30 18:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-29T23:03:34.347933+00:00",
+          "source_timestamp_ms_a": 1785366212838,
+          "source_timestamp_ms_b": 1785366212838,
+          "price_team_a": 0.32,
+          "price_team_b": 0.69,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.31,
+            "best_ask": 0.32,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 57132.24,
+            "effective_buy_price": 0.32,
+            "effective_sell_price": 0.31,
+            "book_timestamp_ms": 1785366212838
+          },
+          "book_team_b": {
+            "best_bid": 0.68,
+            "best_ask": 0.69,
+            "spread": 0.009999999999999898,
+            "depth_near_mid": 64284.740000000005,
+            "effective_buy_price": 0.69,
+            "effective_sell_price": 0.68,
+            "book_timestamp_ms": 1785366212838
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-29T23:03:34.988190+00:00",
+          "source_timestamp_ms_a": 1785366206787,
+          "source_timestamp_ms_b": 1785366214765,
+          "price_team_a": 0.36,
+          "price_team_b": 0.67,
+          "vig": 0.030000000000000027,
+          "book_team_a": {
+            "best_bid": 0.33,
+            "best_ask": 0.36,
+            "spread": 0.02999999999999997,
+            "depth_near_mid": 859.01,
+            "effective_buy_price": 0.3676605026892875,
+            "effective_sell_price": 0.3186330436856182,
+            "book_timestamp_ms": 1785366206787
+          },
+          "book_team_b": {
+            "best_bid": 0.64,
+            "best_ask": 0.67,
+            "spread": 0.030000000000000027,
+            "depth_near_mid": 5702.01,
+            "effective_buy_price": 0.6727231536470004,
+            "effective_sell_price": 0.6340344882556685,
+            "book_timestamp_ms": 1785366214765
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-29T23:03:35.614344+00:00",
+          "source_timestamp_ms_a": 1785366168577,
+          "source_timestamp_ms_b": 1785366168577,
+          "price_team_a": 0.35,
+          "price_team_b": 0.67,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.33,
+            "best_ask": 0.35,
+            "spread": 0.019999999999999962,
+            "depth_near_mid": 511.0,
+            "effective_buy_price": 0.35996400359964004,
+            "effective_sell_price": 0.32327150765749385,
+            "book_timestamp_ms": 1785366168577
+          },
+          "book_team_b": {
+            "best_bid": 0.65,
+            "best_ask": 0.67,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 12979.65,
+            "effective_buy_price": 0.6731873440779315,
+            "effective_sell_price": 0.6400640064006401,
+            "book_timestamp_ms": 1785366168577
+          }
+        }
+      },
+      "captured_at": "2026-07-29T23:03:35.614431+00:00"
+    }
+  ]
+}

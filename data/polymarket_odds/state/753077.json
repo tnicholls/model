@@ -1,0 +1,100 @@
+{
+  "event_id": "753077",
+  "match_meta": {
+    "event_id": "753077",
+    "slug": "val-navi1-pcfic-2026-07-30",
+    "title": "Valorant: Natus Vincere vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+    "region": "emea",
+    "bo_x": 3,
+    "team_a": "Natus Vincere",
+    "team_b": "PCIFIC Esports",
+    "team_a_raw": "Natus Vincere",
+    "team_b_raw": "Pcific Esports",
+    "game_start_time": "2026-07-30 15:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-29T23:03:32.468443+00:00",
+          "source_timestamp_ms_a": 1785366205169,
+          "source_timestamp_ms_b": 1785366205169,
+          "price_team_a": 0.78,
+          "price_team_b": 0.23,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.77,
+            "best_ask": 0.78,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 110545.22,
+            "effective_buy_price": 0.78,
+            "effective_sell_price": 0.77,
+            "book_timestamp_ms": 1785366205169
+          },
+          "book_team_b": {
+            "best_bid": 0.22,
+            "best_ask": 0.23,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 8825.58,
+            "effective_buy_price": 0.22999999999999998,
+            "effective_sell_price": 0.22000000000000003,
+            "book_timestamp_ms": 1785366205169
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-29T23:03:33.084448+00:00",
+          "source_timestamp_ms_a": 1785366191317,
+          "source_timestamp_ms_b": 1785366191317,
+          "price_team_a": 0.73,
+          "price_team_b": 0.29,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.71,
+            "best_ask": 0.73,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 11287.65,
+            "effective_buy_price": 0.7388605292917263,
+            "effective_sell_price": 0.7007007007007006,
+            "book_timestamp_ms": 1785366191317
+          },
+          "book_team_b": {
+            "best_bid": 0.27,
+            "best_ask": 0.29,
+            "spread": 0.019999999999999962,
+            "depth_near_mid": 127.11,
+            "effective_buy_price": 0.29970029970029965,
+            "effective_sell_price": 0.2604015913341556,
+            "book_timestamp_ms": 1785366191317
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-29T23:03:33.728918+00:00",
+          "source_timestamp_ms_a": 1785366190463,
+          "source_timestamp_ms_b": 1785366190463,
+          "price_team_a": 0.71,
+          "price_team_b": 0.3,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.7,
+            "best_ask": 0.71,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 13891.0,
+            "effective_buy_price": 0.7297810656802959,
+            "effective_sell_price": 0.6902761104441776,
+            "book_timestamp_ms": 1785366190463
+          },
+          "book_team_b": {
+            "best_bid": 0.29,
+            "best_ask": 0.3,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 25.0,
+            "effective_buy_price": 0.30987604958016796,
+            "effective_sell_price": 0.26850073321354073,
+            "book_timestamp_ms": 1785366190463
+          }
+        }
+      },
+      "captured_at": "2026-07-29T23:03:33.728974+00:00"
+    }
+  ]
+}
