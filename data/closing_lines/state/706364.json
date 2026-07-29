@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-29T02:10:54.084538+00:00",
+  "captured_at": "2026-07-29T02:31:02.147510+00:00",
   "lines": [
     {
       "match_id": 706364,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 4.3,
+      "decimal_odds": 3.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23255813953488372,
-      "implied_prob_fair": 0.21818181818181814,
+      "implied_prob_raw": 0.2597402597402597,
+      "implied_prob_fair": 0.243614931237721,
       "source": "match:706364"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7818181818181817,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.756385068762279,
       "source": "match:706364"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-29T02:10:30.912129+00:00",
+  "captured_at": "2026-07-29T02:30:39.126416+00:00",
   "lines": [
     {
       "match_id": 712824,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 3.16,
+      "decimal_odds": 3.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3164556962025316,
-      "implied_prob_fair": 0.2962138084632517,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.2920353982300885,
       "source": "match:712824"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.33,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.7037861915367484,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7079646017699115,
       "source": "match:712824"
     },
     {
