@@ -1,0 +1,41 @@
+{
+  "match_id": 716591,
+  "match_url": "/716591/giantx-gc-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w2",
+  "date_display": "Thu, July 30, 2026",
+  "time_display": "1:00 PM",
+  "team1": "GIANTX GC",
+  "team2": "ALTERNATE aTTaX Ruby",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 2",
+  "captured_at": "2026-07-29T20:26:30.336746+00:00",
+  "lines": [
+    {
+      "match_id": 716591,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50694",
+      "stage": "pre-match",
+      "team": "GIANTX GC",
+      "team_tag": "GX.G",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6124031007751938,
+      "source": "match:716591"
+    },
+    {
+      "match_id": 716591,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50694",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 2.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.38759689922480617,
+      "source": "match:716591"
+    }
+  ]
+}

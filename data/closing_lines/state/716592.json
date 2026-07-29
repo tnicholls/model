@@ -1,0 +1,41 @@
+{
+  "match_id": 716592,
+  "match_url": "/716592/g2-gozen-vs-twisted-minds-orchid-game-changers-2026-emea-stage-3-w2",
+  "date_display": "Thu, July 30, 2026",
+  "time_display": "1:00 PM",
+  "team1": "G2 Gozen",
+  "team2": "Twisted Minds Orchid",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 2",
+  "captured_at": "2026-07-29T20:26:31.887134+00:00",
+  "lines": [
+    {
+      "match_id": 716592,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50695",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
+      "source": "match:716592"
+    },
+    {
+      "match_id": 716592,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50695",
+      "stage": "pre-match",
+      "team": "Twisted Minds Orchid",
+      "team_tag": "TWO",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
+      "source": "match:716592"
+    }
+  ]
+}
