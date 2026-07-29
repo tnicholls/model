@@ -7,48 +7,20 @@
   "team2": "ZETA DIVISION",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-28T22:52:23.439922+00:00",
+  "captured_at": "2026-07-29T00:58:50.037099+00:00",
   "lines": [
     {
       "match_id": 698903,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50484",
-      "stage": "pre-match",
-      "team": "FULL SENSE",
-      "team_tag": "FS",
-      "decimal_odds": 1.44,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.647921760391198,
-      "source": "match:698903"
-    },
-    {
-      "match_id": 698903,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50484",
-      "stage": "pre-match",
-      "team": "ZETA DIVISION",
-      "team_tag": "ZETA",
-      "decimal_odds": 2.65,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37735849056603776,
-      "implied_prob_fair": 0.35207823960880197,
-      "source": "match:698903"
-    },
-    {
-      "match_id": 698903,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50657",
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.668235294117647,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6774941995359629,
       "source": "match:698903"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.84,
+      "decimal_odds": 2.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35211267605633806,
-      "implied_prob_fair": 0.33176470588235296,
+      "implied_prob_raw": 0.3424657534246575,
+      "implied_prob_fair": 0.3225058004640371,
       "source": "match:698903"
     }
   ]
