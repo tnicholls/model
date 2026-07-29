@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-29T07:34:41.969193+00:00",
+  "captured_at": "2026-07-29T08:27:37.401637+00:00",
   "lines": [
     {
       "match_id": 716588,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.19,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.42063492063492064,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.42105263157894735,
       "source": "match:716588"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5793650793650793,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5789473684210527,
+      "source": "match:716588"
+    },
+    {
+      "match_id": 716588,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50682",
+      "stage": "pre-match",
+      "team": "GIANTX GC",
+      "team_tag": "GX.G",
+      "decimal_odds": 2.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.42782152230971127,
+      "source": "match:716588"
+    },
+    {
+      "match_id": 716588,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50682",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5721784776902887,
       "source": "match:716588"
     }
   ]
