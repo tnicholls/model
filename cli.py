@@ -32,6 +32,11 @@ Examples:
     python cli.py closing poll     # snapshot upcoming odds + finalize newly-completed matches
     python cli.py closing export   # rebuild data/closing_lines/valorant_closing_lines.xlsx
     python cli.py closing run      # both, in one call (what the scheduled job runs)
+
+    python cli.py polymarket backfill  # mine every past T1 match's Polymarket odds via price-history
+    python cli.py polymarket poll      # snapshot live price/order-book for upcoming T1 matches, finalize closed ones
+    python cli.py polymarket export    # rebuild data/polymarket_odds/polymarket_valorant_odds.xlsx
+    python cli.py polymarket run       # poll + export, in one call (what the scheduled job runs)
 """
 
 from __future__ import annotations
@@ -39,7 +44,7 @@ from __future__ import annotations
 import argparse
 import sys
 
-from vlr_scraper import closing_lines, veto
+from vlr_scraper import closing_lines, polymarket_odds, veto
 from vlr_scraper.fetch import Fetcher
 from vlr_scraper.models import AgentMapPickRate, BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
 from vlr_scraper.parse import (
@@ -195,6 +200,23 @@ def cmd_closing(args: argparse.Namespace) -> None:
         print(f"Wrote {n} matches to {closing_lines.XLSX_PATH}", file=sys.stderr)
 
 
+def cmd_polymarket(args: argparse.Namespace) -> None:
+    if args.action == "backfill":
+        summary = polymarket_odds.backfill()
+        print(
+            f"Backfill done: {summary['t1_matches_found']} T1 matches found, "
+            f"{summary['matches_with_snapshots']} with usable snapshots, "
+            f"{summary['rows_written']} rows written",
+            file=sys.stderr,
+        )
+    if args.action in ("poll", "run"):
+        summary = polymarket_odds.poll_once()
+        print(f"Poll done: {summary['snapshotted']} snapshotted, {summary['finalized']} finalized", file=sys.stderr)
+    if args.action in ("export", "run"):
+        n = polymarket_odds.export_excel()
+        print(f"Wrote {n} matches to {polymarket_odds.XLSX_PATH}", file=sys.stderr)
+
+
 def cmd_veto(args: argparse.Namespace) -> None:
     if args.action == "collect":
         summary = veto.collect_veto_dataset(target_matches=args.target)
@@ -307,6 +329,16 @@ def build_parser() -> argparse.ArgumentParser:
     closing_p.add_argument("--results-pages", type=int, default=2, help="Pages of /matches/results to check for newly-completed matches")
     closing_p.add_argument("--target", type=int, default=300, help="backfill only: total historical matches to have on record")
     closing_p.set_defaults(func=cmd_closing)
+
+    polymarket_p = sub.add_parser(
+        "polymarket",
+        help="Capture Polymarket odds (match/map winner + vig + liquidity proxy) for T1 Valorant matches",
+    )
+    polymarket_p.add_argument(
+        "action", choices=["backfill", "poll", "export", "run"],
+        help="backfill: mine all past T1 matches via price-history; poll: snapshot live price/book for upcoming matches + finalize closed ones; export: rebuild xlsx; run: poll+export",
+    )
+    polymarket_p.set_defaults(func=cmd_polymarket)
 
     veto_p = sub.add_parser("veto", help="Collect veto sequences + map results, then test a naive 'ban your worst map' rule")
     veto_p.add_argument("action", choices=["collect", "tags", "test"], help="collect: fetch matches; tags: build team tag cache; test: run the walk-forward test")
