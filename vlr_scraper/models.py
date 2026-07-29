@@ -150,6 +150,36 @@ class AgentMapPickRate:
 
 
 @dataclass
+class PlayerMapStat:
+    """One (player, map) row from a match page's per-map overview table
+    (`div.ovw-table` inside each `div.vm-stats-game`). Used to build the
+    agent-proficiency map-strength features -- see agent_proficiency.py.
+
+    `team_tag` is the raw short tag as rendered on the page (e.g. "SEN");
+    resolving it to a team_id is left to the caller (needs TEAM_TAGS_PATH,
+    which parse.py deliberately doesn't touch -- see veto._resolve_veto_team
+    for why fuzzy name matching isn't safe here).
+    """
+
+    match_id: int
+    map_id: int
+    map_name: str
+    match_date_utc: str | None  # "YYYY-MM-DD HH:MM:SS", UTC
+    patch: str | None  # e.g. "12.08"
+    team1_id: int | None
+    team2_id: int | None
+    rounds_played: int | None  # total rounds on this map (both teams' scores summed)
+    player_id: int
+    player_alias: str
+    team_tag: str | None
+    agent: str | None
+    rating: float | None  # Rating 2.0, "both sides" value
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+
+@dataclass
 class TeamInfo:
     team_id: int
     name: str

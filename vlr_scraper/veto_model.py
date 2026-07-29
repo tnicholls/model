@@ -71,7 +71,11 @@ def collect_decisions(action_types: tuple[str, ...] = ("ban", "pick")) -> list[d
 
             if step.action in action_types:
                 team_id = _resolve_veto_team(step.team, t1_id, t2_id, tag_cache)
-                if team_id is not None and len(available) >= 2:
+                # step.map in available guards against a rare raw-data anomaly: a small number of
+                # vlr.gg veto notes reference the same map twice (e.g. match 596422 bans "Split"
+                # twice), which would otherwise record a decision whose "chosen" map isn't in its
+                # own "pool" (already discarded by the first, duplicate mention).
+                if team_id is not None and len(available) >= 2 and step.map in available:
                     opp_id = t2_id if team_id == t1_id else t1_id
                     if opp_id is not None:
                         decisions.append(

@@ -1,0 +1,56 @@
+{
+  "americas": {
+    "11058": "G2 Esports\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States",
+    "2359": "LEVIAT\u00c1N\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tArgentina",
+    "1034": "NRG\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States",
+    "120": "100 Thieves\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States",
+    "2355": "KR\u00dc Esports\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tArgentina",
+    "7386": "MIBR\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tBrazil",
+    "2406": "FURIA\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tBrazil",
+    "6961": "LOUD\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tBrazil",
+    "5248": "Evil Geniuses\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States",
+    "427": "ENVY\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States",
+    "2": "Sentinels\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States",
+    "188": "Cloud9\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tUnited States"
+  },
+  "emea": {
+    "1001": "Team Heretics\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "2059": "Team Vitality\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "1184": "FUT Esports\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tT\u00fcrkiye",
+    "6392": "Eternal Fire\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tT\u00fcrkiye",
+    "2593": "FNATIC\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "12694": "Gentle Mates\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "397": "BBL Esports\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tT\u00fcrkiye",
+    "474": "Team Liquid\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "4915": "Natus Vincere\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "3478": "PCIFIC Esports\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tT\u00fcrkiye",
+    "8877": "Karmine Corp\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope",
+    "14419": "GIANTX\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tEurope"
+  },
+  "pacific": {
+    "624": "Paper Rex\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tSingapore",
+    "4050": "FULL SENSE\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tThailand",
+    "918": "Global Esports\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tIndia",
+    "14": "T1\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tSouth Korea",
+    "878": "Rex Regum Qeon\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tIndonesia",
+    "8185": "KIWOOM DRX\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tSouth Korea",
+    "278": "DetonatioN FocusMe\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tJapan",
+    "11060": "Nongshim RedForce\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tSouth Korea",
+    "17": "Gen.G\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tSouth Korea",
+    "5448": "ZETA DIVISION\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tJapan",
+    "11229": "VARREL\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tJapan",
+    "6199": "Team Secret\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\tPhilippines"
+  },
+  "china": {
+    "1120": "EDward Gaming",
+    "13581": "Xi Lai Gaming\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\tChina",
+    "11981": "Dragon Ranger Gaming",
+    "1119": "All Gamers",
+    "731": "TYLOO\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\tChina",
+    "13576": "JD Mall JDG Esports",
+    "14137": "Wuxi Titan Esports Club",
+    "12685": "Trace Esports",
+    "11328": "FunPlus Phoenix",
+    "13790": "Wolves Esports"
+  }
+}

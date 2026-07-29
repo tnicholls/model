@@ -1,0 +1,62 @@
+{
+  "Haven": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Ascent": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Lotus": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Split": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Sunset": [
+    {
+      "entered_pool_date": "2026-06-28 04:55:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Breeze": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Summit": [
+    {
+      "entered_pool_date": "2026-07-09 04:00:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Fracture": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Pearl": [
+    {
+      "entered_pool_date": "2026-05-16 19:15:00",
+      "source": "derived_from_veto_pool"
+    }
+  ],
+  "Bind": [
+    {
+      "entered_pool_date": "2026-05-18 07:00:00",
+      "source": "derived_from_veto_pool"
+    }
+  ]
+}

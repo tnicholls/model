@@ -14,11 +14,12 @@ import re
 
 from bs4 import BeautifulSoup, Tag
 
-from .models import AgentMapPickRate, AgentUsage, BetLine, MatchSummary, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
+from .models import AgentMapPickRate, AgentUsage, BetLine, MatchSummary, PlayerMapStat, PlayerStat, RosterPlayer, StandingEntry, TeamInfo
 
 _PLAYER_HREF_RE = re.compile(r"/player/(\d+)/")
 _TEAM_HREF_RE = re.compile(r"/team/(\d+)/")
 _PLACE_RANK_RE = re.compile(r"(\d+)")
+_PATCH_RE = re.compile(r"Patch\s+([\d.]+)")
 
 
 def _clean(text: str | None) -> str | None:
@@ -557,6 +558,209 @@ def parse_match_odds(html: str, match_id: int, source: str = "") -> list[BetLine
             )
         )
     return lines
+
+
+def parse_match_header_date_patch(html: str) -> tuple[str | None, str | None]:
+    """UTC timestamp ("YYYY-MM-DD HH:MM:SS") and patch version (e.g. "12.08")
+    from a match page's `div.match-header-date`. The patch line has no class
+    of its own (just a plain sibling div with italic styling), so it's
+    matched by regex over the header's full text rather than by structure."""
+    soup = BeautifulSoup(html, "lxml")
+    header = soup.find("div", class_="match-header-date")
+    if header is None:
+        return None, None
+    ts_div = header.find(class_="moment-tz-convert")
+    utc_ts = ts_div.get("data-utc-ts") if ts_div else None
+    patch_match = _PATCH_RE.search(header.get_text(" "))
+    patch = patch_match.group(1) if patch_match else None
+    return utc_ts, patch
+
+
+def parse_match_player_map_stats(html: str, match_id: int) -> list[PlayerMapStat]:
+    """Parse a match page's per-map player overview tables (`div.ovw-table`,
+    two per `div.vm-stats-game` -- one per team, five player rows each after
+    a header row) into one PlayerMapStat per (map, player).
+
+    Team identity is left partially resolved: `team1_id`/`team2_id` come from
+    the header's team links (same approach as veto._parse_team_ids), but each
+    row's `team_tag` is left as the raw page string -- matching it to a
+    team_id needs the authoritative TEAM_TAGS_PATH cache, which lives outside
+    this module (see PlayerMapStat's docstring).
+    """
+    soup = BeautifulSoup(html, "lxml")
+    utc_ts, patch = parse_match_header_date_patch(html)
+
+    header = soup.find("div", class_="match-header-vs")
+    team1_id = team2_id = None
+    if header:
+        for link in header.find_all("a", class_="match-header-link"):
+            classes = link.get("class") or []
+            m = _TEAM_HREF_RE.search(link.get("href", ""))
+            if not m:
+                continue
+            if "mod-1" in classes:
+                team1_id = int(m.group(1))
+            elif "mod-2" in classes:
+                team2_id = int(m.group(1))
+
+    rows: list[PlayerMapStat] = []
+    for game_div in soup.find_all("div", class_="vm-stats-game"):
+        game_id = game_div.get("data-game-id")
+        if not game_id or game_id == "all":
+            continue
+
+        game_header = game_div.find("div", class_="vm-stats-game-header")
+        map_name = None
+        rounds_played = None
+        if game_header:
+            map_div = game_header.find("div", class_="map")
+            if map_div:
+                name_span = map_div.find("span", style=True)
+                map_name = _direct_text(name_span) if name_span else _clean(map_div.get_text(" "))
+                if map_name:
+                    map_name = map_name.split("\n")[0].strip()
+            scores = [_num(sd.get_text(), cast=int) for sd in game_header.find_all("div", class_="score")]
+            if len(scores) == 2 and all(s is not None for s in scores):
+                rounds_played = scores[0] + scores[1]
+        if not map_name:
+            continue
+
+        for table in game_div.find_all("div", class_="ovw-table"):
+            for row in table.find_all("div", class_="ovw-row"):
+                if "mod-head" in (row.get("class") or []):
+                    continue
+                cell = next(
+                    (c for c in row.find_all("div", class_="ovw-cell", recursive=False) if "mod-player" in (c.get("class") or [])),
+                    None,
+                )
+                player_cell = cell.find("div", class_="ovw-player") if cell else None
+                if cell is None or player_cell is None:
+                    continue
+                link = player_cell.find("a")
+                if link is None:
+                    continue
+                player_match = _PLAYER_HREF_RE.search(link.get("href", ""))
+                if not player_match:
+                    continue
+                player_id = int(player_match.group(1))
+                name_div = link.find(class_="ovw-player-name")
+                alias = _clean(name_div.get_text()) if name_div else ""
+                tag_div = link.find(class_="ovw-player-tag")
+                team_tag = _clean(tag_div.get_text()) if tag_div else None
+
+                agent = None
+                agents_div = cell.find("div", class_="ovw-agents")
+                if agents_div:
+                    img = agents_div.find("img")
+                    if img:
+                        agent = _agent_name(img.get("src", ""))
+
+                rating = None
+                rating_cell = row.find("div", attrs={"data-col": "rating2"})
+                if rating_cell:
+                    both_span = rating_cell.find("span", class_="mod-both")
+                    rating = _num(both_span.get_text() if both_span else None)
+
+                rows.append(
+                    PlayerMapStat(
+                        match_id=match_id,
+                        map_id=int(game_id),
+                        map_name=map_name,
+                        match_date_utc=utc_ts,
+                        patch=patch,
+                        team1_id=team1_id,
+                        team2_id=team2_id,
+                        rounds_played=rounds_played,
+                        player_id=player_id,
+                        player_alias=alias or "",
+                        team_tag=team_tag,
+                        agent=agent,
+                        rating=rating,
+                    )
+                )
+    return rows
+
+
+_TEAM_MATCH_HREF_RE = re.compile(r"^/(\d+)/")
+_TEAM_MATCH_DATE_RE = re.compile(r"(\d{4})/(\d{2})/(\d{2})")
+
+
+def parse_team_matches_list(html: str) -> list[dict]:
+    """Parse a team's `/team/matches/{id}/{slug}` page: one row per match
+    (its per-map `a.m-item-games-item` sub-rows share the same href prefix
+    and are skipped via the `mod-dark`/`m-item-games-item` class check).
+    Returns [{match_id, match_url, date, team1, team2, event_name, status}]
+    with `date` as "YYYY-MM-DD" (parsed straight from the page's own
+    "YYYY/MM/DD" display text -- no UTC-timestamp attribute on this page,
+    unlike the match page itself).
+    """
+    soup = BeautifulSoup(html, "lxml")
+    out: list[dict] = []
+    for a in soup.find_all("a", class_="m-item"):
+        classes = a.get("class") or []
+        if "m-item-games-item" in classes:
+            continue
+        href = a.get("href", "")
+        m = _TEAM_MATCH_HREF_RE.match(href)
+        if not m:
+            continue
+        match_id = int(m.group(1))
+
+        event_div = a.find(class_="m-item-event")
+        event_name = re.sub(r"\s+", " ", event_div.get_text(" ", strip=True)) if event_div else None
+
+        team_divs = a.find_all(class_="m-item-team")
+        teams = []
+        for td in team_divs:
+            name_span = td.find(class_="m-item-team-name")
+            teams.append(_clean(name_span.get_text()) if name_span else None)
+        while len(teams) < 2:
+            teams.append(None)
+
+        date_div = a.find(class_="m-item-date")
+        date = None
+        if date_div:
+            date_match = _TEAM_MATCH_DATE_RE.search(date_div.get_text(" "))
+            if date_match:
+                date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
+
+        result_div = a.find(class_="m-item-result")
+        status = "Completed" if result_div and result_div.find("span") else None
+
+        out.append(
+            {
+                "match_id": match_id,
+                "match_url": href,
+                "date": date,
+                "team1": teams[0],
+                "team2": teams[1],
+                "event_name": event_name,
+                "status": status,
+            }
+        )
+    return out
+
+
+def parse_event_team_links(html: str) -> dict[int, str]:
+    """team_id -> display name for every `/team/{id}/...` link found on an
+    event page (e.g. `/event/{id}`). Used to recover a league's current
+    franchise/participant list -- event_standings' bracket-placement table
+    (parse_event_standings) only lists teams that reached a placed position,
+    which under-counts an in-progress group stage; every team link on the
+    page (group tables, schedule, etc.) is a more complete participant set.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    out: dict[int, str] = {}
+    for a in soup.find_all("a", href=_TEAM_HREF_RE):
+        m = _TEAM_HREF_RE.search(a.get("href", ""))
+        if not m:
+            continue
+        tid = int(m.group(1))
+        if tid not in out:
+            name = _clean(a.get_text(" "))
+            if name:
+                out[tid] = name
+    return out
 
 
 _EVENT_HREF_RE = re.compile(r"/event/(\d+)/")
