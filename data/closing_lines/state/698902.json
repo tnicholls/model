@@ -7,8 +7,36 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-29T18:59:09.934215+00:00",
+  "captured_at": "2026-07-29T19:15:35.292767+00:00",
   "lines": [
+    {
+      "match_id": 698902,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50490",
+      "stage": "pre-match",
+      "team": "VARREL",
+      "team_tag": "VL",
+      "decimal_odds": 1.86,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.5026737967914439,
+      "source": "match:698902"
+    },
+    {
+      "match_id": 698902,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50490",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.49732620320855614,
+      "source": "match:698902"
+    },
     {
       "match_id": 698902,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5079787234042553,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5106382978723405,
       "source": "match:698902"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.91,
+      "decimal_odds": 1.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.49202127659574474,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48936170212765967,
       "source": "match:698902"
     }
   ]
