@@ -7,7 +7,7 @@
   "team2": "G2 Gozen",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-29T02:30:40.665287+00:00",
+  "captured_at": "2026-07-29T02:47:05.428886+00:00",
   "lines": [
     {
       "match_id": 716585,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.89,
+      "decimal_odds": 1.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5291005291005292,
-      "implied_prob_fair": 0.4864130434782609,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.4905149051490515,
       "source": "match:716585"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.79,
+      "decimal_odds": 1.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.513586956521739,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.5094850948509486,
       "source": "match:716585"
     }
   ]
