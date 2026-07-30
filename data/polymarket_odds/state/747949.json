@@ -1,0 +1,100 @@
+{
+  "event_id": "747949",
+  "match_meta": {
+    "event_id": "747949",
+    "slug": "val-ts3-pr1-2026-07-31",
+    "title": "Valorant: Team Secret vs Paper Rex (BO3) - VCT Pacific Group Omega",
+    "region": "pacific",
+    "bo_x": 3,
+    "team_a": "Team Secret",
+    "team_b": "Paper Rex",
+    "team_a_raw": "Team Secret",
+    "team_b_raw": "Paper Rex",
+    "game_start_time": "2026-07-31 08:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-30T02:06:01.911877+00:00",
+          "source_timestamp_ms_a": 1785377160493,
+          "source_timestamp_ms_b": 1785377160491,
+          "price_team_a": 0.11,
+          "price_team_b": 0.9,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.1,
+            "best_ask": 0.11,
+            "spread": 0.009999999999999995,
+            "depth_near_mid": 59.0,
+            "effective_buy_price": 0.2573879345802234,
+            "effective_sell_price": null,
+            "book_timestamp_ms": 1785377160493
+          },
+          "book_team_b": {
+            "best_bid": 0.89,
+            "best_ask": 0.9,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 1281.75,
+            "effective_buy_price": 0.9226961220371783,
+            "effective_sell_price": 0.8691372398020388,
+            "book_timestamp_ms": 1785377160491
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-30T02:06:02.540948+00:00",
+          "source_timestamp_ms_a": 1785377133587,
+          "source_timestamp_ms_b": 1785377133587,
+          "price_team_a": 0.21,
+          "price_team_b": 0.85,
+          "vig": 0.06000000000000005,
+          "book_team_a": {
+            "best_bid": 0.15,
+            "best_ask": 0.21,
+            "spread": 0.06,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.29291154071470415,
+            "effective_sell_price": 0.12303688498167488,
+            "book_timestamp_ms": 1785377133587
+          },
+          "book_team_b": {
+            "best_bid": 0.79,
+            "best_ask": 0.85,
+            "spread": 0.05999999999999994,
+            "depth_near_mid": 1913.0,
+            "effective_buy_price": 0.8586261980830672,
+            "effective_sell_price": 0.7796678817334953,
+            "book_timestamp_ms": 1785377133587
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-30T02:06:03.158501+00:00",
+          "source_timestamp_ms_a": 1785377155872,
+          "source_timestamp_ms_b": 1785377155872,
+          "price_team_a": 0.21,
+          "price_team_b": 0.85,
+          "vig": 0.06000000000000005,
+          "book_team_a": {
+            "best_bid": 0.15,
+            "best_ask": 0.21,
+            "spread": 0.06,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.29239766081871343,
+            "effective_sell_price": 0.12555873637687712,
+            "book_timestamp_ms": 1785377155872
+          },
+          "book_team_b": {
+            "best_bid": 0.79,
+            "best_ask": 0.85,
+            "spread": 0.05999999999999994,
+            "depth_near_mid": 1912.0,
+            "effective_buy_price": 0.8586261980830672,
+            "effective_sell_price": 0.7796678817334953,
+            "book_timestamp_ms": 1785377155872
+          }
+        }
+      },
+      "captured_at": "2026-07-30T02:06:03.158556+00:00"
+    }
+  ]
+}
