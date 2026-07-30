@@ -7,7 +7,7 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-30T19:42:50.710326+00:00",
+  "captured_at": "2026-07-30T20:15:04.804241+00:00",
   "lines": [
     {
       "match_id": 716591,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5442359249329759,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5725593667546175,
       "source": "match:716591"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4557640750670242,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.4274406332453826,
       "source": "match:716591"
     },
     {
