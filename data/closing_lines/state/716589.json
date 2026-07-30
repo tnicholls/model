@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-30T02:04:41.806034+00:00",
+  "captured_at": "2026-07-30T02:21:06.570180+00:00",
   "lines": [
     {
       "match_id": 716589,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6618705035971223,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6666666666666667,
       "source": "match:716589"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.76,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3623188405797102,
-      "implied_prob_fair": 0.33812949640287776,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.33333333333333337,
       "source": "match:716589"
     }
   ]
