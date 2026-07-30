@@ -7,7 +7,7 @@
   "team2": "Bar\u00e7a eSports GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-30T05:26:57.854875+00:00",
+  "captured_at": "2026-07-30T05:43:23.233247+00:00",
   "lines": [
     {
       "match_id": 716590,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8442857142857143,
+      "implied_prob_fair": 0.8481894150417828,
       "source": "match:716590"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports GC",
       "team_tag": "BAR.",
-      "decimal_odds": 5.91,
+      "decimal_odds": 6.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1692047377326565,
-      "implied_prob_fair": 0.15571428571428572,
+      "implied_prob_raw": 0.16420361247947454,
+      "implied_prob_fair": 0.15181058495821728,
       "source": "match:716590"
     },
     {
