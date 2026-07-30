@@ -7,7 +7,7 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T01:27:00.226670+00:00",
+  "captured_at": "2026-07-30T02:04:36.939885+00:00",
   "lines": [
     {
       "match_id": 698902,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.528,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5372340425531915,
       "source": "match:698902"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.47200000000000003,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.46276595744680854,
       "source": "match:698902"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5132978723404255,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5251989389920424,
       "source": "match:698902"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.93,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.48670212765957455,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.4748010610079576,
       "source": "match:698902"
     }
   ]
