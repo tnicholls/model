@@ -7,8 +7,36 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T21:30:12.574232+00:00",
+  "captured_at": "2026-07-30T21:46:38.553682+00:00",
   "lines": [
+    {
+      "match_id": 706364,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50550",
+      "stage": "live",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 8.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.12269938650306748,
+      "implied_prob_fair": 0.11509229098805647,
+      "source": "match:706364"
+    },
+    {
+      "match_id": 706364,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50550",
+      "stage": "live",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8849077090119435,
+      "source": "match:706364"
+    },
     {
       "match_id": 706364,
       "bookmaker": "rainbet",
