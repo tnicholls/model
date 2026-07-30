@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T17:36:54.078131+00:00",
+  "captured_at": "2026-07-30T18:37:17.734480+00:00",
   "lines": [
     {
       "match_id": 698904,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 11.0,
+      "decimal_odds": 10.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.09090909090909091,
-      "implied_prob_fair": 0.085619285120532,
+      "implied_prob_raw": 0.1,
+      "implied_prob_fair": 0.09420289855072464,
       "source": "match:698904"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.03,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.970873786407767,
-      "implied_prob_fair": 0.914380714879468,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.9057971014492753,
       "source": "match:698904"
     }
   ]

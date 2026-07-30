@@ -7,7 +7,7 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T17:37:09.825835+00:00",
+  "captured_at": "2026-07-30T18:37:33.232222+00:00",
   "lines": [
     {
       "match_id": 706368,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31797235023041476,
+      "implied_prob_fair": 0.31639722863741343,
       "source": "match:706368"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6820276497695854,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6836027713625867,
       "source": "match:706368"
     }
   ]
