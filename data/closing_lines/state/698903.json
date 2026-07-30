@@ -7,7 +7,7 @@
   "team2": "ZETA DIVISION",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T01:10:37.130495+00:00",
+  "captured_at": "2026-07-30T01:27:01.773208+00:00",
   "lines": [
     {
       "match_id": 698903,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6917808219178082,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7198275862068966,
       "source": "match:698903"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 3.03,
+      "decimal_odds": 3.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33003300330033003,
-      "implied_prob_fair": 0.3082191780821918,
+      "implied_prob_raw": 0.29940119760479045,
+      "implied_prob_fair": 0.28017241379310354,
       "source": "match:698903"
     },
     {
