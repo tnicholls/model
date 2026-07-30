@@ -1,0 +1,41 @@
+{
+  "match_id": 712830,
+  "match_url": "/712830/fut-esports-vs-team-vitality-vct-2026-emea-stage-2-w3",
+  "date_display": "Sat, August 1, 2026",
+  "time_display": "10:00 AM",
+  "team1": "FUT Esports",
+  "team2": "Team Vitality",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-30T06:55:11.074231+00:00",
+  "lines": [
+    {
+      "match_id": 712830,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50709",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 2.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3802281368821293,
+      "implied_prob_fair": 0.35380835380835385,
+      "source": "match:712830"
+    },
+    {
+      "match_id": 712830,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50709",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6461916461916463,
+      "source": "match:712830"
+    }
+  ]
+}
