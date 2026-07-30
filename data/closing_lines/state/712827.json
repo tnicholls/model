@@ -7,7 +7,7 @@
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T18:53:34.538891+00:00",
+  "captured_at": "2026-07-30T19:10:00.579198+00:00",
   "lines": [
     {
       "match_id": 712827,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5253333333333333,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8181818181818182,
       "source": "match:712827"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.97,
+      "decimal_odds": 5.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.4746666666666666,
+      "implied_prob_raw": 0.19493177387914232,
+      "implied_prob_fair": 0.18181818181818182,
       "source": "match:712827"
     },
     {
