@@ -7,36 +7,8 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T00:37:48.770907+00:00",
+  "captured_at": "2026-07-30T00:54:12.293076+00:00",
   "lines": [
-    {
-      "match_id": 698902,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50490",
-      "stage": "pre-match",
-      "team": "VARREL",
-      "team_tag": "VL",
-      "decimal_odds": 1.82,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5133689839572192,
-      "source": "match:698902"
-    },
-    {
-      "match_id": 698902,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50490",
-      "stage": "pre-match",
-      "team": "DetonatioN FocusMe",
-      "team_tag": "DFM",
-      "decimal_odds": 1.92,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.4866310160427808,
-      "source": "match:698902"
-    },
     {
       "match_id": 698902,
       "bookmaker": "rainbet",
