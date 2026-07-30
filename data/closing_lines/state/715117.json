@@ -1,13 +1,13 @@
 {
   "match_id": 715117,
   "match_url": "/715117/shopify-rebellion-black-vs-2game-esports-vcl-26-americas-last-chance-qualifier-main-event-gf",
-  "date_display": "Wed, July 29, 2026",
-  "time_display": "2:00 PM",
+  "date_display": "Thu, July 30, 2026",
+  "time_display": "5:00 PM",
   "team1": "Shopify Rebellion Black",
   "team2": "2Game Esports",
   "event_name": "VCL 26: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-07-30T04:54:00.248464+00:00",
+  "captured_at": "2026-07-30T05:10:40.364567+00:00",
   "lines": [
     {
       "match_id": 715117,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5227882037533512,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7677543186180423,
       "source": "match:715117"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.95,
+      "decimal_odds": 4.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47721179624664883,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23224568138195778,
       "source": "match:715117"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7792207792207793,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7422680412371133,
       "source": "match:715117"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 4.2,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.22077922077922077,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.25773195876288657,
       "source": "match:715117"
     }
   ]
