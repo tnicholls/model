@@ -1340,6 +1340,89 @@
         }
       },
       "captured_at": "2026-07-30T03:38:02.615529+00:00"
+    },
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-30T05:04:16.936695+00:00",
+          "source_timestamp_ms_a": 1785387796846,
+          "source_timestamp_ms_b": 1785387856731,
+          "price_team_a": 0.32,
+          "price_team_b": 0.69,
+          "vig": 0.010000000000000009,
+          "book_team_a": {
+            "best_bid": 0.31,
+            "best_ask": 0.32,
+            "spread": 0.010000000000000009,
+            "depth_near_mid": 56343.4,
+            "effective_buy_price": 0.32,
+            "effective_sell_price": 0.31,
+            "book_timestamp_ms": 1785387796846
+          },
+          "book_team_b": {
+            "best_bid": 0.68,
+            "best_ask": 0.69,
+            "spread": 0.009999999999999898,
+            "depth_near_mid": 65583.11,
+            "effective_buy_price": 0.69,
+            "effective_sell_price": 0.68,
+            "book_timestamp_ms": 1785387856731
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-30T05:04:17.539466+00:00",
+          "source_timestamp_ms_a": 1785387856734,
+          "source_timestamp_ms_b": 1785387856734,
+          "price_team_a": 0.35,
+          "price_team_b": 0.67,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.33,
+            "best_ask": 0.35,
+            "spread": 0.019999999999999962,
+            "depth_near_mid": 169.85,
+            "effective_buy_price": 0.3640514001220064,
+            "effective_sell_price": 0.31720499423914805,
+            "book_timestamp_ms": 1785387856734
+          },
+          "book_team_b": {
+            "best_bid": 0.65,
+            "best_ask": 0.67,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 8027.85,
+            "effective_buy_price": 0.6781033449441911,
+            "effective_sell_price": 0.6403842305383229,
+            "book_timestamp_ms": 1785387856734
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-30T05:04:18.179357+00:00",
+          "source_timestamp_ms_a": 1785387856729,
+          "source_timestamp_ms_b": 1785387856729,
+          "price_team_a": 0.35,
+          "price_team_b": 0.67,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.33,
+            "best_ask": 0.35,
+            "spread": 0.019999999999999962,
+            "depth_near_mid": 25.0,
+            "effective_buy_price": 0.3697042366107114,
+            "effective_sell_price": 0.31355572188618935,
+            "book_timestamp_ms": 1785387856729
+          },
+          "book_team_b": {
+            "best_bid": 0.65,
+            "best_ask": 0.67,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 4470.0,
+            "effective_buy_price": 0.6822631360373367,
+            "effective_sell_price": 0.6305044035228182,
+            "book_timestamp_ms": 1785387856729
+          }
+        }
+      },
+      "captured_at": "2026-07-30T05:04:18.179428+00:00"
     }
   ]
 }
