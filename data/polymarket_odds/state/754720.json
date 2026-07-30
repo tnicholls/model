@@ -1,0 +1,100 @@
+{
+  "event_id": "754720",
+  "match_meta": {
+    "event_id": "754720",
+    "slug": "val-bbl1-gm-2026-07-31",
+    "title": "Valorant: BBL Esports vs Gentle Mates (BO3) - VCT EMEA Group Alpha",
+    "region": "emea",
+    "bo_x": 3,
+    "team_a": "BBL Esports",
+    "team_b": "Gentle Mates",
+    "team_a_raw": "BBL Esports",
+    "team_b_raw": "Gentle Mates",
+    "game_start_time": "2026-07-31 15:00:00+00"
+  },
+  "snapshots": [
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-30T09:02:22.597591+00:00",
+          "source_timestamp_ms_a": 1785402125422,
+          "source_timestamp_ms_b": 1785402125422,
+          "price_team_a": 0.56,
+          "price_team_b": 0.46,
+          "vig": 0.020000000000000018,
+          "book_team_a": {
+            "best_bid": 0.54,
+            "best_ask": 0.56,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 44.89,
+            "effective_buy_price": 0.6997860957640442,
+            "effective_sell_price": 0.2831031756941454,
+            "book_timestamp_ms": 1785402125422
+          },
+          "book_team_b": {
+            "best_bid": 0.44,
+            "best_ask": 0.46,
+            "spread": 0.020000000000000018,
+            "depth_near_mid": 44.89,
+            "effective_buy_price": 0.650374778466091,
+            "effective_sell_price": 0.19220316335654375,
+            "book_timestamp_ms": 1785402125422
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-30T09:02:23.251863+00:00",
+          "source_timestamp_ms_a": 1785402139184,
+          "source_timestamp_ms_b": 1785402139184,
+          "price_team_a": 0.66,
+          "price_team_b": 0.63,
+          "vig": 0.29000000000000004,
+          "book_team_a": {
+            "best_bid": 0.37,
+            "best_ask": 0.66,
+            "spread": 0.29000000000000004,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.7358201996997855,
+            "effective_sell_price": null,
+            "book_timestamp_ms": 1785402139184
+          },
+          "book_team_b": {
+            "best_bid": 0.34,
+            "best_ask": 0.63,
+            "spread": 0.29,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.7082762249637311,
+            "effective_sell_price": null,
+            "book_timestamp_ms": 1785402139184
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-30T09:02:24.011996+00:00",
+          "source_timestamp_ms_a": 1785402123572,
+          "source_timestamp_ms_b": 1785402123572,
+          "price_team_a": 0.65,
+          "price_team_b": 0.63,
+          "vig": 0.28,
+          "book_team_a": {
+            "best_bid": 0.37,
+            "best_ask": 0.65,
+            "spread": 0.28,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.7325262642318099,
+            "effective_sell_price": null,
+            "book_timestamp_ms": 1785402123572
+          },
+          "book_team_b": {
+            "best_bid": 0.35,
+            "best_ask": 0.63,
+            "spread": 0.28,
+            "depth_near_mid": 0,
+            "effective_buy_price": 0.7074379342539573,
+            "effective_sell_price": null,
+            "book_timestamp_ms": 1785402123572
+          }
+        }
+      },
+      "captured_at": "2026-07-30T09:02:24.012063+00:00"
+    }
+  ]
+}
