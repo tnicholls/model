@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T11:38:39.489301+00:00",
+  "captured_at": "2026-07-30T17:37:08.247318+00:00",
   "lines": [
     {
       "match_id": 712831,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5747126436781609,
       "implied_prob_fair": 0.5335120643431636,
+      "source": "match:712831"
+    },
+    {
+      "match_id": 712831,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50716",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 2.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
+      "source": "match:712831"
+    },
+    {
+      "match_id": 712831,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50716",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
       "source": "match:712831"
     }
   ]

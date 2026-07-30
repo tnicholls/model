@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T10:49:22.581718+00:00",
+  "captured_at": "2026-07-30T17:37:06.679108+00:00",
   "lines": [
     {
       "match_id": 712830,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6944444444444444,
       "implied_prob_fair": 0.6461916461916463,
+      "source": "match:712830"
+    },
+    {
+      "match_id": 712830,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50715",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 2.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.35609756097560974,
+      "source": "match:712830"
+    },
+    {
+      "match_id": 712830,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50715",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6439024390243903,
       "source": "match:712830"
     }
   ]

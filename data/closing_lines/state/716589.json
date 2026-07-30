@@ -7,34 +7,34 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 2",
-  "captured_at": "2026-07-30T11:38:13.026465+00:00",
+  "captured_at": "2026-07-30T17:36:41.602788+00:00",
   "lines": [
     {
       "match_id": 716589,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50692",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6477832512315271,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6340852130325814,
       "source": "match:716589"
     },
     {
       "match_id": 716589,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50692",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.63,
+      "decimal_odds": 2.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3802281368821293,
-      "implied_prob_fair": 0.3522167487684729,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.3659147869674186,
       "source": "match:716589"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6666666666666667,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6262626262626262,
       "source": "match:716589"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.8,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.33333333333333337,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37373737373737376,
       "source": "match:716589"
     }
   ]

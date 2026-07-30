@@ -7,7 +7,7 @@
   "team2": "Gen.G",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T11:38:27.037309+00:00",
+  "captured_at": "2026-07-30T17:36:55.658741+00:00",
   "lines": [
     {
       "match_id": 698905,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.91,
+      "decimal_odds": 1.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.48930481283422456,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48533333333333345,
       "source": "match:698905"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gen.G",
       "team_tag": "GEN",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5106951871657753,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5146666666666666,
       "source": "match:698905"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4721485411140583,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
       "source": "match:698905"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Gen.G",
       "team_tag": "GEN",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5278514588859416,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
       "source": "match:698905"
     }
   ]

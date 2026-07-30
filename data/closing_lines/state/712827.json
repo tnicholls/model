@@ -2,39 +2,39 @@
   "match_id": 712827,
   "match_url": "/712827/eternal-fire-vs-fnatic-vct-2026-emea-stage-2-w3",
   "date_display": "Thu, July 30, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "12:35 PM",
   "team1": "Eternal Fire",
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-30T11:38:16.113617+00:00",
+  "captured_at": "2026-07-30T17:36:44.741450+00:00",
   "lines": [
     {
       "match_id": 712827,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50556",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 3.2,
+      "decimal_odds": 2.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.2920353982300885,
+      "implied_prob_raw": 0.3831417624521073,
+      "implied_prob_fair": 0.3571428571428571,
       "source": "match:712827"
     },
     {
       "match_id": 712827,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50556",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7079646017699115,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6428571428571428,
       "source": "match:712827"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31639722863741343,
+      "implied_prob_fair": 0.31797235023041476,
       "source": "match:712827"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6836027713625867,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6820276497695854,
       "source": "match:712827"
     }
   ]
