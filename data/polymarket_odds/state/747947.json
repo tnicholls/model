@@ -2585,6 +2585,89 @@
         }
       },
       "captured_at": "2026-07-30T10:59:54.300099+00:00"
+    },
+    {
+      "market_snapshots": {
+        "match_winner": {
+          "received_at": "2026-07-30T11:15:14.825753+00:00",
+          "source_timestamp_ms_a": null,
+          "source_timestamp_ms_b": null,
+          "price_team_a": null,
+          "price_team_b": null,
+          "vig": null,
+          "book_team_a": {
+            "best_bid": null,
+            "best_ask": null,
+            "spread": null,
+            "depth_near_mid": null,
+            "effective_buy_price": null,
+            "effective_sell_price": null,
+            "book_timestamp_ms": null
+          },
+          "book_team_b": {
+            "best_bid": null,
+            "best_ask": null,
+            "spread": null,
+            "depth_near_mid": null,
+            "effective_buy_price": null,
+            "effective_sell_price": null,
+            "book_timestamp_ms": null
+          }
+        },
+        "map1": {
+          "received_at": "2026-07-30T11:15:15.430887+00:00",
+          "source_timestamp_ms_a": null,
+          "source_timestamp_ms_b": null,
+          "price_team_a": null,
+          "price_team_b": null,
+          "vig": null,
+          "book_team_a": {
+            "best_bid": null,
+            "best_ask": null,
+            "spread": null,
+            "depth_near_mid": null,
+            "effective_buy_price": null,
+            "effective_sell_price": null,
+            "book_timestamp_ms": null
+          },
+          "book_team_b": {
+            "best_bid": null,
+            "best_ask": null,
+            "spread": null,
+            "depth_near_mid": null,
+            "effective_buy_price": null,
+            "effective_sell_price": null,
+            "book_timestamp_ms": null
+          }
+        },
+        "map2": {
+          "received_at": "2026-07-30T11:15:16.020592+00:00",
+          "source_timestamp_ms_a": null,
+          "source_timestamp_ms_b": null,
+          "price_team_a": null,
+          "price_team_b": null,
+          "vig": null,
+          "book_team_a": {
+            "best_bid": null,
+            "best_ask": null,
+            "spread": null,
+            "depth_near_mid": null,
+            "effective_buy_price": null,
+            "effective_sell_price": null,
+            "book_timestamp_ms": null
+          },
+          "book_team_b": {
+            "best_bid": null,
+            "best_ask": null,
+            "spread": null,
+            "depth_near_mid": null,
+            "effective_buy_price": null,
+            "effective_sell_price": null,
+            "book_timestamp_ms": null
+          }
+        }
+      },
+      "captured_at": "2026-07-30T11:15:16.020685+00:00"
     }
   ]
 }
