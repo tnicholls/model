@@ -7,7 +7,7 @@
   "team2": "Sentinels",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T01:43:59.939462+00:00",
+  "captured_at": "2026-07-31T02:22:23.572424+00:00",
   "lines": [
     {
       "match_id": 706365,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6586538461538461,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.903558052434457,
       "source": "match:706365"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 2.74,
+      "decimal_odds": 9.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36496350364963503,
-      "implied_prob_fair": 0.3413461538461538,
+      "implied_prob_raw": 0.10362694300518134,
+      "implied_prob_fair": 0.09644194756554307,
       "source": "match:706365"
     },
     {
