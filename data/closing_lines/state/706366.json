@@ -7,34 +7,34 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T18:51:45.914613+00:00",
+  "captured_at": "2026-07-31T22:31:12.615647+00:00",
   "lines": [
     {
       "match_id": 706366,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50558",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 2.04,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.4574468085106383,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6537530266343825,
       "source": "match:706366"
     },
     {
       "match_id": 706366,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50558",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.72,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5425531914893618,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3462469733656174,
       "source": "match:706366"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44210526315789467,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4473684210526316,
       "source": "match:706366"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5578947368421052,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5526315789473685,
       "source": "match:706366"
     }
   ]

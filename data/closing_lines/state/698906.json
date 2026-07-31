@@ -7,7 +7,7 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T18:51:49.139432+00:00",
+  "captured_at": "2026-07-31T22:31:15.699983+00:00",
   "lines": [
     {
       "match_id": 698906,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7851985559566786,
+      "implied_prob_fair": 0.7848101265822784,
       "source": "match:698906"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 4.35,
+      "decimal_odds": 4.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2298850574712644,
-      "implied_prob_fair": 0.2148014440433213,
+      "implied_prob_raw": 0.2304147465437788,
+      "implied_prob_fair": 0.21518987341772153,
       "source": "match:698906"
     },
     {

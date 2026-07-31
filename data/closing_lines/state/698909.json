@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T18:56:02.585577+00:00",
+  "captured_at": "2026-07-31T22:31:26.491094+00:00",
   "lines": [
     {
       "match_id": 698909,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 4.21,
+      "decimal_odds": 4.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23752969121140144,
-      "implied_prob_fair": 0.22181146025878004,
+      "implied_prob_raw": 0.23584905660377356,
+      "implied_prob_fair": 0.22058823529411764,
       "source": "match:698909"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7781885397412199,
+      "implied_prob_fair": 0.7794117647058824,
       "source": "match:698909"
     },
     {
