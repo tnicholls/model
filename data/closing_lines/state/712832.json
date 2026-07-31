@@ -7,7 +7,7 @@
   "team2": "PCIFIC Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T11:41:27.786187+00:00",
+  "captured_at": "2026-07-31T18:28:44.398110+00:00",
   "lines": [
     {
       "match_id": 712832,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8492392807745505,
+      "implied_prob_fair": 0.8494475138121548,
       "source": "match:712832"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 6.14,
+      "decimal_odds": 6.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16286644951140067,
-      "implied_prob_fair": 0.15076071922544954,
+      "implied_prob_raw": 0.16260162601626016,
+      "implied_prob_fair": 0.15055248618784534,
       "source": "match:712832"
     },
     {

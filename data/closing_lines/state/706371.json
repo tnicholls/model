@@ -7,7 +7,7 @@
   "team2": "Sentinels",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T11:41:32.487001+00:00",
+  "captured_at": "2026-07-31T18:28:49.046307+00:00",
   "lines": [
     {
       "match_id": 706371,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5958549222797926,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5984455958549223,
       "source": "match:706371"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.40414507772020725,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.40155440414507776,
       "source": "match:706371"
     },
     {

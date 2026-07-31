@@ -7,7 +7,7 @@
   "team2": "Team Heretics",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T11:41:29.280469+00:00",
+  "captured_at": "2026-07-31T18:28:45.905136+00:00",
   "lines": [
     {
       "match_id": 712833,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5376344086021505,
       "implied_prob_fair": 0.5,
+      "source": "match:712833"
+    },
+    {
+      "match_id": 712833,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50735",
+      "stage": "pre-match",
+      "team": "FNATIC",
+      "team_tag": "FNC",
+      "decimal_odds": 1.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5225464190981433,
+      "source": "match:712833"
+    },
+    {
+      "match_id": 712833,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50735",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.97,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.47745358090185674,
       "source": "match:712833"
     }
   ]
