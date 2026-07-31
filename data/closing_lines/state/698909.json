@@ -7,8 +7,36 @@
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T03:56:56.829656+00:00",
+  "captured_at": "2026-07-31T11:41:26.251636+00:00",
   "lines": [
+    {
+      "match_id": 698909,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50714",
+      "stage": "pre-match",
+      "team": "ZETA DIVISION",
+      "team_tag": "ZETA",
+      "decimal_odds": 4.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.23752969121140144,
+      "implied_prob_fair": 0.22181146025878004,
+      "source": "match:698909"
+    },
+    {
+      "match_id": 698909,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50714",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7781885397412199,
+      "source": "match:698909"
+    },
     {
       "match_id": 698909,
       "bookmaker": "rainbet",

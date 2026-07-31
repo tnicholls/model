@@ -7,7 +7,7 @@
   "team2": "Gentle Mates",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T03:56:39.519573+00:00",
+  "captured_at": "2026-07-31T10:49:33.220380+00:00",
   "lines": [
     {
       "match_id": 712828,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5490716180371352,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5631578947368422,
       "source": "match:712828"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 2.07,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.4509283819628647,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4368421052631579,
       "source": "match:712828"
     },
     {

@@ -1,0 +1,69 @@
+{
+  "match_id": 712832,
+  "match_url": "/712832/bbl-esports-vs-pcific-esports-vct-2026-emea-stage-2-w3",
+  "date_display": "Sun, August 2, 2026",
+  "time_display": "10:00 AM",
+  "team1": "BBL Esports",
+  "team2": "PCIFIC Esports",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-07-31T11:41:27.786187+00:00",
+  "lines": [
+    {
+      "match_id": 712832,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50727",
+      "stage": "pre-match",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 1.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.8492392807745505,
+      "source": "match:712832"
+    },
+    {
+      "match_id": 712832,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50727",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 6.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.16286644951140067,
+      "implied_prob_fair": 0.15076071922544954,
+      "source": "match:712832"
+    },
+    {
+      "match_id": 712832,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50732",
+      "stage": "pre-match",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 1.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.865265760197775,
+      "source": "match:712832"
+    },
+    {
+      "match_id": 712832,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50732",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 7.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.14285714285714285,
+      "implied_prob_fair": 0.13473423980222496,
+      "source": "match:712832"
+    }
+  ]
+}
