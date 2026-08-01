@@ -7,7 +7,7 @@
   "team2": "NRG",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-01T01:15:38.470720+00:00",
+  "captured_at": "2026-08-01T01:47:32.503739+00:00",
   "lines": [
     {
       "match_id": 706369,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5253333333333333,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5631578947368422,
       "source": "match:706369"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.97,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.4746666666666666,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4368421052631579,
       "source": "match:706369"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5526315789473685,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5616797900262467,
       "source": "match:706369"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4473684210526316,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4383202099737532,
       "source": "match:706369"
     }
   ]
