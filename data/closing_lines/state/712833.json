@@ -7,7 +7,7 @@
   "team2": "Team Heretics",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-01T15:46:56.477616+00:00",
+  "captured_at": "2026-08-01T22:41:24.084128+00:00",
   "lines": [
     {
       "match_id": 712833,
@@ -16,20 +16,6 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.85,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5053475935828876,
-      "source": "match:712833"
-    },
-    {
-      "match_id": 712833,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50728",
-      "stage": "pre-match",
-      "team": "Team Heretics",
-      "team_tag": "TH",
       "decimal_odds": 1.89,
       "stake": null,
       "payout": null,
@@ -39,16 +25,30 @@
     },
     {
       "match_id": 712833,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50728",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5053475935828876,
+      "source": "match:712833"
+    },
+    {
+      "match_id": 712833,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50735",
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5225464190981433,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.4721485411140583,
       "source": "match:712833"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Heretics",
       "team_tag": "TH",
-      "decimal_odds": 1.97,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.47745358090185674,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5278514588859416,
       "source": "match:712833"
     }
   ]

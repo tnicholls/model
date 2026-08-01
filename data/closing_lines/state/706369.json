@@ -7,36 +7,8 @@
   "team2": "NRG",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-01T15:40:55.822405+00:00",
+  "captured_at": "2026-08-01T22:41:17.621087+00:00",
   "lines": [
-    {
-      "match_id": 706369,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50591",
-      "stage": "pre-match",
-      "team": "LEVIAT\u00c1N",
-      "team_tag": "LEV",
-      "decimal_odds": 1.63,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5732984293193717,
-      "source": "match:706369"
-    },
-    {
-      "match_id": 706369,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50591",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 2.19,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.4267015706806283,
-      "source": "match:706369"
-    },
     {
       "match_id": 706369,
       "bookmaker": "rainbet",
