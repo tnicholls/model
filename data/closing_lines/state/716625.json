@@ -1,0 +1,41 @@
+{
+  "match_id": 716625,
+  "match_url": "/716625/g2-gozen-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Mon, August 3, 2026",
+  "time_display": "1:00 PM",
+  "team1": "G2 Gozen",
+  "team2": "ALTERNATE aTTaX Ruby",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-01T09:47:15.733241+00:00",
+  "lines": [
+    {
+      "match_id": 716625,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50748",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8670012547051443,
+      "source": "match:716625"
+    },
+    {
+      "match_id": 716625,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50748",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 6.91,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1447178002894356,
+      "implied_prob_fair": 0.13299874529485572,
+      "source": "match:716625"
+    }
+  ]
+}

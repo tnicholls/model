@@ -1,0 +1,41 @@
+{
+  "match_id": 716624,
+  "match_url": "/716624/twisted-minds-orchid-vs-bar-a-esports-gc-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Mon, August 3, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Twisted Minds Orchid",
+  "team2": "Bar\u00e7a eSports GC",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-01T09:47:14.130580+00:00",
+  "lines": [
+    {
+      "match_id": 716624,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50746",
+      "stage": "pre-match",
+      "team": "Twisted Minds Orchid",
+      "team_tag": "TWO",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6845794392523364,
+      "source": "match:716624"
+    },
+    {
+      "match_id": 716624,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50746",
+      "stage": "pre-match",
+      "team": "Bar\u00e7a eSports GC",
+      "team_tag": "BAR.",
+      "decimal_odds": 2.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.341296928327645,
+      "implied_prob_fair": 0.31542056074766356,
+      "source": "match:716624"
+    }
+  ]
+}

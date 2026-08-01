@@ -1,0 +1,41 @@
+{
+  "match_id": 716623,
+  "match_url": "/716623/gentle-mates-gc-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Mon, August 3, 2026",
+  "time_display": "10:00 AM",
+  "team1": "Gentle Mates GC",
+  "team2": "Karmine Corp GC",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-01T09:47:12.611774+00:00",
+  "lines": [
+    {
+      "match_id": 716623,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50742",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8365527488855868,
+      "source": "match:716623"
+    },
+    {
+      "match_id": 716623,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50742",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 5.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17761989342806395,
+      "implied_prob_fair": 0.16344725111441308,
+      "source": "match:716623"
+    }
+  ]
+}

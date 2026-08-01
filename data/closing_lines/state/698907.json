@@ -7,7 +7,7 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-01T02:37:09.371770+00:00",
+  "captured_at": "2026-08-01T08:57:30.989875+00:00",
   "lines": [
     {
       "match_id": 698907,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5839793281653746,
+      "implied_prob_fair": 0.5818181818181818,
       "source": "match:698907"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 2.26,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4424778761061947,
-      "implied_prob_fair": 0.4160206718346253,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41818181818181815,
       "source": "match:698907"
     }
   ]

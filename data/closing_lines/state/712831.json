@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-01T02:37:12.614176+00:00",
+  "captured_at": "2026-08-01T08:57:33.873531+00:00",
   "lines": [
     {
       "match_id": 712831,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.46010638297872336,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.4509283819628647,
       "source": "match:712831"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5398936170212765,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5490716180371352,
       "source": "match:712831"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 2.1,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4473684210526316,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.4748010610079576,
       "source": "match:712831"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5526315789473685,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5251989389920424,
       "source": "match:712831"
     }
   ]
