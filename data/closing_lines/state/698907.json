@@ -7,8 +7,36 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-07-31T23:36:59.228468+00:00",
+  "captured_at": "2026-08-01T00:09:12.346857+00:00",
   "lines": [
+    {
+      "match_id": 698907,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50587",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5870129870129869,
+      "source": "match:698907"
+    },
+    {
+      "match_id": 698907,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50587",
+      "stage": "pre-match",
+      "team": "Rex Regum Qeon",
+      "team_tag": "RRQ",
+      "decimal_odds": 2.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.41298701298701296,
+      "source": "match:698907"
+    },
     {
       "match_id": 698907,
       "bookmaker": "rainbet",
