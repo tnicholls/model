@@ -7,7 +7,7 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-01T09:15:02.641528+00:00",
+  "captured_at": "2026-08-01T15:46:58.033494+00:00",
   "lines": [
     {
       "match_id": 706370,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.4225721784776903,
+      "implied_prob_raw": 0.4566210045662101,
+      "implied_prob_fair": 0.4267015706806283,
       "source": "match:706370"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.61,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5774278215223098,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5732984293193717,
       "source": "match:706370"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42708333333333337,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.4233766233766234,
       "source": "match:706370"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5729166666666667,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5766233766233767,
       "source": "match:706370"
     }
   ]

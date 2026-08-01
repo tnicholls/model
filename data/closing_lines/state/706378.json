@@ -1,0 +1,41 @@
+{
+  "match_id": 706378,
+  "match_url": "/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage-2-w4",
+  "date_display": "Sun, August 9, 2026",
+  "time_display": "4:00 PM",
+  "team1": "Evil Geniuses",
+  "team2": "NRG",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Group Stage\u2013Week 4",
+  "captured_at": "2026-08-01T16:10:57.567503+00:00",
+  "lines": [
+    {
+      "match_id": 706378,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50758",
+      "stage": "pre-match",
+      "team": "Evil Geniuses",
+      "team_tag": "EG",
+      "decimal_odds": 5.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17857142857142858,
+      "implied_prob_fair": 0.165424739195231,
+      "source": "match:706378"
+    },
+    {
+      "match_id": 706378,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50758",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.834575260804769,
+      "source": "match:706378"
+    }
+  ]
+}

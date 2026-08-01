@@ -1,0 +1,41 @@
+{
+  "match_id": 698911,
+  "match_url": "/698911/gen-g-vs-full-sense-vct-2026-pacific-stage-2-w4",
+  "date_display": "Fri, August 7, 2026",
+  "time_display": "5:00 AM",
+  "team1": "Gen.G",
+  "team2": "FULL SENSE",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 4",
+  "captured_at": "2026-08-01T16:08:52.208441+00:00",
+  "lines": [
+    {
+      "match_id": 698911,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50763",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5811518324607331,
+      "source": "match:698911"
+    },
+    {
+      "match_id": 698911,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50763",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 2.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.418848167539267,
+      "source": "match:698911"
+    }
+  ]
+}

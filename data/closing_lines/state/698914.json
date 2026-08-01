@@ -1,0 +1,41 @@
+{
+  "match_id": 698914,
+  "match_url": "/698914/varrel-vs-paper-rex-vct-2026-pacific-stage-2-w4",
+  "date_display": "Sun, August 9, 2026",
+  "time_display": "3:00 AM",
+  "team1": "VARREL",
+  "team2": "Paper Rex",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 4",
+  "captured_at": "2026-08-01T16:10:51.030198+00:00",
+  "lines": [
+    {
+      "match_id": 698914,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50750",
+      "stage": "pre-match",
+      "team": "VARREL",
+      "team_tag": "VL",
+      "decimal_odds": 4.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.20876826722338204,
+      "implied_prob_fair": 0.1936026936026936,
+      "source": "match:698914"
+    },
+    {
+      "match_id": 698914,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50750",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8063973063973064,
+      "source": "match:698914"
+    }
+  ]
+}
