@@ -2,12 +2,12 @@
   "match_id": 698909,
   "match_url": "/698909/zeta-division-vs-nongshim-redforce-vct-2026-pacific-stage-2-w3",
   "date_display": "Sun, August 2, 2026",
-  "time_display": "5:00 AM",
+  "time_display": "6:00 AM",
   "team1": "ZETA DIVISION",
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-02T09:29:24.524553+00:00",
+  "captured_at": "2026-08-02T10:22:14.705550+00:00",
   "lines": [
     {
       "match_id": 698909,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 4.05,
+      "decimal_odds": 4.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2469135802469136,
-      "implied_prob_fair": 0.2314990512333966,
+      "implied_prob_raw": 0.24875621890547267,
+      "implied_prob_fair": 0.23282442748091606,
       "source": "match:698909"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7685009487666035,
+      "implied_prob_fair": 0.767175572519084,
       "source": "match:698909"
     },
     {
