@@ -1,0 +1,41 @@
+{
+  "match_id": 698915,
+  "match_url": "/698915/nongshim-redforce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4",
+  "date_display": "Sun, August 9, 2026",
+  "time_display": "5:00 AM",
+  "team1": "Nongshim RedForce",
+  "team2": "Rex Regum Qeon",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 4",
+  "captured_at": "2026-08-02T14:31:53.606096+00:00",
+  "lines": [
+    {
+      "match_id": 698915,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50806",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6545012165450123,
+      "source": "match:698915"
+    },
+    {
+      "match_id": 698915,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50806",
+      "stage": "pre-match",
+      "team": "Rex Regum Qeon",
+      "team_tag": "RRQ",
+      "decimal_odds": 2.69,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3717472118959108,
+      "implied_prob_fair": 0.34549878345498786,
+      "source": "match:698915"
+    }
+  ]
+}
