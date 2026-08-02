@@ -7,36 +7,8 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-02T09:13:40.089882+00:00",
+  "captured_at": "2026-08-02T09:30:05.100338+00:00",
   "lines": [
-    {
-      "match_id": 706372,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50756",
-      "stage": "pre-match",
-      "team": "Evil Geniuses",
-      "team_tag": "EG",
-      "decimal_odds": 2.59,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3861003861003861,
-      "implied_prob_fair": 0.35891089108910884,
-      "source": "match:706372"
-    },
-    {
-      "match_id": 706372,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50756",
-      "stage": "pre-match",
-      "team": "FURIA",
-      "team_tag": "FUR",
-      "decimal_odds": 1.45,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.641089108910891,
-      "source": "match:706372"
-    },
     {
       "match_id": 706372,
       "bookmaker": "rainbet",
