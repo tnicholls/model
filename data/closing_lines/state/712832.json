@@ -7,12 +7,40 @@
   "team2": "PCIFIC Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-02T13:06:04.695370+00:00",
+  "captured_at": "2026-08-02T15:24:55.768950+00:00",
   "lines": [
     {
       "match_id": 712832,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50727",
+      "stage": "live",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8178913738019169,
+      "source": "match:712832"
+    },
+    {
+      "match_id": 712832,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50727",
+      "stage": "live",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 5.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1953125,
+      "implied_prob_fair": 0.18210862619808305,
+      "source": "match:712832"
+    },
+    {
+      "match_id": 712832,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50732",
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
@@ -20,35 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.851150202976996,
-      "source": "match:712832"
-    },
-    {
-      "match_id": 712832,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50727",
-      "stage": "pre-match",
-      "team": "PCIFIC Esports",
-      "team_tag": "PCF",
-      "decimal_odds": 6.29,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.1589825119236884,
-      "implied_prob_fair": 0.14884979702300408,
-      "source": "match:712832"
-    },
-    {
-      "match_id": 712832,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/50732",
-      "stage": "pre-match",
-      "team": "BBL Esports",
-      "team_tag": "BBL",
-      "decimal_odds": 1.09,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.865265760197775,
+      "implied_prob_fair": 0.8571428571428572,
       "source": "match:712832"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 7.0,
+      "decimal_odds": 6.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.13473423980222496,
+      "implied_prob_raw": 0.15151515151515152,
+      "implied_prob_fair": 0.14285714285714288,
       "source": "match:712832"
     }
   ]

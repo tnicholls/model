@@ -7,7 +7,7 @@
   "team2": "Sentinels",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-02T13:06:09.662337+00:00",
+  "captured_at": "2026-08-02T15:25:00.475656+00:00",
   "lines": [
     {
       "match_id": 706371,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6025641025641025,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6071428571428571,
       "source": "match:706371"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.3974358974358974,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.39285714285714285,
       "source": "match:706371"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6111111111111112,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6405867970660147,
       "source": "match:706371"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 2.42,
+      "decimal_odds": 2.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4132231404958678,
-      "implied_prob_fair": 0.3888888888888889,
+      "implied_prob_raw": 0.38167938931297707,
+      "implied_prob_fair": 0.3594132029339854,
       "source": "match:706371"
     }
   ]

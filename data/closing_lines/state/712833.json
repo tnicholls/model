@@ -7,7 +7,7 @@
   "team2": "Team Heretics",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-02T13:06:06.354994+00:00",
+  "captured_at": "2026-08-02T15:24:57.446446+00:00",
   "lines": [
     {
       "match_id": 712833,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.88,
+      "decimal_odds": 1.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.4959785522788205,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.47733333333333333,
       "source": "match:712833"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Heretics",
       "team_tag": "TH",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5040214477211796,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5226666666666666,
       "source": "match:712833"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 2.02,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4656084656084655,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.4748010610079576,
       "source": "match:712833"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Heretics",
       "team_tag": "TH",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5343915343915343,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5251989389920424,
       "source": "match:712833"
     }
   ]

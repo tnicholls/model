@@ -1,0 +1,41 @@
+{
+  "match_id": 698913,
+  "match_url": "/698913/global-esports-vs-zeta-division-vct-2026-pacific-stage-2-w4",
+  "date_display": "Sat, August 8, 2026",
+  "time_display": "5:00 AM",
+  "team1": "Global Esports",
+  "team2": "ZETA DIVISION",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Group Stage\u2013Week 4",
+  "captured_at": "2026-08-02T15:25:50.387478+00:00",
+  "lines": [
+    {
+      "match_id": 698913,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50805",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.6984126984126984,
+      "source": "match:698913"
+    },
+    {
+      "match_id": 698913,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50805",
+      "stage": "pre-match",
+      "team": "ZETA DIVISION",
+      "team_tag": "ZETA",
+      "decimal_odds": 3.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3246753246753247,
+      "implied_prob_fair": 0.30158730158730157,
+      "source": "match:698913"
+    }
+  ]
+}
