@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-03T12:39:46.146612+00:00",
+  "captured_at": "2026-08-03T12:56:11.519514+00:00",
   "lines": [
     {
       "match_id": 716622,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6477832512315271,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6393034825870647,
       "source": "match:716622"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.63,
+      "decimal_odds": 2.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3802281368821293,
-      "implied_prob_fair": 0.3522167487684729,
+      "implied_prob_raw": 0.38910505836575876,
+      "implied_prob_fair": 0.36069651741293535,
       "source": "match:716622"
     },
     {
