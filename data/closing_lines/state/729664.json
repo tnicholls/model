@@ -1,0 +1,41 @@
+{
+  "match_id": 729664,
+  "match_url": "/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1",
+  "date_display": "Thu, August 6, 2026",
+  "time_display": "10:00 AM",
+  "team1": "GIANTX",
+  "team2": "Eintracht Frankfurt",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-03T03:11:03.867522+00:00",
+  "lines": [
+    {
+      "match_id": 729664,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50811",
+      "stage": "pre-match",
+      "team": "GIANTX",
+      "team_tag": "GX",
+      "decimal_odds": 1.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6666666666666666,
+      "source": "match:729664"
+    },
+    {
+      "match_id": 729664,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50811",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 2.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3597122302158274,
+      "implied_prob_fair": 0.3333333333333333,
+      "source": "match:729664"
+    }
+  ]
+}

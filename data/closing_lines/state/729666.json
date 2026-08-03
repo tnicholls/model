@@ -1,0 +1,41 @@
+{
+  "match_id": 729666,
+  "match_url": "/729666/pcific-esports-vs-reborn-vct-2026-emea-stage-2-ur1",
+  "date_display": "Fri, August 7, 2026",
+  "time_display": "10:00 AM",
+  "team1": "PCIFIC Esports",
+  "team2": "REBORN",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-03T03:11:17.898629+00:00",
+  "lines": [
+    {
+      "match_id": 729666,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50813",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6202531645569621,
+      "source": "match:729666"
+    },
+    {
+      "match_id": 729666,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50813",
+      "stage": "pre-match",
+      "team": "REBORN",
+      "team_tag": "REBO",
+      "decimal_odds": 2.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4081632653061224,
+      "implied_prob_fair": 0.379746835443038,
+      "source": "match:729666"
+    }
+  ]
+}
