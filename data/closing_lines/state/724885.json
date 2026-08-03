@@ -7,34 +7,34 @@
   "team2": "SwimTrek Blue",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 4 (3-0)",
-  "captured_at": "2026-08-03T21:01:13.930191+00:00",
+  "captured_at": "2026-08-03T21:17:39.649857+00:00",
   "lines": [
     {
       "match_id": 724885,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50797",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 3.37,
+      "decimal_odds": 3.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29673590504451036,
-      "implied_prob_fair": 0.275268817204301,
+      "implied_prob_raw": 0.2840909090909091,
+      "implied_prob_fair": 0.26359832635983266,
       "source": "match:724885"
     },
     {
       "match_id": 724885,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50797",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "SwimTrek Blue",
       "team_tag": "SWIM",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7247311827956989,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7364016736401674,
       "source": "match:724885"
     }
   ]
