@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T17:46:32.666804+00:00",
+  "captured_at": "2026-08-03T18:19:06.690410+00:00",
   "lines": [
     {
       "match_id": 729667,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7989601386481803,
+      "implied_prob_fair": 0.7986111111111112,
       "source": "match:729667"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 4.61,
+      "decimal_odds": 4.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21691973969631234,
-      "implied_prob_fair": 0.20103986135181973,
+      "implied_prob_raw": 0.2173913043478261,
+      "implied_prob_fair": 0.2013888888888889,
       "source": "match:729667"
     },
     {
