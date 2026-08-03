@@ -7,8 +7,36 @@
   "team2": "REBORN",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T18:51:57.015498+00:00",
+  "captured_at": "2026-08-03T19:08:22.598384+00:00",
   "lines": [
+    {
+      "match_id": 729666,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50813",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 1.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6393034825870647,
+      "source": "match:729666"
+    },
+    {
+      "match_id": 729666,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50813",
+      "stage": "pre-match",
+      "team": "REBORN",
+      "team_tag": "REBO",
+      "decimal_odds": 2.57,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.38910505836575876,
+      "implied_prob_fair": 0.36069651741293535,
+      "source": "match:729666"
+    },
     {
       "match_id": 729666,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5912596401028277,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6055979643765903,
       "source": "match:729666"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "REBORN",
       "team_tag": "REBO",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4087403598971723,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.3944020356234097,
       "source": "match:729666"
     }
   ]
