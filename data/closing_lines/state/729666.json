@@ -7,7 +7,7 @@
   "team2": "REBORN",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T16:53:31.708566+00:00",
+  "captured_at": "2026-08-03T17:12:05.205101+00:00",
   "lines": [
     {
       "match_id": 729666,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.6020408163265306,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5912596401028277,
       "source": "match:729666"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "REBORN",
       "team_tag": "REBO",
-      "decimal_odds": 2.36,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.39795918367346944,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4087403598971723,
       "source": "match:729666"
     }
   ]
