@@ -7,7 +7,7 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-03T22:19:52.036528+00:00",
+  "captured_at": "2026-08-03T22:49:54.510235+00:00",
   "lines": [
     {
       "match_id": 706377,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5958549222797926,
+      "implied_prob_fair": 0.5968992248062015,
       "source": "match:706377"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.40414507772020725,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.40310077519379844,
       "source": "match:706377"
     },
     {

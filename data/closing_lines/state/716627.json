@@ -1,0 +1,41 @@
+{
+  "match_id": 716627,
+  "match_url": "/716627/g2-gozen-vs-bar-a-esports-gc-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Tue, August 4, 2026",
+  "time_display": "10:00 AM",
+  "team1": "G2 Gozen",
+  "team2": "Bar\u00e7a eSports GC",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-03T22:49:03.135660+00:00",
+  "lines": [
+    {
+      "match_id": 716627,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50861",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.829754601226994,
+      "source": "match:716627"
+    },
+    {
+      "match_id": 716627,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50861",
+      "stage": "pre-match",
+      "team": "Bar\u00e7a eSports GC",
+      "team_tag": "BAR.",
+      "decimal_odds": 5.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.18484288354898337,
+      "implied_prob_fair": 0.17024539877300618,
+      "source": "match:716627"
+    }
+  ]
+}
