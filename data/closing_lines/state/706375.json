@@ -7,12 +7,12 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-03T19:08:27.302707+00:00",
+  "captured_at": "2026-08-03T19:24:56.012689+00:00",
   "lines": [
     {
       "match_id": 706375,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/50829",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50818",
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
@@ -20,7 +20,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7871198568872988,
+      "implied_prob_fair": 0.7788104089219331,
+      "source": "match:706375"
+    },
+    {
+      "match_id": 706375,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50818",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 4.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2386634844868735,
+      "implied_prob_fair": 0.2211895910780669,
+      "source": "match:706375"
+    },
+    {
+      "match_id": 706375,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50829",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7763401109057302,
       "source": "match:706375"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 4.4,
+      "decimal_odds": 4.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22727272727272727,
-      "implied_prob_fair": 0.21288014311270126,
+      "implied_prob_raw": 0.23809523809523808,
+      "implied_prob_fair": 0.22365988909426987,
       "source": "match:706375"
     }
   ]
