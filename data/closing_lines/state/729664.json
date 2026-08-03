@@ -7,8 +7,36 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T22:02:54.902464+00:00",
+  "captured_at": "2026-08-03T22:19:20.544243+00:00",
   "lines": [
+    {
+      "match_id": 729664,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50811",
+      "stage": "pre-match",
+      "team": "GIANTX",
+      "team_tag": "GX",
+      "decimal_odds": 1.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6086956521739131,
+      "source": "match:729664"
+    },
+    {
+      "match_id": 729664,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50811",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 2.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.391304347826087,
+      "source": "match:729664"
+    },
     {
       "match_id": 729664,
       "bookmaker": "rainbet",

@@ -1,0 +1,41 @@
+{
+  "match_id": 716626,
+  "match_url": "/716626/karmine-corp-gc-vs-fokus-sakura-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Tue, August 4, 2026",
+  "time_display": "10:00 AM",
+  "team1": "Karmine Corp GC",
+  "team2": "FOKUS Sakura",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-03T22:18:58.737616+00:00",
+  "lines": [
+    {
+      "match_id": 716626,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50858",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 2.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.3958333333333333,
+      "source": "match:716626"
+    },
+    {
+      "match_id": 716626,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50858",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6041666666666666,
+      "source": "match:716626"
+    }
+  ]
+}
