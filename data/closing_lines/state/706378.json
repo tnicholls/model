@@ -7,8 +7,36 @@
   "team2": "NRG",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-03T21:35:11.214853+00:00",
+  "captured_at": "2026-08-03T22:03:37.081951+00:00",
   "lines": [
+    {
+      "match_id": 706378,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50758",
+      "stage": "pre-match",
+      "team": "Evil Geniuses",
+      "team_tag": "EG",
+      "decimal_odds": 5.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17889087656529518,
+      "implied_prob_fair": 0.16691505216095381,
+      "source": "match:706378"
+    },
+    {
+      "match_id": 706378,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50758",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8330849478390462,
+      "source": "match:706378"
+    },
     {
       "match_id": 706378,
       "bookmaker": "rainbet",
