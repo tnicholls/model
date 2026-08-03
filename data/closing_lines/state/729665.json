@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T20:12:21.630784+00:00",
+  "captured_at": "2026-08-03T20:28:48.591582+00:00",
   "lines": [
     {
       "match_id": 729665,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6776470588235294,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6020671834625323,
       "source": "match:729665"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 2.88,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3472222222222222,
-      "implied_prob_fair": 0.32235294117647056,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.3979328165374677,
       "source": "match:729665"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7158351409978309,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5602094240837696,
       "source": "match:729665"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 3.3,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28416485900216926,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4397905759162304,
       "source": "match:729665"
     }
   ]

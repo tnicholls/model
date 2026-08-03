@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T20:12:33.957659+00:00",
+  "captured_at": "2026-08-03T20:29:01.199868+00:00",
   "lines": [
     {
       "match_id": 729667,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7530120481927711,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7040358744394619,
       "source": "match:729667"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 3.75,
+      "decimal_odds": 3.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26666666666666666,
-      "implied_prob_fair": 0.24698795180722893,
+      "implied_prob_raw": 0.3184713375796178,
+      "implied_prob_fair": 0.29596412556053814,
       "source": "match:729667"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7908611599297013,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6666666666666667,
       "source": "match:729667"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 4.5,
+      "decimal_odds": 2.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2222222222222222,
-      "implied_prob_fair": 0.20913884007029876,
+      "implied_prob_raw": 0.3546099290780142,
+      "implied_prob_fair": 0.33333333333333337,
       "source": "match:729667"
     }
   ]
