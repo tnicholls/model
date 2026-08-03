@@ -1,0 +1,41 @@
+{
+  "match_id": 724620,
+  "match_url": "/724620/titan-esports-club-vs-keepbest-gaming-vct-2026-china-stage-2-ur1",
+  "date_display": "Wed, August 5, 2026",
+  "time_display": "5:00 AM",
+  "team1": "Titan Esports Club",
+  "team2": "KeepBest Gaming",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-03T11:33:22.978491+00:00",
+  "lines": [
+    {
+      "match_id": 724620,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50822",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.71,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5403225806451611,
+      "source": "match:724620"
+    },
+    {
+      "match_id": 724620,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50822",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 2.01,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49751243781094534,
+      "implied_prob_fair": 0.4596774193548387,
+      "source": "match:724620"
+    }
+  ]
+}

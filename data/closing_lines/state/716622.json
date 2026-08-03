@@ -7,12 +7,12 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-03T04:47:06.212130+00:00",
+  "captured_at": "2026-08-03T11:33:05.851158+00:00",
   "lines": [
     {
       "match_id": 716622,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/50766",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50743",
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
@@ -20,7 +20,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6837209302325581,
+      "implied_prob_fair": 0.6799999999999999,
+      "source": "match:716622"
+    },
+    {
+      "match_id": 716622,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50743",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 2.89,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3460207612456747,
+      "implied_prob_fair": 0.31999999999999995,
+      "source": "match:716622"
+    },
+    {
+      "match_id": 716622,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50766",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6570048309178744,
       "source": "match:716622"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.94,
+      "decimal_odds": 2.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3401360544217687,
-      "implied_prob_fair": 0.31627906976744186,
+      "implied_prob_raw": 0.3676470588235294,
+      "implied_prob_fair": 0.3429951690821256,
       "source": "match:716622"
     }
   ]
