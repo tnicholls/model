@@ -7,7 +7,7 @@
   "team2": "NRG",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-03T12:57:24.023255+00:00",
+  "captured_at": "2026-08-03T16:54:02.973769+00:00",
   "lines": [
     {
       "match_id": 706378,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 5.58,
+      "decimal_odds": 5.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17921146953405018,
-      "implied_prob_fair": 0.16716417910447764,
+      "implied_prob_raw": 0.17889087656529518,
+      "implied_prob_fair": 0.16691505216095381,
       "source": "match:706378"
     },
     {
@@ -34,7 +34,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8328358208955224,
+      "implied_prob_fair": 0.8330849478390462,
+      "source": "match:706378"
+    },
+    {
+      "match_id": 706378,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50835",
+      "stage": "pre-match",
+      "team": "Evil Geniuses",
+      "team_tag": "EG",
+      "decimal_odds": 5.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.16184971098265896,
+      "source": "match:706378"
+    },
+    {
+      "match_id": 706378,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50835",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8381502890173409,
       "source": "match:706378"
     }
   ]

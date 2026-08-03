@@ -7,34 +7,34 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-03T12:56:11.519514+00:00",
+  "captured_at": "2026-08-03T16:48:26.270641+00:00",
   "lines": [
     {
       "match_id": 716622,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50743",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.45,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6393034825870647,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
       "source": "match:716622"
     },
     {
       "match_id": 716622,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50743",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.57,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38910505836575876,
-      "implied_prob_fair": 0.36069651741293535,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
       "source": "match:716622"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6262626262626262,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5608465608465608,
       "source": "match:716622"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.48,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.40322580645161293,
-      "implied_prob_fair": 0.37373737373737376,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4391534391534391,
       "source": "match:716622"
     }
   ]
