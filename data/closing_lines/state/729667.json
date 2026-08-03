@@ -7,48 +7,20 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T20:29:01.199868+00:00",
+  "captured_at": "2026-08-03T20:45:29.175842+00:00",
   "lines": [
     {
       "match_id": 729667,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50814",
-      "stage": "pre-match",
-      "team": "FNATIC",
-      "team_tag": "FNC",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7040358744394619,
-      "source": "match:729667"
-    },
-    {
-      "match_id": 729667,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50814",
-      "stage": "pre-match",
-      "team": "Enterprise Esports",
-      "team_tag": "EP",
-      "decimal_odds": 3.14,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3184713375796178,
-      "implied_prob_fair": 0.29596412556053814,
-      "source": "match:729667"
-    },
-    {
-      "match_id": 729667,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50848",
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6666666666666667,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6635071090047394,
       "source": "match:729667"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.82,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.33333333333333337,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.33649289099526064,
       "source": "match:729667"
     }
   ]

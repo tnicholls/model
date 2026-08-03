@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-03T20:29:05.814591+00:00",
+  "captured_at": "2026-08-03T20:45:33.747255+00:00",
   "lines": [
     {
       "match_id": 698912,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 2.62,
+      "decimal_odds": 2.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38167938931297707,
-      "implied_prob_fair": 0.3594132029339854,
+      "implied_prob_raw": 0.3676470588235294,
+      "implied_prob_fair": 0.34615384615384615,
       "source": "match:698912"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6405867970660147,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6538461538461539,
       "source": "match:698912"
     }
   ]
