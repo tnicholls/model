@@ -7,7 +7,7 @@
   "team2": "REBORN",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-03T19:56:08.180519+00:00",
+  "captured_at": "2026-08-03T20:12:32.445970+00:00",
   "lines": [
     {
       "match_id": 729666,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6393034825870647,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5922077922077923,
       "source": "match:729666"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "REBORN",
       "team_tag": "REBO",
-      "decimal_odds": 2.57,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38910505836575876,
-      "implied_prob_fair": 0.36069651741293535,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4077922077922079,
       "source": "match:729666"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 1.59,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5912596401028277,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
       "source": "match:729666"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "REBORN",
       "team_tag": "REBO",
-      "decimal_odds": 2.3,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4087403598971723,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
       "source": "match:729666"
     }
   ]
