@@ -7,36 +7,8 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-03T18:18:22.034935+00:00",
+  "captured_at": "2026-08-03T18:34:46.991353+00:00",
   "lines": [
-    {
-      "match_id": 716623,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50742",
-      "stage": "live",
-      "team": "Gentle Mates GC",
-      "team_tag": "M8GC",
-      "decimal_odds": 2.61,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.3555555555555556,
-      "source": "match:716623"
-    },
-    {
-      "match_id": 716623,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50742",
-      "stage": "live",
-      "team": "Karmine Corp GC",
-      "team_tag": "KCGC",
-      "decimal_odds": 1.44,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6444444444444445,
-      "source": "match:716623"
-    },
     {
       "match_id": 716623,
       "bookmaker": "rainbet",

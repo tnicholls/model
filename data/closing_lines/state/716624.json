@@ -7,7 +7,7 @@
   "team2": "Bar\u00e7a eSports GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-03T18:18:23.542670+00:00",
+  "captured_at": "2026-08-03T18:34:48.502817+00:00",
   "lines": [
     {
       "match_id": 716624,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8040885860306644,
+      "implied_prob_raw": 0.9900990099009901,
+      "implied_prob_fair": 0.9369144284821986,
       "source": "match:716624"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Bar\u00e7a eSports GC",
       "team_tag": "BAR.",
-      "decimal_odds": 4.72,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21186440677966104,
-      "implied_prob_fair": 0.1959114139693356,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.06308557151780138,
       "source": "match:716624"
     },
     {
