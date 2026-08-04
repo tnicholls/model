@@ -1,0 +1,41 @@
+{
+  "match_id": 716631,
+  "match_url": "/716631/sk-nebula-vs-karmine-corp-gc-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Wed, August 5, 2026",
+  "time_display": "10:00 AM",
+  "team1": "SK Nebula",
+  "team2": "Karmine Corp GC",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-04T20:20:20.060756+00:00",
+  "lines": [
+    {
+      "match_id": 716631,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50890",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7520325203252033,
+      "source": "match:716631"
+    },
+    {
+      "match_id": 716631,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50890",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 3.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.27027027027027023,
+      "implied_prob_fair": 0.24796747967479674,
+      "source": "match:716631"
+    }
+  ]
+}
