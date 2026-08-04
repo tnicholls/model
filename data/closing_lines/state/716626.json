@@ -7,48 +7,20 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-04T14:25:03.361926+00:00",
+  "captured_at": "2026-08-04T15:55:38.450431+00:00",
   "lines": [
     {
       "match_id": 716626,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50858",
-      "stage": "pre-match",
-      "team": "Karmine Corp GC",
-      "team_tag": "KCGC",
-      "decimal_odds": 2.64,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3787878787878788,
-      "implied_prob_fair": 0.35135135135135137,
-      "source": "match:716626"
-    },
-    {
-      "match_id": 716626,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50858",
-      "stage": "pre-match",
-      "team": "FOKUS Sakura",
-      "team_tag": "FKS.",
-      "decimal_odds": 1.43,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6486486486486488,
-      "source": "match:716626"
-    },
-    {
-      "match_id": 716626,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50865",
       "stage": "pre-match",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 2.68,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3479318734793187,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37373737373737376,
       "source": "match:716626"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6520681265206814,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6262626262626262,
       "source": "match:716626"
     }
   ]

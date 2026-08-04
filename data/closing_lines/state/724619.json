@@ -7,48 +7,20 @@
   "team2": "A Team",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-04T14:25:13.703865+00:00",
+  "captured_at": "2026-08-04T15:55:48.453482+00:00",
   "lines": [
     {
       "match_id": 724619,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50880",
-      "stage": "pre-match",
-      "team": "Trace Esports",
-      "team_tag": "TE",
-      "decimal_odds": 1.26,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7385892116182573,
-      "source": "match:724619"
-    },
-    {
-      "match_id": 724619,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50880",
-      "stage": "pre-match",
-      "team": "A Team",
-      "team_tag": "AT",
-      "decimal_odds": 3.56,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2808988764044944,
-      "implied_prob_fair": 0.2614107883817428,
-      "source": "match:724619"
-    },
-    {
-      "match_id": 724619,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50876",
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7625482625482626,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.756385068762279,
       "source": "match:724619"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 3.95,
+      "decimal_odds": 3.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2531645569620253,
-      "implied_prob_fair": 0.23745173745173742,
+      "implied_prob_raw": 0.2597402597402597,
+      "implied_prob_fair": 0.243614931237721,
       "source": "match:724619"
     }
   ]
