@@ -7,7 +7,7 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-04T21:09:39.606043+00:00",
+  "captured_at": "2026-08-04T21:50:11.897347+00:00",
   "lines": [
     {
       "match_id": 716631,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7520325203252033,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7479508196721312,
       "source": "match:716631"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 3.7,
+      "decimal_odds": 3.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27027027027027023,
-      "implied_prob_fair": 0.24796747967479674,
+      "implied_prob_raw": 0.273972602739726,
+      "implied_prob_fair": 0.2520491803278688,
+      "source": "match:716631"
+    },
+    {
+      "match_id": 716631,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50897",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7593688362919132,
+      "source": "match:716631"
+    },
+    {
+      "match_id": 716631,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50897",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 3.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2597402597402597,
+      "implied_prob_fair": 0.24063116370808674,
       "source": "match:716631"
     }
   ]
