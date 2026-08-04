@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-04T01:54:08.180418+00:00",
+  "captured_at": "2026-08-04T02:10:32.743186+00:00",
   "lines": [
     {
       "match_id": 716626,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.7142857142857143,
       "implied_prob_fair": 0.6551724137931034,
+      "source": "match:716626"
+    },
+    {
+      "match_id": 716626,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50865",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 2.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.36318407960199,
+      "source": "match:716626"
+    },
+    {
+      "match_id": 716626,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50865",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6368159203980098,
       "source": "match:716626"
     }
   ]

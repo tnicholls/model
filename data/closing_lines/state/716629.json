@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-04T01:01:09.880284+00:00",
+  "captured_at": "2026-08-04T02:10:37.260651+00:00",
   "lines": [
     {
       "match_id": 716629,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
       "implied_prob_fair": 0.7065462753950339,
+      "source": "match:716629"
+    },
+    {
+      "match_id": 716629,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50869",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 3.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.29046563192904656,
+      "source": "match:716629"
+    },
+    {
+      "match_id": 716629,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50869",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7095343680709534,
       "source": "match:716629"
     }
   ]

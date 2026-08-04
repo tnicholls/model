@@ -7,7 +7,7 @@
   "team2": "Twisted Minds Orchid",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-04T01:54:11.351319+00:00",
+  "captured_at": "2026-08-04T02:10:35.748275+00:00",
   "lines": [
     {
       "match_id": 716628,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.29673590504451036,
       "implied_prob_fair": 0.27213822894168466,
+      "source": "match:716628"
+    },
+    {
+      "match_id": 716628,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50868",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 1.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7309322033898306,
+      "source": "match:716628"
+    },
+    {
+      "match_id": 716628,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50868",
+      "stage": "pre-match",
+      "team": "Twisted Minds Orchid",
+      "team_tag": "TWO",
+      "decimal_odds": 3.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2898550724637681,
+      "implied_prob_fair": 0.26906779661016955,
       "source": "match:716628"
     }
   ]
