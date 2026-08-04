@@ -7,7 +7,7 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-04T02:11:29.440728+00:00",
+  "captured_at": "2026-08-04T13:33:58.278867+00:00",
   "lines": [
     {
       "match_id": 698915,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6618357487922706,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6610576923076923,
       "source": "match:698915"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 2.74,
+      "decimal_odds": 2.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36496350364963503,
-      "implied_prob_fair": 0.33816425120772947,
+      "implied_prob_raw": 0.36363636363636365,
+      "implied_prob_fair": 0.3389423076923077,
       "source": "match:698915"
     },
     {

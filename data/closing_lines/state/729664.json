@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-04T02:10:54.227976+00:00",
+  "captured_at": "2026-08-04T13:33:22.419412+00:00",
   "lines": [
     {
       "match_id": 729664,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6086956521739131,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6177215189873417,
       "source": "match:729664"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.38,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42016806722689076,
-      "implied_prob_fair": 0.391304347826087,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.3822784810126582,
       "source": "match:729664"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6180904522613065,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6111111111111112,
       "source": "match:729664"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.38190954773869346,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3888888888888889,
       "source": "match:729664"
     }
   ]

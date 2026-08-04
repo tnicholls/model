@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-04T02:10:40.419003+00:00",
+  "captured_at": "2026-08-04T13:33:08.451099+00:00",
   "lines": [
     {
       "match_id": 724620,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5401069518716577,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5439999999999999,
       "source": "match:724620"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4598930481283422,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45599999999999996,
+      "source": "match:724620"
+    },
+    {
+      "match_id": 724620,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50877",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5435356200527705,
+      "source": "match:724620"
+    },
+    {
+      "match_id": 724620,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50877",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 2.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.4564643799472295,
       "source": "match:724620"
     }
   ]

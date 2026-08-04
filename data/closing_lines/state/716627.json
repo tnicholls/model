@@ -7,8 +7,36 @@
   "team2": "Bar\u00e7a eSports GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-04T02:10:34.238609+00:00",
+  "captured_at": "2026-08-04T13:32:59.113271+00:00",
   "lines": [
+    {
+      "match_id": 716627,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50861",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8439716312056738,
+      "source": "match:716627"
+    },
+    {
+      "match_id": 716627,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50861",
+      "stage": "pre-match",
+      "team": "Bar\u00e7a eSports GC",
+      "team_tag": "BAR.",
+      "decimal_odds": 5.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1680672268907563,
+      "implied_prob_fair": 0.15602836879432624,
+      "source": "match:716627"
+    },
     {
       "match_id": 716627,
       "bookmaker": "rainbet",
