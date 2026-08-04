@@ -7,8 +7,36 @@
   "team2": "Sentinels",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-04T20:37:25.349193+00:00",
+  "captured_at": "2026-08-04T20:53:53.466822+00:00",
   "lines": [
+    {
+      "match_id": 706376,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50817",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 2.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.35294117647058826,
+      "source": "match:706376"
+    },
+    {
+      "match_id": 706376,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50817",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6470588235294118,
+      "source": "match:706376"
+    },
     {
       "match_id": 706376,
       "bookmaker": "rainbet",
