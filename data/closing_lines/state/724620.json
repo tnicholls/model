@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-04T23:01:46.790476+00:00",
+  "captured_at": "2026-08-04T23:52:04.409547+00:00",
   "lines": [
     {
       "match_id": 724620,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5439999999999999,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5558510638297872,
       "source": "match:724620"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.04,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45599999999999996,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.4441489361702128,
       "source": "match:724620"
     },
     {
