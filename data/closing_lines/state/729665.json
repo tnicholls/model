@@ -7,8 +7,36 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-04T00:24:21.691482+00:00",
+  "captured_at": "2026-08-04T00:40:47.185221+00:00",
   "lines": [
+    {
+      "match_id": 729665,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50812",
+      "stage": "pre-match",
+      "team": "Natus Vincere",
+      "team_tag": "NAVI",
+      "decimal_odds": 1.51,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6177215189873417,
+      "source": "match:729665"
+    },
+    {
+      "match_id": 729665,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50812",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.3822784810126582,
+      "source": "match:729665"
+    },
     {
       "match_id": 729665,
       "bookmaker": "rainbet",
