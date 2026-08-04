@@ -1,0 +1,41 @@
+{
+  "match_id": 716632,
+  "match_url": "/716632/gentle-mates-gc-vs-twisted-minds-orchid-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Wed, August 5, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Gentle Mates GC",
+  "team2": "Twisted Minds Orchid",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-04T20:36:47.078647+00:00",
+  "lines": [
+    {
+      "match_id": 716632,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50892",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7307692307692307,
+      "source": "match:716632"
+    },
+    {
+      "match_id": 716632,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50892",
+      "stage": "pre-match",
+      "team": "Twisted Minds Orchid",
+      "team_tag": "TWO",
+      "decimal_odds": 3.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29239766081871343,
+      "implied_prob_fair": 0.2692307692307692,
+      "source": "match:716632"
+    }
+  ]
+}
