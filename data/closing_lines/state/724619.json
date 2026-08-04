@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-04T17:07:28.477967+00:00",
+  "captured_at": "2026-08-04T17:34:58.798446+00:00",
   "lines": [
     {
       "match_id": 724619,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7320675105485233,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7385892116182573,
       "source": "match:724619"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 3.47,
+      "decimal_odds": 3.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2881844380403458,
-      "implied_prob_fair": 0.26793248945147685,
+      "implied_prob_raw": 0.2808988764044944,
+      "implied_prob_fair": 0.2614107883817428,
       "source": "match:724619"
     },
     {
