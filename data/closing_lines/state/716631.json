@@ -7,7 +7,7 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T15:29:24.379228+00:00",
+  "captured_at": "2026-08-05T16:19:13.534575+00:00",
   "lines": [
     {
       "match_id": 716631,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7925531914893617,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.6970387243735763,
       "source": "match:716631"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 4.47,
+      "decimal_odds": 3.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2237136465324385,
-      "implied_prob_fair": 0.2074468085106383,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.3029612756264237,
       "source": "match:716631"
     },
     {
