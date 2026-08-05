@@ -1,0 +1,41 @@
+{
+  "match_id": 716634,
+  "match_url": "/716634/fokus-sakura-vs-habos-babos-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Thu, August 6, 2026",
+  "time_display": "10:00 AM",
+  "team1": "FOKUS Sakura",
+  "team2": "Habos Babos",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-05T19:29:05.228192+00:00",
+  "lines": [
+    {
+      "match_id": 716634,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50952",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.5958005249343833,
+      "source": "match:716634"
+    },
+    {
+      "match_id": 716634,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50952",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 2.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4041994750656168,
+      "source": "match:716634"
+    }
+  ]
+}

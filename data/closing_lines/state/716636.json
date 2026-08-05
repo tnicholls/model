@@ -1,0 +1,41 @@
+{
+  "match_id": 716636,
+  "match_url": "/716636/gentle-mates-gc-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-w3",
+  "date_display": "Thu, August 6, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Gentle Mates GC",
+  "team2": "ALTERNATE aTTaX Ruby",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Group Stage\u2013Week 3",
+  "captured_at": "2026-08-05T19:29:10.065225+00:00",
+  "lines": [
+    {
+      "match_id": 716636,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50954",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8586525759577278,
+      "source": "match:716636"
+    },
+    {
+      "match_id": 716636,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50954",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 6.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15384615384615385,
+      "implied_prob_fair": 0.14134742404227213,
+      "source": "match:716636"
+    }
+  ]
+}
