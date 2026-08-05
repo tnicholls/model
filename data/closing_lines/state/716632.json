@@ -7,8 +7,36 @@
   "team2": "Twisted Minds Orchid",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T18:39:32.383303+00:00",
+  "captured_at": "2026-08-05T18:56:01.167375+00:00",
   "lines": [
+    {
+      "match_id": 716632,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50892",
+      "stage": "live",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 5.71,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17513134851138354,
+      "implied_prob_fair": 0.16275659824046923,
+      "source": "match:716632"
+    },
+    {
+      "match_id": 716632,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50892",
+      "stage": "live",
+      "team": "Twisted Minds Orchid",
+      "team_tag": "TWO",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8372434017595308,
+      "source": "match:716632"
+    },
     {
       "match_id": 716632,
       "bookmaker": "rainbet",
