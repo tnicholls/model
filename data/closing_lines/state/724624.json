@@ -7,7 +7,7 @@
   "team2": "Titan Esports Club",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-05T22:47:26.604093+00:00",
+  "captured_at": "2026-08-05T23:03:55.799845+00:00",
   "lines": [
     {
       "match_id": 724624,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8086522462562397,
+      "implied_prob_fair": 0.8142164781906301,
       "source": "match:724624"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 4.86,
+      "decimal_odds": 5.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20576131687242796,
-      "implied_prob_fair": 0.19134775374376037,
+      "implied_prob_raw": 0.1984126984126984,
+      "implied_prob_fair": 0.18578352180936994,
       "source": "match:724624"
     },
     {
