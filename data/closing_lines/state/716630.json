@@ -7,7 +7,7 @@
   "team2": "GIANTX GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T04:14:58.804389+00:00",
+  "captured_at": "2026-08-05T05:29:14.714652+00:00",
   "lines": [
     {
       "match_id": 716630,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8077571669477234,
+      "implied_prob_fair": 0.81,
       "source": "match:716630"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 4.79,
+      "decimal_odds": 4.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20876826722338204,
-      "implied_prob_fair": 0.19224283305227652,
+      "implied_prob_raw": 0.20576131687242796,
+      "implied_prob_fair": 0.18999999999999997,
       "source": "match:716630"
     },
     {

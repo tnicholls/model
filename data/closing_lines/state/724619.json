@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-05T04:14:55.527304+00:00",
+  "captured_at": "2026-08-05T05:29:11.438349+00:00",
   "lines": [
     {
       "match_id": 724619,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7161572052401747,
+      "implied_prob_fair": 0.7155361050328227,
       "source": "match:724619"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 3.28,
+      "decimal_odds": 3.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3048780487804878,
-      "implied_prob_fair": 0.2838427947598253,
+      "implied_prob_raw": 0.3058103975535168,
+      "implied_prob_fair": 0.2844638949671772,
       "source": "match:724619"
     },
     {
