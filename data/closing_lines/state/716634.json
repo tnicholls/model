@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T20:02:01.282796+00:00",
+  "captured_at": "2026-08-05T20:34:57.962736+00:00",
   "lines": [
     {
       "match_id": 716634,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.44052863436123346,
       "implied_prob_fair": 0.4041994750656168,
+      "source": "match:716634"
+    },
+    {
+      "match_id": 716634,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50956",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5979381443298969,
+      "source": "match:716634"
+    },
+    {
+      "match_id": 716634,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50956",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 2.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.4020618556701031,
       "source": "match:716634"
     }
   ]
