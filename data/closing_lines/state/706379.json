@@ -1,0 +1,69 @@
+{
+  "match_id": 706379,
+  "match_url": "/706379/loud-vs-100-thieves-vct-2026-americas-stage-2-w4",
+  "date_display": "Sun, August 9, 2026",
+  "time_display": "7:00 PM",
+  "team1": "LOUD",
+  "team2": "100 Thieves",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Group Stage\u2013Week 4",
+  "captured_at": "2026-08-05T14:48:46.995288+00:00",
+  "lines": [
+    {
+      "match_id": 706379,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50932",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 5.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.18726591760299627,
+      "implied_prob_fair": 0.173374613003096,
+      "source": "match:706379"
+    },
+    {
+      "match_id": 706379,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50932",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.826625386996904,
+      "source": "match:706379"
+    },
+    {
+      "match_id": 706379,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50938",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 5.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17857142857142858,
+      "implied_prob_fair": 0.16790490341753342,
+      "source": "match:706379"
+    },
+    {
+      "match_id": 706379,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50938",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8320950965824665,
+      "source": "match:706379"
+    }
+  ]
+}

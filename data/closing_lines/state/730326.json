@@ -1,0 +1,41 @@
+{
+  "match_id": 730326,
+  "match_url": "/730326/kr-blaze-vs-looking-for-laburo-game-changers-2026-latam-main-event-ubf",
+  "date_display": "Tue, August 11, 2026",
+  "time_display": "5:00 PM",
+  "team1": "KR\u00dc BLAZE",
+  "team2": "Looking For Laburo",
+  "event_name": "Game Changers 2026: LATAM Main Event",
+  "series": "South\u2013Upper Final",
+  "captured_at": "2026-08-05T14:49:01.011124+00:00",
+  "lines": [
+    {
+      "match_id": 730326,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50936",
+      "stage": "pre-match",
+      "team": "KR\u00dc BLAZE",
+      "team_tag": "KRUB",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.758,
+      "source": "match:730326"
+    },
+    {
+      "match_id": 730326,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50936",
+      "stage": "pre-match",
+      "team": "Looking For Laburo",
+      "team_tag": "LFL",
+      "decimal_odds": 3.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2638522427440633,
+      "implied_prob_fair": 0.242,
+      "source": "match:730326"
+    }
+  ]
+}

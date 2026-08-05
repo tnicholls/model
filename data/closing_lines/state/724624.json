@@ -1,0 +1,69 @@
+{
+  "match_id": 724624,
+  "match_url": "/724624/edward-gaming-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
+  "date_display": "Fri, August 7, 2026",
+  "time_display": "6:00 AM",
+  "team1": "EDward Gaming",
+  "team2": "Titan Esports Club",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-05T14:48:16.023239+00:00",
+  "lines": [
+    {
+      "match_id": 724624,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50941",
+      "stage": "pre-match",
+      "team": "EDward Gaming",
+      "team_tag": "EDG",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8142164781906301,
+      "source": "match:724624"
+    },
+    {
+      "match_id": 724624,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50941",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 5.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1984126984126984,
+      "implied_prob_fair": 0.18578352180936994,
+      "source": "match:724624"
+    },
+    {
+      "match_id": 724624,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50943",
+      "stage": "pre-match",
+      "team": "EDward Gaming",
+      "team_tag": "EDG",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7993197278911565,
+      "source": "match:724624"
+    },
+    {
+      "match_id": 724624,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50943",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 4.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2127659574468085,
+      "implied_prob_fair": 0.20068027210884354,
+      "source": "match:724624"
+    }
+  ]
+}

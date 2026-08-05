@@ -7,7 +7,7 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T05:29:16.375754+00:00",
+  "captured_at": "2026-08-05T14:47:52.821907+00:00",
   "lines": [
     {
       "match_id": 716631,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7292110874200427,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6807511737089202,
       "source": "match:716631"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 3.42,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29239766081871343,
-      "implied_prob_fair": 0.2707889125799574,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31924882629107987,
       "source": "match:716631"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7593688362919132,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7235421166306696,
       "source": "match:716631"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp GC",
       "team_tag": "KCGC",
-      "decimal_odds": 3.85,
+      "decimal_odds": 3.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.24063116370808674,
+      "implied_prob_raw": 0.29850746268656714,
+      "implied_prob_fair": 0.2764578833693304,
       "source": "match:716631"
     }
   ]
