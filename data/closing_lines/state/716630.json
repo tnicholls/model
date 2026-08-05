@@ -7,36 +7,8 @@
   "team2": "GIANTX GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T00:08:31.363077+00:00",
+  "captured_at": "2026-08-05T00:25:40.115686+00:00",
   "lines": [
-    {
-      "match_id": 716630,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50891",
-      "stage": "pre-match",
-      "team": "G2 Gozen",
-      "team_tag": "G2G",
-      "decimal_odds": 1.15,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.7978910369068541,
-      "source": "match:716630"
-    },
-    {
-      "match_id": 716630,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50891",
-      "stage": "pre-match",
-      "team": "GIANTX GC",
-      "team_tag": "GX.G",
-      "decimal_odds": 4.54,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.22026431718061673,
-      "implied_prob_fair": 0.20210896309314585,
-      "source": "match:716630"
-    },
     {
       "match_id": 716630,
       "bookmaker": "rainbet",
