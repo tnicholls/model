@@ -7,8 +7,36 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-05T17:50:07.754799+00:00",
+  "captured_at": "2026-08-05T18:06:36.441243+00:00",
   "lines": [
+    {
+      "match_id": 716633,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50893",
+      "stage": "live",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7842778793418648,
+      "source": "match:716633"
+    },
+    {
+      "match_id": 716633,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50893",
+      "stage": "live",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 4.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2331002331002331,
+      "implied_prob_fair": 0.21572212065813526,
+      "source": "match:716633"
+    },
     {
       "match_id": 716633,
       "bookmaker": "rainbet",
