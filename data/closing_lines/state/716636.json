@@ -7,7 +7,7 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-06T06:17:44.966826+00:00",
+  "captured_at": "2026-08-06T06:49:14.805901+00:00",
   "lines": [
     {
       "match_id": 716636,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8643852978453739,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.8519021739130435,
       "source": "match:716636"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 6.82,
+      "decimal_odds": 6.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14662756598240467,
-      "implied_prob_fair": 0.1356147021546261,
+      "implied_prob_raw": 0.1594896331738437,
+      "implied_prob_fair": 0.14809782608695654,
       "source": "match:716636"
     },
     {
