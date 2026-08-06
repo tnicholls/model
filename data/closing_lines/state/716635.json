@@ -7,8 +7,36 @@
   "team2": "Karmine Corp GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-06T01:44:29.276144+00:00",
+  "captured_at": "2026-08-06T02:00:54.877431+00:00",
   "lines": [
+    {
+      "match_id": 716635,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50953",
+      "stage": "pre-match",
+      "team": "GIANTX GC",
+      "team_tag": "GX.G",
+      "decimal_odds": 1.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5121951219512195,
+      "source": "match:716635"
+    },
+    {
+      "match_id": 716635,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50953",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 1.89,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.4878048780487806,
+      "source": "match:716635"
+    },
     {
       "match_id": 716635,
       "bookmaker": "rainbet",
