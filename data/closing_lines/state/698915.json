@@ -7,8 +7,36 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T05:12:34.176003+00:00",
+  "captured_at": "2026-08-06T05:29:00.581823+00:00",
   "lines": [
+    {
+      "match_id": 698915,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50806",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6618705035971223,
+      "source": "match:698915"
+    },
+    {
+      "match_id": 698915,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50806",
+      "stage": "pre-match",
+      "team": "Rex Regum Qeon",
+      "team_tag": "RRQ",
+      "decimal_odds": 2.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3623188405797102,
+      "implied_prob_fair": 0.33812949640287776,
+      "source": "match:698915"
+    },
     {
       "match_id": 698915,
       "bookmaker": "rainbet",

@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-06T05:11:54.846578+00:00",
+  "captured_at": "2026-08-06T05:28:21.445934+00:00",
   "lines": [
     {
       "match_id": 716634,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6253164556962025,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6020671834625323,
       "source": "match:716634"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.37468354430379747,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.3979328165374677,
       "source": "match:716634"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5979381443298969,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6015424164524421,
       "source": "match:716634"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4020618556701031,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.39845758354755784,
       "source": "match:716634"
     }
   ]
