@@ -7,7 +7,7 @@
   "team2": "GIANTX",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-06T20:23:30.696999+00:00",
+  "captured_at": "2026-08-06T20:50:41.976656+00:00",
   "lines": [
     {
       "match_id": 729668,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.33444816053511706,
       "implied_prob_fair": 0.31105990783410137,
+      "source": "match:729668"
+    },
+    {
+      "match_id": 729668,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50975",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7188841201716738,
+      "source": "match:729668"
+    },
+    {
+      "match_id": 729668,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50975",
+      "stage": "pre-match",
+      "team": "GIANTX",
+      "team_tag": "GX",
+      "decimal_odds": 3.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29850746268656714,
+      "implied_prob_fair": 0.2811158798283262,
       "source": "match:729668"
     }
   ]
