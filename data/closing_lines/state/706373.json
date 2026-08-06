@@ -2,12 +2,12 @@
   "match_id": 706373,
   "match_url": "/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4",
   "date_display": "Thu, August 6, 2026",
-  "time_display": "7:00 PM",
+  "time_display": "6:15 PM",
   "team1": "ENVY",
   "team2": "NRG",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T22:50:37.736080+00:00",
+  "captured_at": "2026-08-06T23:14:32.624449+00:00",
   "lines": [
     {
       "match_id": 706373,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 5.69,
+      "decimal_odds": 5.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17574692442882248,
-      "implied_prob_fair": 0.16446402349486047,
+      "implied_prob_raw": 0.17857142857142858,
+      "implied_prob_fair": 0.16666666666666669,
       "source": "match:706373"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8355359765051394,
+      "implied_prob_fair": 0.8333333333333333,
       "source": "match:706373"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 6.6,
+      "decimal_odds": 6.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15151515151515152,
-      "implied_prob_fair": 0.14285714285714288,
+      "implied_prob_raw": 0.14705882352941177,
+      "implied_prob_fair": 0.13814955640050697,
       "source": "match:706373"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8571428571428572,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.861850443599493,
       "source": "match:706373"
     }
   ]

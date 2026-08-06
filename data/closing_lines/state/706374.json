@@ -7,7 +7,7 @@
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T22:50:49.208713+00:00",
+  "captured_at": "2026-08-06T23:14:43.213121+00:00",
   "lines": [
     {
       "match_id": 706374,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8481532147742817,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8571428571428572,
       "source": "match:706374"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 6.2,
+      "decimal_odds": 6.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16129032258064516,
-      "implied_prob_fair": 0.1518467852257182,
+      "implied_prob_raw": 0.15151515151515152,
+      "implied_prob_fair": 0.14285714285714288,
       "source": "match:706374"
     }
   ]
