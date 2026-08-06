@@ -1,0 +1,41 @@
+{
+  "match_id": 729669,
+  "match_url": "/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf",
+  "date_display": "Sat, August 8, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Eternal Fire",
+  "team2": "Joblife",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-06T21:39:58.053569+00:00",
+  "lines": [
+    {
+      "match_id": 729669,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50978",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6350000000000001,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50978",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.36500000000000005,
+      "source": "match:729669"
+    }
+  ]
+}
