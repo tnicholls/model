@@ -7,7 +7,7 @@
   "team2": "Dragon Ranger Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-06T05:44:46.902689+00:00",
+  "captured_at": "2026-08-06T06:01:12.619279+00:00",
   "lines": [
     {
       "match_id": 724622,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.36790123456790125,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.3731343283582089,
       "source": "match:724622"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6320987654320989,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.626865671641791,
       "source": "match:724622"
     }
   ]

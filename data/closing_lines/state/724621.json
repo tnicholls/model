@@ -7,7 +7,7 @@
   "team2": "JDG Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-06T05:44:45.401224+00:00",
+  "captured_at": "2026-08-06T06:01:11.074581+00:00",
   "lines": [
     {
       "match_id": 724621,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6180904522613065,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.626865671641791,
       "source": "match:724621"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "JDG Esports",
       "team_tag": "JDG",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.38190954773869346,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.3731343283582089,
       "source": "match:724621"
     }
   ]
