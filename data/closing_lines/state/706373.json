@@ -7,7 +7,7 @@
   "team2": "NRG",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T20:06:46.818151+00:00",
+  "captured_at": "2026-08-06T20:23:10.505937+00:00",
   "lines": [
     {
       "match_id": 706373,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 5.27,
+      "decimal_odds": 5.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18975332068311196,
-      "implied_prob_fair": 0.17784711388455537,
+      "implied_prob_raw": 0.1893939393939394,
+      "implied_prob_fair": 0.17757009345794392,
       "source": "match:706373"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8221528861154447,
+      "implied_prob_fair": 0.822429906542056,
       "source": "match:706373"
     },
     {
