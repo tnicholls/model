@@ -7,8 +7,36 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T21:56:03.309633+00:00",
+  "captured_at": "2026-08-06T22:50:39.353086+00:00",
   "lines": [
+    {
+      "match_id": 698910,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50760",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 2.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4072164948453609,
+      "source": "match:698910"
+    },
+    {
+      "match_id": 698910,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50760",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5927835051546392,
+      "source": "match:698910"
+    },
     {
       "match_id": 698910,
       "bookmaker": "rainbet",
