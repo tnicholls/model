@@ -7,36 +7,8 @@
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T19:50:31.704400+00:00",
+  "captured_at": "2026-08-06T20:06:57.740519+00:00",
   "lines": [
-    {
-      "match_id": 706374,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50752",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.09,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8548601864181092,
-      "source": "match:706374"
-    },
-    {
-      "match_id": 706374,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50752",
-      "stage": "pre-match",
-      "team": "Cloud9",
-      "team_tag": "C9",
-      "decimal_odds": 6.42,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.1557632398753894,
-      "implied_prob_fair": 0.14513981358189082,
-      "source": "match:706374"
-    },
     {
       "match_id": 706374,
       "bookmaker": "rainbet",
