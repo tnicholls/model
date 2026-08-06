@@ -7,12 +7,40 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-06T06:34:05.445871+00:00",
+  "captured_at": "2026-08-06T18:16:59.346758+00:00",
   "lines": [
     {
       "match_id": 716634,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50952",
+      "stage": "live",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.609254498714653,
+      "source": "match:716634"
+    },
+    {
+      "match_id": 716634,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50952",
+      "stage": "live",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 2.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.390745501285347,
+      "source": "match:716634"
+    },
+    {
+      "match_id": 716634,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50956",
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
@@ -20,35 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6020671834625323,
-      "source": "match:716634"
-    },
-    {
-      "match_id": 716634,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50952",
-      "stage": "pre-match",
-      "team": "Habos Babos",
-      "team_tag": "HABO",
-      "decimal_odds": 2.33,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4291845493562232,
-      "implied_prob_fair": 0.3979328165374677,
-      "source": "match:716634"
-    },
-    {
-      "match_id": 716634,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/50956",
-      "stage": "pre-match",
-      "team": "FOKUS Sakura",
-      "team_tag": "FKS.",
-      "decimal_odds": 1.55,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6015424164524421,
+      "implied_prob_fair": 0.6051282051282051,
       "source": "match:716634"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.39845758354755784,
+      "implied_prob_raw": 0.42372881355932207,
+      "implied_prob_fair": 0.3948717948717949,
       "source": "match:716634"
     }
   ]

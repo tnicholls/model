@@ -1,0 +1,41 @@
+{
+  "match_id": 730321,
+  "match_url": "/730321/myvra-gc-vs-fusion-x-game-changers-2026-latam-main-event-lr1",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "8:00 PM",
+  "team1": "MYVRA GC",
+  "team2": "FUSION X",
+  "event_name": "Game Changers 2026: LATAM Main Event",
+  "series": "North\u2013Lower Round 1",
+  "captured_at": "2026-08-06T18:17:53.981954+00:00",
+  "lines": [
+    {
+      "match_id": 730321,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50964",
+      "stage": "pre-match",
+      "team": "MYVRA GC",
+      "team_tag": "MVR.",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6381909547738693,
+      "source": "match:730321"
+    },
+    {
+      "match_id": 730321,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50964",
+      "stage": "pre-match",
+      "team": "FUSION X",
+      "team_tag": "FSX",
+      "decimal_odds": 2.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.36180904522613067,
+      "source": "match:730321"
+    }
+  ]
+}

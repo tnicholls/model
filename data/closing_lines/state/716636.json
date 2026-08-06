@@ -7,48 +7,20 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Group Stage\u2013Week 3",
-  "captured_at": "2026-08-06T06:49:14.805901+00:00",
+  "captured_at": "2026-08-06T18:17:02.493665+00:00",
   "lines": [
     {
       "match_id": 716636,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50954",
-      "stage": "pre-match",
-      "team": "Gentle Mates GC",
-      "team_tag": "M8GC",
-      "decimal_odds": 1.09,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8519021739130435,
-      "source": "match:716636"
-    },
-    {
-      "match_id": 716636,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50954",
-      "stage": "pre-match",
-      "team": "ALTERNATE aTTaX Ruby",
-      "team_tag": "ATNR",
-      "decimal_odds": 6.27,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.1594896331738437,
-      "implied_prob_fair": 0.14809782608695654,
-      "source": "match:716636"
-    },
-    {
-      "match_id": 716636,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/50962",
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8747044917257683,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8393632416787266,
       "source": "match:716636"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 7.4,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.13513513513513511,
-      "implied_prob_fair": 0.12529550827423167,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.16063675832127355,
       "source": "match:716636"
     }
   ]
