@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-07T19:14:37.271111+00:00",
+  "captured_at": "2026-08-07T19:31:05.700258+00:00",
   "lines": [
     {
       "match_id": 729667,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.99,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4693333333333332,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5567282321899736,
       "source": "match:729667"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.76,
+      "decimal_odds": 2.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5306666666666666,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.44327176781002636,
       "source": "match:729667"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5313351498637602,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6419753086419754,
       "source": "match:729667"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.95,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.4686648501362398,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.35802469135802467,
       "source": "match:729667"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48108108108108105,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6419753086419754,
       "source": "match:729667"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.78,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5189189189189188,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.35802469135802467,
       "source": "match:729667"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 2.16,
+      "decimal_odds": 1.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4629629629629629,
-      "implied_prob_fair": 0.4404145077720207,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.5249343832020998,
       "source": "match:729667"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.7,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5595854922279793,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4750656167979003,
       "source": "match:729667"
     }
   ]
