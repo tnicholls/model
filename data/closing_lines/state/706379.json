@@ -7,36 +7,8 @@
   "team2": "100 Thieves",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T05:40:05.448225+00:00",
+  "captured_at": "2026-08-07T06:09:18.855760+00:00",
   "lines": [
-    {
-      "match_id": 706379,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50932",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 5.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.18796992481203006,
-      "implied_prob_fair": 0.1751937984496124,
-      "source": "match:706379"
-    },
-    {
-      "match_id": 706379,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50932",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.13,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8248062015503875,
-      "source": "match:706379"
-    },
     {
       "match_id": 706379,
       "bookmaker": "rainbet",
