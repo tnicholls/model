@@ -7,7 +7,7 @@
   "team2": "FULL SENSE",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T04:59:48.122742+00:00",
+  "captured_at": "2026-08-07T05:20:04.724473+00:00",
   "lines": [
     {
       "match_id": 698911,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.425531914893617,
       "implied_prob_fair": 0.3974358974358974,
+      "source": "match:698911"
+    },
+    {
+      "match_id": 698911,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50986",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5948717948717949,
+      "source": "match:698911"
+    },
+    {
+      "match_id": 698911,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50986",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 2.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.4051282051282052,
       "source": "match:698911"
     }
   ]
