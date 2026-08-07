@@ -7,36 +7,8 @@
   "team2": "JDG Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-07T17:36:44.797006+00:00",
+  "captured_at": "2026-08-07T18:09:15.508855+00:00",
   "lines": [
-    {
-      "match_id": 724629,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50992",
-      "stage": "pre-match",
-      "team": "All Gamers",
-      "team_tag": "AG",
-      "decimal_odds": 1.29,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.718954248366013,
-      "source": "match:724629"
-    },
-    {
-      "match_id": 724629,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50992",
-      "stage": "pre-match",
-      "team": "JDG Esports",
-      "team_tag": "JDG",
-      "decimal_odds": 3.3,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28104575163398693,
-      "source": "match:724629"
-    },
     {
       "match_id": 724629,
       "bookmaker": "rainbet",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.3448275862068966,
       "implied_prob_fair": 0.3062200956937799,
+      "source": "match:724629"
+    },
+    {
+      "match_id": 724629,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51004",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6923076923076923,
+      "source": "match:724629"
+    },
+    {
+      "match_id": 724629,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51004",
+      "stage": "pre-match",
+      "team": "JDG Esports",
+      "team_tag": "JDG",
+      "decimal_odds": 3.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.3076923076923077,
       "source": "match:724629"
     }
   ]
