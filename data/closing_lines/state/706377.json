@@ -7,8 +7,36 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T16:12:07.306909+00:00",
+  "captured_at": "2026-08-07T16:28:47.098688+00:00",
   "lines": [
+    {
+      "match_id": 706377,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50778",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6025641025641025,
+      "source": "match:706377"
+    },
+    {
+      "match_id": 706377,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50778",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3974358974358974,
+      "source": "match:706377"
+    },
     {
       "match_id": 706377,
       "bookmaker": "rainbet",
