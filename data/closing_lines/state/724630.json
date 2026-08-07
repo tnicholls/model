@@ -1,0 +1,41 @@
+{
+  "match_id": 724630,
+  "match_url": "/724630/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "6:00 AM",
+  "team1": "Titan Esports Club",
+  "team2": "Dragon Ranger Gaming",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Upper Semifinals",
+  "captured_at": "2026-08-07T17:36:46.323737+00:00",
+  "lines": [
+    {
+      "match_id": 724630,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51003",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 2.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3317422434367542,
+      "source": "match:724630"
+    },
+    {
+      "match_id": 724630,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51003",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 1.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6682577565632459,
+      "source": "match:724630"
+    }
+  ]
+}

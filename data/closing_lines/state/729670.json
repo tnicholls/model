@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-07T17:05:28.654427+00:00",
+  "captured_at": "2026-08-07T17:36:38.505894+00:00",
   "lines": [
     {
       "match_id": 729670,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Heretics",
       "team_tag": "TH",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6776470588235294,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.673758865248227,
       "source": "match:729670"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 2.88,
+      "decimal_odds": 2.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3472222222222222,
-      "implied_prob_fair": 0.32235294117647056,
+      "implied_prob_raw": 0.3508771929824561,
+      "implied_prob_fair": 0.326241134751773,
       "source": "match:729670"
     }
   ]
