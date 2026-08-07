@@ -1,0 +1,41 @@
+{
+  "match_id": 730328,
+  "match_url": "/730328/npc-team-vs-olimpo-gold-game-changers-2026-latam-main-event-lr1",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "5:00 PM",
+  "team1": "NPC TEAM",
+  "team2": "Olimpo Gold",
+  "event_name": "Game Changers 2026: LATAM Main Event",
+  "series": "South\u2013Lower Round 1",
+  "captured_at": "2026-08-07T01:23:09.418458+00:00",
+  "lines": [
+    {
+      "match_id": 730328,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50985",
+      "stage": "pre-match",
+      "team": "NPC TEAM",
+      "team_tag": "NPC",
+      "decimal_odds": 1.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6175710594315246,
+      "source": "match:730328"
+    },
+    {
+      "match_id": 730328,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50985",
+      "stage": "pre-match",
+      "team": "Olimpo Gold",
+      "team_tag": "OLG",
+      "decimal_odds": 2.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.38242894056847543,
+      "source": "match:730328"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-06T23:14:41.768103+00:00",
+  "captured_at": "2026-08-07T01:09:39.145940+00:00",
   "lines": [
     {
       "match_id": 729667,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6529126213592232,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6594724220623501,
       "source": "match:729667"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.69,
+      "decimal_odds": 2.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3717472118959108,
-      "implied_prob_fair": 0.34708737864077666,
+      "implied_prob_raw": 0.36363636363636365,
+      "implied_prob_fair": 0.3405275779376499,
       "source": "match:729667"
     },
     {

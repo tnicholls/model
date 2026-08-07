@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-06T23:14:40.184828+00:00",
+  "captured_at": "2026-08-07T01:09:37.599739+00:00",
   "lines": [
     {
       "match_id": 729666,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4497354497354497,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.4523809523809524,
       "source": "match:729666"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5502645502645503,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5476190476190476,
       "source": "match:729666"
     },
     {

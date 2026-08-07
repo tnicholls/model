@@ -7,7 +7,7 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-06T23:14:33.940101+00:00",
+  "captured_at": "2026-08-07T01:09:29.527999+00:00",
   "lines": [
     {
       "match_id": 698910,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4072164948453609,
+      "implied_prob_raw": 0.39840637450199207,
+      "implied_prob_fair": 0.37250000000000005,
       "source": "match:698910"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5927835051546392,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6275000000000001,
       "source": "match:698910"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.38190954773869346,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.3765586034912718,
       "source": "match:698910"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6180904522613065,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6234413965087281,
       "source": "match:698910"
     }
   ]
