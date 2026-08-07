@@ -1,0 +1,41 @@
+{
+  "match_id": 729670,
+  "match_url": "/729670/team-heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf",
+  "date_display": "Sun, August 9, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Team Heretics",
+  "team2": "Fire Flux Esports",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-07T17:05:28.654427+00:00",
+  "lines": [
+    {
+      "match_id": 729670,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51001",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6776470588235294,
+      "source": "match:729670"
+    },
+    {
+      "match_id": 729670,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51001",
+      "stage": "pre-match",
+      "team": "Fire Flux Esports",
+      "team_tag": "FF",
+      "decimal_odds": 2.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32235294117647056,
+      "source": "match:729670"
+    }
+  ]
+}
