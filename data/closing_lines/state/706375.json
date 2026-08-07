@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T20:35:06.682072+00:00",
+  "captured_at": "2026-08-07T21:00:30.828327+00:00",
   "lines": [
     {
       "match_id": 706375,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7840290381125227,
+      "implied_prob_fair": 0.7836363636363637,
       "source": "match:706375"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 4.32,
+      "decimal_odds": 4.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23148148148148145,
-      "implied_prob_fair": 0.21597096188747728,
+      "implied_prob_raw": 0.2320185614849188,
+      "implied_prob_fair": 0.2163636363636364,
       "source": "match:706375"
     },
     {
