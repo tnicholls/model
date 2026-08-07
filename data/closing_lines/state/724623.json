@@ -7,7 +7,7 @@
   "team2": "Trace Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-07T06:08:40.648714+00:00",
+  "captured_at": "2026-08-07T06:28:49.814627+00:00",
   "lines": [
     {
       "match_id": 724623,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7243589743589743,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7359667359667359,
       "source": "match:724623"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 3.39,
+      "decimal_odds": 3.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2949852507374631,
-      "implied_prob_fair": 0.27564102564102566,
+      "implied_prob_raw": 0.2824858757062147,
+      "implied_prob_fair": 0.26403326403326405,
       "source": "match:724623"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7278481012658228,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7322175732217574,
       "source": "match:724623"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 3.45,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2898550724637681,
-      "implied_prob_fair": 0.2721518987341772,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.2677824267782427,
       "source": "match:724623"
     }
   ]
