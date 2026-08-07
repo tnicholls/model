@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-07T19:31:29.055539+00:00",
+  "captured_at": "2026-08-07T20:14:19.446222+00:00",
   "lines": [
     {
       "match_id": 729670,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.35587188612099646,
       "implied_prob_fair": 0.33095238095238094,
+      "source": "match:729670"
+    },
+    {
+      "match_id": 729670,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51006",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6728971962616822,
+      "source": "match:729670"
+    },
+    {
+      "match_id": 729670,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51006",
+      "stage": "pre-match",
+      "team": "Fire Flux Esports",
+      "team_tag": "FF",
+      "decimal_odds": 2.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32710280373831774,
+      "source": "match:729670"
+    },
+    {
+      "match_id": 729670,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51007",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6582278481012658,
+      "source": "match:729670"
+    },
+    {
+      "match_id": 729670,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51007",
+      "stage": "pre-match",
+      "team": "Fire Flux Esports",
+      "team_tag": "FF",
+      "decimal_odds": 2.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.34177215189873417,
       "source": "match:729670"
     }
   ]

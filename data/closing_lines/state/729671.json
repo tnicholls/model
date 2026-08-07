@@ -1,0 +1,41 @@
+{
+  "match_id": 729671,
+  "match_url": "/729671/gentle-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf",
+  "date_display": "Sun, August 9, 2026",
+  "time_display": "2:00 PM",
+  "team1": "Gentle Mates",
+  "team2": "Enterprise Esports",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-07T20:14:21.062596+00:00",
+  "lines": [
+    {
+      "match_id": 729671,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51011",
+      "stage": "pre-match",
+      "team": "Gentle Mates",
+      "team_tag": "M8",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:729671"
+    },
+    {
+      "match_id": 729671,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51011",
+      "stage": "pre-match",
+      "team": "Enterprise Esports",
+      "team_tag": "EP",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:729671"
+    }
+  ]
+}
