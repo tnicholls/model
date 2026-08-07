@@ -1,0 +1,41 @@
+{
+  "match_id": 724625,
+  "match_url": "/724625/a-team-vs-wolves-esports-vct-2026-china-stage-2-lr1",
+  "date_display": "Sat, August 8, 2026",
+  "time_display": "3:00 AM",
+  "team1": "A Team",
+  "team2": "Wolves Esports",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Lower Round 1",
+  "captured_at": "2026-08-07T03:09:37.785858+00:00",
+  "lines": [
+    {
+      "match_id": 724625,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50980",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 4.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24752475247524752,
+      "implied_prob_fair": 0.22900763358778628,
+      "source": "match:724625"
+    },
+    {
+      "match_id": 724625,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50980",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7709923664122138,
+      "source": "match:724625"
+    }
+  ]
+}
