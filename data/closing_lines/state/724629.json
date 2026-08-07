@@ -1,0 +1,41 @@
+{
+  "match_id": 724629,
+  "match_url": "/724629/all-gamers-vs-jdg-esports-vct-2026-china-stage-2-ubsf",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "3:00 AM",
+  "team1": "All Gamers",
+  "team2": "JDG Esports",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Upper Semifinals",
+  "captured_at": "2026-08-07T16:12:21.277664+00:00",
+  "lines": [
+    {
+      "match_id": 724629,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50995",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 1.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.706401766004415,
+      "source": "match:724629"
+    },
+    {
+      "match_id": 724629,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50995",
+      "stage": "pre-match",
+      "team": "JDG Esports",
+      "team_tag": "JDG",
+      "decimal_odds": 3.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.293598233995585,
+      "source": "match:724629"
+    }
+  ]
+}

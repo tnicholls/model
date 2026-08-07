@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-07T06:29:44.815648+00:00",
+  "captured_at": "2026-08-07T16:12:04.156966+00:00",
   "lines": [
     {
       "match_id": 729669,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6350000000000001,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6256281407035176,
       "source": "match:729669"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 2.54,
+      "decimal_odds": 2.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39370078740157477,
-      "implied_prob_fair": 0.36500000000000005,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.37437185929648237,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50993",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6111111111111112,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/50993",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3888888888888889,
       "source": "match:729669"
     }
   ]

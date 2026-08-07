@@ -7,34 +7,34 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-07T06:28:54.756946+00:00",
+  "captured_at": "2026-08-07T16:11:50.129341+00:00",
   "lines": [
     {
       "match_id": 729666,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50813",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 2.07,
+      "decimal_odds": 2.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.4523809523809524,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.39285714285714285,
       "source": "match:729666"
     },
     {
       "match_id": 729666,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/50813",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5476190476190476,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6071428571428571,
       "source": "match:729666"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4656084656084655,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.44356955380577423,
       "source": "match:729666"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5343915343915343,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.5564304461942258,
       "source": "match:729666"
     }
   ]

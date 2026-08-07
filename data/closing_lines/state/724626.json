@@ -7,7 +7,7 @@
   "team2": "FunPlus Phoenix",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-07T06:29:41.531710+00:00",
+  "captured_at": "2026-08-07T16:12:00.962001+00:00",
   "lines": [
     {
       "match_id": 724626,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.9,
+      "decimal_odds": 2.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.31924882629107987,
+      "implied_prob_raw": 0.3460207612456747,
+      "implied_prob_fair": 0.3215962441314554,
       "source": "match:724626"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6807511737089202,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6784037558685446,
       "source": "match:724626"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.96,
+      "decimal_odds": 3.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31639722863741343,
+      "implied_prob_raw": 0.3333333333333333,
+      "implied_prob_fair": 0.3119266055045871,
       "source": "match:724626"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6836027713625867,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6880733944954128,
       "source": "match:724626"
     }
   ]

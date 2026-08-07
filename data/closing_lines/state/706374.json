@@ -7,7 +7,7 @@
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T06:28:57.947633+00:00",
+  "captured_at": "2026-08-07T16:11:53.195288+00:00",
   "lines": [
     {
       "match_id": 706374,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.09,
+      "decimal_odds": 1.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8548601864181092,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8293051359516617,
       "source": "match:706374"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 6.42,
+      "decimal_odds": 5.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1557632398753894,
-      "implied_prob_fair": 0.14513981358189082,
+      "implied_prob_raw": 0.18214936247723132,
+      "implied_prob_fair": 0.17069486404833836,
       "source": "match:706374"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8571428571428572,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8381502890173409,
       "source": "match:706374"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 6.6,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15151515151515152,
-      "implied_prob_fair": 0.14285714285714288,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.16184971098265896,
       "source": "match:706374"
     }
   ]
