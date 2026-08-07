@@ -7,8 +7,36 @@
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T22:05:48.703229+00:00",
+  "captured_at": "2026-08-07T22:27:30.481752+00:00",
   "lines": [
+    {
+      "match_id": 706374,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50752",
+      "stage": "live",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5345744680851062,
+      "source": "match:706374"
+    },
+    {
+      "match_id": 706374,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50752",
+      "stage": "live",
+      "team": "Cloud9",
+      "team_tag": "C9",
+      "decimal_odds": 2.01,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49751243781094534,
+      "implied_prob_fair": 0.4654255319148936,
+      "source": "match:706374"
+    },
     {
       "match_id": 706374,
       "bookmaker": "rainbet",
@@ -44,11 +72,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.756972111553785,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5702917771883289,
       "source": "match:706374"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "live",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 3.8,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.24302788844621515,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4297082228116711,
       "source": "match:706374"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.756972111553785,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4864864864864864,
       "source": "match:706374"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "live",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 3.8,
+      "decimal_odds": 1.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.24302788844621515,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5135135135135135,
       "source": "match:706374"
     },
     {
@@ -100,11 +128,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.17,
+      "decimal_odds": 2.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7996575342465753,
+      "implied_prob_raw": 0.4566210045662101,
+      "implied_prob_fair": 0.4267015706806283,
       "source": "match:706374"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "live",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 4.67,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21413276231263384,
-      "implied_prob_fair": 0.20034246575342463,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5732984293193717,
       "source": "match:706374"
     }
   ]

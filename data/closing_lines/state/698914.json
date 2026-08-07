@@ -7,8 +7,36 @@
   "team2": "Paper Rex",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-07T22:06:04.135623+00:00",
+  "captured_at": "2026-08-07T22:27:46.037321+00:00",
   "lines": [
+    {
+      "match_id": 698914,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50750",
+      "stage": "pre-match",
+      "team": "VARREL",
+      "team_tag": "VL",
+      "decimal_odds": 4.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24752475247524752,
+      "implied_prob_fair": 0.23193916349809884,
+      "source": "match:698914"
+    },
+    {
+      "match_id": 698914,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50750",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7680608365019012,
+      "source": "match:698914"
+    },
     {
       "match_id": 698914,
       "bookmaker": "rainbet",
