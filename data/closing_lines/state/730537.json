@@ -1,0 +1,41 @@
+{
+  "match_id": 730537,
+  "match_url": "/730537/full-sense-vs-qt-dig-vct-2026-pacific-stage-2-ur1",
+  "date_display": "Fri, August 14, 2026",
+  "time_display": "4:00 AM",
+  "team1": "FULL SENSE",
+  "team2": "QT DIG\u221e",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-07T16:49:37.045266+00:00",
+  "lines": [
+    {
+      "match_id": 730537,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50999",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8238993710691824,
+      "source": "match:730537"
+    },
+    {
+      "match_id": 730537,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50999",
+      "stage": "pre-match",
+      "team": "QT DIG\u221e",
+      "team_tag": "QTD",
+      "decimal_odds": 5.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.19083969465648853,
+      "implied_prob_fair": 0.1761006289308176,
+      "source": "match:730537"
+    }
+  ]
+}

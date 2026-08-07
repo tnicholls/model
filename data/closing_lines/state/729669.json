@@ -2,12 +2,12 @@
   "match_id": 729669,
   "match_url": "/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf",
   "date_display": "Sat, August 8, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "2:00 PM",
   "team1": "Eternal Fire",
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-07T16:28:44.038777+00:00",
+  "captured_at": "2026-08-07T16:48:47.017758+00:00",
   "lines": [
     {
       "match_id": 729669,
@@ -63,6 +63,62 @@
       "payout": null,
       "implied_prob_raw": 0.4132231404958678,
       "implied_prob_fair": 0.3888888888888889,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50997",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/50997",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50994",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6032171581769437,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50994",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.3967828418230563,
       "source": "match:729669"
     }
   ]
