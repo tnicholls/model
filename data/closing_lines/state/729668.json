@@ -7,36 +7,8 @@
   "team2": "GIANTX",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-07T04:40:15.566772+00:00",
+  "captured_at": "2026-08-07T05:00:05.183838+00:00",
   "lines": [
-    {
-      "match_id": 729668,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50973",
-      "stage": "pre-match",
-      "team": "FUT Esports",
-      "team_tag": "FUT",
-      "decimal_odds": 1.35,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6889400921658986,
-      "source": "match:729668"
-    },
-    {
-      "match_id": 729668,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50973",
-      "stage": "pre-match",
-      "team": "GIANTX",
-      "team_tag": "GX",
-      "decimal_odds": 2.99,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.33444816053511706,
-      "implied_prob_fair": 0.31105990783410137,
-      "source": "match:729668"
-    },
     {
       "match_id": 729668,
       "bookmaker": "rainbet",
