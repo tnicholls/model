@@ -7,7 +7,7 @@
   "team2": "FunPlus Phoenix",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-08T00:22:57.156687+00:00",
+  "captured_at": "2026-08-08T00:39:26.055015+00:00",
   "lines": [
     {
       "match_id": 724626,
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.6,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3846153846153846,
-      "implied_prob_fair": 0.34177215189873417,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.32835820895522383,
       "source": "match:724626"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6582278481012658,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6716417910447761,
       "source": "match:724626"
     },
     {
