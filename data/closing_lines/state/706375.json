@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-08T00:06:21.940147+00:00",
+  "captured_at": "2026-08-08T00:22:51.008615+00:00",
   "lines": [
     {
       "match_id": 706375,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8133116883116883,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7484909456740443,
       "source": "match:706375"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 5.01,
+      "decimal_odds": 3.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1996007984031936,
-      "implied_prob_fair": 0.18668831168831168,
+      "implied_prob_raw": 0.26881720430107525,
+      "implied_prob_fair": 0.2515090543259557,
       "source": "match:706375"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7692307692307692,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:706375"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 4.0,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25,
-      "implied_prob_fair": 0.23076923076923073,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:706375"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8067226890756303,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:706375"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 4.8,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20833333333333334,
-      "implied_prob_fair": 0.19327731092436976,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:706375"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.756385068762279,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7198275862068966,
       "source": "match:706375"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 3.85,
+      "decimal_odds": 3.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.243614931237721,
+      "implied_prob_raw": 0.29940119760479045,
+      "implied_prob_fair": 0.28017241379310354,
       "source": "match:706375"
     }
   ]

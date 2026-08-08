@@ -7,8 +7,36 @@
   "team2": "ZETA DIVISION",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-08T00:06:26.626317+00:00",
+  "captured_at": "2026-08-08T00:22:55.632098+00:00",
   "lines": [
+    {
+      "match_id": 698913,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50805",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6828703703703703,
+      "source": "match:698913"
+    },
+    {
+      "match_id": 698913,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/50805",
+      "stage": "pre-match",
+      "team": "ZETA DIVISION",
+      "team_tag": "ZETA",
+      "decimal_odds": 2.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3389830508474576,
+      "implied_prob_fair": 0.3171296296296296,
+      "source": "match:698913"
+    },
     {
       "match_id": 698913,
       "bookmaker": "rainbet",
