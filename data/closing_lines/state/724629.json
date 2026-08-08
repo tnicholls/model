@@ -7,7 +7,7 @@
   "team2": "JDG Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-08T05:24:28.170967+00:00",
+  "captured_at": "2026-08-08T11:03:59.299221+00:00",
   "lines": [
     {
       "match_id": 724629,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6923076923076923,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.7083333333333333,
       "source": "match:724629"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "JDG Esports",
       "team_tag": "JDG",
-      "decimal_odds": 3.06,
+      "decimal_odds": 3.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.32679738562091504,
-      "implied_prob_fair": 0.3076923076923077,
+      "implied_prob_raw": 0.30959752321981426,
+      "implied_prob_fair": 0.2916666666666667,
       "source": "match:724629"
     }
   ]
