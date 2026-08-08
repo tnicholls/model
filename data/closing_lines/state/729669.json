@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-08T00:39:29.091693+00:00",
+  "captured_at": "2026-08-08T04:17:11.871441+00:00",
   "lines": [
     {
       "match_id": 729669,
@@ -119,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.4444444444444444,
       "implied_prob_fair": 0.3967828418230563,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51019",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.61,
+      "source": "match:729669"
+    },
+    {
+      "match_id": 729669,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51019",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.39,
       "source": "match:729669"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "FunPlus Phoenix",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-08T00:39:26.055015+00:00",
+  "captured_at": "2026-08-08T04:17:08.767652+00:00",
   "lines": [
     {
       "match_id": 724626,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.8,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.2986425339366516,
       "source": "match:724626"
     },
     {
@@ -86,39 +86,39 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.38,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
-      "source": "match:724626"
-    },
-    {
-      "match_id": 724626,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50969",
-      "stage": "pre-match",
-      "team": "KeepBest Gaming",
-      "team_tag": "KBG",
-      "decimal_odds": 2.7,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.32835820895522383,
-      "source": "match:724626"
-    },
-    {
-      "match_id": 724626,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/50969",
-      "stage": "pre-match",
-      "team": "FunPlus Phoenix",
-      "team_tag": "FPX",
       "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6716417910447761,
+      "implied_prob_fair": 0.7013574660633485,
+      "source": "match:724626"
+    },
+    {
+      "match_id": 724626,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50969",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 2.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3170731707317073,
+      "source": "match:724626"
+    },
+    {
+      "match_id": 724626,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/50969",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.6829268292682926,
       "source": "match:724626"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.83,
+      "decimal_odds": 3.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35335689045936397,
-      "implied_prob_fair": 0.33254716981132076,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.3076923076923077,
       "source": "match:724626"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6674528301886793,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6923076923076923,
       "source": "match:724626"
     }
   ]

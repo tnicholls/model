@@ -7,7 +7,7 @@
   "team2": "Wolves Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-08T00:39:22.946032+00:00",
+  "captured_at": "2026-08-08T04:17:05.624160+00:00",
   "lines": [
     {
       "match_id": 724625,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 3.72,
+      "decimal_odds": 4.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26881720430107525,
-      "implied_prob_fair": 0.25301204819277107,
+      "implied_prob_raw": 0.23094688221709006,
+      "implied_prob_fair": 0.21699819168173598,
       "source": "match:724625"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7469879518072289,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.783001808318264,
       "source": "match:724625"
     }
   ]

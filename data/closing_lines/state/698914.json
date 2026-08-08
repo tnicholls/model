@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Group Stage\u2013Week 4",
-  "captured_at": "2026-08-08T00:39:33.835273+00:00",
+  "captured_at": "2026-08-08T04:17:16.541111+00:00",
   "lines": [
     {
       "match_id": 698914,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 4.04,
+      "decimal_odds": 3.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24752475247524752,
-      "implied_prob_fair": 0.23193916349809884,
+      "implied_prob_raw": 0.25510204081632654,
+      "implied_prob_fair": 0.2388349514563107,
       "source": "match:698914"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7680608365019012,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7611650485436894,
       "source": "match:698914"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 4.0,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25,
-      "implied_prob_fair": 0.23076923076923073,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:698914"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7692307692307692,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:698914"
     },
     {
