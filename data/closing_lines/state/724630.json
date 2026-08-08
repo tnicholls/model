@@ -7,36 +7,8 @@
   "team2": "Dragon Ranger Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-08T04:50:26.423850+00:00",
+  "captured_at": "2026-08-08T05:07:55.711589+00:00",
   "lines": [
-    {
-      "match_id": 724630,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51003",
-      "stage": "pre-match",
-      "team": "Titan Esports Club",
-      "team_tag": "TEC",
-      "decimal_odds": 2.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3317422434367542,
-      "source": "match:724630"
-    },
-    {
-      "match_id": 724630,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51003",
-      "stage": "pre-match",
-      "team": "Dragon Ranger Gaming",
-      "team_tag": "DRG",
-      "decimal_odds": 1.39,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6682577565632459,
-      "source": "match:724630"
-    },
     {
       "match_id": 724630,
       "bookmaker": "rainbet",

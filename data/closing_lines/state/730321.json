@@ -7,7 +7,7 @@
   "team2": "FUSION X",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "North\u2013Lower Round 1",
-  "captured_at": "2026-08-08T04:50:35.657265+00:00",
+  "captured_at": "2026-08-08T05:08:04.932290+00:00",
   "lines": [
     {
       "match_id": 730321,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6390977443609022,
+      "implied_prob_fair": 0.64,
       "source": "match:730321"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FUSION X",
       "team_tag": "FSX",
-      "decimal_odds": 2.55,
+      "decimal_odds": 2.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3921568627450981,
-      "implied_prob_fair": 0.3609022556390977,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.36,
       "source": "match:730321"
     }
   ]
