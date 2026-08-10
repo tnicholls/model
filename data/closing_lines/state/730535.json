@@ -1,0 +1,69 @@
+{
+  "match_id": 730535,
+  "match_url": "/730535/kiwoom-drx-vs-onside-gaming-vct-2026-pacific-stage-2-ur1",
+  "date_display": "Thu, August 13, 2026",
+  "time_display": "4:00 AM",
+  "team1": "KIWOOM DRX",
+  "team2": "ONSIDE GAMING",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-10T05:55:43.584044+00:00",
+  "lines": [
+    {
+      "match_id": 730535,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51025",
+      "stage": "pre-match",
+      "team": "KIWOOM DRX",
+      "team_tag": "KRX",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5837696335078534,
+      "source": "match:730535"
+    },
+    {
+      "match_id": 730535,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51025",
+      "stage": "pre-match",
+      "team": "ONSIDE GAMING",
+      "team_tag": "ONG",
+      "decimal_odds": 2.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4484304932735426,
+      "implied_prob_fair": 0.4162303664921466,
+      "source": "match:730535"
+    },
+    {
+      "match_id": 730535,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51122",
+      "stage": "pre-match",
+      "team": "KIWOOM DRX",
+      "team_tag": "KRX",
+      "decimal_odds": 1.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5761421319796954,
+      "source": "match:730535"
+    },
+    {
+      "match_id": 730535,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51122",
+      "stage": "pre-match",
+      "team": "ONSIDE GAMING",
+      "team_tag": "ONG",
+      "decimal_odds": 2.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4238578680203045,
+      "source": "match:730535"
+    }
+  ]
+}

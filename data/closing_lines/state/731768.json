@@ -1,0 +1,69 @@
+{
+  "match_id": 731768,
+  "match_url": "/731768/mibr-gc-vs-gato-pensante-game-changers-2026-brazil-final-stage-ubqf",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "4:00 PM",
+  "team1": "MIBR GC",
+  "team2": "GATO PENSANTE",
+  "event_name": "Game Changers 2026: Brazil Finals",
+  "series": "Main Event\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-10T05:55:18.510438+00:00",
+  "lines": [
+    {
+      "match_id": 731768,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51118",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8839779005524862,
+      "source": "match:731768"
+    },
+    {
+      "match_id": 731768,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51118",
+      "stage": "pre-match",
+      "team": "GATO PENSANTE",
+      "team_tag": "GATO",
+      "decimal_odds": 8.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.125,
+      "implied_prob_fair": 0.11602209944751382,
+      "source": "match:731768"
+    },
+    {
+      "match_id": 731768,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51119",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8583106267029972,
+      "source": "match:731768"
+    },
+    {
+      "match_id": 731768,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51119",
+      "stage": "pre-match",
+      "team": "GATO PENSANTE",
+      "team_tag": "GATO",
+      "decimal_odds": 6.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.1416893732970027,
+      "source": "match:731768"
+    }
+  ]
+}

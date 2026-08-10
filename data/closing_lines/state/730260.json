@@ -1,0 +1,41 @@
+{
+  "match_id": 730260,
+  "match_url": "/730260/swimtrek-blue-vs-himmers-game-changers-2026-north-america-stage-2-swiss-stage-r5-3-1",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "7:30 PM",
+  "team1": "SwimTrek Blue",
+  "team2": "HIMMERS",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Swiss Stage\u2013Round 5 (3-1)",
+  "captured_at": "2026-08-10T05:55:24.763806+00:00",
+  "lines": [
+    {
+      "match_id": 730260,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51078",
+      "stage": "pre-match",
+      "team": "SwimTrek Blue",
+      "team_tag": "SWIM",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8067226890756303,
+      "source": "match:730260"
+    },
+    {
+      "match_id": 730260,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51078",
+      "stage": "pre-match",
+      "team": "HIMMERS",
+      "team_tag": "HER",
+      "decimal_odds": 4.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.20833333333333334,
+      "implied_prob_fair": 0.19327731092436976,
+      "source": "match:730260"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 730256,
+  "match_url": "/730256/shopify-rebellion-gold-vs-axolotl-game-changers-2026-north-america-stage-2-swiss-stage-r5-3-1",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "5:00 PM",
+  "team1": "Shopify Rebellion Gold",
+  "team2": "Axolotl",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Swiss Stage\u2013Round 5 (3-1)",
+  "captured_at": "2026-08-10T05:55:20.104662+00:00",
+  "lines": [
+    {
+      "match_id": 730256,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51076",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8063973063973064,
+      "source": "match:730256"
+    },
+    {
+      "match_id": 730256,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51076",
+      "stage": "pre-match",
+      "team": "Axolotl",
+      "team_tag": "AXL",
+      "decimal_odds": 4.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.20876826722338204,
+      "implied_prob_fair": 0.1936026936026936,
+      "source": "match:730256"
+    }
+  ]
+}

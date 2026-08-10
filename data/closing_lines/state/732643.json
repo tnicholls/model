@@ -1,0 +1,69 @@
+{
+  "match_id": 732643,
+  "match_url": "/732643/karmine-corp-gc-vs-alternate-attax-ruby-game-changers-2026-emea-stage-3-sf",
+  "date_display": "Mon, August 10, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Karmine Corp GC",
+  "team2": "ALTERNATE aTTaX Ruby",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Play-Ins\u2013Semifinals",
+  "captured_at": "2026-08-10T05:55:15.370476+00:00",
+  "lines": [
+    {
+      "match_id": 732643,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51048",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7347368421052631,
+      "source": "match:732643"
+    },
+    {
+      "match_id": 732643,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51048",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 3.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.28653295128939826,
+      "implied_prob_fair": 0.26526315789473687,
+      "source": "match:732643"
+    },
+    {
+      "match_id": 732643,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51120",
+      "stage": "pre-match",
+      "team": "Karmine Corp GC",
+      "team_tag": "KCGC",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7155555555555556,
+      "source": "match:732643"
+    },
+    {
+      "match_id": 732643,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51120",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 3.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3105590062111801,
+      "implied_prob_fair": 0.28444444444444444,
+      "source": "match:732643"
+    }
+  ]
+}

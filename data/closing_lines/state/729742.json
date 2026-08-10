@@ -1,0 +1,41 @@
+{
+  "match_id": 729742,
+  "match_url": "/729742/kr-esports-vs-bestia-vct-2026-americas-stage-2-ur1",
+  "date_display": "Thu, August 13, 2026",
+  "time_display": "5:00 PM",
+  "team1": "KR\u00dc Esports",
+  "team2": "BESTIA",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-10T05:55:53.032500+00:00",
+  "lines": [
+    {
+      "match_id": 729742,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51111",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5874673629242819,
+      "source": "match:729742"
+    },
+    {
+      "match_id": 729742,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51111",
+      "stage": "pre-match",
+      "team": "BESTIA",
+      "team_tag": "BST",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.41253263707571797,
+      "source": "match:729742"
+    }
+  ]
+}

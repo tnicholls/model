@@ -1,0 +1,69 @@
+{
+  "match_id": 730538,
+  "match_url": "/730538/team-secret-vs-xipto-esports-vct-2026-pacific-stage-2-ur1",
+  "date_display": "Fri, August 14, 2026",
+  "time_display": "7:00 AM",
+  "team1": "Team Secret",
+  "team2": "Xipto Esports",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-10T05:56:00.921375+00:00",
+  "lines": [
+    {
+      "match_id": 730538,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51026",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.4932614555256065,
+      "source": "match:730538"
+    },
+    {
+      "match_id": 730538,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51026",
+      "stage": "pre-match",
+      "team": "Xipto Esports",
+      "team_tag": "XIP",
+      "decimal_odds": 1.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5067385444743935,
+      "source": "match:730538"
+    },
+    {
+      "match_id": 730538,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51126",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5362694300518135,
+      "source": "match:730538"
+    },
+    {
+      "match_id": 730538,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51126",
+      "stage": "pre-match",
+      "team": "Xipto Esports",
+      "team_tag": "XIP",
+      "decimal_odds": 2.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.46373056994818657,
+      "source": "match:730538"
+    }
+  ]
+}

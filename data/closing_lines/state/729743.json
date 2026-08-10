@@ -1,0 +1,41 @@
+{
+  "match_id": 729743,
+  "match_url": "/729743/envy-vs-m80-vct-2026-americas-stage-2-ur1",
+  "date_display": "Thu, August 13, 2026",
+  "time_display": "8:00 PM",
+  "team1": "ENVY",
+  "team2": "M80",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-10T05:55:54.614756+00:00",
+  "lines": [
+    {
+      "match_id": 729743,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51112",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4338624338624339,
+      "source": "match:729743"
+    },
+    {
+      "match_id": 729743,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51112",
+      "stage": "pre-match",
+      "team": "M80",
+      "team_tag": "M80",
+      "decimal_odds": 1.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5661375661375662,
+      "source": "match:729743"
+    }
+  ]
+}
