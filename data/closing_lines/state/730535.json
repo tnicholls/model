@@ -7,7 +7,7 @@
   "team2": "ONSIDE GAMING",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-10T05:55:43.584044+00:00",
+  "captured_at": "2026-08-10T08:59:11.939993+00:00",
   "lines": [
     {
       "match_id": 730535,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5837696335078534,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5853018372703411,
       "source": "match:730535"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.4484304932735426,
-      "implied_prob_fair": 0.4162303664921466,
+      "implied_prob_fair": 0.4146981627296588,
       "source": "match:730535"
     },
     {

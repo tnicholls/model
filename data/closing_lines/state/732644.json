@@ -7,7 +7,7 @@
   "team2": "GIANTX GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Play-Ins\u2013Semifinals",
-  "captured_at": "2026-08-10T05:55:16.955603+00:00",
+  "captured_at": "2026-08-10T08:49:24.839816+00:00",
   "lines": [
     {
       "match_id": 732644,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports GC",
       "team_tag": "BAR.",
-      "decimal_odds": 2.13,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.4335106382978723,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4312169312169312,
       "source": "match:732644"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5664893617021276,
+      "implied_prob_fair": 0.5687830687830688,
       "source": "match:732644"
     },
     {

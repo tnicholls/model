@@ -1,0 +1,41 @@
+{
+  "match_id": 729745,
+  "match_url": "/729745/cloud9-vs-fluxo-w7m-vct-2026-americas-stage-2-ur1",
+  "date_display": "Fri, August 14, 2026",
+  "time_display": "8:00 PM",
+  "team1": "Cloud9",
+  "team2": "Fluxo W7M",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Upper Round 1",
+  "captured_at": "2026-08-10T09:05:26.079101+00:00",
+  "lines": [
+    {
+      "match_id": 729745,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51117",
+      "stage": "pre-match",
+      "team": "Cloud9",
+      "team_tag": "C9",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6368159203980098,
+      "source": "match:729745"
+    },
+    {
+      "match_id": 729745,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51117",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 2.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.36318407960199,
+      "source": "match:729745"
+    }
+  ]
+}
