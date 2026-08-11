@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-11T10:29:59.847402+00:00",
+  "captured_at": "2026-08-11T15:36:41.595795+00:00",
   "lines": [
     {
       "match_id": 729674,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6917808219178082,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6682464454976303,
       "source": "match:729674"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 3.03,
+      "decimal_odds": 2.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33003300330033003,
-      "implied_prob_fair": 0.3082191780821918,
+      "implied_prob_raw": 0.3546099290780142,
+      "implied_prob_fair": 0.3317535545023697,
       "source": "match:729674"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 1.33,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.706401766004415,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6728971962616822,
       "source": "match:729674"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 3.2,
+      "decimal_odds": 2.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.293598233995585,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32710280373831774,
       "source": "match:729674"
     },
     {

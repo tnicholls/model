@@ -7,36 +7,8 @@
   "team2": "No Sweat Blossom",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "North\u2013Upper Final",
-  "captured_at": "2026-08-11T10:29:54.996121+00:00",
+  "captured_at": "2026-08-11T15:35:16.437261+00:00",
   "lines": [
-    {
-      "match_id": 730319,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50965",
-      "stage": "pre-match",
-      "team": "Akave Esports GC",
-      "team_tag": "AKV.",
-      "decimal_odds": 1.11,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8265625,
-      "source": "match:730319"
-    },
-    {
-      "match_id": 730319,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/50965",
-      "stage": "pre-match",
-      "team": "No Sweat Blossom",
-      "team_tag": "NOS",
-      "decimal_odds": 5.29,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.1890359168241966,
-      "implied_prob_fair": 0.17343750000000002,
-      "source": "match:730319"
-    },
     {
       "match_id": 730319,
       "bookmaker": "1x",

@@ -7,7 +7,7 @@
   "team2": "Titan Esports Club",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Play-Ins\u2013Upper Final",
-  "captured_at": "2026-08-11T10:29:56.556767+00:00",
+  "captured_at": "2026-08-11T15:36:38.996452+00:00",
   "lines": [
     {
       "match_id": 724633,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6056701030927835,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6377171215880892,
       "source": "match:724633"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.3943298969072165,
+      "implied_prob_raw": 0.38910505836575876,
+      "implied_prob_fair": 0.36228287841191065,
       "source": "match:724633"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6553398058252428,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6585365853658537,
       "source": "match:724633"
     },
     {
@@ -90,7 +90,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.34466019417475724,
+      "implied_prob_fair": 0.3414634146341463,
       "source": "match:724633"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.648910411622276,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6587112171837709,
       "source": "match:724633"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 2.68,
+      "decimal_odds": 2.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3510895883777239,
+      "implied_prob_raw": 0.3623188405797102,
+      "implied_prob_fair": 0.34128878281622915,
       "source": "match:724633"
     }
   ]
