@@ -7,7 +7,7 @@
   "team2": "Evils of Delusion",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-11T05:26:17.640140+00:00",
+  "captured_at": "2026-08-11T10:29:49.811512+00:00",
   "lines": [
     {
       "match_id": 731770,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.864968152866242,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8782201405152225,
       "source": "match:731770"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Evils of Delusion",
       "team_tag": "EVIL",
-      "decimal_odds": 6.79,
+      "decimal_odds": 7.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14727540500736377,
-      "implied_prob_fair": 0.135031847133758,
+      "implied_prob_raw": 0.13333333333333333,
+      "implied_prob_fair": 0.12177985948477753,
       "source": "match:731770"
     }
   ]
