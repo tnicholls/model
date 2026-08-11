@@ -7,8 +7,36 @@
   "team2": "Natus Vincere",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-10T08:59:10.238378+00:00",
+  "captured_at": "2026-08-11T05:26:29.213947+00:00",
   "lines": [
+    {
+      "match_id": 729675,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51089",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6470588235294118,
+      "source": "match:729675"
+    },
+    {
+      "match_id": 729675,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51089",
+      "stage": "pre-match",
+      "team": "Natus Vincere",
+      "team_tag": "NAVI",
+      "decimal_odds": 2.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.35294117647058826,
+      "source": "match:729675"
+    },
     {
       "match_id": 729675,
       "bookmaker": "rainbet",

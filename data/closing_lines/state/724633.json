@@ -1,0 +1,41 @@
+{
+  "match_id": 724633,
+  "match_url": "/724633/all-gamers-vs-titan-esports-club-vct-2026-china-stage-2-ubf",
+  "date_display": "Wed, August 12, 2026",
+  "time_display": "4:00 AM",
+  "team1": "All Gamers",
+  "team2": "Titan Esports Club",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Play-Ins\u2013Upper Final",
+  "captured_at": "2026-08-11T05:26:24.355712+00:00",
+  "lines": [
+    {
+      "match_id": 724633,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51147",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5912596401028277,
+      "source": "match:724633"
+    },
+    {
+      "match_id": 724633,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51147",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 2.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4087403598971723,
+      "source": "match:724633"
+    }
+  ]
+}
