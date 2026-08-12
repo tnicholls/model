@@ -7,7 +7,7 @@
   "team2": "The Spiders",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 6 (3-2)",
-  "captured_at": "2026-08-12T12:52:49.198043+00:00",
+  "captured_at": "2026-08-12T18:18:53.262050+00:00",
   "lines": [
     {
       "match_id": 734796,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MVSK Secret",
       "team_tag": "MVSK",
-      "decimal_odds": 2.98,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33557046979865773,
-      "implied_prob_fair": 0.31018518518518523,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31322505800464034,
       "source": "match:734796"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "The Spiders",
       "team_tag": "TS",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6898148148148148,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6867749419953596,
       "source": "match:734796"
     }
   ]

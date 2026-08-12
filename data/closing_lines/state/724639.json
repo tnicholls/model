@@ -1,0 +1,41 @@
+{
+  "match_id": 724639,
+  "match_url": "/724639/nova-esports-vs-jd-gaming-vct-2026-china-stage-2-ubqf",
+  "date_display": "Fri, August 14, 2026",
+  "time_display": "4:00 AM",
+  "team1": "Nova Esports",
+  "team2": "JD Gaming",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-12T18:19:09.739524+00:00",
+  "lines": [
+    {
+      "match_id": 724639,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51209",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6325,
+      "source": "match:724639"
+    },
+    {
+      "match_id": 724639,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51209",
+      "stage": "pre-match",
+      "team": "JD Gaming",
+      "team_tag": "JDG",
+      "decimal_odds": 2.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.36750000000000005,
+      "source": "match:724639"
+    }
+  ]
+}

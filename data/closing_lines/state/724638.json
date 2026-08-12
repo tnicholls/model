@@ -1,41 +1,41 @@
 {
-  "match_id": 724640,
-  "match_url": "/724640/xi-lai-gaming-vs-all-gamers-vct-2026-china-stage-2-ubqf",
-  "date_display": "Sat, August 15, 2026",
+  "match_id": 724638,
+  "match_url": "/724638/tyloo-vs-titan-esports-club-vct-2026-china-stage-2-ubqf",
+  "date_display": "Fri, August 14, 2026",
   "time_display": "6:00 AM",
-  "team1": "Xi Lai Gaming",
-  "team2": "All Gamers",
+  "team1": "TYLOO",
+  "team2": "Titan Esports Club",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-12T18:19:29.174502+00:00",
+  "captured_at": "2026-08-12T18:19:12.923092+00:00",
   "lines": [
     {
-      "match_id": 724640,
+      "match_id": 724638,
       "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51198",
+      "bet_url": "/rr/bet/51197",
       "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
+      "team": "TYLOO",
+      "team_tag": "TYL",
       "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6451612903225806,
       "implied_prob_fair": 0.599483204134367,
-      "source": "match:724640"
+      "source": "match:724638"
     },
     {
-      "match_id": 724640,
+      "match_id": 724638,
       "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51198",
+      "bet_url": "/rr/bet/51197",
       "stage": "pre-match",
-      "team": "All Gamers",
-      "team_tag": "AG",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
       "decimal_odds": 2.32,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.4310344827586207,
       "implied_prob_fair": 0.4005167958656331,
-      "source": "match:724640"
+      "source": "match:724638"
     }
   ]
 }
