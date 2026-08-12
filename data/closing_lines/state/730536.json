@@ -7,36 +7,8 @@
   "team2": "Sharper Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-12T18:18:58.214728+00:00",
+  "captured_at": "2026-08-12T23:20:55.930675+00:00",
   "lines": [
-    {
-      "match_id": 730536,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51087",
-      "stage": "pre-match",
-      "team": "Rex Regum Qeon",
-      "team_tag": "RRQ",
-      "decimal_odds": 1.38,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6768149882903982,
-      "source": "match:730536"
-    },
-    {
-      "match_id": 730536,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51087",
-      "stage": "pre-match",
-      "team": "Sharper Esports",
-      "team_tag": "SP",
-      "decimal_odds": 2.89,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3460207612456747,
-      "implied_prob_fair": 0.32318501170960184,
-      "source": "match:730536"
-    },
     {
       "match_id": 730536,
       "bookmaker": "rainbet",

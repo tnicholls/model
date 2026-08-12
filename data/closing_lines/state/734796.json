@@ -2,12 +2,12 @@
   "match_id": 734796,
   "match_url": "/734796/mvsk-secret-vs-the-spiders-game-changers-2026-north-america-stage-2-swiss-stage-r6-3-2",
   "date_display": "Wed, August 12, 2026",
-  "time_display": "7:30 PM",
+  "time_display": "8:00 PM",
   "team1": "MVSK Secret",
   "team2": "The Spiders",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 6 (3-2)",
-  "captured_at": "2026-08-12T18:18:53.262050+00:00",
+  "captured_at": "2026-08-12T23:20:51.315117+00:00",
   "lines": [
     {
       "match_id": 734796,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MVSK Secret",
       "team_tag": "MVSK",
-      "decimal_odds": 2.96,
+      "decimal_odds": 2.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31322505800464034,
+      "implied_prob_raw": 0.3401360544217687,
+      "implied_prob_fair": 0.3146853146853147,
       "source": "match:734796"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6867749419953596,
+      "implied_prob_fair": 0.6853146853146853,
       "source": "match:734796"
     }
   ]

@@ -7,34 +7,34 @@
   "team2": "HIMMERS",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 6 (3-2)",
-  "captured_at": "2026-08-12T18:18:51.600711+00:00",
+  "captured_at": "2026-08-12T23:20:49.706897+00:00",
   "lines": [
     {
       "match_id": 734794,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/51191",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "SEN Otters",
       "team_tag": "SOTR",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5725593667546175,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5454545454545455,
       "source": "match:734794"
     },
     {
       "match_id": 734794,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/51191",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "HIMMERS",
       "team_tag": "HER",
-      "decimal_odds": 2.17,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4608294930875576,
-      "implied_prob_fair": 0.4274406332453826,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45454545454545453,
       "source": "match:734794"
     }
   ]

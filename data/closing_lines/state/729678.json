@@ -1,0 +1,41 @@
+{
+  "match_id": 729678,
+  "match_url": "/729678/eintracht-frankfurt-vs-team-heretics-vct-2026-emea-stage-2-lr2",
+  "date_display": "Fri, August 14, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Eintracht Frankfurt",
+  "team2": "Team Heretics",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Lower Round 2",
+  "captured_at": "2026-08-12T23:21:12.812665+00:00",
+  "lines": [
+    {
+      "match_id": 729678,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51223",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 2.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.32701421800947866,
+      "source": "match:729678"
+    },
+    {
+      "match_id": 729678,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51223",
+      "stage": "pre-match",
+      "team": "Team Heretics",
+      "team_tag": "TH",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6729857819905214,
+      "source": "match:729678"
+    }
+  ]
+}
