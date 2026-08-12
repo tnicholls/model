@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-11T15:37:10.968935+00:00",
+  "captured_at": "2026-08-12T12:53:16.756051+00:00",
   "lines": [
     {
       "match_id": 732789,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4543010752688172,
+      "implied_prob_raw": 0.49751243781094534,
+      "implied_prob_fair": 0.4596774193548387,
       "source": "match:732789"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5456989247311828,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5403225806451611,
       "source": "match:732789"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4498644986449864,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.44743935309973043,
       "source": "match:732789"
     },
     {
@@ -146,7 +146,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5501355013550134,
+      "implied_prob_fair": 0.5525606469002695,
       "source": "match:732789"
     }
   ]

@@ -7,36 +7,8 @@
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-11T15:36:52.972049+00:00",
+  "captured_at": "2026-08-12T12:52:58.982204+00:00",
   "lines": [
-    {
-      "match_id": 729677,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51040",
-      "stage": "pre-match",
-      "team": "GIANTX",
-      "team_tag": "GX",
-      "decimal_odds": 3.64,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2747252747252747,
-      "implied_prob_fair": 0.2571428571428571,
-      "source": "match:729677"
-    },
-    {
-      "match_id": 729677,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51040",
-      "stage": "pre-match",
-      "team": "FNATIC",
-      "team_tag": "FNC",
-      "decimal_odds": 1.26,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7428571428571429,
-      "source": "match:729677"
-    },
     {
       "match_id": 729677,
       "bookmaker": "rainbet",

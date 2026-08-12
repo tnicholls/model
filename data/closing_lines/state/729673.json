@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-11T15:54:51.148984+00:00",
+  "captured_at": "2026-08-12T12:53:33.282357+00:00",
   "lines": [
     {
       "match_id": 729673,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.4123711340206186,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.4196891191709845,
       "source": "match:729673"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5876288659793815,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5803108808290156,
       "source": "match:729673"
     },
     {

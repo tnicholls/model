@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-11T15:37:14.221321+00:00",
+  "captured_at": "2026-08-12T12:53:20.080013+00:00",
   "lines": [
     {
       "match_id": 729745,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6368159203980098,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6361386138613861,
       "source": "match:729745"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.36318407960199,
+      "implied_prob_raw": 0.38910505836575876,
+      "implied_prob_fair": 0.36386138613861385,
       "source": "match:729745"
     },
     {

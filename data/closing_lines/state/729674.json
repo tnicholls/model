@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-11T15:36:41.595795+00:00",
+  "captured_at": "2026-08-12T12:52:44.332001+00:00",
   "lines": [
     {
       "match_id": 729674,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6682464454976303,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6545893719806762,
       "source": "match:729674"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.82,
+      "decimal_odds": 2.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3317535545023697,
+      "implied_prob_raw": 0.36900369003690037,
+      "implied_prob_fair": 0.3454106280193236,
       "source": "match:729674"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6728971962616822,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6836027713625867,
       "source": "match:729674"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.88,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3472222222222222,
-      "implied_prob_fair": 0.32710280373831774,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31639722863741343,
       "source": "match:729674"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
       "source": "match:729674"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.8,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
       "source": "match:729674"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates",
       "team_tag": "M8",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.7093275488069414,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6877828054298643,
       "source": "match:729674"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 3.27,
+      "decimal_odds": 3.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3058103975535168,
-      "implied_prob_fair": 0.29067245119305857,
+      "implied_prob_raw": 0.32894736842105265,
+      "implied_prob_fair": 0.31221719457013575,
       "source": "match:729674"
     }
   ]
