@@ -7,8 +7,36 @@
   "team2": "BESTIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-13T16:46:43.229848+00:00",
+  "captured_at": "2026-08-13T17:17:41.613995+00:00",
   "lines": [
+    {
+      "match_id": 729742,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51111",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6520681265206814,
+      "source": "match:729742"
+    },
+    {
+      "match_id": 729742,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51111",
+      "stage": "pre-match",
+      "team": "BESTIA",
+      "team_tag": "BST",
+      "decimal_odds": 2.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3731343283582089,
+      "implied_prob_fair": 0.3479318734793187,
+      "source": "match:729742"
+    },
     {
       "match_id": 729742,
       "bookmaker": "rainbet",
