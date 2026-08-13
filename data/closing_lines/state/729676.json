@@ -7,7 +7,7 @@
   "team2": "PCIFIC Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-13T16:29:46.415810+00:00",
+  "captured_at": "2026-08-13T16:46:37.151297+00:00",
   "lines": [
     {
       "match_id": 729676,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8476454293628809,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5917312661498708,
       "source": "match:729676"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 6.12,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16339869281045752,
-      "implied_prob_fair": 0.15235457063711913,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.40826873385012924,
       "source": "match:729676"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8536585365853657,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
       "source": "match:729676"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 6.3,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15873015873015872,
-      "implied_prob_fair": 0.14634146341463414,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
       "source": "match:729676"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8536585365853657,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5702917771883289,
       "source": "match:729676"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 6.3,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15873015873015872,
-      "implied_prob_fair": 0.14634146341463414,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4297082228116711,
       "source": "match:729676"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.09,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8745684695051783,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5841836734693877,
       "source": "match:729676"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 7.6,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.13157894736842105,
-      "implied_prob_fair": 0.1254315304948216,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.41581632653061223,
       "source": "match:729676"
     }
   ]

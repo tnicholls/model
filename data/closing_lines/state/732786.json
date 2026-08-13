@@ -7,36 +7,8 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-13T16:29:47.907464+00:00",
+  "captured_at": "2026-08-13T16:46:38.685783+00:00",
   "lines": [
-    {
-      "match_id": 732786,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51202",
-      "stage": "live",
-      "team": "G2 Gozen",
-      "team_tag": "G2G",
-      "decimal_odds": 1.01,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9900990099009901,
-      "implied_prob_fair": 0.9345430978613092,
-      "source": "match:732786"
-    },
-    {
-      "match_id": 732786,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51202",
-      "stage": "live",
-      "team": "ALTERNATE aTTaX Ruby",
-      "team_tag": "ATNR",
-      "decimal_odds": 14.42,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.06934812760055478,
-      "implied_prob_fair": 0.06545690213869086,
-      "source": "match:732786"
-    },
     {
       "match_id": 732786,
       "bookmaker": "rainbet",
@@ -128,11 +100,11 @@
       "stage": "live",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8681318681318682,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7266949152542374,
       "source": "match:732786"
     },
     {
@@ -142,11 +114,11 @@
       "stage": "live",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 7.11,
+      "decimal_odds": 3.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14064697609001406,
-      "implied_prob_fair": 0.1318681318681319,
+      "implied_prob_raw": 0.29154518950437314,
+      "implied_prob_fair": 0.2733050847457627,
       "source": "match:732786"
     }
   ]
