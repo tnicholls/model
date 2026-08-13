@@ -7,7 +7,7 @@
   "team2": "QT DIG\u221e",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-13T18:07:11.204441+00:00",
+  "captured_at": "2026-08-13T20:14:49.536478+00:00",
   "lines": [
     {
       "match_id": 730537,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7161572052401747,
+      "implied_prob_fair": 0.7167755991285404,
       "source": "match:730537"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "QT DIG\u221e",
       "team_tag": "QTD",
-      "decimal_odds": 3.28,
+      "decimal_odds": 3.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3048780487804878,
-      "implied_prob_fair": 0.2838427947598253,
+      "implied_prob_raw": 0.303951367781155,
+      "implied_prob_fair": 0.2832244008714597,
       "source": "match:730537"
     },
     {

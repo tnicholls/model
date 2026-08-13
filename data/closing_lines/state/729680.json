@@ -1,0 +1,69 @@
+{
+  "match_id": 729680,
+  "match_url": "/729680/joblife-vs-fnatic-vct-2026-emea-stage-2-lr2",
+  "date_display": "Fri, August 14, 2026",
+  "time_display": "2:00 PM",
+  "team1": "Joblife",
+  "team2": "FNATIC",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Play-Ins\u2013Lower Round 2",
+  "captured_at": "2026-08-13T20:14:57.698591+00:00",
+  "lines": [
+    {
+      "match_id": 729680,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51254",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 2.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3317422434367542,
+      "source": "match:729680"
+    },
+    {
+      "match_id": 729680,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51254",
+      "stage": "pre-match",
+      "team": "FNATIC",
+      "team_tag": "FNC",
+      "decimal_odds": 1.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6682577565632459,
+      "source": "match:729680"
+    },
+    {
+      "match_id": 729680,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51255",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 3.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.3108108108108108,
+      "source": "match:729680"
+    },
+    {
+      "match_id": 729680,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51255",
+      "stage": "pre-match",
+      "team": "FNATIC",
+      "team_tag": "FNC",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6891891891891893,
+      "source": "match:729680"
+    }
+  ]
+}
