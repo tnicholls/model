@@ -1,0 +1,41 @@
+{
+  "match_id": 730540,
+  "match_url": "/730540/detonation-focusme-vs-sharper-esports-vct-2026-pacific-stage-2-ubqf",
+  "date_display": "Sat, August 15, 2026",
+  "time_display": "7:00 AM",
+  "team1": "DetonatioN FocusMe",
+  "team2": "Sharper Esports",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-13T13:44:32.058908+00:00",
+  "lines": [
+    {
+      "match_id": 730540,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51248",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5800524934383202,
+      "source": "match:730540"
+    },
+    {
+      "match_id": 730540,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51248",
+      "stage": "pre-match",
+      "team": "Sharper Esports",
+      "team_tag": "SP",
+      "decimal_odds": 2.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.45248868778280543,
+      "implied_prob_fair": 0.41994750656167984,
+      "source": "match:730540"
+    }
+  ]
+}

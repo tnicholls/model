@@ -7,7 +7,7 @@
   "team2": "PCIFIC Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-13T09:40:57.050854+00:00",
+  "captured_at": "2026-08-13T13:43:50.015145+00:00",
   "lines": [
     {
       "match_id": 729676,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6721698113207547,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6463414634146342,
       "source": "match:729676"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 2.85,
+      "decimal_odds": 2.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3508771929824561,
-      "implied_prob_fair": 0.32783018867924524,
+      "implied_prob_raw": 0.37735849056603776,
+      "implied_prob_fair": 0.3536585365853659,
       "source": "match:729676"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
       "source": "match:729676"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
-      "decimal_odds": 2.8,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
       "source": "match:729676"
     },
     {

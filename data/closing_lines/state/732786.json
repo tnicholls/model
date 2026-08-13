@@ -7,7 +7,7 @@
   "team2": "ALTERNATE aTTaX Ruby",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-13T09:40:58.699729+00:00",
+  "captured_at": "2026-08-13T13:43:51.652233+00:00",
   "lines": [
     {
       "match_id": 732786,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.04,
+      "decimal_odds": 1.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9615384615384615,
-      "implied_prob_fair": 0.8933333333333333,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.8950050968399591,
       "source": "match:732786"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 8.71,
+      "decimal_odds": 8.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11481056257175659,
-      "implied_prob_fair": 0.10666666666666667,
+      "implied_prob_raw": 0.11389521640091117,
+      "implied_prob_fair": 0.10499490316004077,
       "source": "match:732786"
     },
     {
