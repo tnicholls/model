@@ -7,7 +7,7 @@
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-13T13:43:53.351247+00:00",
+  "captured_at": "2026-08-13T16:13:21.994744+00:00",
   "lines": [
     {
       "match_id": 729677,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 3.39,
+      "decimal_odds": 3.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2949852507374631,
-      "implied_prob_fair": 0.27564102564102566,
+      "implied_prob_raw": 0.3194888178913738,
+      "implied_prob_fair": 0.29820627802690586,
       "source": "match:729677"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7243589743589743,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.7017937219730942,
       "source": "match:729677"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 3.0,
+      "decimal_odds": 3.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3333333333333333,
-      "implied_prob_fair": 0.3119266055045871,
+      "implied_prob_raw": 0.3278688524590164,
+      "implied_prob_fair": 0.3068181818181818,
       "source": "match:729677"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6880733944954128,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6931818181818181,
       "source": "match:729677"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 3.44,
+      "decimal_odds": 4.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29069767441860467,
-      "implied_prob_fair": 0.27578947368421053,
+      "implied_prob_raw": 0.24630541871921185,
+      "implied_prob_fair": 0.2339622641509434,
       "source": "match:729677"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7242105263157894,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7660377358490565,
       "source": "match:729677"
     }
   ]

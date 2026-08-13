@@ -7,7 +7,7 @@
   "team2": "BESTIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-13T13:43:56.614634+00:00",
+  "captured_at": "2026-08-13T16:13:25.272147+00:00",
   "lines": [
     {
       "match_id": 729742,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6529126213592232,
+      "implied_prob_fair": 0.6520681265206814,
       "source": "match:729742"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 2.69,
+      "decimal_odds": 2.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3717472118959108,
-      "implied_prob_fair": 0.34708737864077666,
+      "implied_prob_raw": 0.3731343283582089,
+      "implied_prob_fair": 0.3479318734793187,
       "source": "match:729742"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6587112171837709,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6635071090047394,
       "source": "match:729742"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 2.76,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3623188405797102,
-      "implied_prob_fair": 0.34128878281622915,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.33649289099526064,
       "source": "match:729742"
     },
     {

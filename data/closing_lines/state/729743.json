@@ -7,7 +7,7 @@
   "team2": "M80",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-13T13:43:58.300751+00:00",
+  "captured_at": "2026-08-13T16:13:26.551017+00:00",
   "lines": [
     {
       "match_id": 729743,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44063324538258575,
+      "implied_prob_raw": 0.4807692307692307,
+      "implied_prob_fair": 0.4497354497354497,
       "source": "match:729743"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "M80",
       "team_tag": "M80",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5593667546174144,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5502645502645503,
       "source": "match:729743"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4297082228116711,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.417989417989418,
       "source": "match:729743"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "M80",
       "team_tag": "M80",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5702917771883289,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.582010582010582,
       "source": "match:729743"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.43526170798898073,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4246575342465753,
       "source": "match:729743"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "M80",
       "team_tag": "M80",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5647382920110192,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5753424657534246,
       "source": "match:729743"
     },
     {

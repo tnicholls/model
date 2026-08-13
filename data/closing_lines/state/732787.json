@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-13T13:43:54.989286+00:00",
+  "captured_at": "2026-08-13T16:13:23.524015+00:00",
   "lines": [
     {
       "match_id": 732787,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.45844504021447724,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4623655913978494,
       "source": "match:732787"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5415549597855228,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5376344086021505,
       "source": "match:732787"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.40540540540540543,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4141689373297003,
       "source": "match:732787"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.5945945945945946,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.5858310626702998,
       "source": "match:732787"
     },
     {
