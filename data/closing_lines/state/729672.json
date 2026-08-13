@@ -7,7 +7,7 @@
   "team2": "Eternal Fire",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-12T23:21:28.361568+00:00",
+  "captured_at": "2026-08-13T05:01:04.714119+00:00",
   "lines": [
     {
       "match_id": 729672,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5695876288659795,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5758354755784061,
       "source": "match:729672"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 2.21,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45248868778280543,
-      "implied_prob_fair": 0.43041237113402064,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.42416452442159375,
       "source": "match:729672"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "All Gamers",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-12T23:21:25.129908+00:00",
+  "captured_at": "2026-08-13T04:57:59.484765+00:00",
   "lines": [
     {
       "match_id": 724640,
@@ -67,6 +67,34 @@
     },
     {
       "match_id": 724640,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51236",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
+      "source": "match:724640"
+    },
+    {
+      "match_id": 724640,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51236",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
+      "source": "match:724640"
+    },
+    {
+      "match_id": 724640,
       "bookmaker": "winz",
       "bet_url": "/rr/bet/51219",
       "stage": "pre-match",
@@ -91,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.45454545454545453,
       "implied_prob_fair": 0.40540540540540543,
+      "source": "match:724640"
+    },
+    {
+      "match_id": 724640,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51232",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5886889460154241,
+      "source": "match:724640"
+    },
+    {
+      "match_id": 724640,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51232",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 2.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.4113110539845758,
       "source": "match:724640"
     }
   ]
