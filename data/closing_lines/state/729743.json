@@ -7,7 +7,7 @@
   "team2": "M80",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-13T17:34:14.534104+00:00",
+  "captured_at": "2026-08-13T17:50:39.145166+00:00",
   "lines": [
     {
       "match_id": 729743,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4497354497354497,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.44063324538258575,
       "source": "match:729743"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "M80",
       "team_tag": "M80",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5502645502645503,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5593667546174144,
       "source": "match:729743"
     },
     {
