@@ -7,7 +7,7 @@
   "team2": "BESTIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-13T04:57:36.497509+00:00",
+  "captured_at": "2026-08-13T09:41:03.600993+00:00",
   "lines": [
     {
       "match_id": 729742,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6352357320099257,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6529126213592232,
       "source": "match:729742"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3647642679900745,
+      "implied_prob_raw": 0.3717472118959108,
+      "implied_prob_fair": 0.34708737864077666,
       "source": "match:729742"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6354679802955665,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6587112171837709,
       "source": "match:729742"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 2.58,
+      "decimal_odds": 2.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38759689922480617,
-      "implied_prob_fair": 0.36453201970443344,
+      "implied_prob_raw": 0.3623188405797102,
+      "implied_prob_fair": 0.34128878281622915,
       "source": "match:729742"
     },
     {

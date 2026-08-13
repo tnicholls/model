@@ -7,8 +7,36 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-13T04:57:34.846857+00:00",
+  "captured_at": "2026-08-13T09:41:01.958440+00:00",
   "lines": [
+    {
+      "match_id": 732787,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51049",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 2.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.37121212121212116,
+      "source": "match:732787"
+    },
+    {
+      "match_id": 732787,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51049",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6287878787878788,
+      "source": "match:732787"
+    },
     {
       "match_id": 732787,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4020618556701031,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3842239185750636,
       "source": "match:732787"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5979381443298969,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6157760814249365,
       "source": "match:732787"
     },
     {
