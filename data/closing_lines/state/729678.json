@@ -7,7 +7,7 @@
   "team2": "Team Heretics",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-13T17:17:51.509631+00:00",
+  "captured_at": "2026-08-13T17:34:22.341984+00:00",
   "lines": [
     {
       "match_id": 729678,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.82,
+      "decimal_odds": 3.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3364705882352941,
+      "implied_prob_raw": 0.32894736842105265,
+      "implied_prob_fair": 0.31221719457013575,
       "source": "match:729678"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Team Heretics",
       "team_tag": "TH",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6635294117647058,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6877828054298643,
       "source": "match:729678"
     }
   ]
