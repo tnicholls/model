@@ -7,7 +7,7 @@
   "team2": "QT DIG\u221e",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-14T06:49:56.936425+00:00",
+  "captured_at": "2026-08-14T07:22:41.919856+00:00",
   "lines": [
     {
       "match_id": 730537,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7082405345211582,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6851851851851851,
       "source": "match:730537"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "QT DIG\u221e",
       "team_tag": "QTD",
-      "decimal_odds": 3.18,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31446540880503143,
-      "implied_prob_fair": 0.2917594654788419,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.3148148148148148,
       "source": "match:730537"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.7096774193548387,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.7229166666666667,
       "source": "match:730537"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "QT DIG\u221e",
       "team_tag": "QTD",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.2903225806451613,
+      "implied_prob_raw": 0.2881844380403458,
+      "implied_prob_fair": 0.27708333333333335,
       "source": "match:730537"
     }
   ]

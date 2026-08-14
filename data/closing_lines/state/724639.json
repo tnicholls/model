@@ -7,36 +7,8 @@
   "team2": "JD Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T06:49:55.350694+00:00",
+  "captured_at": "2026-08-14T07:22:40.255373+00:00",
   "lines": [
-    {
-      "match_id": 724639,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51209",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6690307328605202,
-      "source": "match:724639"
-    },
-    {
-      "match_id": 724639,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51209",
-      "stage": "pre-match",
-      "team": "JD Gaming",
-      "team_tag": "JDG",
-      "decimal_odds": 2.83,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.35335689045936397,
-      "implied_prob_fair": 0.33096926713947994,
-      "source": "match:724639"
-    },
     {
       "match_id": 724639,
       "bookmaker": "rainbet",
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6443298969072165,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6716417910447761,
       "source": "match:724639"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.3556701030927835,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.32835820895522383,
       "source": "match:724639"
     },
     {
