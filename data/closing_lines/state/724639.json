@@ -7,7 +7,7 @@
   "team2": "JD Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T08:49:01.422713+00:00",
+  "captured_at": "2026-08-14T09:38:29.797338+00:00",
   "lines": [
     {
       "match_id": 724639,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.94,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5154639175257733,
-      "implied_prob_fair": 0.4798927613941019,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.3969072164948454,
       "source": "match:724639"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 1.79,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.520107238605898,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6030927835051546,
       "source": "match:724639"
     },
     {
@@ -69,28 +69,28 @@
       "match_id": 724639,
       "bookmaker": "shuffle",
       "bet_url": "/rr/bet/51220",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.38,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.2986425339366516,
       "source": "match:724639"
     },
     {
       "match_id": 724639,
       "bookmaker": "shuffle",
       "bet_url": "/rr/bet/51220",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.8,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7013574660633485,
       "source": "match:724639"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.72,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5437665782493368,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:724639"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.05,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.4562334217506631,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
       "source": "match:724639"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.72,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5437665782493368,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37688442211055284,
       "source": "match:724639"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.05,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.4562334217506631,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6231155778894473,
       "source": "match:724639"
     }
   ]
