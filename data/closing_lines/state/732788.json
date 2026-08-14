@@ -7,36 +7,8 @@
   "team2": "GIANTX GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T18:00:48.978252+00:00",
+  "captured_at": "2026-08-14T18:17:15.749406+00:00",
   "lines": [
-    {
-      "match_id": 732788,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51203",
-      "stage": "live",
-      "team": "Habos Babos",
-      "team_tag": "HABO",
-      "decimal_odds": 8.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.11904761904761904,
-      "implied_prob_fair": 0.11016949152542373,
-      "source": "match:732788"
-    },
-    {
-      "match_id": 732788,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51203",
-      "stage": "live",
-      "team": "GIANTX GC",
-      "team_tag": "GX.G",
-      "decimal_odds": 1.04,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9615384615384615,
-      "implied_prob_fair": 0.8898305084745762,
-      "source": "match:732788"
-    },
     {
       "match_id": 732788,
       "bookmaker": "rainbet",

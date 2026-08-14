@@ -7,7 +7,7 @@
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-14T18:00:50.573583+00:00",
+  "captured_at": "2026-08-14T18:17:17.345042+00:00",
   "lines": [
     {
       "match_id": 729680,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 2.18,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4587155963302752,
-      "implied_prob_fair": 0.42931937172774864,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5989717223650385,
       "source": "match:729680"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.64,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5706806282722513,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.40102827763496146,
       "source": "match:729680"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48108108108108105,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:729680"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.78,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5189189189189188,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:729680"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 2.0,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6419753086419754,
       "source": "match:729680"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.72,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.35802469135802467,
       "source": "match:729680"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 2.57,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38910505836575876,
-      "implied_prob_fair": 0.3700980392156863,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.6090225563909775,
       "source": "match:729680"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "FNATIC",
       "team_tag": "FNC",
-      "decimal_odds": 1.51,
+      "decimal_odds": 2.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6299019607843138,
+      "implied_prob_raw": 0.4115226337448559,
+      "implied_prob_fair": 0.3909774436090226,
       "source": "match:729680"
     }
   ]

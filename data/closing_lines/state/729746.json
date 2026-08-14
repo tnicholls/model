@@ -7,36 +7,8 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T18:01:08.892373+00:00",
+  "captured_at": "2026-08-14T18:17:35.805422+00:00",
   "lines": [
-    {
-      "match_id": 729746,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51257",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.35,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6896551724137931,
-      "source": "match:729746"
-    },
-    {
-      "match_id": 729746,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51257",
-      "stage": "pre-match",
-      "team": "KR\u00dc Esports",
-      "team_tag": "KR\u00dc",
-      "decimal_odds": 3.0,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3333333333333333,
-      "implied_prob_fair": 0.3103448275862069,
-      "source": "match:729746"
-    },
     {
       "match_id": 729746,
       "bookmaker": "rainbet",

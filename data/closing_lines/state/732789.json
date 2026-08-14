@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T18:00:52.043062+00:00",
+  "captured_at": "2026-08-14T18:17:18.839213+00:00",
   "lines": [
     {
       "match_id": 732789,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5974025974025974,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7395833333333333,
       "source": "match:732789"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 2.3,
+      "decimal_odds": 3.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4025974025974026,
+      "implied_prob_raw": 0.28169014084507044,
+      "implied_prob_fair": 0.26041666666666663,
       "source": "match:732789"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 1.99,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.47074468085106375,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7198275862068966,
       "source": "match:732789"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.77,
+      "decimal_odds": 3.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5292553191489361,
+      "implied_prob_raw": 0.29940119760479045,
+      "implied_prob_fair": 0.28017241379310354,
       "source": "match:732789"
     }
   ]

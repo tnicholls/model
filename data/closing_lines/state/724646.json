@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-14T18:01:11.954437+00:00",
+  "captured_at": "2026-08-14T18:17:38.921685+00:00",
   "lines": [
     {
       "match_id": 724646,
@@ -91,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.6451612903225806,
       "implied_prob_fair": 0.5753424657534246,
+      "source": "match:724646"
+    },
+    {
+      "match_id": 724646,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51302",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 2.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.4160206718346253,
+      "source": "match:724646"
+    },
+    {
+      "match_id": 724646,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51302",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.61,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.5839793281653746,
       "source": "match:724646"
     }
   ]
