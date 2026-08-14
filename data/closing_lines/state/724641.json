@@ -7,7 +7,7 @@
   "team2": "Trace Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T21:27:54.260917+00:00",
+  "captured_at": "2026-08-14T23:33:48.407699+00:00",
   "lines": [
     {
       "match_id": 724641,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5702917771883289,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.582010582010582,
       "source": "match:724641"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4297082228116711,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.417989417989418,
       "source": "match:724641"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5647382920110192,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5753424657534246,
       "source": "match:724641"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.43526170798898073,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4246575342465753,
       "source": "match:724641"
     },
     {
