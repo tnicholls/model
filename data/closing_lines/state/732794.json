@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-14T16:53:16.176194+00:00",
+  "captured_at": "2026-08-14T17:44:37.535998+00:00",
   "lines": [
     {
       "match_id": 732794,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX Ruby",
       "team_tag": "ATNR",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.27947598253275113,
+      "implied_prob_raw": 0.3021148036253776,
+      "implied_prob_fair": 0.2788671023965142,
       "source": "match:732794"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7205240174672489,
+      "implied_prob_fair": 0.7211328976034859,
       "source": "match:732794"
     },
     {
