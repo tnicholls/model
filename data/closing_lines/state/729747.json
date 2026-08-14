@@ -7,7 +7,7 @@
   "team2": "ENVY",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T18:17:37.402020+00:00",
+  "captured_at": "2026-08-14T21:44:55.850339+00:00",
   "lines": [
     {
       "match_id": 729747,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6051282051282051,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6212121212121211,
       "source": "match:729747"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.36,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.3948717948717949,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.37878787878787873,
       "source": "match:729747"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6032171581769437,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6282722513089005,
       "source": "match:729747"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.25,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.3967828418230563,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3717277486910995,
       "source": "match:729747"
     },
     {

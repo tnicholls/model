@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-14T18:17:21.938753+00:00",
+  "captured_at": "2026-08-14T21:27:52.707653+00:00",
   "lines": [
     {
       "match_id": 729745,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6361386138613861,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6618705035971223,
       "source": "match:729745"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.57,
+      "decimal_odds": 2.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38910505836575876,
-      "implied_prob_fair": 0.36386138613861385,
+      "implied_prob_raw": 0.3623188405797102,
+      "implied_prob_fair": 0.33812949640287776,
       "source": "match:729745"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6439024390243903,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6728971962616822,
       "source": "match:729745"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.64,
+      "decimal_odds": 2.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3787878787878788,
-      "implied_prob_fair": 0.35609756097560974,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32710280373831774,
       "source": "match:729745"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6443298969072165,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.6829268292682926,
       "source": "match:729745"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.3556701030927835,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3170731707317073,
       "source": "match:729745"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6447688564476886,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6872146118721462,
       "source": "match:729745"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.65,
+      "decimal_odds": 3.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37735849056603776,
-      "implied_prob_fair": 0.35523114355231145,
+      "implied_prob_raw": 0.33222591362126247,
+      "implied_prob_fair": 0.3127853881278539,
       "source": "match:729745"
     }
   ]
