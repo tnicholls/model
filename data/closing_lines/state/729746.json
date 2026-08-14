@@ -7,7 +7,7 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T10:49:52.221380+00:00",
+  "captured_at": "2026-08-14T11:11:21.699450+00:00",
   "lines": [
     {
       "match_id": 729746,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6111111111111112,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5984654731457799,
       "source": "match:729746"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 2.42,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4132231404958678,
-      "implied_prob_fair": 0.3888888888888889,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.4015345268542199,
       "source": "match:729746"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6610978520286396,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6587112171837709,
       "source": "match:729746"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 2.77,
+      "decimal_odds": 2.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36101083032490977,
-      "implied_prob_fair": 0.33890214797136037,
+      "implied_prob_raw": 0.3623188405797102,
+      "implied_prob_fair": 0.34128878281622915,
       "source": "match:729746"
     }
   ]

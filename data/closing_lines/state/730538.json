@@ -7,36 +7,8 @@
   "team2": "Xipto Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-14T10:49:27.620109+00:00",
+  "captured_at": "2026-08-14T11:10:57.147865+00:00",
   "lines": [
-    {
-      "match_id": 730538,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51026",
-      "stage": "live",
-      "team": "Team Secret",
-      "team_tag": "TS",
-      "decimal_odds": 1.97,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.4746666666666666,
-      "source": "match:730538"
-    },
-    {
-      "match_id": 730538,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51026",
-      "stage": "live",
-      "team": "Xipto Esports",
-      "team_tag": "XIP",
-      "decimal_odds": 1.78,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5253333333333333,
-      "source": "match:730538"
-    },
     {
       "match_id": 730538,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "live",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
       "source": "match:730538"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "live",
       "team": "Xipto Esports",
       "team_tag": "XIP",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:730538"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "live",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 1.99,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.47074468085106375,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6370370370370371,
       "source": "match:730538"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "live",
       "team": "Xipto Esports",
       "team_tag": "XIP",
-      "decimal_odds": 1.77,
+      "decimal_odds": 2.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5292553191489361,
+      "implied_prob_raw": 0.38759689922480617,
+      "implied_prob_fair": 0.362962962962963,
       "source": "match:730538"
     }
   ]
