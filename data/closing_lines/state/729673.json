@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-14T23:33:59.448723+00:00",
+  "captured_at": "2026-08-14T23:50:27.552639+00:00",
   "lines": [
     {
       "match_id": 729673,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.417989417989418,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44,
       "source": "match:729673"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.582010582010582,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.56,
       "source": "match:729673"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4246575342465753,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.43526170798898073,
       "source": "match:729673"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5753424657534246,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5647382920110192,
       "source": "match:729673"
     },
     {

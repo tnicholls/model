@@ -7,7 +7,7 @@
   "team2": "KIWOOM DRX",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T23:33:49.998292+00:00",
+  "captured_at": "2026-08-14T23:50:18.348311+00:00",
   "lines": [
     {
       "match_id": 730539,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37185929648241206,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:730539"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6281407035175879,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
       "source": "match:730539"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3717277486910995,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.3967828418230563,
       "source": "match:730539"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6282722513089005,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6032171581769437,
       "source": "match:730539"
     },
     {

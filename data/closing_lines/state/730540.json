@@ -7,8 +7,36 @@
   "team2": "Sharper Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T23:33:53.146882+00:00",
+  "captured_at": "2026-08-14T23:50:21.408385+00:00",
   "lines": [
+    {
+      "match_id": 730540,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51248",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 1.57,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5953608247422681,
+      "source": "match:730540"
+    },
+    {
+      "match_id": 730540,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51248",
+      "stage": "pre-match",
+      "team": "Sharper Esports",
+      "team_tag": "SP",
+      "decimal_odds": 2.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.404639175257732,
+      "source": "match:730540"
+    },
     {
       "match_id": 730540,
       "bookmaker": "rainbet",
