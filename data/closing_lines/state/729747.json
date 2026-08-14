@@ -7,7 +7,7 @@
   "team2": "ENVY",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T04:38:19.278152+00:00",
+  "captured_at": "2026-08-14T04:54:50.366894+00:00",
   "lines": [
     {
       "match_id": 729747,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.425531914893617,
       "implied_prob_fair": 0.3943298969072165,
+      "source": "match:729747"
+    },
+    {
+      "match_id": 729747,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51273",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6075949367088608,
+      "source": "match:729747"
+    },
+    {
+      "match_id": 729747,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51273",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3924050632911393,
+      "source": "match:729747"
+    },
+    {
+      "match_id": 729747,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51274",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6032171581769437,
+      "source": "match:729747"
+    },
+    {
+      "match_id": 729747,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51274",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.3967828418230563,
       "source": "match:729747"
     }
   ]
