@@ -7,7 +7,7 @@
   "team2": "KIWOOM DRX",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T09:55:19.372882+00:00",
+  "captured_at": "2026-08-14T10:11:49.725461+00:00",
   "lines": [
     {
       "match_id": 730539,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.31,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4329004329004329,
-      "implied_prob_fair": 0.404639175257732,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.4,
       "source": "match:730539"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5953608247422681,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.6,
       "source": "match:730539"
     },
     {

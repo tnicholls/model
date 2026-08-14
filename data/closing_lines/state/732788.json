@@ -7,36 +7,8 @@
   "team2": "GIANTX GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T09:55:09.664676+00:00",
+  "captured_at": "2026-08-14T10:11:39.815121+00:00",
   "lines": [
-    {
-      "match_id": 732788,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51203",
-      "stage": "pre-match",
-      "team": "Habos Babos",
-      "team_tag": "HABO",
-      "decimal_odds": 1.47,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6297229219143576,
-      "source": "match:732788"
-    },
-    {
-      "match_id": 732788,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51203",
-      "stage": "pre-match",
-      "team": "GIANTX GC",
-      "team_tag": "GX.G",
-      "decimal_odds": 2.5,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37027707808564236,
-      "source": "match:732788"
-    },
     {
       "match_id": 732788,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6153846153846154,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6419753086419754,
       "source": "match:732788"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.38461538461538464,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.35802469135802467,
       "source": "match:732788"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6133333333333333,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6282722513089005,
       "source": "match:732788"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.38666666666666666,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3717277486910995,
       "source": "match:732788"
     },
     {
