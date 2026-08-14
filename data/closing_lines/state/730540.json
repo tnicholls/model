@@ -7,7 +7,7 @@
   "team2": "Sharper Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T12:33:19.724211+00:00",
+  "captured_at": "2026-08-14T16:53:13.013997+00:00",
   "lines": [
     {
       "match_id": 730540,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5984654731457799,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5876288659793815,
       "source": "match:730540"
     },
     {
@@ -58,11 +58,39 @@
       "stage": "pre-match",
       "team": "Sharper Esports",
       "team_tag": "SP",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.4015345268542199,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4123711340206186,
+      "source": "match:730540"
+    },
+    {
+      "match_id": 730540,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51290",
+      "stage": "pre-match",
+      "team": "DetonatioN FocusMe",
+      "team_tag": "DFM",
+      "decimal_odds": 1.62,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5702917771883289,
+      "source": "match:730540"
+    },
+    {
+      "match_id": 730540,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51290",
+      "stage": "pre-match",
+      "team": "Sharper Esports",
+      "team_tag": "SP",
+      "decimal_odds": 2.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4297082228116711,
       "source": "match:730540"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.5858310626702998,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5647382920110192,
       "source": "match:730540"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "Sharper Esports",
       "team_tag": "SP",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4141689373297003,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.43526170798898073,
       "source": "match:730540"
     },
     {

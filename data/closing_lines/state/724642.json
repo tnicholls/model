@@ -7,7 +7,7 @@
   "team2": "JD Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-14T12:34:07.234309+00:00",
+  "captured_at": "2026-08-14T16:57:03.867231+00:00",
   "lines": [
     {
       "match_id": 724642,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6075949367088608,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6111111111111112,
       "source": "match:724642"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3924050632911393,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3888888888888889,
       "source": "match:724642"
     },
     {
@@ -91,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.4444444444444444,
       "implied_prob_fair": 0.3967828418230563,
+      "source": "match:724642"
+    },
+    {
+      "match_id": 724642,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51293",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6065989847715737,
+      "source": "match:724642"
+    },
+    {
+      "match_id": 724642,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51293",
+      "stage": "pre-match",
+      "team": "JD Gaming",
+      "team_tag": "JDG",
+      "decimal_odds": 2.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.3934010152284264,
       "source": "match:724642"
     }
   ]

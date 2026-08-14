@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T12:33:09.988894+00:00",
+  "captured_at": "2026-08-14T16:53:03.152303+00:00",
   "lines": [
     {
       "match_id": 732789,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 2.01,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49751243781094534,
-      "implied_prob_fair": 0.4611260053619303,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4704301075268817,
       "source": "match:732789"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5388739946380697,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5295698924731183,
       "source": "match:732789"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Twisted Minds Orchid",
       "team_tag": "TWO",
-      "decimal_odds": 2.05,
+      "decimal_odds": 1.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.44743935309973043,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.48907103825136605,
       "source": "match:732789"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5525606469002695,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5109289617486339,
       "source": "match:732789"
     }
   ]

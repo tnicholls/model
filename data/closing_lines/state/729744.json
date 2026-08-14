@@ -7,7 +7,7 @@
   "team2": "2Game Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-14T12:33:11.643127+00:00",
+  "captured_at": "2026-08-14T16:53:04.784373+00:00",
   "lines": [
     {
       "match_id": 729744,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5278514588859416,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
       "source": "match:729744"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4721485411140583,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
       "source": "match:729744"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5307262569832403,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5499999999999999,
       "source": "match:729744"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.9,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4692737430167598,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.45,
       "source": "match:729744"
     },
     {

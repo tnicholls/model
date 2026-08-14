@@ -7,8 +7,36 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-14T12:33:22.964139+00:00",
+  "captured_at": "2026-08-14T16:53:16.176194+00:00",
   "lines": [
+    {
+      "match_id": 732794,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51265",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 3.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.27947598253275113,
+      "source": "match:732794"
+    },
+    {
+      "match_id": 732794,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51265",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7205240174672489,
+      "source": "match:732794"
+    },
     {
       "match_id": 732794,
       "bookmaker": "rainbet",
@@ -35,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.7751937984496123,
       "implied_prob_fair": 0.7219827586206896,
+      "source": "match:732794"
+    },
+    {
+      "match_id": 732794,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51301",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX Ruby",
+      "team_tag": "ATNR",
+      "decimal_odds": 3.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.27947598253275113,
+      "source": "match:732794"
+    },
+    {
+      "match_id": 732794,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51301",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7205240174672489,
       "source": "match:732794"
     },
     {
