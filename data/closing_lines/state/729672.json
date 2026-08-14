@@ -7,36 +7,8 @@
   "team2": "Eternal Fire",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-13T20:20:21.169425+00:00",
+  "captured_at": "2026-08-14T01:05:14.643351+00:00",
   "lines": [
-    {
-      "match_id": 729672,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51043",
-      "stage": "pre-match",
-      "team": "FUT Esports",
-      "team_tag": "FUT",
-      "decimal_odds": 1.63,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5732984293193717,
-      "source": "match:729672"
-    },
-    {
-      "match_id": 729672,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51043",
-      "stage": "pre-match",
-      "team": "Eternal Fire",
-      "team_tag": "EF",
-      "decimal_odds": 2.19,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.4267015706806283,
-      "source": "match:729672"
-    },
     {
       "match_id": 729672,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5702917771883289,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.582010582010582,
       "source": "match:729672"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4297082228116711,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.417989417989418,
       "source": "match:729672"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5647382920110192,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5753424657534246,
       "source": "match:729672"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.43526170798898073,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4246575342465753,
       "source": "match:729672"
     },
     {

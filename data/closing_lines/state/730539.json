@@ -7,7 +7,7 @@
   "team2": "KIWOOM DRX",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-13T20:20:16.277507+00:00",
+  "captured_at": "2026-08-14T01:05:10.089129+00:00",
   "lines": [
     {
       "match_id": 730539,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.29,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.40519480519480516,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.40568475452196384,
       "source": "match:730539"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5948051948051947,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5943152454780362,
       "source": "match:730539"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.44,
+      "decimal_odds": 2.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4098360655737705,
-      "implied_prob_fair": 0.39303482587064675,
+      "implied_prob_raw": 0.36900369003690037,
+      "implied_prob_fair": 0.3547619047619047,
       "source": "match:730539"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.6069651741293531,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6452380952380953,
       "source": "match:730539"
     }
   ]

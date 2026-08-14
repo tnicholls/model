@@ -7,7 +7,7 @@
   "team2": "Trace Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-13T20:20:15.048241+00:00",
+  "captured_at": "2026-08-14T01:05:08.562972+00:00",
   "lines": [
     {
       "match_id": 724641,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5672823218997362,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5669291338582677,
       "source": "match:724641"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.43271767810026385,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.43307086614173224,
       "source": "match:724641"
     },
     {
