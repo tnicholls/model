@@ -7,7 +7,7 @@
   "team2": "QT DIG\u221e",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-14T06:00:25.707819+00:00",
+  "captured_at": "2026-08-14T06:16:55.355777+00:00",
   "lines": [
     {
       "match_id": 730537,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.33,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.7229166666666667,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.7096774193548387,
       "source": "match:730537"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "QT DIG\u221e",
       "team_tag": "QTD",
-      "decimal_odds": 3.47,
+      "decimal_odds": 3.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2881844380403458,
-      "implied_prob_fair": 0.27708333333333335,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.2903225806451613,
       "source": "match:730537"
     }
   ]

@@ -7,8 +7,36 @@
   "team2": "Xipto Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Round 1",
-  "captured_at": "2026-08-14T06:00:28.981142+00:00",
+  "captured_at": "2026-08-14T06:16:58.448820+00:00",
   "lines": [
+    {
+      "match_id": 730538,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51026",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 1.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5215053763440861,
+      "source": "match:730538"
+    },
+    {
+      "match_id": 730538,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51026",
+      "stage": "pre-match",
+      "team": "Xipto Esports",
+      "team_tag": "XIP",
+      "decimal_odds": 1.94,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.47849462365591405,
+      "source": "match:730538"
+    },
     {
       "match_id": 730538,
       "bookmaker": "rainbet",
