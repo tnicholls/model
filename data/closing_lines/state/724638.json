@@ -7,8 +7,36 @@
   "team2": "Titan Esports Club",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T11:27:26.608319+00:00",
+  "captured_at": "2026-08-14T11:43:58.244611+00:00",
   "lines": [
+    {
+      "match_id": 724638,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51197",
+      "stage": "live",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 1.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.9058500914076782,
+      "source": "match:724638"
+    },
+    {
+      "match_id": 724638,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51197",
+      "stage": "live",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 9.91,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.10090817356205853,
+      "implied_prob_fair": 0.09414990859232175,
+      "source": "match:724638"
+    },
     {
       "match_id": 724638,
       "bookmaker": "rainbet",
@@ -44,11 +72,11 @@
       "stage": "live",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.8040201005025126,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8849557522123894,
       "source": "match:724638"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "live",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 4.8,
+      "decimal_odds": 8.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20833333333333334,
-      "implied_prob_fair": 0.19597989949748745,
+      "implied_prob_raw": 0.125,
+      "implied_prob_fair": 0.11504424778761063,
       "source": "match:724638"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "live",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.8040201005025126,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8849557522123894,
       "source": "match:724638"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "live",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 4.8,
+      "decimal_odds": 8.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20833333333333334,
-      "implied_prob_fair": 0.19597989949748745,
+      "implied_prob_raw": 0.125,
+      "implied_prob_fair": 0.11504424778761063,
       "source": "match:724638"
     },
     {
@@ -100,11 +128,11 @@
       "stage": "live",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7685009487666035,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9151414309484193,
       "source": "match:724638"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "live",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 4.05,
+      "decimal_odds": 11.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2469135802469136,
-      "implied_prob_fair": 0.2314990512333966,
+      "implied_prob_raw": 0.09090909090909091,
+      "implied_prob_fair": 0.0848585690515807,
       "source": "match:724638"
     }
   ]

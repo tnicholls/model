@@ -1,0 +1,41 @@
+{
+  "match_id": 735388,
+  "match_url": "/735388/mvsk-secret-vs-3-game-changers-2026-north-america-stage-2-swiss-stage-r7-3-3",
+  "date_display": "Mon, August 17, 2026",
+  "time_display": "7:30 PM",
+  "team1": "MVSK Secret",
+  "team2": ":3",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Swiss Stage\u2013Round 7 (3-3)",
+  "captured_at": "2026-08-14T11:44:53.684327+00:00",
+  "lines": [
+    {
+      "match_id": 735388,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51284",
+      "stage": "pre-match",
+      "team": "MVSK Secret",
+      "team_tag": "MVSK",
+      "decimal_odds": 2.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.4358288770053476,
+      "source": "match:735388"
+    },
+    {
+      "match_id": 735388,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51284",
+      "stage": "pre-match",
+      "team": ":3",
+      "team_tag": "MEOW",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5641711229946524,
+      "source": "match:735388"
+    }
+  ]
+}
