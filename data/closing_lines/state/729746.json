@@ -7,7 +7,7 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T05:27:51.621754+00:00",
+  "captured_at": "2026-08-14T05:44:22.832723+00:00",
   "lines": [
     {
       "match_id": 729746,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5948717948717949,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5984654731457799,
       "source": "match:729746"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4051282051282052,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.4015345268542199,
       "source": "match:729746"
     },
     {
@@ -91,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.46511627906976744,
       "implied_prob_fair": 0.4141689373297003,
+      "source": "match:729746"
+    },
+    {
+      "match_id": 729746,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51275",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6610978520286396,
+      "source": "match:729746"
+    },
+    {
+      "match_id": 729746,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51275",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 2.77,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.36101083032490977,
+      "implied_prob_fair": 0.33890214797136037,
       "source": "match:729746"
     }
   ]
