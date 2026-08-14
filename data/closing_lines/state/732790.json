@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-14T04:21:58.711772+00:00",
+  "captured_at": "2026-08-14T04:38:29.028979+00:00",
   "lines": [
     {
       "match_id": 732790,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.5208333333333334,
       "implied_prob_fair": 0.4796747967479675,
+      "source": "match:732790"
+    },
+    {
+      "match_id": 732790,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51267",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5188172043010751,
+      "source": "match:732790"
+    },
+    {
+      "match_id": 732790,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51267",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48118279569892475,
+      "source": "match:732790"
+    },
+    {
+      "match_id": 732790,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51268",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.72,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5182072829131653,
+      "source": "match:732790"
+    },
+    {
+      "match_id": 732790,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51268",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.4817927170868347,
       "source": "match:732790"
     }
   ]

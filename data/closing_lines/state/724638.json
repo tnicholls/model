@@ -7,7 +7,7 @@
   "team2": "Titan Esports Club",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T04:21:21.716960+00:00",
+  "captured_at": "2026-08-14T04:37:51.638243+00:00",
   "lines": [
     {
       "match_id": 724638,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6386138613861386,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6370370370370371,
       "source": "match:724638"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.38759689922480617,
-      "implied_prob_fair": 0.3613861386138614,
+      "implied_prob_fair": 0.362962962962963,
       "source": "match:724638"
     },
     {
