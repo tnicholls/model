@@ -1,0 +1,41 @@
+{
+  "match_id": 729747,
+  "match_url": "/729747/sentinels-vs-envy-vct-2026-americas-stage-2-ubqf",
+  "date_display": "Sat, August 15, 2026",
+  "time_display": "8:00 PM",
+  "team1": "Sentinels",
+  "team2": "ENVY",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-14T02:10:40.401436+00:00",
+  "lines": [
+    {
+      "match_id": 729747,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51259",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6056701030927835,
+      "source": "match:729747"
+    },
+    {
+      "match_id": 729747,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51259",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3943298969072165,
+      "source": "match:729747"
+    }
+  ]
+}
