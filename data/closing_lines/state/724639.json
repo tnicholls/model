@@ -7,7 +7,7 @@
   "team2": "JD Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-14T08:11:53.268433+00:00",
+  "captured_at": "2026-08-14T08:28:24.805993+00:00",
   "lines": [
     {
       "match_id": 724639,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.667458432304038,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5281501340482575,
       "source": "match:724639"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.81,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35587188612099646,
-      "implied_prob_fair": 0.332541567695962,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.47184986595174266,
       "source": "match:724639"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6931818181818181,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5605263157894738,
       "source": "match:724639"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 3.05,
+      "decimal_odds": 2.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3278688524590164,
-      "implied_prob_fair": 0.3068181818181818,
+      "implied_prob_raw": 0.4694835680751174,
+      "implied_prob_fair": 0.43947368421052635,
       "source": "match:724639"
     }
   ]
