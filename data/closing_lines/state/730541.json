@@ -1,0 +1,41 @@
+{
+  "match_id": 730541,
+  "match_url": "/730541/t1-vs-full-sense-vct-2026-pacific-stage-2-ubqf",
+  "date_display": "Sun, August 16, 2026",
+  "time_display": "4:00 AM",
+  "team1": "T1",
+  "team2": "FULL SENSE",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Play-Ins\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-14T10:33:23.800161+00:00",
+  "lines": [
+    {
+      "match_id": 730541,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51279",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.641089108910891,
+      "source": "match:730541"
+    },
+    {
+      "match_id": 730541,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51279",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 2.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3861003861003861,
+      "implied_prob_fair": 0.35891089108910884,
+      "source": "match:730541"
+    }
+  ]
+}
