@@ -7,36 +7,8 @@
   "team2": "FNATIC",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-14T10:32:59.236415+00:00",
+  "captured_at": "2026-08-14T10:49:32.420181+00:00",
   "lines": [
-    {
-      "match_id": 729680,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51254",
-      "stage": "pre-match",
-      "team": "Joblife",
-      "team_tag": "JL",
-      "decimal_odds": 2.68,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3479318734793187,
-      "source": "match:729680"
-    },
-    {
-      "match_id": 729680,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51254",
-      "stage": "pre-match",
-      "team": "FNATIC",
-      "team_tag": "FNC",
-      "decimal_odds": 1.43,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6520681265206814,
-      "source": "match:729680"
-    },
     {
       "match_id": 729680,
       "bookmaker": "rainbet",
