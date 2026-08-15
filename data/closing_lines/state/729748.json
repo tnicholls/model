@@ -7,36 +7,8 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-15T06:03:03.653536+00:00",
+  "captured_at": "2026-08-15T12:07:24.736027+00:00",
   "lines": [
-    {
-      "match_id": 729748,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51310",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.35,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6867749419953596,
-      "source": "match:729748"
-    },
-    {
-      "match_id": 729748,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51310",
-      "stage": "pre-match",
-      "team": "FURIA",
-      "team_tag": "FUR",
-      "decimal_odds": 2.96,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31322505800464034,
-      "source": "match:729748"
-    },
     {
       "match_id": 729748,
       "bookmaker": "rainbet",
@@ -63,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.3278688524590164,
       "implied_prob_fair": 0.308390022675737,
+      "source": "match:729748"
+    },
+    {
+      "match_id": 729748,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51330",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
+      "source": "match:729748"
+    },
+    {
+      "match_id": 729748,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51330",
+      "stage": "pre-match",
+      "team": "FURIA",
+      "team_tag": "FUR",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
       "source": "match:729748"
     },
     {

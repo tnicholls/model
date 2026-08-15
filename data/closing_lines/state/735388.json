@@ -7,7 +7,7 @@
   "team2": ":3",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 7 (3-3)",
-  "captured_at": "2026-08-15T06:03:16.545928+00:00",
+  "captured_at": "2026-08-15T12:07:37.772998+00:00",
   "lines": [
     {
       "match_id": 735388,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MVSK Secret",
       "team_tag": "MVSK",
-      "decimal_odds": 2.11,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47393364928909953,
-      "implied_prob_fair": 0.4358288770053476,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44,
       "source": "match:735388"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": ":3",
       "team_tag": "MEOW",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5641711229946524,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.56,
       "source": "match:735388"
     }
   ]
