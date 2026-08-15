@@ -7,36 +7,8 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-15T01:04:26.575712+00:00",
+  "captured_at": "2026-08-15T05:46:45.739610+00:00",
   "lines": [
-    {
-      "match_id": 724646,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51295",
-      "stage": "pre-match",
-      "team": "Titan Esports Club",
-      "team_tag": "TEC",
-      "decimal_odds": 2.23,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4484304932735426,
-      "implied_prob_fair": 0.41775456919060056,
-      "source": "match:724646"
-    },
-    {
-      "match_id": 724646,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51295",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5822454308093995,
-      "source": "match:724646"
-    },
     {
       "match_id": 724646,
       "bookmaker": "rainbet",
@@ -63,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6134969325153374,
       "implied_prob_fair": 0.5766233766233767,
+      "source": "match:724646"
+    },
+    {
+      "match_id": 724646,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51311",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 2.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.417989417989418,
+      "source": "match:724646"
+    },
+    {
+      "match_id": 724646,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51311",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.582010582010582,
       "source": "match:724646"
     },
     {
