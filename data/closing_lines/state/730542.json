@@ -7,8 +7,36 @@
   "team2": "Team Secret",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-15T00:48:01.998945+00:00",
+  "captured_at": "2026-08-15T01:04:31.231253+00:00",
   "lines": [
+    {
+      "match_id": 730542,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51292",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7844202898550725,
+      "source": "match:730542"
+    },
+    {
+      "match_id": 730542,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51292",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 4.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.23094688221709006,
+      "implied_prob_fair": 0.21557971014492752,
+      "source": "match:730542"
+    },
     {
       "match_id": 730542,
       "bookmaker": "rainbet",
