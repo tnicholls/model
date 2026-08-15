@@ -7,7 +7,7 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-15T22:04:02.422394+00:00",
+  "captured_at": "2026-08-15T22:20:30.157190+00:00",
   "lines": [
     {
       "match_id": 729746,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8210361067503924,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9297520661157025,
       "source": "match:729746"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 5.23,
+      "decimal_odds": 13.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.19120458891013384,
-      "implied_prob_fair": 0.17896389324960751,
+      "implied_prob_raw": 0.07407407407407407,
+      "implied_prob_fair": 0.07024793388429752,
       "source": "match:729746"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8405797101449275,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9074410163339383,
       "source": "match:729746"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 5.8,
+      "decimal_odds": 10.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.15942028985507248,
+      "implied_prob_raw": 0.1,
+      "implied_prob_fair": 0.09255898366606172,
       "source": "match:729746"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8405797101449275,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9074410163339383,
       "source": "match:729746"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 5.8,
+      "decimal_odds": 10.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.15942028985507248,
+      "implied_prob_raw": 0.1,
+      "implied_prob_fair": 0.09255898366606172,
       "source": "match:729746"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8507462686567164,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9151414309484193,
       "source": "match:729746"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 6.27,
+      "decimal_odds": 11.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1594896331738437,
-      "implied_prob_fair": 0.1492537313432836,
+      "implied_prob_raw": 0.09090909090909091,
+      "implied_prob_fair": 0.0848585690515807,
       "source": "match:729746"
     }
   ]
