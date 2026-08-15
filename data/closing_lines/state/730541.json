@@ -7,7 +7,7 @@
   "team2": "FULL SENSE",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-15T17:42:31.932883+00:00",
+  "captured_at": "2026-08-15T20:20:02.130410+00:00",
   "lines": [
     {
       "match_id": 730541,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.647921760391198,
+      "implied_prob_fair": 0.6487804878048781,
       "source": "match:730541"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 2.65,
+      "decimal_odds": 2.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37735849056603776,
-      "implied_prob_fair": 0.35207823960880197,
+      "implied_prob_raw": 0.37593984962406013,
+      "implied_prob_fair": 0.351219512195122,
       "source": "match:730541"
     },
     {

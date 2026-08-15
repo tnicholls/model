@@ -7,7 +7,7 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-15T17:42:27.139761+00:00",
+  "captured_at": "2026-08-15T20:19:57.394430+00:00",
   "lines": [
     {
       "match_id": 729746,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6931818181818181,
+      "implied_prob_fair": 0.6938775510204082,
       "source": "match:729746"
     },
     {
@@ -30,45 +30,17 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 3.05,
+      "decimal_odds": 3.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3278688524590164,
-      "implied_prob_fair": 0.3068181818181818,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.30612244897959184,
       "source": "match:729746"
     },
     {
       "match_id": 729746,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51271",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.33,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.706401766004415,
-      "source": "match:729746"
-    },
-    {
-      "match_id": 729746,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/51271",
-      "stage": "pre-match",
-      "team": "KR\u00dc Esports",
-      "team_tag": "KR\u00dc",
-      "decimal_odds": 3.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.293598233995585,
-      "source": "match:729746"
-    },
-    {
-      "match_id": 729746,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/51303",
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
@@ -76,7 +48,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7111111111111111,
+      "implied_prob_fair": 0.7204301075268817,
+      "source": "match:729746"
+    },
+    {
+      "match_id": 729746,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51271",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 3.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29850746268656714,
+      "implied_prob_fair": 0.27956989247311825,
+      "source": "match:729746"
+    },
+    {
+      "match_id": 729746,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51303",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7205240174672489,
       "source": "match:729746"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 3.2,
+      "decimal_odds": 3.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.2888888888888889,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.27947598253275113,
       "source": "match:729746"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.704225352112676,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
       "source": "match:729746"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 3.0,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3333333333333333,
-      "implied_prob_fair": 0.29577464788732394,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
       "source": "match:729746"
     },
     {
