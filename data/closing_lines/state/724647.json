@@ -7,8 +7,36 @@
   "team2": "Trace Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-15T22:20:36.608608+00:00",
+  "captured_at": "2026-08-15T22:37:06.468964+00:00",
   "lines": [
+    {
+      "match_id": 724647,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51337",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.673758865248227,
+      "source": "match:724647"
+    },
+    {
+      "match_id": 724647,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51337",
+      "stage": "pre-match",
+      "team": "Trace Esports",
+      "team_tag": "TE",
+      "decimal_odds": 2.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3508771929824561,
+      "implied_prob_fair": 0.326241134751773,
+      "source": "match:724647"
+    },
     {
       "match_id": 724647,
       "bookmaker": "rainbet",
