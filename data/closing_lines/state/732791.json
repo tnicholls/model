@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T19:42:02.244256+00:00",
+  "captured_at": "2026-08-16T20:14:37.564560+00:00",
   "lines": [
     {
       "match_id": 732791,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 4.71,
+      "decimal_odds": 4.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21231422505307856,
-      "implied_prob_fair": 0.1962457337883959,
+      "implied_prob_raw": 0.2032520325203252,
+      "implied_prob_fair": 0.18811881188118812,
       "source": "match:732791"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8037542662116042,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8118811881188119,
       "source": "match:732791"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 4.04,
+      "decimal_odds": 6.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24752475247524752,
-      "implied_prob_fair": 0.23193916349809884,
+      "implied_prob_raw": 0.15037593984962405,
+      "implied_prob_fair": 0.1408268733850129,
       "source": "match:732791"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7680608365019012,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.859173126614987,
       "source": "match:732791"
     }
   ]

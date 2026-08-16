@@ -7,36 +7,8 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T19:42:31.768231+00:00",
+  "captured_at": "2026-08-16T20:15:07.079328+00:00",
   "lines": [
-    {
-      "match_id": 730546,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51385",
-      "stage": "pre-match",
-      "team": "FULL SENSE",
-      "team_tag": "FS",
-      "decimal_odds": 1.79,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5188172043010751,
-      "source": "match:730546"
-    },
-    {
-      "match_id": 730546,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51385",
-      "stage": "pre-match",
-      "team": "Rex Regum Qeon",
-      "team_tag": "RRQ",
-      "decimal_odds": 1.93,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.48118279569892475,
-      "source": "match:730546"
-    },
     {
       "match_id": 730546,
       "bookmaker": "1x",
