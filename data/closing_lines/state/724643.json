@@ -7,36 +7,8 @@
   "team2": "Bilibili Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T20:15:05.395609+00:00",
+  "captured_at": "2026-08-16T20:31:37.348352+00:00",
   "lines": [
-    {
-      "match_id": 724643,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51339",
-      "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5822454308093995,
-      "source": "match:724643"
-    },
-    {
-      "match_id": 724643,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51339",
-      "stage": "pre-match",
-      "team": "Bilibili Gaming",
-      "team_tag": "BLG",
-      "decimal_odds": 2.23,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4484304932735426,
-      "implied_prob_fair": 0.41775456919060056,
-      "source": "match:724643"
-    },
     {
       "match_id": 724643,
       "bookmaker": "rainbet",
