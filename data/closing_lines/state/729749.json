@@ -7,7 +7,7 @@
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-16T18:36:39.698332+00:00",
+  "captured_at": "2026-08-16T18:53:08.665962+00:00",
   "lines": [
     {
       "match_id": 729749,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.48010610079575594,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.4748010610079576,
       "source": "match:729749"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.81,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5524861878453039,
-      "implied_prob_fair": 0.519893899204244,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5251989389920424,
       "source": "match:729749"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 1.9,
+      "decimal_odds": 1.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4692737430167598,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.47486033519553067,
       "source": "match:729749"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5307262569832403,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5251396648044693,
       "source": "match:729749"
     },
     {
