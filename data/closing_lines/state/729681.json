@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-16T02:54:02.071924+00:00",
+  "captured_at": "2026-08-16T03:10:30.285844+00:00",
   "lines": [
     {
       "match_id": 729681,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5608465608465608,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5646437994722956,
       "source": "match:729681"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.4391534391534391,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4353562005277045,
       "source": "match:729681"
     },
     {
