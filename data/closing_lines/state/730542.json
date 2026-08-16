@@ -7,7 +7,7 @@
   "team2": "Team Secret",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-16T04:16:25.523444+00:00",
+  "captured_at": "2026-08-16T07:00:56.272999+00:00",
   "lines": [
     {
       "match_id": 730542,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.18,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.7904085257548845,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7699619771863118,
       "source": "match:730542"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 4.45,
+      "decimal_odds": 4.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2247191011235955,
-      "implied_prob_fair": 0.20959147424511543,
+      "implied_prob_raw": 0.2469135802469136,
+      "implied_prob_fair": 0.2300380228136882,
       "source": "match:730542"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.787085514834206,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7720588235294118,
       "source": "match:730542"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Team Secret",
       "team_tag": "TS",
-      "decimal_odds": 4.51,
+      "decimal_odds": 4.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22172949002217296,
-      "implied_prob_fair": 0.2129144851657941,
+      "implied_prob_raw": 0.23809523809523808,
+      "implied_prob_fair": 0.22794117647058823,
       "source": "match:730542"
     }
   ]

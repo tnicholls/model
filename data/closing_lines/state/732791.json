@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T04:16:31.938016+00:00",
+  "captured_at": "2026-08-16T07:01:02.765217+00:00",
   "lines": [
     {
       "match_id": 732791,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 3.4,
+      "decimal_odds": 3.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29411764705882354,
-      "implied_prob_fair": 0.26881720430107525,
+      "implied_prob_raw": 0.28169014084507044,
+      "implied_prob_fair": 0.25732217573221755,
       "source": "match:732791"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7311827956989247,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7426778242677824,
       "source": "match:732791"
     }
   ]

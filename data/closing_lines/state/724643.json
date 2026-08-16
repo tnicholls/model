@@ -7,8 +7,36 @@
   "team2": "Bilibili Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T04:16:59.516684+00:00",
+  "captured_at": "2026-08-16T07:16:39.386353+00:00",
   "lines": [
+    {
+      "match_id": 724643,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51339",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5874673629242819,
+      "source": "match:724643"
+    },
+    {
+      "match_id": 724643,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51339",
+      "stage": "pre-match",
+      "team": "Bilibili Gaming",
+      "team_tag": "BLG",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.41253263707571797,
+      "source": "match:724643"
+    },
     {
       "match_id": 724643,
       "bookmaker": "rainbet",
@@ -35,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.4132231404958678,
       "implied_prob_fair": 0.3888888888888889,
+      "source": "match:724643"
+    },
+    {
+      "match_id": 724643,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51378",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
+      "source": "match:724643"
+    },
+    {
+      "match_id": 724643,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51378",
+      "stage": "pre-match",
+      "team": "Bilibili Gaming",
+      "team_tag": "BLG",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
       "source": "match:724643"
     },
     {
