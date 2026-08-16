@@ -7,7 +7,7 @@
   "team2": "2Game Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T16:08:44.571766+00:00",
+  "captured_at": "2026-08-16T16:25:13.625946+00:00",
   "lines": [
     {
       "match_id": 729754,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7142857142857143,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7158351409978309,
       "source": "match:729754"
     },
     {
@@ -62,7 +62,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28571428571428575,
+      "implied_prob_fair": 0.28416485900216926,
       "source": "match:729754"
     },
     {
