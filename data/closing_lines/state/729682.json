@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-16T01:07:53.126646+00:00",
+  "captured_at": "2026-08-16T02:54:05.209343+00:00",
   "lines": [
     {
       "match_id": 729682,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.91,
+      "decimal_odds": 1.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.4879356568364612,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.49193548387096786,
       "source": "match:729682"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.82,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5120643431635389,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5080645161290323,
       "source": "match:729682"
     },
     {
