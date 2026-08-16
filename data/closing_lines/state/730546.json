@@ -7,7 +7,7 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T16:24:58.077038+00:00",
+  "captured_at": "2026-08-16T18:37:04.825987+00:00",
   "lines": [
     {
       "match_id": 730546,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5241935483870968,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5188172043010751,
       "source": "match:730546"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47580645161290325,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48118279569892475,
+      "source": "match:730546"
+    },
+    {
+      "match_id": 730546,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51401",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5894206549118388,
+      "source": "match:730546"
+    },
+    {
+      "match_id": 730546,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51401",
+      "stage": "pre-match",
+      "team": "Rex Regum Qeon",
+      "team_tag": "RRQ",
+      "decimal_odds": 2.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.41057934508816124,
       "source": "match:730546"
     }
   ]

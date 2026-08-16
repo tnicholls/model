@@ -7,36 +7,8 @@
   "team2": "Evil Geniuses GC",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T16:41:20.809267+00:00",
+  "captured_at": "2026-08-16T18:36:58.558798+00:00",
   "lines": [
-    {
-      "match_id": 731773,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51241",
-      "stage": "pre-match",
-      "team": "Team Liquid Brazil",
-      "team_tag": "TLV",
-      "decimal_odds": 1.17,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7921847246891652,
-      "source": "match:731773"
-    },
-    {
-      "match_id": 731773,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51241",
-      "stage": "pre-match",
-      "team": "Evil Geniuses GC",
-      "team_tag": "EG.G",
-      "decimal_odds": 4.46,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2242152466367713,
-      "implied_prob_fair": 0.20781527531083482,
-      "source": "match:731773"
-    },
     {
       "match_id": 731773,
       "bookmaker": "rainbet",

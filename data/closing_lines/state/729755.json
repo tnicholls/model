@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T16:41:44.840698+00:00",
+  "captured_at": "2026-08-16T18:37:22.133524+00:00",
   "lines": [
     {
       "match_id": 729755,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7111597374179431,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7204301075268817,
       "source": "match:729755"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 3.25,
+      "decimal_odds": 3.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3076923076923077,
-      "implied_prob_fair": 0.2888402625820569,
+      "implied_prob_raw": 0.29850746268656714,
+      "implied_prob_fair": 0.27956989247311825,
       "source": "match:729755"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7126436781609196,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.69377990430622,
       "source": "match:729755"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 3.1,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.28735632183908044,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3062200956937799,
       "source": "match:729755"
     },
     {
