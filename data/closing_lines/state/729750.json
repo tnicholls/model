@@ -7,8 +7,36 @@
   "team2": "ENVY",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T20:48:41.226795+00:00",
+  "captured_at": "2026-08-16T21:05:13.495850+00:00",
   "lines": [
+    {
+      "match_id": 729750,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51376",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7564356435643564,
+      "source": "match:729750"
+    },
+    {
+      "match_id": 729750,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51376",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 3.82,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2617801047120419,
+      "implied_prob_fair": 0.2435643564356436,
+      "source": "match:729750"
+    },
     {
       "match_id": 729750,
       "bookmaker": "rainbet",

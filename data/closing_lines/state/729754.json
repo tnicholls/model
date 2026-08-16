@@ -7,7 +7,7 @@
   "team2": "2Game Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T20:48:28.170313+00:00",
+  "captured_at": "2026-08-16T21:05:00.411327+00:00",
   "lines": [
     {
       "match_id": 729754,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7149122807017544,
+      "implied_prob_fair": 0.7142857142857143,
       "source": "match:729754"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 3.26,
+      "decimal_odds": 3.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3067484662576687,
-      "implied_prob_fair": 0.2850877192982456,
+      "implied_prob_raw": 0.3076923076923077,
+      "implied_prob_fair": 0.28571428571428575,
       "source": "match:729754"
     },
     {

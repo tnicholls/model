@@ -7,7 +7,7 @@
   "team2": "FUSION X",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "North\u2013Lower Final",
-  "captured_at": "2026-08-16T20:48:03.448311+00:00",
+  "captured_at": "2026-08-16T21:04:35.783743+00:00",
   "lines": [
     {
       "match_id": 730322,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "No Sweat Blossom",
       "team_tag": "NOS",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6658595641646489,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6609756097560976,
       "source": "match:730322"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FUSION X",
       "team_tag": "FSX",
-      "decimal_odds": 2.75,
+      "decimal_odds": 2.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36363636363636365,
-      "implied_prob_fair": 0.334140435835351,
+      "implied_prob_raw": 0.36900369003690037,
+      "implied_prob_fair": 0.3390243902439024,
       "source": "match:730322"
     }
   ]
