@@ -7,7 +7,7 @@
   "team2": "NPC TEAM",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "South\u2013Lower Final",
-  "captured_at": "2026-08-16T21:04:22.583719+00:00",
+  "captured_at": "2026-08-16T21:52:57.899855+00:00",
   "lines": [
     {
       "match_id": 730329,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8651399491094147,
+      "implied_prob_fair": 0.8688118811881188,
       "source": "match:730329"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "NPC TEAM",
       "team_tag": "NPC",
-      "decimal_odds": 6.8,
+      "decimal_odds": 7.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14705882352941177,
-      "implied_prob_fair": 0.13486005089058525,
+      "implied_prob_raw": 0.14245014245014245,
+      "implied_prob_fair": 0.1311881188118812,
       "source": "match:730329"
     }
   ]
