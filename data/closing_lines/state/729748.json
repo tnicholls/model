@@ -7,7 +7,7 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-16T20:31:11.234338+00:00",
+  "captured_at": "2026-08-16T20:47:43.667185+00:00",
   "lines": [
     {
       "match_id": 729748,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7186147186147186,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.748995983935743,
       "source": "match:729748"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 3.32,
+      "decimal_odds": 3.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30120481927710846,
-      "implied_prob_fair": 0.28138528138528146,
+      "implied_prob_raw": 0.2680965147453083,
+      "implied_prob_fair": 0.25100401606425704,
       "source": "match:729748"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7368421052631579,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:729748"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.26315789473684204,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:729748"
     },
     {
