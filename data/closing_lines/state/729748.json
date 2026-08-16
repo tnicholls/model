@@ -7,7 +7,7 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-16T22:25:49.802571+00:00",
+  "captured_at": "2026-08-16T23:14:03.361009+00:00",
   "lines": [
     {
       "match_id": 729748,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8478561549100968,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6626794258373206,
       "source": "match:729748"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 6.13,
+      "decimal_odds": 2.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1631321370309951,
-      "implied_prob_fair": 0.15214384508990317,
+      "implied_prob_raw": 0.36101083032490977,
+      "implied_prob_fair": 0.33732057416267947,
       "source": "match:729748"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8536585365853657,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:729748"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 6.3,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15873015873015872,
-      "implied_prob_fair": 0.14634146341463414,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:729748"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8684863523573201,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:729748"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 7.0,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.1315136476426799,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:729748"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8531375166889186,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6446078431372548,
       "source": "match:729748"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 6.39,
+      "decimal_odds": 2.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1564945226917058,
-      "implied_prob_fair": 0.14686248331108145,
+      "implied_prob_raw": 0.3802281368821293,
+      "implied_prob_fair": 0.35539215686274506,
       "source": "match:729748"
     }
   ]

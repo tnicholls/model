@@ -7,8 +7,36 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-16T22:25:54.587047+00:00",
+  "captured_at": "2026-08-16T23:14:08.108394+00:00",
   "lines": [
+    {
+      "match_id": 732797,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51404",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7405857740585775,
+      "source": "match:732797"
+    },
+    {
+      "match_id": 732797,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51404",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 3.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2824858757062147,
+      "implied_prob_fair": 0.2594142259414226,
+      "source": "match:732797"
+    },
     {
       "match_id": 732797,
       "bookmaker": "rainbet",
