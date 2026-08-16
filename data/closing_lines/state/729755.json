@@ -1,0 +1,41 @@
+{
+  "match_id": 729755,
+  "match_url": "/729755/kr-esports-vs-fluxo-w7m-vct-2026-americas-stage-2-lr1",
+  "date_display": "Thu, August 20, 2026",
+  "time_display": "8:00 PM",
+  "team1": "KR\u00dc Esports",
+  "team2": "Fluxo W7M",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Lower Round 1",
+  "captured_at": "2026-08-16T01:24:26.477654+00:00",
+  "lines": [
+    {
+      "match_id": 729755,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51372",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.718954248366013,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51372",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 3.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.28104575163398693,
+      "source": "match:729755"
+    }
+  ]
+}

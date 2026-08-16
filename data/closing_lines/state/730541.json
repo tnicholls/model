@@ -7,7 +7,7 @@
   "team2": "FULL SENSE",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-15T22:37:05.090480+00:00",
+  "captured_at": "2026-08-16T01:07:44.899889+00:00",
   "lines": [
     {
       "match_id": 730541,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 730541,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51373",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.626865671641791,
+      "source": "match:730541"
+    },
+    {
+      "match_id": 730541,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51373",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 2.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.3731343283582089,
+      "source": "match:730541"
+    },
+    {
+      "match_id": 730541,
       "bookmaker": "1x",
       "bet_url": "/rr/bet/51281",
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6635730858468678,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.6089108910891088,
       "source": "match:730541"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 2.86,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3496503496503497,
-      "implied_prob_fair": 0.3364269141531323,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.39108910891089105,
       "source": "match:730541"
     }
   ]

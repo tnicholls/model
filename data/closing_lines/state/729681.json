@@ -7,8 +7,36 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-15T22:37:09.598571+00:00",
+  "captured_at": "2026-08-16T01:07:49.799023+00:00",
   "lines": [
+    {
+      "match_id": 729681,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51364",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5608465608465608,
+      "source": "match:729681"
+    },
+    {
+      "match_id": 729681,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51364",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 2.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4391534391534391,
+      "source": "match:729681"
+    },
     {
       "match_id": 729681,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.61,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5839793281653746,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5876288659793815,
       "source": "match:729681"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.26,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4424778761061947,
-      "implied_prob_fair": 0.4160206718346253,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4123711340206186,
       "source": "match:729681"
     },
     {
@@ -100,11 +128,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.61,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5903307888040712,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5758354755784061,
       "source": "match:729681"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4096692111959288,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.42416452442159375,
       "source": "match:729681"
     }
   ]

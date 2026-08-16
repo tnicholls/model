@@ -1,0 +1,41 @@
+{
+  "match_id": 729750,
+  "match_url": "/729750/mibr-vs-envy-vct-2026-americas-stage-2-ubsf",
+  "date_display": "Fri, August 21, 2026",
+  "time_display": "5:00 PM",
+  "team1": "MIBR",
+  "team2": "ENVY",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Upper Semifinals",
+  "captured_at": "2026-08-16T01:24:37.985914+00:00",
+  "lines": [
+    {
+      "match_id": 729750,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51376",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7559523809523809,
+      "source": "match:729750"
+    },
+    {
+      "match_id": 729750,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51376",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 3.81,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.26246719160104987,
+      "implied_prob_fair": 0.24404761904761904,
+      "source": "match:729750"
+    }
+  ]
+}

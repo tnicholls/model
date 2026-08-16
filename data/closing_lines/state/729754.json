@@ -1,0 +1,41 @@
+{
+  "match_id": 729754,
+  "match_url": "/729754/sentinels-vs-2game-esports-vct-2026-americas-stage-2-lr1",
+  "date_display": "Thu, August 20, 2026",
+  "time_display": "5:00 PM",
+  "team1": "Sentinels",
+  "team2": "2Game Esports",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Lower Round 1",
+  "captured_at": "2026-08-16T01:24:24.831464+00:00",
+  "lines": [
+    {
+      "match_id": 729754,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51375",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7142857142857143,
+      "source": "match:729754"
+    },
+    {
+      "match_id": 729754,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51375",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 3.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3076923076923077,
+      "implied_prob_fair": 0.28571428571428575,
+      "source": "match:729754"
+    }
+  ]
+}
