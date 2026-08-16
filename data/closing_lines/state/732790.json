@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T15:51:26.576466+00:00",
+  "captured_at": "2026-08-16T16:07:57.276987+00:00",
   "lines": [
     {
       "match_id": 732790,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3430656934306569,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.3659147869674186,
       "source": "match:732790"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.656934306569343,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6340852130325814,
       "source": "match:732790"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.5,
+      "decimal_odds": 2.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6240601503759399,
+      "implied_prob_raw": 0.35335689045936397,
+      "implied_prob_fair": 0.33096926713947994,
       "source": "match:732790"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.49,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4016064257028112,
-      "implied_prob_fair": 0.37593984962406013,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6690307328605202,
       "source": "match:732790"
     }
   ]
