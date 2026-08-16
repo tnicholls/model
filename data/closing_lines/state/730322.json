@@ -1,0 +1,41 @@
+{
+  "match_id": 730322,
+  "match_url": "/730322/no-sweat-blossom-vs-fusion-x-game-changers-2026-latam-main-event-lbf",
+  "date_display": "Tue, August 18, 2026",
+  "time_display": "6:00 PM",
+  "team1": "No Sweat Blossom",
+  "team2": "FUSION X",
+  "event_name": "Game Changers 2026: LATAM Main Event",
+  "series": "North\u2013Lower Final",
+  "captured_at": "2026-08-16T15:35:20.247194+00:00",
+  "lines": [
+    {
+      "match_id": 730322,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51396",
+      "stage": "pre-match",
+      "team": "No Sweat Blossom",
+      "team_tag": "NOS",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6658595641646489,
+      "source": "match:730322"
+    },
+    {
+      "match_id": 730322,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51396",
+      "stage": "pre-match",
+      "team": "FUSION X",
+      "team_tag": "FSX",
+      "decimal_odds": 2.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.36363636363636365,
+      "implied_prob_fair": 0.334140435835351,
+      "source": "match:730322"
+    }
+  ]
+}
