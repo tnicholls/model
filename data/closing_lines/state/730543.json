@@ -7,8 +7,36 @@
   "team2": "Sharper Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T15:02:50.609672+00:00",
+  "captured_at": "2026-08-16T15:19:19.527980+00:00",
   "lines": [
+    {
+      "match_id": 730543,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51349",
+      "stage": "pre-match",
+      "team": "KIWOOM DRX",
+      "team_tag": "KRX",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.581578947368421,
+      "source": "match:730543"
+    },
+    {
+      "match_id": 730543,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51349",
+      "stage": "pre-match",
+      "team": "Sharper Esports",
+      "team_tag": "SP",
+      "decimal_odds": 2.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.45248868778280543,
+      "implied_prob_fair": 0.4184210526315789,
+      "source": "match:730543"
+    },
     {
       "match_id": 730543,
       "bookmaker": "rainbet",
