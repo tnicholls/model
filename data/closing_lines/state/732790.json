@@ -7,8 +7,36 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T16:24:27.073908+00:00",
+  "captured_at": "2026-08-16T16:40:54.778568+00:00",
   "lines": [
+    {
+      "match_id": 732790,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51266",
+      "stage": "live",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5676392572944297,
+      "source": "match:732790"
+    },
+    {
+      "match_id": 732790,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51266",
+      "stage": "live",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4323607427055703,
+      "source": "match:732790"
+    },
     {
       "match_id": 732790,
       "bookmaker": "rainbet",
@@ -100,11 +128,11 @@
       "stage": "live",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.98,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.47200000000000003,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5437665782493368,
       "source": "match:732790"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.77,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.528,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.4562334217506631,
       "source": "match:732790"
     }
   ]

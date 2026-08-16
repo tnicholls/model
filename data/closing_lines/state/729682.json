@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-16T16:24:28.592147+00:00",
+  "captured_at": "2026-08-16T16:40:56.328997+00:00",
   "lines": [
     {
       "match_id": 729682,
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7899461400359067,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9074410163339383,
       "source": "match:729682"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 4.4,
+      "decimal_odds": 10.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22727272727272727,
-      "implied_prob_fair": 0.21005385996409334,
+      "implied_prob_raw": 0.1,
+      "implied_prob_fair": 0.09255898366606172,
       "source": "match:729682"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7899461400359067,
+      "implied_prob_raw": 0.9900990099009901,
+      "implied_prob_fair": 0.9082652134423251,
       "source": "match:729682"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 4.4,
+      "decimal_odds": 10.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22727272727272727,
-      "implied_prob_fair": 0.21005385996409334,
+      "implied_prob_raw": 0.1,
+      "implied_prob_fair": 0.09173478655767484,
       "source": "match:729682"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8412921348314607,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9320905459387483,
       "source": "match:729682"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 5.99,
+      "decimal_odds": 14.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1669449081803005,
-      "implied_prob_fair": 0.15870786516853932,
+      "implied_prob_raw": 0.07142857142857142,
+      "implied_prob_fair": 0.06790945406125166,
       "source": "match:729682"
     }
   ]
