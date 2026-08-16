@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-16T14:45:34.167977+00:00",
+  "captured_at": "2026-08-16T15:02:00.836219+00:00",
   "lines": [
     {
       "match_id": 729682,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.4866310160427808,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.48128342245989303,
       "source": "match:729682"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.82,
+      "decimal_odds": 1.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5133689839572192,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5187165775401069,
       "source": "match:729682"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.81,
+      "decimal_odds": 1.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5524861878453039,
-      "implied_prob_fair": 0.519893899204244,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48670212765957455,
       "source": "match:729682"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.48010610079575594,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5132978723404255,
       "source": "match:729682"
     },
     {
