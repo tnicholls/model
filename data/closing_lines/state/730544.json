@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T22:10:10.643485+00:00",
+  "captured_at": "2026-08-16T22:26:41.046104+00:00",
   "lines": [
     {
       "match_id": 730544,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5307262569832403,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5378151260504201,
       "source": "match:730544"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.9,
+      "decimal_odds": 1.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4692737430167598,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.46218487394957986,
       "source": "match:730544"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.533678756476684,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5362694300518135,
       "source": "match:730544"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.46632124352331605,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.46373056994818657,
       "source": "match:730544"
     }
   ]
