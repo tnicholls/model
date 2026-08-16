@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T07:00:59.462919+00:00",
+  "captured_at": "2026-08-16T13:23:30.201691+00:00",
   "lines": [
     {
       "match_id": 732790,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.522911051212938,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5256064690026954,
       "source": "match:732790"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.94,
+      "decimal_odds": 1.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5154639175257733,
-      "implied_prob_fair": 0.47708894878706204,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.4743935309973046,
       "source": "match:732790"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5191256830601093,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5392953929539295,
       "source": "match:732790"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.9,
+      "decimal_odds": 1.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4808743169398907,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.46070460704607036,
       "source": "match:732790"
     }
   ]

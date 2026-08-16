@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T07:16:58.753047+00:00",
+  "captured_at": "2026-08-16T13:34:20.254742+00:00",
   "lines": [
     {
       "match_id": 729755,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.30303030303030304,
       "implied_prob_fair": 0.28104575163398693,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51386",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7278481012658228,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51386",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 3.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2898550724637681,
+      "implied_prob_fair": 0.2721518987341772,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51388",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51388",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 3.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
       "source": "match:729755"
     },
     {

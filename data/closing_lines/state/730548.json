@@ -7,36 +7,8 @@
   "team2": "Xipto Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-16T07:16:52.293391+00:00",
+  "captured_at": "2026-08-16T13:34:13.898529+00:00",
   "lines": [
-    {
-      "match_id": 730548,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51334",
-      "stage": "pre-match",
-      "team": "ZETA DIVISION",
-      "team_tag": "ZETA",
-      "decimal_odds": 1.79,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5162162162162162,
-      "source": "match:730548"
-    },
-    {
-      "match_id": 730548,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51334",
-      "stage": "pre-match",
-      "team": "Xipto Esports",
-      "team_tag": "XIP",
-      "decimal_odds": 1.91,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.4837837837837838,
-      "source": "match:730548"
-    },
     {
       "match_id": 730548,
       "bookmaker": "rainbet",
