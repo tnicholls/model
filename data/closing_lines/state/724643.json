@@ -7,7 +7,7 @@
   "team2": "Bilibili Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T13:24:00.532405+00:00",
+  "captured_at": "2026-08-16T14:46:02.279260+00:00",
   "lines": [
     {
       "match_id": 724643,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5874673629242819,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5822454308093995,
       "source": "match:724643"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 2.25,
+      "decimal_odds": 2.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.41253263707571797,
+      "implied_prob_raw": 0.4484304932735426,
+      "implied_prob_fair": 0.41775456919060056,
       "source": "match:724643"
     },
     {

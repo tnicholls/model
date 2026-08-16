@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T13:23:33.071570+00:00",
+  "captured_at": "2026-08-16T14:45:35.740406+00:00",
   "lines": [
     {
       "match_id": 732791,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 3.21,
+      "decimal_odds": 3.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3115264797507788,
-      "implied_prob_fair": 0.2882483370288248,
+      "implied_prob_raw": 0.31545741324921134,
+      "implied_prob_fair": 0.2924107142857143,
       "source": "match:732791"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7117516629711751,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7075892857142857,
       "source": "match:732791"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 3.1,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.32860520094562645,
       "source": "match:732791"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6713947990543735,
       "source": "match:732791"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 3.1,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3301435406698564,
       "source": "match:732791"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6698564593301435,
       "source": "match:732791"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.9,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.3062200956937799,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.32835820895522383,
       "source": "match:732791"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.69377990430622,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6716417910447761,
       "source": "match:732791"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.99,
+      "decimal_odds": 2.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33444816053511706,
-      "implied_prob_fair": 0.3062645011600928,
+      "implied_prob_raw": 0.3460207612456747,
+      "implied_prob_fair": 0.31678486997635935,
       "source": "match:732791"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6937354988399071,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.6832151300236406,
       "source": "match:732791"
     }
   ]

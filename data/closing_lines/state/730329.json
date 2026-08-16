@@ -1,0 +1,41 @@
+{
+  "match_id": 730329,
+  "match_url": "/730329/looking-for-laburo-vs-npc-team-game-changers-2026-latam-main-event-lbf",
+  "date_display": "Mon, August 17, 2026",
+  "time_display": "3:00 PM",
+  "team1": "Looking For Laburo",
+  "team2": "NPC TEAM",
+  "event_name": "Game Changers 2026: LATAM Main Event",
+  "series": "South\u2013Lower Final",
+  "captured_at": "2026-08-16T14:45:43.550848+00:00",
+  "lines": [
+    {
+      "match_id": 730329,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51395",
+      "stage": "pre-match",
+      "team": "Looking For Laburo",
+      "team_tag": "LFL",
+      "decimal_odds": 1.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8666666666666667,
+      "source": "match:730329"
+    },
+    {
+      "match_id": 730329,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51395",
+      "stage": "pre-match",
+      "team": "NPC TEAM",
+      "team_tag": "NPC",
+      "decimal_odds": 6.89,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.14513788098693758,
+      "implied_prob_fair": 0.13333333333333333,
+      "source": "match:730329"
+    }
+  ]
+}
