@@ -7,7 +7,7 @@
   "team2": "JD Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-16T21:53:13.379477+00:00",
+  "captured_at": "2026-08-16T22:09:42.033442+00:00",
   "lines": [
     {
       "match_id": 724642,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6051282051282051,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6015424164524421,
       "source": "match:724642"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.36,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.3948717948717949,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.39845758354755784,
       "source": "match:724642"
     },
     {
