@@ -7,8 +7,36 @@
   "team2": "FUT Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-17T01:32:34.113865+00:00",
+  "captured_at": "2026-08-17T01:49:05.808918+00:00",
   "lines": [
+    {
+      "match_id": 731396,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51415",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.77,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.5241935483870968,
+      "source": "match:731396"
+    },
+    {
+      "match_id": 731396,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51415",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.47580645161290325,
+      "source": "match:731396"
+    },
     {
       "match_id": 731396,
       "bookmaker": "rainbet",
@@ -35,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.5102040816326531,
       "implied_prob_fair": 0.48010610079575594,
+      "source": "match:731396"
+    },
+    {
+      "match_id": 731396,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51444",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.527027027027027,
+      "source": "match:731396"
+    },
+    {
+      "match_id": 731396,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51444",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.47297297297297297,
       "source": "match:731396"
     },
     {
