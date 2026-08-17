@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-17T03:56:53.760532+00:00",
+  "captured_at": "2026-08-17T04:13:26.319731+00:00",
   "lines": [
     {
       "match_id": 732797,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7443298969072164,
+      "implied_prob_fair": 0.7422037422037422,
       "source": "match:732797"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 3.61,
+      "decimal_odds": 3.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2770083102493075,
-      "implied_prob_fair": 0.2556701030927835,
+      "implied_prob_raw": 0.2801120448179272,
+      "implied_prob_fair": 0.2577962577962578,
       "source": "match:732797"
     },
     {

@@ -7,8 +7,36 @@
   "team2": "FUT Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-17T03:57:29.616760+00:00",
+  "captured_at": "2026-08-17T04:14:02.335110+00:00",
   "lines": [
+    {
+      "match_id": 731396,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51415",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.77,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.5241935483870968,
+      "source": "match:731396"
+    },
+    {
+      "match_id": 731396,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51415",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.47580645161290325,
+      "source": "match:731396"
+    },
     {
       "match_id": 731396,
       "bookmaker": "rainbet",
