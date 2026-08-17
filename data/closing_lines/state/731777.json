@@ -1,0 +1,69 @@
+{
+  "match_id": 731777,
+  "match_url": "/731777/evils-of-delusion-vs-arashi-gc-game-changers-2026-brazil-finals-lr1",
+  "date_display": "Mon, August 17, 2026",
+  "time_display": "7:00 PM",
+  "team1": "Evils of Delusion",
+  "team2": "Arashi GC",
+  "event_name": "Game Changers 2026: Brazil Finals",
+  "series": "Main Event\u2013Lower Round 1",
+  "captured_at": "2026-08-17T01:32:05.421483+00:00",
+  "lines": [
+    {
+      "match_id": 731777,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51440",
+      "stage": "pre-match",
+      "team": "Evils of Delusion",
+      "team_tag": "EVIL",
+      "decimal_odds": 2.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3842239185750636,
+      "source": "match:731777"
+    },
+    {
+      "match_id": 731777,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51440",
+      "stage": "pre-match",
+      "team": "Arashi GC",
+      "team_tag": "ARS",
+      "decimal_odds": 1.51,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6157760814249365,
+      "source": "match:731777"
+    },
+    {
+      "match_id": 731777,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51436",
+      "stage": "pre-match",
+      "team": "Evils of Delusion",
+      "team_tag": "EVIL",
+      "decimal_odds": 2.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.38666666666666666,
+      "source": "match:731777"
+    },
+    {
+      "match_id": 731777,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51436",
+      "stage": "pre-match",
+      "team": "Arashi GC",
+      "team_tag": "ARS",
+      "decimal_odds": 1.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6133333333333333,
+      "source": "match:731777"
+    }
+  ]
+}

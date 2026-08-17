@@ -1,0 +1,69 @@
+{
+  "match_id": 731772,
+  "match_url": "/731772/mibr-gc-vs-ushiras-game-changers-2026-brazil-finals-ubsf",
+  "date_display": "Tue, August 18, 2026",
+  "time_display": "4:00 PM",
+  "team1": "MIBR GC",
+  "team2": "Ushiras",
+  "event_name": "Game Changers 2026: Brazil Finals",
+  "series": "Main Event\u2013Upper Semifinals",
+  "captured_at": "2026-08-17T01:32:11.585522+00:00",
+  "lines": [
+    {
+      "match_id": 731772,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51441",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.9012464046021093,
+      "source": "match:731772"
+    },
+    {
+      "match_id": 731772,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51441",
+      "stage": "pre-match",
+      "team": "Ushiras",
+      "team_tag": "USHI",
+      "decimal_odds": 9.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.10638297872340426,
+      "implied_prob_fair": 0.09875359539789069,
+      "source": "match:731772"
+    },
+    {
+      "match_id": 731772,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51438",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.8728179551122194,
+      "source": "match:731772"
+    },
+    {
+      "match_id": 731772,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51438",
+      "stage": "pre-match",
+      "team": "Ushiras",
+      "team_tag": "USHI",
+      "decimal_odds": 7.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.14285714285714285,
+      "implied_prob_fair": 0.12718204488778054,
+      "source": "match:731772"
+    }
+  ]
+}
