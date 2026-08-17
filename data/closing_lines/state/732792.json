@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-08-17T04:46:39.941322+00:00",
+  "captured_at": "2026-08-17T06:40:41.685084+00:00",
   "lines": [
     {
       "match_id": 732792,
@@ -119,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.4444444444444444,
       "implied_prob_fair": 0.3967828418230563,
+      "source": "match:732792"
+    },
+    {
+      "match_id": 732792,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51454",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.5973684210526315,
+      "source": "match:732792"
+    },
+    {
+      "match_id": 732792,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51454",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 2.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4026315789473684,
       "source": "match:732792"
     }
   ]

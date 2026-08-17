@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-17T04:46:28.470312+00:00",
+  "captured_at": "2026-08-17T06:24:36.800192+00:00",
   "lines": [
     {
       "match_id": 732796,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.39276485788113696,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.3953488372093023,
       "source": "match:732796"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6072351421188631,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6046511627906976,
       "source": "match:732796"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.16,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4629629629629629,
-      "implied_prob_fair": 0.43007915567282323,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.37878787878787873,
       "source": "match:732796"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5699208443271768,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6212121212121211,
       "source": "match:732796"
     },
     {
@@ -119,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.6666666666666666,
       "implied_prob_fair": 0.5945945945945946,
+      "source": "match:732796"
+    },
+    {
+      "match_id": 732796,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51452",
+      "stage": "pre-match",
+      "team": "GIANTX GC",
+      "team_tag": "GX.G",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.38961038961038963,
+      "source": "match:732796"
+    },
+    {
+      "match_id": 732796,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51452",
+      "stage": "pre-match",
+      "team": "FOKUS Sakura",
+      "team_tag": "FKS.",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6103896103896104,
       "source": "match:732796"
     }
   ]
