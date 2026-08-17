@@ -7,7 +7,7 @@
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-17T02:38:58.178464+00:00",
+  "captured_at": "2026-08-17T02:55:29.038082+00:00",
   "lines": [
     {
       "match_id": 729749,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 1.33,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.7017937219730942,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7469635627530365,
       "source": "match:729749"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 3.13,
+      "decimal_odds": 3.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3194888178913738,
-      "implied_prob_fair": 0.29820627802690586,
+      "implied_prob_raw": 0.2710027100271003,
+      "implied_prob_fair": 0.2530364372469636,
       "source": "match:729749"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6634844868735083,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7721280602636534,
       "source": "match:729749"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 2.78,
+      "decimal_odds": 4.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3597122302158274,
-      "implied_prob_fair": 0.33651551312649164,
+      "implied_prob_raw": 0.24390243902439027,
+      "implied_prob_fair": 0.2278719397363465,
       "source": "match:729749"
     }
   ]

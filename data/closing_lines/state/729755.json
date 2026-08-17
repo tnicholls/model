@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-17T02:39:41.423796+00:00",
+  "captured_at": "2026-08-17T02:56:13.209747+00:00",
   "lines": [
     {
       "match_id": 729755,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.6829268292682926,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6716417910447761,
       "source": "match:729755"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.8,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3170731707317073,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.32835820895522383,
       "source": "match:729755"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6872146118721462,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.675990675990676,
       "source": "match:729755"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 3.01,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33222591362126247,
-      "implied_prob_fair": 0.3127853881278539,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.324009324009324,
       "source": "match:729755"
     }
   ]

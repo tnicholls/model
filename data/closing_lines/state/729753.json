@@ -7,7 +7,7 @@
   "team2": "M80",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-17T02:22:57.652049+00:00",
+  "captured_at": "2026-08-17T02:56:00.153766+00:00",
   "lines": [
     {
       "match_id": 729753,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7559523809523809,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7910714285714286,
       "source": "match:729753"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "M80",
       "team_tag": "M80",
-      "decimal_odds": 3.81,
+      "decimal_odds": 4.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26246719160104987,
-      "implied_prob_fair": 0.24404761904761904,
+      "implied_prob_raw": 0.22573363431151244,
+      "implied_prob_fair": 0.20892857142857144,
       "source": "match:729753"
     }
   ]

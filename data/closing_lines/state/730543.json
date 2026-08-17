@@ -7,7 +7,7 @@
   "team2": "Sharper Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-17T02:39:44.532910+00:00",
+  "captured_at": "2026-08-17T02:56:16.318429+00:00",
   "lines": [
     {
       "match_id": 730543,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.581578947368421,
+      "implied_prob_fair": 0.5826771653543307,
       "source": "match:730543"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Sharper Esports",
       "team_tag": "SP",
-      "decimal_odds": 2.21,
+      "decimal_odds": 2.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45248868778280543,
-      "implied_prob_fair": 0.4184210526315789,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.41732283464566927,
       "source": "match:730543"
     },
     {
