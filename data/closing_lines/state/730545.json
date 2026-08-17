@@ -7,8 +7,36 @@
   "team2": "ONSIDE GAMING",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-17T01:48:49.700709+00:00",
+  "captured_at": "2026-08-17T02:22:49.585595+00:00",
   "lines": [
+    {
+      "match_id": 730545,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51391",
+      "stage": "pre-match",
+      "team": "Team Secret",
+      "team_tag": "TS",
+      "decimal_odds": 2.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.44652406417112295,
+      "source": "match:730545"
+    },
+    {
+      "match_id": 730545,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51391",
+      "stage": "pre-match",
+      "team": "ONSIDE GAMING",
+      "team_tag": "ONG",
+      "decimal_odds": 1.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.553475935828877,
+      "source": "match:730545"
+    },
     {
       "match_id": 730545,
       "bookmaker": "rainbet",
