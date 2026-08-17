@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-17T02:23:07.331184+00:00",
+  "captured_at": "2026-08-17T02:39:38.117804+00:00",
   "lines": [
     {
       "match_id": 731397,
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6635294117647058,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6997792494481236,
       "source": "match:731397"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.82,
+      "decimal_odds": 3.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3364705882352941,
+      "implied_prob_raw": 0.31545741324921134,
+      "implied_prob_fair": 0.3002207505518764,
       "source": "match:731397"
     }
   ]
