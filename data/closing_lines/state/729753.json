@@ -1,0 +1,41 @@
+{
+  "match_id": 729753,
+  "match_url": "/729753/g2-esports-vs-m80-vct-2026-americas-stage-2-lr1",
+  "date_display": "Wed, August 19, 2026",
+  "time_display": "8:00 PM",
+  "team1": "G2 Esports",
+  "team2": "M80",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Lower Round 1",
+  "captured_at": "2026-08-17T00:42:07.839975+00:00",
+  "lines": [
+    {
+      "match_id": 729753,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51423",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7559523809523809,
+      "source": "match:729753"
+    },
+    {
+      "match_id": 729753,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51423",
+      "stage": "pre-match",
+      "team": "M80",
+      "team_tag": "M80",
+      "decimal_odds": 3.81,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.26246719160104987,
+      "implied_prob_fair": 0.24404761904761904,
+      "source": "match:729753"
+    }
+  ]
+}
