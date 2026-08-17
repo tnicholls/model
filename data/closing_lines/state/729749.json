@@ -2,12 +2,12 @@
   "match_id": 729749,
   "match_url": "/729749/evil-geniuses-vs-cloud9-vct-2026-americas-stage-2-ubqf",
   "date_display": "Sun, August 16, 2026",
-  "time_display": "8:00 PM",
+  "time_display": "8:45 PM",
   "team1": "Evil Geniuses",
   "team2": "Cloud9",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-16T23:59:25.612202+00:00",
+  "captured_at": "2026-08-17T00:15:55.801894+00:00",
   "lines": [
     {
       "match_id": 729749,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 2.17,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4608294930875576,
-      "implied_prob_fair": 0.43044619422572183,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.42558746736292424,
       "source": "match:729749"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5695538057742783,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5744125326370757,
       "source": "match:729749"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44210526315789467,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4383202099737532,
       "source": "match:729749"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5578947368421052,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5616797900262467,
       "source": "match:729749"
     },
     {
