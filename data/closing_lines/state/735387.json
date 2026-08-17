@@ -7,7 +7,7 @@
   "team2": "SEN Otters",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Swiss Stage\u2013Round 7 (3-3)",
-  "captured_at": "2026-08-17T03:12:08.332513+00:00",
+  "captured_at": "2026-08-17T03:56:58.555748+00:00",
   "lines": [
     {
       "match_id": 735387,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9 GC",
       "team_tag": "C9",
-      "decimal_odds": 2.21,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45248868778280543,
-      "implied_prob_fair": 0.41994750656167984,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.42480211081794195,
       "source": "match:735387"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SEN Otters",
       "team_tag": "SOTR",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5800524934383202,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.575197889182058,
       "source": "match:735387"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "FOKUS Sakura",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-17T03:12:02.112921+00:00",
+  "captured_at": "2026-08-17T03:56:52.105704+00:00",
   "lines": [
     {
       "match_id": 732796,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX GC",
       "team_tag": "GX.G",
-      "decimal_odds": 2.17,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4608294930875576,
-      "implied_prob_fair": 0.4244031830238727,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.39843750000000006,
       "source": "match:732796"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FOKUS Sakura",
       "team_tag": "FKS.",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5755968169761273,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6015625000000001,
       "source": "match:732796"
     },
     {

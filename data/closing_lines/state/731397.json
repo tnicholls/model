@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-17T03:12:39.371817+00:00",
+  "captured_at": "2026-08-17T03:57:31.266163+00:00",
   "lines": [
     {
       "match_id": 731397,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6585365853658537,
       "source": "match:731397"
     },
     {
@@ -86,39 +86,39 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
-      "source": "match:731397"
-    },
-    {
-      "match_id": 731397,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51420",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6716417910447761,
-      "source": "match:731397"
-    },
-    {
-      "match_id": 731397,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51420",
-      "stage": "pre-match",
-      "team": "Enterprise Esports",
-      "team_tag": "EP",
       "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.32835820895522383,
+      "implied_prob_fair": 0.3414634146341463,
+      "source": "match:731397"
+    },
+    {
+      "match_id": 731397,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51420",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6443298969072165,
+      "source": "match:731397"
+    },
+    {
+      "match_id": 731397,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51420",
+      "stage": "pre-match",
+      "team": "Enterprise Esports",
+      "team_tag": "EP",
+      "decimal_odds": 2.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.3556701030927835,
       "source": "match:731397"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6997792494481236,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6635294117647058,
       "source": "match:731397"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 3.17,
+      "decimal_odds": 2.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31545741324921134,
-      "implied_prob_fair": 0.3002207505518764,
+      "implied_prob_raw": 0.3546099290780142,
+      "implied_prob_fair": 0.3364705882352941,
       "source": "match:731397"
     }
   ]

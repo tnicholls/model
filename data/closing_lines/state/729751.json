@@ -1,0 +1,41 @@
+{
+  "match_id": 729751,
+  "match_url": "/729751/furia-vs-evil-geniuses-vct-2026-americas-stage-2-ubsf",
+  "date_display": "Fri, August 21, 2026",
+  "time_display": "8:00 PM",
+  "team1": "FURIA",
+  "team2": "Evil Geniuses",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Upper Semifinals",
+  "captured_at": "2026-08-17T03:57:47.563148+00:00",
+  "lines": [
+    {
+      "match_id": 729751,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51451",
+      "stage": "pre-match",
+      "team": "FURIA",
+      "team_tag": "FUR",
+      "decimal_odds": 1.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5053763440860215,
+      "source": "match:729751"
+    },
+    {
+      "match_id": 729751,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51451",
+      "stage": "pre-match",
+      "team": "Evil Geniuses",
+      "team_tag": "EG",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.4946236559139785,
+      "source": "match:729751"
+    }
+  ]
+}
