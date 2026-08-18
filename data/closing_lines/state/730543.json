@@ -7,7 +7,7 @@
   "team2": "Sharper Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-17T06:41:15.914852+00:00",
+  "captured_at": "2026-08-18T21:11:45.067643+00:00",
   "lines": [
     {
       "match_id": 730543,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5826771653543307,
+      "implied_prob_fair": 0.5870129870129869,
       "source": "match:730543"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Sharper Esports",
       "team_tag": "SP",
-      "decimal_odds": 2.22,
+      "decimal_odds": 2.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.41732283464566927,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.41298701298701296,
       "source": "match:730543"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6180904522613065,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6354679802955665,
       "source": "match:730543"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Sharper Esports",
       "team_tag": "SP",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.38190954773869346,
+      "implied_prob_raw": 0.38759689922480617,
+      "implied_prob_fair": 0.36453201970443344,
       "source": "match:730543"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-17T06:40:54.917148+00:00",
+  "captured_at": "2026-08-18T21:11:24.792365+00:00",
   "lines": [
     {
       "match_id": 730546,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5240641711229947,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.5292553191489361,
       "source": "match:730546"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.47593582887700536,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.47074468085106375,
+      "source": "match:730546"
+    },
+    {
+      "match_id": 730546,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51478",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5654450261780105,
+      "source": "match:730546"
+    },
+    {
+      "match_id": 730546,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51478",
+      "stage": "pre-match",
+      "team": "Rex Regum Qeon",
+      "team_tag": "RRQ",
+      "decimal_odds": 2.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.4345549738219895,
       "source": "match:730546"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.5489690721649485,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5894206549118388,
       "source": "match:730546"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 2.13,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.4510309278350516,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.41057934508816124,
       "source": "match:730546"
     }
   ]

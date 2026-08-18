@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-17T06:41:12.662024+00:00",
+  "captured_at": "2026-08-18T21:11:42.049900+00:00",
   "lines": [
     {
       "match_id": 729755,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6947608200455582,
+      "implied_prob_fair": 0.6961451247165532,
       "source": "match:729755"
     },
     {
@@ -30,17 +30,45 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 3.05,
+      "decimal_odds": 3.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3278688524590164,
-      "implied_prob_fair": 0.305239179954442,
+      "implied_prob_raw": 0.32573289902280134,
+      "implied_prob_fair": 0.30385487528344673,
       "source": "match:729755"
     },
     {
       "match_id": 729755,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51386",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6880733944954128,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51386",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 3.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3333333333333333,
+      "implied_prob_fair": 0.3119266055045871,
+      "source": "match:729755"
+    },
+    {
+      "match_id": 729755,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51388",
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
@@ -48,35 +76,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7204301075268817,
-      "source": "match:729755"
-    },
-    {
-      "match_id": 729755,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/51386",
-      "stage": "pre-match",
-      "team": "Fluxo W7M",
-      "team_tag": "FX",
-      "decimal_odds": 3.35,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.29850746268656714,
-      "implied_prob_fair": 0.27956989247311825,
-      "source": "match:729755"
-    },
-    {
-      "match_id": 729755,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51388",
-      "stage": "pre-match",
-      "team": "KR\u00dc Esports",
-      "team_tag": "KR\u00dc",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6716417910447761,
+      "implied_prob_fair": 0.6829268292682926,
       "source": "match:729755"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.32835820895522383,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3170731707317073,
       "source": "match:729755"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.675990675990676,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6872146118721462,
       "source": "match:729755"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 2.9,
+      "decimal_odds": 3.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.324009324009324,
+      "implied_prob_raw": 0.33222591362126247,
+      "implied_prob_fair": 0.3127853881278539,
       "source": "match:729755"
     }
   ]
