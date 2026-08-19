@@ -7,7 +7,7 @@
   "team2": "QT DIG\u221e",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-19T08:54:38.925136+00:00",
+  "captured_at": "2026-08-19T14:08:26.524735+00:00",
   "lines": [
     {
       "match_id": 730547,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.6079404466501241,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5848101265822784,
       "source": "match:730547"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "QT DIG\u221e",
       "team_tag": "QTD",
-      "decimal_odds": 2.45,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4081632653061224,
-      "implied_prob_fair": 0.39205955334987597,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.41518987341772146,
       "source": "match:730547"
     }
   ]

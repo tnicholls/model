@@ -1,0 +1,41 @@
+{
+  "match_id": 730549,
+  "match_url": "/730549/onside-gaming-vs-full-sense-vct-2026-pacific-stage-2-lr2",
+  "date_display": "Sat, August 22, 2026",
+  "time_display": "4:00 AM",
+  "team1": "ONSIDE GAMING",
+  "team2": "FULL SENSE",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Play-Ins\u2013Lower Round 2",
+  "captured_at": "2026-08-19T14:25:27.483081+00:00",
+  "lines": [
+    {
+      "match_id": 730549,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51488",
+      "stage": "pre-match",
+      "team": "ONSIDE GAMING",
+      "team_tag": "ONG",
+      "decimal_odds": 2.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.37626262626262624,
+      "source": "match:730549"
+    },
+    {
+      "match_id": 730549,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51488",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6237373737373738,
+      "source": "match:730549"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-19T08:54:54.356786+00:00",
+  "captured_at": "2026-08-19T14:25:17.314310+00:00",
   "lines": [
     {
       "match_id": 730544,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5053475935828876,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5106951871657753,
       "source": "match:730544"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.89,
+      "decimal_odds": 1.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5291005291005292,
-      "implied_prob_fair": 0.4946524064171124,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.48930481283422456,
       "source": "match:730544"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "Fluxo W7M",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-19T08:54:47.977878+00:00",
+  "captured_at": "2026-08-19T14:08:36.300827+00:00",
   "lines": [
     {
       "match_id": 729755,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6961451247165532,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6828703703703703,
       "source": "match:729755"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 3.07,
+      "decimal_odds": 2.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.32573289902280134,
-      "implied_prob_fair": 0.30385487528344673,
+      "implied_prob_raw": 0.3389830508474576,
+      "implied_prob_fair": 0.3171296296296296,
       "source": "match:729755"
     },
     {

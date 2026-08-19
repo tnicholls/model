@@ -7,7 +7,7 @@
   "team2": "FUT Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-19T08:54:43.141612+00:00",
+  "captured_at": "2026-08-19T14:08:31.485495+00:00",
   "lines": [
     {
       "match_id": 731396,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5292553191489361,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5593667546174144,
       "source": "match:731396"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.47074468085106375,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.44063324538258575,
       "source": "match:731396"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5584415584415584,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5732647814910026,
       "source": "match:731396"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.44155844155844154,
+      "implied_prob_raw": 0.4484304932735426,
+      "implied_prob_fair": 0.42673521850899737,
       "source": "match:731396"
     }
   ]

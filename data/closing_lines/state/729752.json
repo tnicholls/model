@@ -7,7 +7,7 @@
   "team2": "BESTIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-19T08:36:54.999045+00:00",
+  "captured_at": "2026-08-19T14:08:21.639902+00:00",
   "lines": [
     {
       "match_id": 729752,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.18,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.7900355871886121,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.75,
       "source": "match:729752"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 4.44,
+      "decimal_odds": 3.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2252252252252252,
-      "implied_prob_fair": 0.20996441281138786,
+      "implied_prob_raw": 0.26666666666666666,
+      "implied_prob_fair": 0.25,
       "source": "match:729752"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.782608695652174,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7469879518072289,
       "source": "match:729752"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 4.32,
+      "decimal_odds": 3.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23148148148148145,
-      "implied_prob_fair": 0.21739130434782605,
+      "implied_prob_raw": 0.26881720430107525,
+      "implied_prob_fair": 0.25301204819277107,
       "source": "match:729752"
     }
   ]

@@ -1,0 +1,41 @@
+{
+  "match_id": 724649,
+  "match_url": "/724649/tyloo-vs-all-gamers-vct-2026-china-stage-2-lr2",
+  "date_display": "Thu, August 20, 2026",
+  "time_display": "6:00 AM",
+  "team1": "TYLOO",
+  "team2": "All Gamers",
+  "event_name": "VCT 2026: China Stage 2",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-08-19T14:08:28.183704+00:00",
+  "lines": [
+    {
+      "match_id": 724649,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51487",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 2.01,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49751243781094534,
+      "implied_prob_fair": 0.4611260053619303,
+      "source": "match:724649"
+    },
+    {
+      "match_id": 724649,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51487",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 1.72,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5388739946380697,
+      "source": "match:724649"
+    }
+  ]
+}
