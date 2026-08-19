@@ -7,7 +7,7 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-19T02:13:00.669187+00:00",
+  "captured_at": "2026-08-19T08:36:51.814694+00:00",
   "lines": [
     {
       "match_id": 730546,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5292553191489361,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5253333333333333,
       "source": "match:730546"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 1.99,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.47074468085106375,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4746666666666666,
       "source": "match:730546"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.544973544973545,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5343915343915343,
       "source": "match:730546"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.45502645502645506,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4656084656084655,
       "source": "match:730546"
     },
     {
