@@ -7,7 +7,7 @@
   "team2": "Rex Regum Qeon",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 1",
-  "captured_at": "2026-08-18T21:11:24.792365+00:00",
+  "captured_at": "2026-08-19T02:13:00.669187+00:00",
   "lines": [
     {
       "match_id": 730546,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5654450261780105,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.544973544973545,
       "source": "match:730546"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 2.16,
+      "decimal_odds": 2.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4629629629629629,
-      "implied_prob_fair": 0.4345549738219895,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.45502645502645506,
       "source": "match:730546"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5894206549118388,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5362694300518135,
       "source": "match:730546"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Rex Regum Qeon",
       "team_tag": "RRQ",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.41057934508816124,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.46373056994818657,
       "source": "match:730546"
     }
   ]
