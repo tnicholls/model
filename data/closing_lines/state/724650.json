@@ -7,12 +7,12 @@
   "team2": "TYLOO",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-20T14:31:56.678034+00:00",
+  "captured_at": "2026-08-20T20:50:19.872604+00:00",
   "lines": [
     {
       "match_id": 724650,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/51524",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51521",
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
@@ -20,7 +20,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5132978723404255,
+      "implied_prob_fair": 0.5093833780160857,
+      "source": "match:724650"
+    },
+    {
+      "match_id": 724650,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51521",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.49061662198391415,
+      "source": "match:724650"
+    },
+    {
+      "match_id": 724650,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51524",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5278514588859416,
       "source": "match:724650"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.93,
+      "decimal_odds": 1.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.48670212765957455,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.4721485411140583,
       "source": "match:724650"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.527027027027027,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5189189189189188,
       "source": "match:724650"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47297297297297297,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48108108108108105,
       "source": "match:724650"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5251396648044693,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5182072829131653,
       "source": "match:724650"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.88,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.47486033519553067,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.4817927170868347,
       "source": "match:724650"
     },
     {

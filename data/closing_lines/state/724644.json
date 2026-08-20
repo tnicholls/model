@@ -7,7 +7,7 @@
   "team2": "Bilibili Gaming",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-08-20T14:31:54.358165+00:00",
+  "captured_at": "2026-08-20T20:50:16.727495+00:00",
   "lines": [
     {
       "match_id": 724644,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.4629629629629629,
-      "implied_prob_fair": 0.43307086614173224,
+      "implied_prob_fair": 0.431578947368421,
       "source": "match:724644"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.65,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.5669291338582677,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5684210526315789,
       "source": "match:724644"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4297082228116711,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
       "source": "match:724644"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5702917771883289,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
       "source": "match:724644"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.43526170798898073,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.3967828418230563,
       "source": "match:724644"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5647382920110192,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6032171581769437,
       "source": "match:724644"
     },
     {
