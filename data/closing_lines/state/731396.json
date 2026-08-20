@@ -2,12 +2,12 @@
   "match_id": 731396,
   "match_url": "/731396/team-liquid-vs-fut-esports-vct-2026-emea-stage-2-ur1",
   "date_display": "Thu, August 20, 2026",
-  "time_display": "11:00 AM",
+  "time_display": "2:00 PM",
   "team1": "Team Liquid",
   "team2": "FUT Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-20T01:28:33.901456+00:00",
+  "captured_at": "2026-08-20T07:37:19.580145+00:00",
   "lines": [
     {
       "match_id": 731396,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5593667546174144,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5684210526315789,
       "source": "match:731396"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44063324538258575,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.431578947368421,
       "source": "match:731396"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5584415584415584,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5758354755784061,
       "source": "match:731396"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.44155844155844154,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.42416452442159375,
       "source": "match:731396"
     }
   ]

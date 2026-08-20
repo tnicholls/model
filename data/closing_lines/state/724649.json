@@ -7,7 +7,7 @@
   "team2": "All Gamers",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-20T01:28:30.584952+00:00",
+  "captured_at": "2026-08-20T07:20:07.982052+00:00",
   "lines": [
     {
       "match_id": 724649,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.91,
+      "decimal_odds": 1.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.48930481283422456,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.4946524064171124,
       "source": "match:724649"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5106951871657753,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5053475935828876,
       "source": "match:724649"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.48010610079575594,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.49468085106382986,
       "source": "match:724649"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.81,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5524861878453039,
-      "implied_prob_fair": 0.519893899204244,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.5053191489361702,
       "source": "match:724649"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47297297297297297,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:724649"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.527027027027027,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:724649"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 1.88,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.47486033519553067,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5,
       "source": "match:724649"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5251396648044693,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5,
       "source": "match:724649"
     },
     {
