@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-19T20:05:27.426243+00:00",
+  "captured_at": "2026-08-20T01:28:27.410458+00:00",
   "lines": [
     {
       "match_id": 724648,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5294117647058824,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5398936170212765,
       "source": "match:724648"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.47058823529411764,
+      "implied_prob_raw": 0.4926108374384237,
+      "implied_prob_fair": 0.46010638297872336,
       "source": "match:724648"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5278514588859416,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
       "source": "match:724648"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4721485411140583,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
       "source": "match:724648"
     },
     {

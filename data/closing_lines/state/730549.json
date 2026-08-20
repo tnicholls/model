@@ -7,7 +7,7 @@
   "team2": "FULL SENSE",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-19T20:05:55.240027+00:00",
+  "captured_at": "2026-08-20T01:45:59.781514+00:00",
   "lines": [
     {
       "match_id": 730549,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ONSIDE GAMING",
       "team_tag": "ONG",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.37626262626262624,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.39230769230769225,
       "source": "match:730549"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6237373737373738,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6076923076923076,
+      "source": "match:730549"
+    },
+    {
+      "match_id": 730549,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51509",
+      "stage": "pre-match",
+      "team": "ONSIDE GAMING",
+      "team_tag": "ONG",
+      "decimal_odds": 2.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4081632653061224,
+      "implied_prob_fair": 0.39205955334987597,
+      "source": "match:730549"
+    },
+    {
+      "match_id": 730549,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51509",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.6079404466501241,
       "source": "match:730549"
     }
   ]

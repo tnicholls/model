@@ -1,0 +1,41 @@
+{
+  "match_id": 729756,
+  "match_url": "/729756/bestia-vs-g2-esports-vct-2026-americas-stage-2-lr2",
+  "date_display": "Sat, August 22, 2026",
+  "time_display": "5:00 PM",
+  "team1": "BESTIA",
+  "team2": "G2 Esports",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Lower Round 2",
+  "captured_at": "2026-08-20T01:46:06.311828+00:00",
+  "lines": [
+    {
+      "match_id": 729756,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51511",
+      "stage": "pre-match",
+      "team": "BESTIA",
+      "team_tag": "BST",
+      "decimal_odds": 4.01,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24937655860349128,
+      "implied_prob_fair": 0.23180076628352494,
+      "source": "match:729756"
+    },
+    {
+      "match_id": 729756,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51511",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7681992337164751,
+      "source": "match:729756"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 732793,
+  "match_url": "/732793/gentle-mates-gc-vs-g2-gozen-game-changers-2026-emea-stage-3-gf",
+  "date_display": "Sun, August 30, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Gentle Mates GC",
+  "team2": "G2 Gozen",
+  "event_name": "Game Changers 2026: EMEA Stage 3",
+  "series": "Playoffs\u2013Grand Final",
+  "captured_at": "2026-08-20T02:04:03.325718+00:00",
+  "lines": [
+    {
+      "match_id": 732793,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51507",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5,
+      "source": "match:732793"
+    },
+    {
+      "match_id": 732793,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51507",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5,
+      "source": "match:732793"
+    }
+  ]
+}
