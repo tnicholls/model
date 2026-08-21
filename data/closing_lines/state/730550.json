@@ -7,7 +7,7 @@
   "team2": "ZETA DIVISION",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T16:27:07.604214+00:00",
+  "captured_at": "2026-08-21T16:43:25.534561+00:00",
   "lines": [
     {
       "match_id": 730550,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6452380952380953,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.624390243902439,
       "source": "match:730550"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.71,
+      "decimal_odds": 2.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36900369003690037,
-      "implied_prob_fair": 0.3547619047619047,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.375609756097561,
       "source": "match:730550"
     }
   ]
