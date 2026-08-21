@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-21T03:11:47.208309+00:00",
+  "captured_at": "2026-08-21T09:44:16.502608+00:00",
   "lines": [
     {
       "match_id": 731402,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6237373737373738,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6290726817042606,
       "source": "match:731402"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.37626262626262624,
+      "implied_prob_raw": 0.39840637450199207,
+      "implied_prob_fair": 0.3709273182957394,
       "source": "match:731402"
     },
     {
