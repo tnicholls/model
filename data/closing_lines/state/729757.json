@@ -7,7 +7,7 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T19:11:18.666800+00:00",
+  "captured_at": "2026-08-21T20:51:08.259439+00:00",
   "lines": [
     {
       "match_id": 729757,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6072351421188631,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5974025974025974,
       "source": "match:729757"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.39276485788113696,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4025974025974026,
       "source": "match:729757"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6032171581769437,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.5858310626702998,
       "source": "match:729757"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 2.25,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.3967828418230563,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4141689373297003,
       "source": "match:729757"
     },
     {
