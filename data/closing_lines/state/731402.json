@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-21T16:59:43.924664+00:00",
+  "captured_at": "2026-08-21T18:54:56.608929+00:00",
   "lines": [
     {
       "match_id": 731402,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6290726817042606,
+      "implied_prob_fair": 0.63,
       "source": "match:731402"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.51,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39840637450199207,
-      "implied_prob_fair": 0.3709273182957394,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.37,
       "source": "match:731402"
     },
     {
