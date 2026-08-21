@@ -7,36 +7,8 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-21T13:44:51.685828+00:00",
+  "captured_at": "2026-08-21T14:46:37.712777+00:00",
   "lines": [
-    {
-      "match_id": 731403,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51536",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 1.3,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7180043383947939,
-      "source": "match:731403"
-    },
-    {
-      "match_id": 731403,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51536",
-      "stage": "pre-match",
-      "team": "Fire Flux Esports",
-      "team_tag": "FF",
-      "decimal_odds": 3.31,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3021148036253776,
-      "implied_prob_fair": 0.2819956616052061,
-      "source": "match:731403"
-    },
     {
       "match_id": 731403,
       "bookmaker": "rainbet",
