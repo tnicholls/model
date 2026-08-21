@@ -7,7 +7,7 @@
   "team2": "FULL SENSE",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T20:33:19.260450+00:00",
+  "captured_at": "2026-08-21T21:19:03.749045+00:00",
   "lines": [
     {
       "match_id": 730549,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ONSIDE GAMING",
       "team_tag": "ONG",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3893129770992367,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3974358974358974,
       "source": "match:730549"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6106870229007634,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6025641025641025,
       "source": "match:730549"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "ONSIDE GAMING",
       "team_tag": "ONG",
-      "decimal_odds": 2.62,
+      "decimal_odds": 2.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38167938931297707,
-      "implied_prob_fair": 0.3594132029339854,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.36790123456790125,
       "source": "match:730549"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FULL SENSE",
       "team_tag": "FS",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6405867970660147,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6320987654320989,
       "source": "match:730549"
     },
     {

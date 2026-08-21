@@ -1,0 +1,41 @@
+{
+  "match_id": 731400,
+  "match_url": "/731400/fut-esports-vs-karmine-corp-vct-2026-emea-stage-2-ubf",
+  "date_display": "Fri, August 28, 2026",
+  "time_display": "10:00 AM",
+  "team1": "FUT Esports",
+  "team2": "Karmine Corp",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Playoffs\u2013Upper Final",
+  "captured_at": "2026-08-21T21:19:32.736846+00:00",
+  "lines": [
+    {
+      "match_id": 731400,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51571",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5053763440860215,
+      "source": "match:731400"
+    },
+    {
+      "match_id": 731400,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51571",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.4946236559139785,
+      "source": "match:731400"
+    }
+  ]
+}
