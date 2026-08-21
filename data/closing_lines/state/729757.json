@@ -1,0 +1,41 @@
+{
+  "match_id": 729757,
+  "match_url": "/729757/sentinels-vs-kr-esports-vct-2026-americas-stage-2-lr2",
+  "date_display": "Sat, August 22, 2026",
+  "time_display": "8:00 PM",
+  "team1": "Sentinels",
+  "team2": "KR\u00dc Esports",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Lower Round 2",
+  "captured_at": "2026-08-21T03:11:51.926096+00:00",
+  "lines": [
+    {
+      "match_id": 729757,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51558",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6237373737373738,
+      "source": "match:729757"
+    },
+    {
+      "match_id": 729757,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51558",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 2.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.37626262626262624,
+      "source": "match:729757"
+    }
+  ]
+}

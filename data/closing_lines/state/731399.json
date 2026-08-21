@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-20T20:50:23.177148+00:00",
+  "captured_at": "2026-08-21T03:11:35.894654+00:00",
   "lines": [
     {
       "match_id": 731399,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5493333333333332,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5543766578249337,
       "source": "match:731399"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4506666666666666,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.4456233421750664,
       "source": "match:731399"
     },
     {
@@ -119,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.5,
       "implied_prob_fair": 0.4444444444444444,
+      "source": "match:731399"
+    },
+    {
+      "match_id": 731399,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51555",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5584415584415584,
+      "source": "match:731399"
+    },
+    {
+      "match_id": 731399,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51555",
+      "stage": "pre-match",
+      "team": "Enterprise Esports",
+      "team_tag": "EP",
+      "decimal_odds": 2.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.44155844155844154,
       "source": "match:731399"
     }
   ]

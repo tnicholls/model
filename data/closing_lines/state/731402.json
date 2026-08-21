@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-20T21:05:41.914823+00:00",
+  "captured_at": "2026-08-21T03:11:47.208309+00:00",
   "lines": [
     {
       "match_id": 731402,
@@ -67,6 +67,34 @@
     },
     {
       "match_id": 731402,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51553",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
+      "source": "match:731402"
+    },
+    {
+      "match_id": 731402,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51553",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
+      "source": "match:731402"
+    },
+    {
+      "match_id": 731402,
       "bookmaker": "winz",
       "bet_url": "/rr/bet/51551",
       "stage": "pre-match",
@@ -91,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.4444444444444444,
       "implied_prob_fair": 0.3967828418230563,
+      "source": "match:731402"
+    },
+    {
+      "match_id": 731402,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51552",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.6080402010050251,
+      "source": "match:731402"
+    },
+    {
+      "match_id": 731402,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51552",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 2.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3919597989949749,
       "source": "match:731402"
     }
   ]
