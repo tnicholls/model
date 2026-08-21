@@ -7,7 +7,7 @@
   "team2": "ENVY",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-21T22:48:03.883732+00:00",
+  "captured_at": "2026-08-21T23:04:17.688604+00:00",
   "lines": [
     {
       "match_id": 729750,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6412776412776413,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8242612752721618,
       "source": "match:729750"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.61,
+      "decimal_odds": 5.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.35872235872235875,
+      "implied_prob_raw": 0.18867924528301888,
+      "implied_prob_fair": 0.17573872472783827,
       "source": "match:729750"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6153846153846154,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8405797101449275,
       "source": "match:729750"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.4,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.38461538461538464,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.15942028985507248,
       "source": "match:729750"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6153846153846154,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8405797101449275,
       "source": "match:729750"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.4,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.38461538461538464,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.15942028985507248,
       "source": "match:729750"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6496350364963503,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8340740740740741,
       "source": "match:729750"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 2.67,
+      "decimal_odds": 5.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37453183520599254,
-      "implied_prob_fair": 0.35036496350364965,
+      "implied_prob_raw": 0.17761989342806395,
+      "implied_prob_fair": 0.16592592592592595,
       "source": "match:729750"
     }
   ]
