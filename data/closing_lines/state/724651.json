@@ -7,36 +7,8 @@
   "team2": "TYLOO",
   "event_name": "VCT 2026: China Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-08-21T21:51:30.388492+00:00",
+  "captured_at": "2026-08-21T22:07:43.259488+00:00",
   "lines": [
-    {
-      "match_id": 724651,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51565",
-      "stage": "pre-match",
-      "team": "Bilibili Gaming",
-      "team_tag": "BLG",
-      "decimal_odds": 2.05,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.4547872340425533,
-      "source": "match:724651"
-    },
-    {
-      "match_id": 724651,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51565",
-      "stage": "pre-match",
-      "team": "TYLOO",
-      "team_tag": "TYL",
-      "decimal_odds": 1.71,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5452127659574468,
-      "source": "match:724651"
-    },
     {
       "match_id": 724651,
       "bookmaker": "rainbet",
