@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T14:46:39.246700+00:00",
+  "captured_at": "2026-08-21T16:27:12.325484+00:00",
   "lines": [
     {
       "match_id": 729756,
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "BESTIA",
       "team_tag": "BST",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.2699115044247788,
+      "implied_prob_raw": 0.29411764705882354,
+      "implied_prob_fair": 0.2608695652173913,
       "source": "match:729756"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7300884955752213,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7391304347826088,
       "source": "match:729756"
     },
     {
