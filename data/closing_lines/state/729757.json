@@ -7,36 +7,8 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T09:44:21.474445+00:00",
+  "captured_at": "2026-08-21T13:44:54.840073+00:00",
   "lines": [
-    {
-      "match_id": 729757,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51558",
-      "stage": "pre-match",
-      "team": "Sentinels",
-      "team_tag": "SEN",
-      "decimal_odds": 1.49,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6237373737373738,
-      "source": "match:729757"
-    },
-    {
-      "match_id": 729757,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51558",
-      "stage": "pre-match",
-      "team": "KR\u00dc Esports",
-      "team_tag": "KR\u00dc",
-      "decimal_odds": 2.47,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.37626262626262624,
-      "source": "match:729757"
-    },
     {
       "match_id": 729757,
       "bookmaker": "rainbet",
@@ -63,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.4065040650406504,
       "implied_prob_fair": 0.38190954773869346,
+      "source": "match:729757"
+    },
+    {
+      "match_id": 729757,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51563",
+      "stage": "pre-match",
+      "team": "Sentinels",
+      "team_tag": "SEN",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
+      "source": "match:729757"
+    },
+    {
+      "match_id": 729757,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51563",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:729757"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Sentinels",
       "team_tag": "SEN",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.630272952853598,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6075949367088608,
       "source": "match:729757"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 2.54,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39370078740157477,
-      "implied_prob_fair": 0.3697270471464019,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3924050632911393,
       "source": "match:729757"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "ZETA DIVISION",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T09:44:14.878752+00:00",
+  "captured_at": "2026-08-21T13:44:48.516059+00:00",
   "lines": [
     {
       "match_id": 730550,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6334164588528678,
+      "implied_prob_fair": 0.6343283582089552,
       "source": "match:730550"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.54,
+      "decimal_odds": 2.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39370078740157477,
-      "implied_prob_fair": 0.3665835411471321,
+      "implied_prob_raw": 0.3921568627450981,
+      "implied_prob_fair": 0.36567164179104483,
       "source": "match:730550"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6234718826405868,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6452380952380953,
       "source": "match:730550"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "ZETA DIVISION",
       "team_tag": "ZETA",
-      "decimal_odds": 2.55,
+      "decimal_odds": 2.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3921568627450981,
-      "implied_prob_fair": 0.3765281173594133,
+      "implied_prob_raw": 0.36900369003690037,
+      "implied_prob_fair": 0.3547619047619047,
       "source": "match:730550"
     }
   ]
