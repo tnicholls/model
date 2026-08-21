@@ -7,8 +7,36 @@
   "team2": "FULL SENSE",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T22:31:51.755694+00:00",
+  "captured_at": "2026-08-21T22:48:08.394830+00:00",
   "lines": [
+    {
+      "match_id": 730549,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51488",
+      "stage": "pre-match",
+      "team": "ONSIDE GAMING",
+      "team_tag": "ONG",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3974358974358974,
+      "source": "match:730549"
+    },
+    {
+      "match_id": 730549,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51488",
+      "stage": "pre-match",
+      "team": "FULL SENSE",
+      "team_tag": "FS",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6025641025641025,
+      "source": "match:730549"
+    },
     {
       "match_id": 730549,
       "bookmaker": "rainbet",

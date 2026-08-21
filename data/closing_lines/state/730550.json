@@ -7,36 +7,8 @@
   "team2": "ZETA DIVISION",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 2",
-  "captured_at": "2026-08-21T22:31:53.398351+00:00",
+  "captured_at": "2026-08-21T22:48:09.895772+00:00",
   "lines": [
-    {
-      "match_id": 730550,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51528",
-      "stage": "pre-match",
-      "team": "DetonatioN FocusMe",
-      "team_tag": "DFM",
-      "decimal_odds": 1.52,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6151898734177216,
-      "source": "match:730550"
-    },
-    {
-      "match_id": 730550,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51528",
-      "stage": "pre-match",
-      "team": "ZETA DIVISION",
-      "team_tag": "ZETA",
-      "decimal_odds": 2.43,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4115226337448559,
-      "implied_prob_fair": 0.3848101265822785,
-      "source": "match:730550"
-    },
     {
       "match_id": 730550,
       "bookmaker": "rainbet",
