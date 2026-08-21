@@ -7,7 +7,7 @@
   "team2": "Enterprise Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-21T16:43:16.120517+00:00",
+  "captured_at": "2026-08-21T16:59:32.939243+00:00",
   "lines": [
     {
       "match_id": 731399,
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
       "source": "match:731399"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 3.1,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:731399"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.56,
       "source": "match:731399"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 3.1,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44,
       "source": "match:731399"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5820512820512821,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.5,
       "source": "match:731399"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.27,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.44052863436123346,
-      "implied_prob_fair": 0.41794871794871796,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.5,
       "source": "match:731399"
     }
   ]
