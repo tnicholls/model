@@ -7,7 +7,7 @@
   "team2": "Evil Geniuses",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Upper Semifinals",
-  "captured_at": "2026-08-21T21:35:13.912149+00:00",
+  "captured_at": "2026-08-21T21:51:28.746275+00:00",
   "lines": [
     {
       "match_id": 729751,
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5251396648044693,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5307262569832403,
       "source": "match:729751"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 1.88,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.47486033519553067,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4692737430167598,
       "source": "match:729751"
     },
     {
