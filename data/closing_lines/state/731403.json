@@ -7,12 +7,12 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-22T04:54:04.119782+00:00",
+  "captured_at": "2026-08-22T10:45:56.699428+00:00",
   "lines": [
     {
       "match_id": 731403,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/51539",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51536",
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
@@ -20,7 +20,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7158351409978309,
+      "implied_prob_fair": 0.7139737991266375,
+      "source": "match:731403"
+    },
+    {
+      "match_id": 731403,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51536",
+      "stage": "pre-match",
+      "team": "Fire Flux Esports",
+      "team_tag": "FF",
+      "decimal_odds": 3.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3058103975535168,
+      "implied_prob_fair": 0.28602620087336245,
+      "source": "match:731403"
+    },
+    {
+      "match_id": 731403,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51539",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7111597374179431,
       "source": "match:731403"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28416485900216926,
+      "implied_prob_raw": 0.3076923076923077,
+      "implied_prob_fair": 0.2888402625820569,
       "source": "match:731403"
     },
     {
@@ -100,11 +128,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6635294117647058,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7242105263157894,
       "source": "match:731403"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 2.82,
+      "decimal_odds": 3.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3364705882352941,
+      "implied_prob_raw": 0.29069767441860467,
+      "implied_prob_fair": 0.27578947368421053,
       "source": "match:731403"
     }
   ]

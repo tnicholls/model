@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-22T04:54:03.013758+00:00",
+  "captured_at": "2026-08-22T10:45:54.845100+00:00",
   "lines": [
     {
       "match_id": 731402,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.63,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6240601503759399,
       "source": "match:731402"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.52,
+      "decimal_odds": 2.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.37,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.37593984962406013,
       "source": "match:731402"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6180904522613065,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6111111111111112,
       "source": "match:731402"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.38190954773869346,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3888888888888889,
       "source": "match:731402"
     },
     {
