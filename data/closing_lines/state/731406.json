@@ -1,0 +1,41 @@
+{
+  "match_id": 731406,
+  "match_url": "/731406/bbl-esports-vs-fire-flux-esports-vct-2026-emea-stage-2-lr2",
+  "date_display": "Sun, August 23, 2026",
+  "time_display": "1:00 PM",
+  "team1": "BBL Esports",
+  "team2": "Fire Flux Esports",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-08-22T21:54:22.171721+00:00",
+  "lines": [
+    {
+      "match_id": 731406,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51612",
+      "stage": "pre-match",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 1.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5958549222797926,
+      "source": "match:731406"
+    },
+    {
+      "match_id": 731406,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51612",
+      "stage": "pre-match",
+      "team": "Fire Flux Esports",
+      "team_tag": "FF",
+      "decimal_odds": 2.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.40414507772020725,
+      "source": "match:731406"
+    }
+  ]
+}
