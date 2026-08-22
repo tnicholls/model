@@ -1,0 +1,69 @@
+{
+  "match_id": 731778,
+  "match_url": "/731778/evil-geniuses-gc-vs-7ven-stars-game-changers-2026-brazil-finals-lr2",
+  "date_display": "Mon, August 24, 2026",
+  "time_display": "4:00 PM",
+  "team1": "Evil Geniuses GC",
+  "team2": "7VEN STARS",
+  "event_name": "Game Changers 2026: Brazil Finals",
+  "series": "Main Event\u2013Lower Round 2",
+  "captured_at": "2026-08-22T16:15:45.301542+00:00",
+  "lines": [
+    {
+      "match_id": 731778,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51597",
+      "stage": "pre-match",
+      "team": "Evil Geniuses GC",
+      "team_tag": "EG.G",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.712719298245614,
+      "source": "match:731778"
+    },
+    {
+      "match_id": 731778,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51597",
+      "stage": "pre-match",
+      "team": "7VEN STARS",
+      "team_tag": "7VEN",
+      "decimal_odds": 3.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3076923076923077,
+      "implied_prob_fair": 0.28728070175438597,
+      "source": "match:731778"
+    },
+    {
+      "match_id": 731778,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51599",
+      "stage": "pre-match",
+      "team": "Evil Geniuses GC",
+      "team_tag": "EG.G",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.69377990430622,
+      "source": "match:731778"
+    },
+    {
+      "match_id": 731778,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51599",
+      "stage": "pre-match",
+      "team": "7VEN STARS",
+      "team_tag": "7VEN",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3062200956937799,
+      "source": "match:731778"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "team2": "Looking For Laburo",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "South\u2013Grand Final",
-  "captured_at": "2026-08-22T10:46:12.923539+00:00",
+  "captured_at": "2026-08-22T16:15:43.683062+00:00",
   "lines": [
     {
       "match_id": 730327,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.757455268389662,
+      "implied_prob_fair": 0.7607843137254903,
       "source": "match:730327"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Looking For Laburo",
       "team_tag": "LFL",
-      "decimal_odds": 3.81,
+      "decimal_odds": 3.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26246719160104987,
-      "implied_prob_fair": 0.24254473161033796,
+      "implied_prob_raw": 0.2577319587628866,
+      "implied_prob_fair": 0.23921568627450984,
       "source": "match:730327"
     },
     {
