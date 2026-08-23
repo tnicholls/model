@@ -7,8 +7,36 @@
   "team2": "KR\u00dc Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-23T22:27:36.942743+00:00",
+  "captured_at": "2026-08-23T22:43:47.485231+00:00",
   "lines": [
+    {
+      "match_id": 729759,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51627",
+      "stage": "pre-match",
+      "team": "Evil Geniuses",
+      "team_tag": "EG",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.46276595744680854,
+      "source": "match:729759"
+    },
+    {
+      "match_id": 729759,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51627",
+      "stage": "pre-match",
+      "team": "KR\u00dc Esports",
+      "team_tag": "KR\u00dc",
+      "decimal_odds": 1.74,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5372340425531915,
+      "source": "match:729759"
+    },
     {
       "match_id": 729759,
       "bookmaker": "rainbet",
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.450402144772118,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44,
       "source": "match:729759"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.549597855227882,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.56,
       "source": "match:729759"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.45,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.43526170798898073,
       "source": "match:729759"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5499999999999999,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5647382920110192,
       "source": "match:729759"
     },
     {
@@ -100,11 +128,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4564643799472295,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.43717277486910994,
       "source": "match:729759"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc Esports",
       "team_tag": "KR\u00dc",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5435356200527705,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5628272251308901,
       "source": "match:729759"
     }
   ]
