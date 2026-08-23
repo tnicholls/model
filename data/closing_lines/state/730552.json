@@ -7,36 +7,8 @@
   "team2": "DetonatioN FocusMe",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-23T03:35:08.987802+00:00",
+  "captured_at": "2026-08-23T09:27:29.423677+00:00",
   "lines": [
-    {
-      "match_id": 730552,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51584",
-      "stage": "pre-match",
-      "team": "T1",
-      "team_tag": "T1",
-      "decimal_odds": 1.49,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6284289276807979,
-      "source": "match:730552"
-    },
-    {
-      "match_id": 730552,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51584",
-      "stage": "pre-match",
-      "team": "DetonatioN FocusMe",
-      "team_tag": "DFM",
-      "decimal_odds": 2.52,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.37157107231920194,
-      "source": "match:730552"
-    },
     {
       "match_id": 730552,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6585365853658537,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
       "source": "match:730552"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3414634146341463,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:730552"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6443298969072165,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6133333333333333,
       "source": "match:730552"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "DetonatioN FocusMe",
       "team_tag": "DFM",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.3556701030927835,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.38666666666666666,
       "source": "match:730552"
     },
     {
