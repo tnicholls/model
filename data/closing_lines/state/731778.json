@@ -7,7 +7,7 @@
   "team2": "7VEN STARS",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-08-23T09:27:39.195861+00:00",
+  "captured_at": "2026-08-23T21:55:15.600680+00:00",
   "lines": [
     {
       "match_id": 731778,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7091722595078299,
+      "implied_prob_fair": 0.7130242825607064,
       "source": "match:731778"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "7VEN STARS",
       "team_tag": "7VEN",
-      "decimal_odds": 3.17,
+      "decimal_odds": 3.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31545741324921134,
-      "implied_prob_fair": 0.29082774049217003,
+      "implied_prob_raw": 0.30959752321981426,
+      "implied_prob_fair": 0.2869757174392936,
       "source": "match:731778"
     },
     {
