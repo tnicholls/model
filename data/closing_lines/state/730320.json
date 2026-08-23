@@ -7,36 +7,8 @@
   "team2": "FUSION X",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "North\u2013Grand Final",
-  "captured_at": "2026-08-23T22:43:54.169512+00:00",
+  "captured_at": "2026-08-23T23:00:06.702687+00:00",
   "lines": [
-    {
-      "match_id": 730320,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51579",
-      "stage": "pre-match",
-      "team": "Akave Esports GC",
-      "team_tag": "AKV.",
-      "decimal_odds": 1.05,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9523809523809523,
-      "implied_prob_fair": 0.8810872027180069,
-      "source": "match:730320"
-    },
-    {
-      "match_id": 730320,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51579",
-      "stage": "pre-match",
-      "team": "FUSION X",
-      "team_tag": "FSX",
-      "decimal_odds": 7.78,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.12853470437017994,
-      "implied_prob_fair": 0.11891279728199321,
-      "source": "match:730320"
-    },
     {
       "match_id": 730320,
       "bookmaker": "rainbet",
