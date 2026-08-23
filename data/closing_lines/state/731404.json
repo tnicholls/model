@@ -7,8 +7,36 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-22T21:54:20.548642+00:00",
+  "captured_at": "2026-08-23T03:35:10.640139+00:00",
   "lines": [
+    {
+      "match_id": 731404,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51606",
+      "stage": "pre-match",
+      "team": "Enterprise Esports",
+      "team_tag": "EP",
+      "decimal_odds": 2.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4666666666666667,
+      "source": "match:731404"
+    },
+    {
+      "match_id": 731404,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51606",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5333333333333333,
+      "source": "match:731404"
+    },
     {
       "match_id": 731404,
       "bookmaker": "rainbet",
@@ -100,11 +128,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.44415584415584414,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.4595300261096606,
       "source": "match:731404"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5558441558441558,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5404699738903395,
       "source": "match:731404"
     }
   ]

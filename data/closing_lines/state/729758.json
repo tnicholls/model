@@ -1,0 +1,41 @@
+{
+  "match_id": 729758,
+  "match_url": "/729758/envy-vs-g2-esports-vct-2026-americas-stage-2-lr3",
+  "date_display": "Sun, August 23, 2026",
+  "time_display": "5:00 PM",
+  "team1": "ENVY",
+  "team2": "G2 Esports",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Play-Ins\u2013Lower Round 3",
+  "captured_at": "2026-08-23T03:35:13.910160+00:00",
+  "lines": [
+    {
+      "match_id": 729758,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51613",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 3.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29940119760479045,
+      "implied_prob_fair": 0.2786177105831534,
+      "source": "match:729758"
+    },
+    {
+      "match_id": 729758,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51613",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7213822894168466,
+      "source": "match:729758"
+    }
+  ]
+}

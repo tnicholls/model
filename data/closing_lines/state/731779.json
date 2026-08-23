@@ -7,8 +7,36 @@
   "team2": "Arashi GC",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-08-22T21:54:30.412649+00:00",
+  "captured_at": "2026-08-23T03:35:20.470567+00:00",
   "lines": [
+    {
+      "match_id": 731779,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51620",
+      "stage": "pre-match",
+      "team": "Ushiras",
+      "team_tag": "USHI",
+      "decimal_odds": 2.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37215189873417726,
+      "source": "match:731779"
+    },
+    {
+      "match_id": 731779,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51620",
+      "stage": "pre-match",
+      "team": "Arashi GC",
+      "team_tag": "ARS",
+      "decimal_odds": 1.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6278481012658228,
+      "source": "match:731779"
+    },
     {
       "match_id": 731779,
       "bookmaker": "rainbet",

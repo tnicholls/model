@@ -7,8 +7,36 @@
   "team2": "7VEN STARS",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-08-22T21:54:28.762618+00:00",
+  "captured_at": "2026-08-23T03:35:18.821844+00:00",
   "lines": [
+    {
+      "match_id": 731778,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51619",
+      "stage": "pre-match",
+      "team": "Evil Geniuses GC",
+      "team_tag": "EG.G",
+      "decimal_odds": 1.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7091722595078299,
+      "source": "match:731778"
+    },
+    {
+      "match_id": 731778,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51619",
+      "stage": "pre-match",
+      "team": "7VEN STARS",
+      "team_tag": "7VEN",
+      "decimal_odds": 3.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.31545741324921134,
+      "implied_prob_fair": 0.29082774049217003,
+      "source": "match:731778"
+    },
     {
       "match_id": 731778,
       "bookmaker": "rainbet",
