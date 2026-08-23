@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Play-Ins\u2013Lower Round 3",
-  "captured_at": "2026-08-23T21:55:11.173732+00:00",
+  "captured_at": "2026-08-23T22:11:25.000832+00:00",
   "lines": [
     {
       "match_id": 729758,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 5.36,
+      "decimal_odds": 6.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18656716417910446,
-      "implied_prob_fair": 0.17411402157164868,
+      "implied_prob_raw": 0.14347202295552366,
+      "implied_prob_fair": 0.1341614906832298,
       "source": "match:729758"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8258859784283513,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8658385093167701,
       "source": "match:729758"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 5.8,
+      "decimal_odds": 7.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.15942028985507248,
+      "implied_prob_raw": 0.14285714285714285,
+      "implied_prob_fair": 0.1315136476426799,
       "source": "match:729758"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8405797101449275,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8684863523573201,
       "source": "match:729758"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 5.8,
+      "decimal_odds": 7.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.15942028985507248,
+      "implied_prob_raw": 0.13333333333333333,
+      "implied_prob_fair": 0.12177985948477753,
       "source": "match:729758"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8405797101449275,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8782201405152225,
       "source": "match:729758"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 5.37,
+      "decimal_odds": 7.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.186219739292365,
-      "implied_prob_fair": 0.17384615384615384,
+      "implied_prob_raw": 0.1314060446780552,
+      "implied_prob_fair": 0.12226066897347175,
       "source": "match:729758"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8261538461538461,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8777393310265281,
       "source": "match:729758"
     }
   ]
