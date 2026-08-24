@@ -7,7 +7,7 @@
   "team2": "FUSION X",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "North\u2013Grand Final",
-  "captured_at": "2026-08-24T00:04:57.013260+00:00",
+  "captured_at": "2026-08-24T05:57:51.125551+00:00",
   "lines": [
     {
       "match_id": 730320,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9523809523809523,
-      "implied_prob_fair": 0.8810872027180069,
+      "implied_prob_fair": 0.8847420417124039,
       "source": "match:730320"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FUSION X",
       "team_tag": "FSX",
-      "decimal_odds": 7.78,
+      "decimal_odds": 8.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.12853470437017994,
-      "implied_prob_fair": 0.11891279728199321,
+      "implied_prob_raw": 0.12406947890818858,
+      "implied_prob_fair": 0.11525795828759604,
       "source": "match:730320"
     },
     {

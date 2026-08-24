@@ -7,7 +7,7 @@
   "team2": "Arashi GC",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-08-24T00:04:55.409150+00:00",
+  "captured_at": "2026-08-24T05:57:49.425615+00:00",
   "lines": [
     {
       "match_id": 731779,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.4016064257028112,
-      "implied_prob_fair": 0.37121212121212116,
+      "implied_prob_fair": 0.37279596977329976,
       "source": "match:731779"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Arashi GC",
       "team_tag": "ARS",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6287878787878788,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6272040302267003,
       "source": "match:731779"
     },
     {
@@ -55,6 +55,34 @@
       "match_id": 731779,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51596",
+      "stage": "pre-match",
+      "team": "Arashi GC",
+      "team_tag": "ARS",
+      "decimal_odds": 1.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
+      "source": "match:731779"
+    },
+    {
+      "match_id": 731779,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51654",
+      "stage": "pre-match",
+      "team": "Ushiras",
+      "team_tag": "USHI",
+      "decimal_odds": 2.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
+      "source": "match:731779"
+    },
+    {
+      "match_id": 731779,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51654",
       "stage": "pre-match",
       "team": "Arashi GC",
       "team_tag": "ARS",
@@ -91,6 +119,34 @@
       "payout": null,
       "implied_prob_raw": 0.7042253521126761,
       "implied_prob_fair": 0.6282722513089005,
+      "source": "match:731779"
+    },
+    {
+      "match_id": 731779,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51652",
+      "stage": "pre-match",
+      "team": "Ushiras",
+      "team_tag": "USHI",
+      "decimal_odds": 2.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4026315789473684,
+      "source": "match:731779"
+    },
+    {
+      "match_id": 731779,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51652",
+      "stage": "pre-match",
+      "team": "Arashi GC",
+      "team_tag": "ARS",
+      "decimal_odds": 1.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.5973684210526315,
       "source": "match:731779"
     }
   ]
