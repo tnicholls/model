@@ -7,7 +7,7 @@
   "team2": "KIWOOM DRX",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-24T05:57:54.400766+00:00",
+  "captured_at": "2026-08-24T12:17:45.012611+00:00",
   "lines": [
     {
       "match_id": 742477,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5558510638297872,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5620052770448549,
       "source": "match:742477"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KIWOOM DRX",
       "team_tag": "KRX",
-      "decimal_odds": 2.09,
+      "decimal_odds": 2.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.4441489361702128,
+      "implied_prob_raw": 0.4694835680751174,
+      "implied_prob_fair": 0.4379947229551451,
       "source": "match:742477"
     },
     {

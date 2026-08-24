@@ -7,7 +7,7 @@
   "team2": "Looking For Laburo",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "South\u2013Grand Final",
-  "captured_at": "2026-08-24T05:57:46.164142+00:00",
+  "captured_at": "2026-08-24T12:17:36.744907+00:00",
   "lines": [
     {
       "match_id": 730327,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7510121457489878,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7469387755102042,
       "source": "match:730327"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Looking For Laburo",
       "team_tag": "LFL",
-      "decimal_odds": 3.71,
+      "decimal_odds": 3.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2695417789757412,
-      "implied_prob_fair": 0.24898785425101214,
+      "implied_prob_raw": 0.27322404371584696,
+      "implied_prob_fair": 0.2530612244897959,
       "source": "match:730327"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7628458498023715,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7693798449612403,
       "source": "match:730327"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Looking For Laburo",
       "team_tag": "LFL",
-      "decimal_odds": 3.86,
+      "decimal_odds": 3.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2590673575129534,
-      "implied_prob_fair": 0.23715415019762845,
+      "implied_prob_raw": 0.2518891687657431,
+      "implied_prob_fair": 0.23062015503875968,
       "source": "match:730327"
     }
   ]

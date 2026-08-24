@@ -7,36 +7,8 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-24T05:57:59.335474+00:00",
+  "captured_at": "2026-08-24T12:17:49.930989+00:00",
   "lines": [
-    {
-      "match_id": 734302,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51657",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 2.06,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4506666666666666,
-      "source": "match:734302"
-    },
-    {
-      "match_id": 734302,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51657",
-      "stage": "pre-match",
-      "team": "FURIA",
-      "team_tag": "FUR",
-      "decimal_odds": 1.69,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5493333333333332,
-      "source": "match:734302"
-    },
     {
       "match_id": 734302,
       "bookmaker": "rainbet",
@@ -118,6 +90,34 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5499999999999999,
+      "source": "match:734302"
+    },
+    {
+      "match_id": 734302,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51664",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 2.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.45000000000000007,
+      "source": "match:734302"
+    },
+    {
+      "match_id": 734302,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51664",
+      "stage": "pre-match",
+      "team": "FURIA",
+      "team_tag": "FUR",
+      "decimal_odds": 1.71,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5847953216374269,
       "implied_prob_fair": 0.5499999999999999,
       "source": "match:734302"
     }

@@ -7,36 +7,8 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-24T05:58:01.016422+00:00",
+  "captured_at": "2026-08-24T12:17:51.610201+00:00",
   "lines": [
-    {
-      "match_id": 734303,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51655",
-      "stage": "pre-match",
-      "team": "LEVIAT\u00c1N",
-      "team_tag": "LEV",
-      "decimal_odds": 1.49,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6237373737373738,
-      "source": "match:734303"
-    },
-    {
-      "match_id": 734303,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51655",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 2.47,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.37626262626262624,
-      "source": "match:734303"
-    },
     {
       "match_id": 734303,
       "bookmaker": "rainbet",
@@ -119,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.4444444444444444,
       "implied_prob_fair": 0.3967828418230563,
+      "source": "match:734303"
+    },
+    {
+      "match_id": 734303,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51665",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.610126582278481,
+      "source": "match:734303"
+    },
+    {
+      "match_id": 734303,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51665",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 2.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.389873417721519,
       "source": "match:734303"
     }
   ]
