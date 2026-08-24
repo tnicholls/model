@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-23T23:49:01.695642+00:00",
+  "captured_at": "2026-08-24T00:05:12.745044+00:00",
   "lines": [
     {
       "match_id": 731407,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5493333333333332,
+      "implied_prob_fair": 0.5481283422459893,
       "source": "match:731407"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4506666666666666,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.45187165775401067,
       "source": "match:731407"
     },
     {
