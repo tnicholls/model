@@ -7,36 +7,8 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-25T02:03:21.733285+00:00",
+  "captured_at": "2026-08-25T02:19:33.219250+00:00",
   "lines": [
-    {
-      "match_id": 734302,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51657",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 1.95,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47580645161290325,
-      "source": "match:734302"
-    },
-    {
-      "match_id": 734302,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51657",
-      "stage": "pre-match",
-      "team": "FURIA",
-      "team_tag": "FUR",
-      "decimal_odds": 1.77,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5241935483870968,
-      "source": "match:734302"
-    },
     {
       "match_id": 734302,
       "bookmaker": "rainbet",
