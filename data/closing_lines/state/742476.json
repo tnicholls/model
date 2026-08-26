@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-26T01:40:53.037416+00:00",
+  "captured_at": "2026-08-26T01:57:04.621921+00:00",
   "lines": [
     {
       "match_id": 742476,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.65,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.56,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.582010582010582,
       "source": "match:742476"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.44,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.417989417989418,
       "source": "match:742476"
     }
   ]
