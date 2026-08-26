@@ -7,8 +7,36 @@
   "team2": "Karmine Corp",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-08-26T01:08:46.030380+00:00",
+  "captured_at": "2026-08-26T01:24:56.225022+00:00",
   "lines": [
+    {
+      "match_id": 731400,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51571",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5306666666666666,
+      "source": "match:731400"
+    },
+    {
+      "match_id": 731400,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51571",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.99,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.4693333333333332,
+      "source": "match:731400"
+    },
     {
       "match_id": 731400,
       "bookmaker": "rainbet",
