@@ -7,48 +7,20 @@
   "team2": "Nongshim RedForce",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-25T02:19:26.958765+00:00",
+  "captured_at": "2026-08-26T01:08:33.710220+00:00",
   "lines": [
     {
       "match_id": 742476,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51633",
-      "stage": "pre-match",
-      "team": "Paper Rex",
-      "team_tag": "PRX",
-      "decimal_odds": 1.77,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.528,
-      "source": "match:742476"
-    },
-    {
-      "match_id": 742476,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51633",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 1.98,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.47200000000000003,
-      "source": "match:742476"
-    },
-    {
-      "match_id": 742476,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51637",
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5079787234042553,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.5564304461942258,
       "source": "match:742476"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.91,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.49202127659574474,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.44356955380577423,
       "source": "match:742476"
     },
     {
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5189189189189188,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.56,
       "source": "match:742476"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.92,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48108108108108105,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44,
       "source": "match:742476"
     }
   ]

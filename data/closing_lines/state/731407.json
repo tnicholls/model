@@ -7,36 +7,8 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-25T02:19:41.028920+00:00",
+  "captured_at": "2026-08-26T01:08:47.574069+00:00",
   "lines": [
-    {
-      "match_id": 731407,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51645",
-      "stage": "pre-match",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 1.7,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5490716180371352,
-      "source": "match:731407"
-    },
-    {
-      "match_id": 731407,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51645",
-      "stage": "pre-match",
-      "team": "Fire Flux Esports",
-      "team_tag": "FF",
-      "decimal_odds": 2.07,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.4509283819628647,
-      "source": "match:731407"
-    },
     {
       "match_id": 731407,
       "bookmaker": "rainbet",

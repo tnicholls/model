@@ -7,20 +7,48 @@
   "team2": "FURIA",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-25T02:19:33.219250+00:00",
+  "captured_at": "2026-08-26T01:08:39.811438+00:00",
   "lines": [
     {
       "match_id": 734302,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51657",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.96,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.47593582887700536,
+      "source": "match:734302"
+    },
+    {
+      "match_id": 734302,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51657",
+      "stage": "pre-match",
+      "team": "FURIA",
+      "team_tag": "FUR",
+      "decimal_odds": 1.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5240641711229947,
+      "source": "match:734302"
+    },
+    {
+      "match_id": 734302,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51658",
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.1,
+      "decimal_odds": 1.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4473684210526316,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.48010610079575594,
       "source": "match:734302"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5526315789473685,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.519893899204244,
       "source": "match:734302"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.450402144772118,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4623655913978494,
       "source": "match:734302"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.549597855227882,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5376344086021505,
       "source": "match:734302"
     }
   ]
