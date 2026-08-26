@@ -1,0 +1,69 @@
+{
+  "match_id": 742483,
+  "match_url": "/742483/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-lr1",
+  "date_display": "Fri, August 28, 2026",
+  "time_display": "12:00 PM",
+  "team1": "KIWOOM DRX",
+  "team2": "T1",
+  "event_name": "VCT 2026: Pacific Stage 2",
+  "series": "Playoffs\u2013Lower Round 1",
+  "captured_at": "2026-08-26T17:02:49.809598+00:00",
+  "lines": [
+    {
+      "match_id": 742483,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51682",
+      "stage": "pre-match",
+      "team": "KIWOOM DRX",
+      "team_tag": "KRX",
+      "decimal_odds": 3.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.28416485900216926,
+      "source": "match:742483"
+    },
+    {
+      "match_id": 742483,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51682",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7158351409978309,
+      "source": "match:742483"
+    },
+    {
+      "match_id": 742483,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51686",
+      "stage": "pre-match",
+      "team": "KIWOOM DRX",
+      "team_tag": "KRX",
+      "decimal_odds": 3.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.2986425339366516,
+      "source": "match:742483"
+    },
+    {
+      "match_id": 742483,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51686",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7013574660633485,
+      "source": "match:742483"
+    }
+  ]
+}
