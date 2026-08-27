@@ -7,7 +7,7 @@
   "team2": "ONSIDE GAMING",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-26T21:24:22.638087+00:00",
+  "captured_at": "2026-08-27T21:48:35.268180+00:00",
   "lines": [
     {
       "match_id": 742482,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7177242888402626,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6924829157175398,
       "source": "match:742482"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ONSIDE GAMING",
       "team_tag": "ONG",
-      "decimal_odds": 3.28,
+      "decimal_odds": 3.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3048780487804878,
-      "implied_prob_fair": 0.28227571115973743,
+      "implied_prob_raw": 0.32894736842105265,
+      "implied_prob_fair": 0.30751708428246016,
       "source": "match:742482"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7188841201716738,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.7015590200445434,
       "source": "match:742482"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ONSIDE GAMING",
       "team_tag": "ONG",
-      "decimal_odds": 3.35,
+      "decimal_odds": 3.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29850746268656714,
-      "implied_prob_fair": 0.2811158798283262,
+      "implied_prob_raw": 0.31746031746031744,
+      "implied_prob_fair": 0.2984409799554566,
       "source": "match:742482"
     },
     {

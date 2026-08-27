@@ -7,7 +7,7 @@
   "team2": "Karmine Corp",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-08-26T21:42:17.425385+00:00",
+  "captured_at": "2026-08-27T21:48:38.363704+00:00",
   "lines": [
     {
       "match_id": 731400,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5306666666666666,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.5,
       "source": "match:731400"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.99,
+      "decimal_odds": 1.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4693333333333332,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.5,
       "source": "match:731400"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.5382585751978891,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5079787234042553,
       "source": "match:731400"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 2.04,
+      "decimal_odds": 1.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.4617414248021108,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.49202127659574474,
       "source": "match:731400"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:731400"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 2.0,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:731400"
     }
   ]

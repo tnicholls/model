@@ -7,7 +7,7 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Round 1",
-  "captured_at": "2026-08-26T21:24:21.508124+00:00",
+  "captured_at": "2026-08-27T21:48:33.568744+00:00",
   "lines": [
     {
       "match_id": 734303,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6343283582089552,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6318407960199005,
       "source": "match:734303"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 2.55,
+      "decimal_odds": 2.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3921568627450981,
-      "implied_prob_fair": 0.36567164179104483,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.3681592039800995,
       "source": "match:734303"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6419753086419754,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:734303"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 2.6,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3846153846153846,
-      "implied_prob_fair": 0.35802469135802467,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:734303"
     }
   ]

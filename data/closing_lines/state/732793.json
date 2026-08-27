@@ -7,7 +7,7 @@
   "team2": "G2 Gozen",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-08-26T21:56:30.485027+00:00",
+  "captured_at": "2026-08-27T22:19:23.017037+00:00",
   "lines": [
     {
       "match_id": 732793,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.89,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5291005291005292,
-      "implied_prob_fair": 0.4905660377358491,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.4986522911051214,
       "source": "match:732793"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.82,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5094339622641508,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5013477088948788,
       "source": "match:732793"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.86,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5376344086021505,
-      "implied_prob_fair": 0.5,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5080645161290323,
       "source": "match:732793"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.86,
+      "decimal_odds": 1.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5376344086021505,
-      "implied_prob_fair": 0.5,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.49193548387096786,
       "source": "match:732793"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5189189189189188,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:732793"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48108108108108105,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:732793"
     }
   ]
