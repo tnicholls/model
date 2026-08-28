@@ -7,36 +7,8 @@
   "team2": "LEVIAT\u00c1N",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-28T16:07:30.065575+00:00",
+  "captured_at": "2026-08-28T16:23:30.890822+00:00",
   "lines": [
-    {
-      "match_id": 734305,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51713",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 2.46,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.380352644836272,
-      "source": "match:734305"
-    },
-    {
-      "match_id": 734305,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51713",
-      "stage": "pre-match",
-      "team": "LEVIAT\u00c1N",
-      "team_tag": "LEV",
-      "decimal_odds": 1.51,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6196473551637279,
-      "source": "match:734305"
-    },
     {
       "match_id": 734305,
       "bookmaker": "rainbet",
