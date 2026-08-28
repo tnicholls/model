@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-28T17:44:24.241228+00:00",
+  "captured_at": "2026-08-28T18:00:26.110751+00:00",
   "lines": [
     {
       "match_id": 731407,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.05,
+      "decimal_odds": 1.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9523809523809523,
-      "implied_prob_fair": 0.8915289256198348,
+      "implied_prob_raw": 0.9900990099009901,
+      "implied_prob_fair": 0.9369144284821986,
       "source": "match:731407"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 8.63,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11587485515643105,
-      "implied_prob_fair": 0.10847107438016529,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.06308557151780138,
       "source": "match:731407"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.05,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9523809523809523,
-      "implied_prob_fair": 0.8771929824561404,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9074410163339383,
       "source": "match:731407"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 7.5,
+      "decimal_odds": 10.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.13333333333333333,
-      "implied_prob_fair": 0.12280701754385966,
+      "implied_prob_raw": 0.1,
+      "implied_prob_fair": 0.09255898366606172,
       "source": "match:731407"
     }
   ]
