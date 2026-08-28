@@ -7,8 +7,36 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-28T17:11:40.535687+00:00",
+  "captured_at": "2026-08-28T17:44:30.483398+00:00",
   "lines": [
+    {
+      "match_id": 742485,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51728",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 1.99,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.46648793565683644,
+      "source": "match:742485"
+    },
+    {
+      "match_id": 742485,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51728",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.74,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5335120643431636,
+      "source": "match:742485"
+    },
     {
       "match_id": 742485,
       "bookmaker": "rainbet",
