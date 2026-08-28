@@ -1,0 +1,41 @@
+{
+  "match_id": 731408,
+  "match_url": "/731408/fut-esports-vs-team-liquid-vct-2026-emea-stage-2-lbf",
+  "date_display": "Sat, August 29, 2026",
+  "time_display": "11:00 AM",
+  "team1": "FUT Esports",
+  "team2": "Team Liquid",
+  "event_name": "VCT 2026: EMEA Stage 2",
+  "series": "Playoffs\u2013Lower Final",
+  "captured_at": "2026-08-28T18:32:36.445138+00:00",
+  "lines": [
+    {
+      "match_id": 731408,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51733",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 2.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.448,
+      "source": "match:731408"
+    },
+    {
+      "match_id": 731408,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51733",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5519999999999999,
+      "source": "match:731408"
+    }
+  ]
+}

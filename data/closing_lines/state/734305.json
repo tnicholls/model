@@ -1,13 +1,13 @@
 {
   "match_id": 734305,
   "match_url": "/734305/100-thieves-vs-leviat-n-vct-2026-americas-stage-2-ubsf",
-  "date_display": "Sat, August 29, 2026",
-  "time_display": "1:00 AM",
+  "date_display": "Fri, August 28, 2026",
+  "time_display": "8:00 PM",
   "team1": "100 Thieves",
   "team2": "LEVIAT\u00c1N",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-28T18:16:31.148740+00:00",
+  "captured_at": "2026-08-28T18:32:31.808552+00:00",
   "lines": [
     {
       "match_id": 734305,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.6756756756756757,
       "implied_prob_fair": 0.6281407035175879,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51700",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3717277486910995,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51700",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6282722513089005,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51705",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 2.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37735849056603776,
+      "implied_prob_fair": 0.35523114355231145,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51705",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6447688564476886,
       "source": "match:734305"
     }
   ]

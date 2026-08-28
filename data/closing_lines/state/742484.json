@@ -2,12 +2,12 @@
   "match_id": 742484,
   "match_url": "/742484/varrel-vs-paper-rex-vct-2026-pacific-stage-2-lr2",
   "date_display": "Sat, August 29, 2026",
-  "time_display": "9:00 AM",
+  "time_display": "4:00 AM",
   "team1": "VARREL",
   "team2": "Paper Rex",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-28T18:16:32.686492+00:00",
+  "captured_at": "2026-08-28T18:32:33.324769+00:00",
   "lines": [
     {
       "match_id": 742484,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
       "implied_prob_fair": 0.7111111111111111,
+      "source": "match:742484"
+    },
+    {
+      "match_id": 742484,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51725",
+      "stage": "pre-match",
+      "team": "VARREL",
+      "team_tag": "VL",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3062200956937799,
+      "source": "match:742484"
+    },
+    {
+      "match_id": 742484,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51725",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.69377990430622,
+      "source": "match:742484"
+    },
+    {
+      "match_id": 742484,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51718",
+      "stage": "pre-match",
+      "team": "VARREL",
+      "team_tag": "VL",
+      "decimal_odds": 3.89,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2570694087403599,
+      "implied_prob_fair": 0.24758220502901357,
+      "source": "match:742484"
+    },
+    {
+      "match_id": 742484,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51718",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7524177949709866,
       "source": "match:742484"
     }
   ]

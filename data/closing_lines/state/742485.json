@@ -2,12 +2,12 @@
   "match_id": 742485,
   "match_url": "/742485/gen-g-vs-t1-vct-2026-pacific-stage-2-lr2",
   "date_display": "Sat, August 29, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "7:00 AM",
   "team1": "Gen.G",
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-28T18:16:34.256574+00:00",
+  "captured_at": "2026-08-28T18:32:34.921754+00:00",
   "lines": [
     {
       "match_id": 742485,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.5813953488372093,
       "implied_prob_fair": 0.5376344086021505,
+      "source": "match:742485"
+    },
+    {
+      "match_id": 742485,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51731",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 1.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.46218487394957986,
+      "source": "match:742485"
+    },
+    {
+      "match_id": 742485,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51731",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5378151260504201,
+      "source": "match:742485"
+    },
+    {
+      "match_id": 742485,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51732",
+      "stage": "pre-match",
+      "team": "Gen.G",
+      "team_tag": "GEN",
+      "decimal_odds": 2.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.46373056994818657,
+      "source": "match:742485"
+    },
+    {
+      "match_id": 742485,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51732",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5362694300518135,
       "source": "match:742485"
     }
   ]
