@@ -1,0 +1,69 @@
+{
+  "match_id": 734305,
+  "match_url": "/734305/100-thieves-vs-leviat-n-vct-2026-americas-stage-2-ubsf",
+  "date_display": "Sat, August 29, 2026",
+  "time_display": "1:00 AM",
+  "team1": "100 Thieves",
+  "team2": "LEVIAT\u00c1N",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Playoffs\u2013Upper Semifinals",
+  "captured_at": "2026-08-28T14:39:18.258743+00:00",
+  "lines": [
+    {
+      "match_id": 734305,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51693",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 2.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.3731343283582089,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51693",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.626865671641791,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51695",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
+      "source": "match:734305"
+    },
+    {
+      "match_id": 734305,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51695",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
+      "source": "match:734305"
+    }
+  ]
+}
