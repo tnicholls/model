@@ -7,36 +7,8 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-08-28T15:51:25.224564+00:00",
+  "captured_at": "2026-08-28T16:07:28.613117+00:00",
   "lines": [
-    {
-      "match_id": 734304,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51712",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 1.24,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.751503006012024,
-      "source": "match:734304"
-    },
-    {
-      "match_id": 734304,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51712",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 3.75,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.26666666666666666,
-      "implied_prob_fair": 0.24849699398797592,
-      "source": "match:734304"
-    },
     {
       "match_id": 734304,
       "bookmaker": "rainbet",
