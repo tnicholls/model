@@ -1,13 +1,13 @@
 {
   "match_id": 734310,
   "match_url": "/734310/mibr-vs-evil-geniuses-vct-2026-americas-stage-2-lr1",
-  "date_display": "Sat, August 29, 2026",
-  "time_display": "8:00 PM",
+  "date_display": "Sun, August 30, 2026",
+  "time_display": "1:00 AM",
   "team1": "MIBR",
   "team2": "Evil Geniuses",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-28T16:55:42.331800+00:00",
+  "captured_at": "2026-08-28T17:11:45.128122+00:00",
   "lines": [
     {
       "match_id": 734310,
@@ -91,62 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.25,
       "implied_prob_fair": 0.23076923076923073,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51703",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.17,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7645875251509054,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51703",
-      "stage": "pre-match",
-      "team": "Evil Geniuses",
-      "team_tag": "EG",
-      "decimal_odds": 3.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.23541247484909456,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51707",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.783001808318264,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51707",
-      "stage": "pre-match",
-      "team": "Evil Geniuses",
-      "team_tag": "EG",
-      "decimal_odds": 4.33,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.23094688221709006,
-      "implied_prob_fair": 0.21699819168173598,
       "source": "match:734310"
     }
   ]

@@ -2,12 +2,12 @@
   "match_id": 731407,
   "match_url": "/731407/team-liquid-vs-fire-flux-esports-vct-2026-emea-stage-2-lr3",
   "date_display": "Fri, August 28, 2026",
-  "time_display": "12:30 PM",
+  "time_display": "5:30 PM",
   "team1": "Team Liquid",
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-28T16:55:31.584455+00:00",
+  "captured_at": "2026-08-28T17:11:34.465504+00:00",
   "lines": [
     {
       "match_id": 731407,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.764932562620424,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.751503006012024,
       "source": "match:731407"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 3.97,
+      "decimal_odds": 3.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2518891687657431,
-      "implied_prob_fair": 0.23506743737957614,
+      "implied_prob_raw": 0.26666666666666666,
+      "implied_prob_fair": 0.24849699398797592,
       "source": "match:731407"
     },
     {
@@ -91,62 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.2631578947368421,
       "implied_prob_fair": 0.24302788844621515,
-      "source": "match:731407"
-    },
-    {
-      "match_id": 731407,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51649",
-      "stage": "live",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 1.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.76,
-      "source": "match:731407"
-    },
-    {
-      "match_id": 731407,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51649",
-      "stage": "live",
-      "team": "Fire Flux Esports",
-      "team_tag": "FF",
-      "decimal_odds": 3.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.23999999999999996,
-      "source": "match:731407"
-    },
-    {
-      "match_id": 731407,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51650",
-      "stage": "live",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 1.24,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7673545966228892,
-      "source": "match:731407"
-    },
-    {
-      "match_id": 731407,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51650",
-      "stage": "live",
-      "team": "Fire Flux Esports",
-      "team_tag": "FF",
-      "decimal_odds": 4.09,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.24449877750611249,
-      "implied_prob_fair": 0.23264540337711068,
       "source": "match:731407"
     }
   ]
