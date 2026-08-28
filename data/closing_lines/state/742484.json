@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-28T18:00:30.724507+00:00",
+  "captured_at": "2026-08-28T18:16:32.686492+00:00",
   "lines": [
     {
       "match_id": 742484,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 3.85,
+      "decimal_odds": 3.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.243614931237721,
+      "implied_prob_raw": 0.2898550724637681,
+      "implied_prob_fair": 0.2721518987341772,
       "source": "match:742484"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.756385068762279,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7278481012658228,
       "source": "match:742484"
     },
     {

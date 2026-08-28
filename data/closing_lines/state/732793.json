@@ -7,7 +7,7 @@
   "team2": "G2 Gozen",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-08-28T18:00:38.618461+00:00",
+  "captured_at": "2026-08-28T18:16:40.532830+00:00",
   "lines": [
     {
       "match_id": 732793,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5080645161290323,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.5,
       "source": "match:732793"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.89,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5291005291005292,
-      "implied_prob_fair": 0.49193548387096786,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.5,
       "source": "match:732793"
     },
     {
