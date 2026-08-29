@@ -7,7 +7,7 @@
   "team2": "Evil Geniuses",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-29T13:30:19.876403+00:00",
+  "captured_at": "2026-08-29T15:37:23.107217+00:00",
   "lines": [
     {
       "match_id": 734310,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7198275862068966,
+      "implied_prob_fair": 0.7192224622030238,
       "source": "match:734310"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 3.34,
+      "decimal_odds": 3.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29940119760479045,
-      "implied_prob_fair": 0.28017241379310354,
+      "implied_prob_raw": 0.3003003003003003,
+      "implied_prob_fair": 0.2807775377969763,
       "source": "match:734310"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7296137339055794,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7205240174672489,
       "source": "match:734310"
     },
     {
@@ -86,39 +86,39 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 3.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.29411764705882354,
-      "implied_prob_fair": 0.2703862660944206,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51703",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7300884955752213,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51703",
-      "stage": "pre-match",
-      "team": "Evil Geniuses",
-      "team_tag": "EG",
       "decimal_odds": 3.3,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.2699115044247788,
+      "implied_prob_fair": 0.27947598253275113,
+      "source": "match:734310"
+    },
+    {
+      "match_id": 734310,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51703",
+      "stage": "pre-match",
+      "team": "MIBR",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
+      "source": "match:734310"
+    },
+    {
+      "match_id": 734310,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51703",
+      "stage": "pre-match",
+      "team": "Evil Geniuses",
+      "team_tag": "EG",
+      "decimal_odds": 3.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
       "source": "match:734310"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.783001808318264,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.750499001996008,
       "source": "match:734310"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses",
       "team_tag": "EG",
-      "decimal_odds": 4.33,
+      "decimal_odds": 3.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23094688221709006,
-      "implied_prob_fair": 0.21699819168173598,
+      "implied_prob_raw": 0.26595744680851063,
+      "implied_prob_fair": 0.249500998003992,
       "source": "match:734310"
     }
   ]
