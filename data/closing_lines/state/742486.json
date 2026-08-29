@@ -2,12 +2,12 @@
   "match_id": 742486,
   "match_url": "/742486/varrel-vs-t1-vct-2026-pacific-stage-2-lr3",
   "date_display": "Fri, September 4, 2026",
-  "time_display": "7:00 AM",
+  "time_display": "12:00 PM",
   "team1": "VARREL",
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-29T17:42:42.995424+00:00",
+  "captured_at": "2026-08-29T18:14:40.566183+00:00",
   "lines": [
     {
       "match_id": 742486,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.7462686567164178,
       "implied_prob_fair": 0.6912442396313364,
-      "source": "match:742486"
-    },
-    {
-      "match_id": 742486,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51747",
-      "stage": "pre-match",
-      "team": "VARREL",
-      "team_tag": "VL",
-      "decimal_odds": 3.13,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3194888178913738,
-      "implied_prob_fair": 0.3075221238938053,
-      "source": "match:742486"
-    },
-    {
-      "match_id": 742486,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51747",
-      "stage": "pre-match",
-      "team": "T1",
-      "team_tag": "T1",
-      "decimal_odds": 1.39,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6924778761061947,
       "source": "match:742486"
     }
   ]
