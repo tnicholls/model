@@ -2,12 +2,12 @@
   "match_id": 731401,
   "match_url": "/731401/karmine-corp-vs-team-liquid-vct-2026-emea-stage-2-gf",
   "date_display": "Sun, August 30, 2026",
-  "time_display": "4:00 PM",
+  "time_display": "11:00 AM",
   "team1": "Karmine Corp",
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-08-29T19:54:44.193965+00:00",
+  "captured_at": "2026-08-29T20:27:31.661782+00:00",
   "lines": [
     {
       "match_id": 731401,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.5813953488372093,
       "implied_prob_fair": 0.5376344086021505,
+      "source": "match:731401"
+    },
+    {
+      "match_id": 731401,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51751",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.46218487394957986,
+      "source": "match:731401"
+    },
+    {
+      "match_id": 731401,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51751",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5378151260504201,
+      "source": "match:731401"
+    },
+    {
+      "match_id": 731401,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51756",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.49473684210526314,
+      "source": "match:731401"
+    },
+    {
+      "match_id": 731401,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51756",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.5052631578947367,
       "source": "match:731401"
     }
   ]

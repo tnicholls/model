@@ -2,12 +2,12 @@
   "match_id": 732793,
   "match_url": "/732793/gentle-mates-gc-vs-g2-gozen-game-changers-2026-emea-stage-3-gf",
   "date_display": "Sun, August 30, 2026",
-  "time_display": "9:00 AM",
+  "time_display": "4:00 AM",
   "team1": "Gentle Mates GC",
   "team2": "G2 Gozen",
   "event_name": "Game Changers 2026: EMEA Stage 3",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-08-29T19:54:42.509199+00:00",
+  "captured_at": "2026-08-29T20:27:30.011649+00:00",
   "lines": [
     {
       "match_id": 732793,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.5208333333333334,
       "implied_prob_fair": 0.48108108108108105,
+      "source": "match:732793"
+    },
+    {
+      "match_id": 732793,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51514",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5251396648044693,
+      "source": "match:732793"
+    },
+    {
+      "match_id": 732793,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51514",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.47486033519553067,
+      "source": "match:732793"
+    },
+    {
+      "match_id": 732793,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51582",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5,
+      "source": "match:732793"
+    },
+    {
+      "match_id": 732793,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51582",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5,
       "source": "match:732793"
     }
   ]
