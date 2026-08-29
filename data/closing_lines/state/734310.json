@@ -7,36 +7,8 @@
   "team2": "Evil Geniuses",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-29T19:08:47.983078+00:00",
+  "captured_at": "2026-08-29T19:24:48.979831+00:00",
   "lines": [
-    {
-      "match_id": 734310,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51715",
-      "stage": "pre-match",
-      "team": "MIBR",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.3,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7192224622030238,
-      "source": "match:734310"
-    },
-    {
-      "match_id": 734310,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51715",
-      "stage": "pre-match",
-      "team": "Evil Geniuses",
-      "team_tag": "EG",
-      "decimal_odds": 3.33,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3003003003003003,
-      "implied_prob_fair": 0.2807775377969763,
-      "source": "match:734310"
-    },
     {
       "match_id": 734310,
       "bookmaker": "rainbet",
