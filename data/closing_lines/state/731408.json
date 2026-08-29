@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-08-29T16:54:46.726102+00:00",
+  "captured_at": "2026-08-29T17:26:19.674937+00:00",
   "lines": [
     {
       "match_id": 731408,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 6.76,
+      "decimal_odds": 8.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14792899408284024,
-      "implied_prob_fair": 0.13775510204081634,
+      "implied_prob_raw": 0.11185682326621925,
+      "implied_prob_fair": 0.10420841683366736,
       "source": "match:731408"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8622448979591836,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8957915831663328,
       "source": "match:731408"
     },
     {
@@ -104,7 +104,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.13043478260869565,
+      "implied_prob_fair": 0.1315136476426799,
       "source": "match:731408"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.05,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9523809523809523,
-      "implied_prob_fair": 0.8695652173913044,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8684863523573201,
       "source": "match:731408"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 8.06,
+      "decimal_odds": 8.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.12406947890818858,
-      "implied_prob_fair": 0.11816192560175054,
+      "implied_prob_raw": 0.11918951132300357,
+      "implied_prob_fair": 0.11310782241014798,
       "source": "match:731408"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8818380743982493,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.886892177589852,
       "source": "match:731408"
     }
   ]
