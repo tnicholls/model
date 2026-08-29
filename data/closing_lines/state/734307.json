@@ -2,12 +2,12 @@
   "match_id": 734307,
   "match_url": "/734307/nrg-vs-100-thieves-vct-2026-americas-stage-2-ubf",
   "date_display": "Fri, September 4, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "6:00 PM",
   "team1": "NRG",
   "team2": "100 Thieves",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-08-29T17:42:44.607108+00:00",
+  "captured_at": "2026-08-29T17:58:43.687014+00:00",
   "lines": [
     {
       "match_id": 734307,
@@ -91,62 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.5,
       "implied_prob_fair": 0.4623655913978494,
-      "source": "match:734307"
-    },
-    {
-      "match_id": 734307,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51742",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 1.68,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5307262569832403,
-      "source": "match:734307"
-    },
-    {
-      "match_id": 734307,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51742",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.9,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4692737430167598,
-      "source": "match:734307"
-    },
-    {
-      "match_id": 734307,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51744",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 1.75,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.537037037037037,
-      "source": "match:734307"
-    },
-    {
-      "match_id": 734307,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51744",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 2.03,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.462962962962963,
       "source": "match:734307"
     }
   ]

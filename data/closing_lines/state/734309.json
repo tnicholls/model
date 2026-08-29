@@ -2,12 +2,12 @@
   "match_id": 734309,
   "match_url": "/734309/furia-vs-g2-esports-vct-2026-americas-stage-2-lr1",
   "date_display": "Sat, August 29, 2026",
-  "time_display": "5:00 PM",
+  "time_display": "10:00 PM",
   "team1": "FURIA",
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-29T17:42:25.816664+00:00",
+  "captured_at": "2026-08-29T17:58:25.286375+00:00",
   "lines": [
     {
       "match_id": 734309,
@@ -91,62 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.8,
       "implied_prob_fair": 0.7368421052631579,
-      "source": "match:734309"
-    },
-    {
-      "match_id": 734309,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51702",
-      "stage": "pre-match",
-      "team": "FURIA",
-      "team_tag": "FUR",
-      "decimal_odds": 3.3,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.2699115044247788,
-      "source": "match:734309"
-    },
-    {
-      "match_id": 734309,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51702",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7300884955752213,
-      "source": "match:734309"
-    },
-    {
-      "match_id": 734309,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51706",
-      "stage": "pre-match",
-      "team": "FURIA",
-      "team_tag": "FUR",
-      "decimal_odds": 3.76,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.26595744680851063,
-      "implied_prob_fair": 0.249500998003992,
-      "source": "match:734309"
-    },
-    {
-      "match_id": 734309,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51706",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.25,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.750499001996008,
       "source": "match:734309"
     }
   ]
