@@ -7,7 +7,7 @@
   "team2": "100 Thieves",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-08-29T16:05:39.643576+00:00",
+  "captured_at": "2026-08-29T16:39:04.217703+00:00",
   "lines": [
     {
       "match_id": 734307,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.84,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5434782608695652,
-      "implied_prob_fair": 0.5119363395225464,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.537037037037037,
       "source": "match:734307"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.93,
+      "decimal_odds": 2.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.48806366047745364,
+      "implied_prob_raw": 0.4926108374384237,
+      "implied_prob_fair": 0.462962962962963,
       "source": "match:734307"
     }
   ]
