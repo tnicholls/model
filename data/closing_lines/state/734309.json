@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-08-29T18:14:23.459398+00:00",
+  "captured_at": "2026-08-29T18:52:45.072112+00:00",
   "lines": [
     {
       "match_id": 734309,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FURIA",
       "team_tag": "FUR",
-      "decimal_odds": 3.7,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27027027027027023,
-      "implied_prob_fair": 0.2540322580645161,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.2607802874743327,
       "source": "match:734309"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7459677419354839,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7392197125256674,
       "source": "match:734309"
     },
     {
