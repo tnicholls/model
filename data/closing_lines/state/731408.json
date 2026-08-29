@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-08-29T16:38:43.562454+00:00",
+  "captured_at": "2026-08-29T16:54:46.726102+00:00",
   "lines": [
     {
       "match_id": 731408,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 7.79,
+      "decimal_odds": 6.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.12836970474967907,
-      "implied_prob_fair": 0.11977401129943503,
+      "implied_prob_raw": 0.14792899408284024,
+      "implied_prob_fair": 0.13775510204081634,
       "source": "match:731408"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8802259887005649,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8622448979591836,
       "source": "match:731408"
     },
     {
@@ -104,7 +104,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.1315136476426799,
+      "implied_prob_fair": 0.13043478260869565,
       "source": "match:731408"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8684863523573201,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8695652173913044,
       "source": "match:731408"
     },
     {
