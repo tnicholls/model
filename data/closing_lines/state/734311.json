@@ -1,0 +1,41 @@
+{
+  "match_id": 734311,
+  "match_url": "/734311/leviat-n-vs-g2-esports-vct-2026-americas-stage-2-lr2",
+  "date_display": "Sun, August 30, 2026",
+  "time_display": "5:00 PM",
+  "team1": "LEVIAT\u00c1N",
+  "team2": "G2 Esports",
+  "event_name": "VCT 2026: Americas Stage 2",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-08-30T01:39:04.078317+00:00",
+  "lines": [
+    {
+      "match_id": 734311,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51758",
+      "stage": "pre-match",
+      "team": "LEVIAT\u00c1N",
+      "team_tag": "LEV",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5596816976127321,
+      "source": "match:734311"
+    },
+    {
+      "match_id": 734311,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51758",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 2.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.44031830238726793,
+      "source": "match:734311"
+    }
+  ]
+}

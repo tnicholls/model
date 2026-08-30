@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "VCT 2026: EMEA Stage 2",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-08-29T20:27:31.661782+00:00",
+  "captured_at": "2026-08-30T01:39:02.652389+00:00",
   "lines": [
     {
       "match_id": 731401,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47721179624664883,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.482573726541555,
       "source": "match:731401"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.5227882037533512,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.517426273458445,
       "source": "match:731401"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.49473684210526314,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.5,
       "source": "match:731401"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.88,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.5052631578947367,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.5,
       "source": "match:731401"
     }
   ]
