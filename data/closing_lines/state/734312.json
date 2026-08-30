@@ -7,7 +7,7 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-30T18:52:23.695977+00:00",
+  "captured_at": "2026-08-30T22:10:12.370679+00:00",
   "lines": [
     {
       "match_id": 734312,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.4093264248704664,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.404639175257732,
       "source": "match:734312"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5906735751295337,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5953608247422681,
       "source": "match:734312"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.38666666666666666,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.3967828418230563,
       "source": "match:734312"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6133333333333333,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6032171581769437,
       "source": "match:734312"
     },
     {
