@@ -1,0 +1,41 @@
+{
+  "match_id": 724896,
+  "match_url": "/724896/the-spiders-vs-axolotl-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+  "date_display": "Tue, September 1, 2026",
+  "time_display": "5:00 PM",
+  "team1": "The Spiders",
+  "team2": "Axolotl",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-30T18:52:26.758872+00:00",
+  "lines": [
+    {
+      "match_id": 724896,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51774",
+      "stage": "pre-match",
+      "team": "The Spiders",
+      "team_tag": "TS",
+      "decimal_odds": 2.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4566210045662101,
+      "implied_prob_fair": 0.42063492063492064,
+      "source": "match:724896"
+    },
+    {
+      "match_id": 724896,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51774",
+      "stage": "pre-match",
+      "team": "Axolotl",
+      "team_tag": "AXL",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5793650793650793,
+      "source": "match:724896"
+    }
+  ]
+}

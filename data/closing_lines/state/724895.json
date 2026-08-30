@@ -1,0 +1,41 @@
+{
+  "match_id": 724895,
+  "match_url": "/724895/flyquest-red-vs-mvsk-secret-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+  "date_display": "Tue, September 1, 2026",
+  "time_display": "5:00 PM",
+  "team1": "FlyQuest RED",
+  "team2": "MVSK Secret",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-30T18:52:25.206927+00:00",
+  "lines": [
+    {
+      "match_id": 724895,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51775",
+      "stage": "pre-match",
+      "team": "FlyQuest RED",
+      "team_tag": "FLY",
+      "decimal_odds": 1.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8615782664941785,
+      "source": "match:724895"
+    },
+    {
+      "match_id": 724895,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51775",
+      "stage": "pre-match",
+      "team": "MVSK Secret",
+      "team_tag": "MVSK",
+      "decimal_odds": 6.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15015015015015015,
+      "implied_prob_fair": 0.13842173350582146,
+      "source": "match:724895"
+    }
+  ]
+}

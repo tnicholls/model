@@ -1,0 +1,41 @@
+{
+  "match_id": 724897,
+  "match_url": "/724897/swimtrek-blue-vs-cloud9-gc-game-changers-2026-north-america-stage-2-playoffs-ubqf",
+  "date_display": "Tue, September 1, 2026",
+  "time_display": "7:30 PM",
+  "team1": "SwimTrek Blue",
+  "team2": "Cloud9 GC",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-08-30T18:52:28.368239+00:00",
+  "lines": [
+    {
+      "match_id": 724897,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51772",
+      "stage": "pre-match",
+      "team": "SwimTrek Blue",
+      "team_tag": "SWIM",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7555110220440883,
+      "source": "match:724897"
+    },
+    {
+      "match_id": 724897,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51772",
+      "stage": "pre-match",
+      "team": "Cloud9 GC",
+      "team_tag": "C9",
+      "decimal_odds": 3.77,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.26525198938992045,
+      "implied_prob_fair": 0.24448897795591187,
+      "source": "match:724897"
+    }
+  ]
+}
