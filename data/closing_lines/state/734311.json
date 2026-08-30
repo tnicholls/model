@@ -7,36 +7,8 @@
   "team2": "G2 Esports",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-30T23:10:07.933054+00:00",
+  "captured_at": "2026-08-30T23:26:01.236009+00:00",
   "lines": [
-    {
-      "match_id": 734311,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51758",
-      "stage": "live",
-      "team": "LEVIAT\u00c1N",
-      "team_tag": "LEV",
-      "decimal_odds": 2.07,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.4523809523809524,
-      "source": "match:734311"
-    },
-    {
-      "match_id": 734311,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51758",
-      "stage": "live",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.71,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5476190476190476,
-      "source": "match:734311"
-    },
     {
       "match_id": 734311,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "live",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 1.95,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47297297297297297,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.35802469135802467,
       "source": "match:734311"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.527027027027027,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6419753086419754,
       "source": "match:734311"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "live",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 1.95,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47297297297297297,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.34466019417475724,
       "source": "match:734311"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.527027027027027,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6553398058252428,
       "source": "match:734311"
     },
     {
@@ -128,11 +100,11 @@
       "stage": "live",
       "team": "LEVIAT\u00c1N",
       "team_tag": "LEV",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.4562334217506631,
+      "implied_prob_raw": 0.38910505836575876,
+      "implied_prob_fair": 0.36386138613861385,
       "source": "match:734311"
     },
     {
@@ -142,11 +114,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5437665782493368,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6361386138613861,
       "source": "match:734311"
     }
   ]

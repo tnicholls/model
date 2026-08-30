@@ -7,7 +7,7 @@
   "team2": "Cloud9 GC",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-30T23:10:13.975214+00:00",
+  "captured_at": "2026-08-30T23:26:07.238406+00:00",
   "lines": [
     {
       "match_id": 724897,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SwimTrek Blue",
       "team_tag": "SWIM",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7660818713450293,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7724665391969409,
       "source": "match:724897"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Cloud9 GC",
       "team_tag": "C9",
-      "decimal_odds": 3.93,
+      "decimal_odds": 4.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2544529262086514,
-      "implied_prob_fair": 0.23391812865497078,
+      "implied_prob_raw": 0.24752475247524752,
+      "implied_prob_fair": 0.22753346080305928,
       "source": "match:724897"
     }
   ]
