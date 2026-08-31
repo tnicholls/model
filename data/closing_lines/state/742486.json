@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-08-31T01:57:04.842616+00:00",
+  "captured_at": "2026-08-31T02:29:14.250098+00:00",
   "lines": [
     {
       "match_id": 742486,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 2.87,
+      "decimal_odds": 2.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3484320557491289,
-      "implied_prob_fair": 0.32311320754716977,
+      "implied_prob_raw": 0.3460207612456747,
+      "implied_prob_fair": 0.3215962441314554,
       "source": "match:742486"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6768867924528301,
+      "implied_prob_fair": 0.6784037558685446,
       "source": "match:742486"
     },
     {
