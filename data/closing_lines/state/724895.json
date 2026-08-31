@@ -7,7 +7,7 @@
   "team2": "MVSK Secret",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-08-31T01:24:19.109160+00:00",
+  "captured_at": "2026-08-31T01:40:34.533680+00:00",
   "lines": [
     {
       "match_id": 724895,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8615782664941785,
+      "implied_prob_fair": 0.8652392947103275,
       "source": "match:724895"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MVSK Secret",
       "team_tag": "MVSK",
-      "decimal_odds": 6.66,
+      "decimal_odds": 6.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15015015015015015,
-      "implied_prob_fair": 0.13842173350582146,
+      "implied_prob_raw": 0.14556040756914118,
+      "implied_prob_fair": 0.13476070528967254,
       "source": "match:724895"
     }
   ]
