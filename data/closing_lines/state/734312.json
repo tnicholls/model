@@ -7,7 +7,7 @@
   "team2": "MIBR",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-08-31T00:35:25.489815+00:00",
+  "captured_at": "2026-08-31T00:51:41.117055+00:00",
   "lines": [
     {
       "match_id": 734312,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.94,
+      "decimal_odds": 2.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3401360544217687,
-      "implied_prob_fair": 0.31786542923433875,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.3778337531486146,
       "source": "match:734312"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6821345707656613,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6221662468513854,
       "source": "match:734312"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.34466019417475724,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
       "source": "match:734312"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6553398058252428,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
       "source": "match:734312"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.34466019417475724,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.38961038961038963,
       "source": "match:734312"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "MIBR",
       "team_tag": "MIBR",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6553398058252428,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6103896103896104,
       "source": "match:734312"
     },
     {
