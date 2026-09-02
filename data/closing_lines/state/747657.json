@@ -1,0 +1,41 @@
+{
+  "match_id": 747657,
+  "match_url": "/747657/glacial-guardians-vs-cgn-esports-the-pokal-2026-ubqf",
+  "date_display": "Wed, September 2, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Glacial Guardians",
+  "team2": "CGN Esports",
+  "event_name": "THE POKAL 2026",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-09-02T05:05:26.155923+00:00",
+  "lines": [
+    {
+      "match_id": 747657,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51786",
+      "stage": "pre-match",
+      "team": "Glacial Guardians",
+      "team_tag": "GG",
+      "decimal_odds": 4.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.20920502092050208,
+      "implied_prob_fair": 0.19256756756756754,
+      "source": "match:747657"
+    },
+    {
+      "match_id": 747657,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51786",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8074324324324325,
+      "source": "match:747657"
+    }
+  ]
+}
