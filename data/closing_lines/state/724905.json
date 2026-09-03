@@ -1,0 +1,41 @@
+{
+  "match_id": 724905,
+  "match_url": "/724905/swimtrek-blue-vs-the-spiders-game-changers-2026-north-america-stage-2-playoffs-lr2",
+  "date_display": "Thu, September 3, 2026",
+  "time_display": "5:00 PM",
+  "team1": "SwimTrek Blue",
+  "team2": "The Spiders",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-09-03T06:16:06.983944+00:00",
+  "lines": [
+    {
+      "match_id": 724905,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51854",
+      "stage": "pre-match",
+      "team": "SwimTrek Blue",
+      "team_tag": "SWIM",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7971781305114639,
+      "source": "match:724905"
+    },
+    {
+      "match_id": 724905,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51854",
+      "stage": "pre-match",
+      "team": "The Spiders",
+      "team_tag": "TS",
+      "decimal_odds": 4.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.22123893805309736,
+      "implied_prob_fair": 0.20282186948853617,
+      "source": "match:724905"
+    }
+  ]
+}

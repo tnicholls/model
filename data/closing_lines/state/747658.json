@@ -1,0 +1,41 @@
+{
+  "match_id": 747658,
+  "match_url": "/747658/alternate-attax-vs-rizon-the-pokal-2026-ubqf",
+  "date_display": "Thu, September 3, 2026",
+  "time_display": "2:00 PM",
+  "team1": "ALTERNATE aTTaX",
+  "team2": "RIZON",
+  "event_name": "THE POKAL 2026",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-09-03T06:16:05.443652+00:00",
+  "lines": [
+    {
+      "match_id": 747658,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51846",
+      "stage": "pre-match",
+      "team": "ALTERNATE aTTaX",
+      "team_tag": "ATN",
+      "decimal_odds": 1.96,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.4659400544959128,
+      "source": "match:747658"
+    },
+    {
+      "match_id": 747658,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51846",
+      "stage": "pre-match",
+      "team": "RIZON",
+      "team_tag": "RZN",
+      "decimal_odds": 1.71,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5340599455040871,
+      "source": "match:747658"
+    }
+  ]
+}

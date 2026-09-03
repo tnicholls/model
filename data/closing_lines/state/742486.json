@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-09-02T05:05:44.299292+00:00",
+  "captured_at": "2026-09-03T06:16:13.595060+00:00",
   "lines": [
     {
       "match_id": 742486,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 2.92,
+      "decimal_odds": 2.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3424657534246575,
-      "implied_prob_fair": 0.3193473193473193,
+      "implied_prob_raw": 0.341296928327645,
+      "implied_prob_fair": 0.3186046511627907,
       "source": "match:742486"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6806526806526806,
+      "implied_prob_fair": 0.6813953488372093,
       "source": "match:742486"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 3.13,
+      "decimal_odds": 3.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3194888178913738,
-      "implied_prob_fair": 0.3075221238938053,
+      "implied_prob_raw": 0.32573289902280134,
+      "implied_prob_fair": 0.3131991051454139,
       "source": "match:742486"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6924778761061947,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6868008948545861,
       "source": "match:742486"
     }
   ]

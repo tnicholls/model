@@ -7,7 +7,7 @@
   "team2": "Xi Lai Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-02T05:05:34.415322+00:00",
+  "captured_at": "2026-09-03T06:16:02.410968+00:00",
   "lines": [
     {
       "match_id": 748619,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.7964601769911506,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.733615221987315,
       "source": "match:748619"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 4.5,
+      "decimal_odds": 3.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2222222222222222,
-      "implied_prob_fair": 0.20353982300884954,
+      "implied_prob_raw": 0.2881844380403458,
+      "implied_prob_fair": 0.266384778012685,
       "source": "match:748619"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8201892744479495,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.703125,
       "source": "match:748619"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 5.2,
+      "decimal_odds": 3.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1923076923076923,
-      "implied_prob_fair": 0.17981072555205044,
+      "implied_prob_raw": 0.31746031746031744,
+      "implied_prob_fair": 0.296875,
       "source": "match:748619"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.12,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8255451713395638,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7013574660633485,
       "source": "match:748619"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 5.3,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18867924528301888,
-      "implied_prob_fair": 0.17445482866043616,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.2986425339366516,
       "source": "match:748619"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8035714285714286,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.69377990430622,
       "source": "match:748619"
     },
     {
@@ -114,11 +114,39 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 4.5,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2222222222222222,
-      "implied_prob_fair": 0.19642857142857142,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3062200956937799,
+      "source": "match:748619"
+    },
+    {
+      "match_id": 748619,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51820",
+      "stage": "pre-match",
+      "team": "Bilibili Gaming",
+      "team_tag": "BLG",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7448132780082988,
+      "source": "match:748619"
+    },
+    {
+      "match_id": 748619,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51820",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 3.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2785515320334262,
+      "implied_prob_fair": 0.2551867219917013,
       "source": "match:748619"
     }
   ]

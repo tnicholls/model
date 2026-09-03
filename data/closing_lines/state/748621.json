@@ -7,7 +7,7 @@
   "team2": "TYLOO",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-02T05:05:42.607013+00:00",
+  "captured_at": "2026-09-03T06:16:11.951556+00:00",
   "lines": [
     {
       "match_id": 748621,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8586525759577278,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8282208588957055,
       "source": "match:748621"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 6.5,
+      "decimal_odds": 5.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15384615384615385,
-      "implied_prob_fair": 0.14134742404227213,
+      "implied_prob_raw": 0.18518518518518517,
+      "implied_prob_fair": 0.17177914110429449,
       "source": "match:748621"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8706166868198306,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8201892744479495,
       "source": "match:748621"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 7.2,
+      "decimal_odds": 5.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1388888888888889,
-      "implied_prob_fair": 0.1293833131801693,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.17981072555205044,
       "source": "match:748621"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8684863523573201,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8255451713395638,
       "source": "match:748621"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 7.0,
+      "decimal_odds": 5.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.1315136476426799,
+      "implied_prob_raw": 0.18867924528301888,
+      "implied_prob_fair": 0.17445482866043616,
       "source": "match:748621"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8384146341463415,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8035714285714286,
       "source": "match:748621"
     },
     {
@@ -114,11 +114,39 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 5.5,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18181818181818182,
-      "implied_prob_fair": 0.16158536585365857,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.19642857142857142,
+      "source": "match:748621"
+    },
+    {
+      "match_id": 748621,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51822",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8262910798122065,
+      "source": "match:748621"
+    },
+    {
+      "match_id": 748621,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51822",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 5.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1893939393939394,
+      "implied_prob_fair": 0.17370892018779344,
       "source": "match:748621"
     }
   ]
