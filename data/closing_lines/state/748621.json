@@ -7,7 +7,7 @@
   "team2": "TYLOO",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T06:16:11.951556+00:00",
+  "captured_at": "2026-09-03T12:21:54.948284+00:00",
   "lines": [
     {
       "match_id": 748621,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.12,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8282208588957055,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7936507936507936,
       "source": "match:748621"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 5.4,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17177914110429449,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.2063492063492063,
       "source": "match:748621"
     },
     {

@@ -7,36 +7,8 @@
   "team2": "Global Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-03T06:16:10.348302+00:00",
+  "captured_at": "2026-09-03T12:21:53.371941+00:00",
   "lines": [
-    {
-      "match_id": 742480,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51717",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 1.48,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6318407960199005,
-      "source": "match:742480"
-    },
-    {
-      "match_id": 742480,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51717",
-      "stage": "pre-match",
-      "team": "Global Esports",
-      "team_tag": "GE",
-      "decimal_odds": 2.54,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.39370078740157477,
-      "implied_prob_fair": 0.3681592039800995,
-      "source": "match:742480"
-    },
     {
       "match_id": 742480,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6153846153846154,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:742480"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.38461538461538464,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:742480"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6133333333333333,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6282722513089005,
       "source": "match:742480"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.38666666666666666,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3717277486910995,
       "source": "match:742480"
     },
     {

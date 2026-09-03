@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T06:32:53.976119+00:00",
+  "captured_at": "2026-09-03T12:28:17.770702+00:00",
   "lines": [
     {
       "match_id": 748626,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6458852867830424,
+      "implied_prob_fair": 0.6502463054187192,
       "source": "match:748626"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.59,
+      "decimal_odds": 2.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3861003861003861,
-      "implied_prob_fair": 0.3541147132169576,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.34975369458128075,
       "source": "match:748626"
     },
     {
