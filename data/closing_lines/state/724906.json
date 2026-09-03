@@ -7,7 +7,7 @@
   "team2": "HIMMERS",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-09-03T13:35:48.832564+00:00",
+  "captured_at": "2026-09-03T14:52:54.729731+00:00",
   "lines": [
     {
       "match_id": 724906,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6163682864450128,
+      "implied_prob_fair": 0.6173469387755102,
       "source": "match:724906"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "HIMMERS",
       "team_tag": "HER",
-      "decimal_odds": 2.41,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.41493775933609955,
-      "implied_prob_fair": 0.3836317135549872,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3826530612244898,
       "source": "match:724906"
     }
   ]

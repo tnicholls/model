@@ -2,12 +2,12 @@
   "match_id": 748622,
   "match_url": "/748622/trace-esports-vs-unsettled-resentment-china-evolution-series-2026-act-3-ro16",
   "date_display": "Fri, September 4, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "7:00 AM",
   "team1": "Trace Esports",
   "team2": "Unsettled Resentment",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T14:27:52.522188+00:00",
+  "captured_at": "2026-09-03T14:53:02.678690+00:00",
   "lines": [
     {
       "match_id": 748622,
@@ -63,6 +63,62 @@
       "payout": null,
       "implied_prob_raw": 0.29411764705882354,
       "implied_prob_fair": 0.2750533049040512,
+      "source": "match:748622"
+    },
+    {
+      "match_id": 748622,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51799",
+      "stage": "pre-match",
+      "team": "Trace Esports",
+      "team_tag": "TE",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
+      "source": "match:748622"
+    },
+    {
+      "match_id": 748622,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51799",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 3.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
+      "source": "match:748622"
+    },
+    {
+      "match_id": 748622,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51844",
+      "stage": "pre-match",
+      "team": "Trace Esports",
+      "team_tag": "TE",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7272727272727273,
+      "source": "match:748622"
+    },
+    {
+      "match_id": 748622,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51844",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 3.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2976190476190476,
+      "implied_prob_fair": 0.27272727272727276,
       "source": "match:748622"
     }
   ]

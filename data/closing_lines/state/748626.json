@@ -2,12 +2,12 @@
   "match_id": 748626,
   "match_url": "/748626/dragon-ranger-gaming-vs-any-questions-gaming-china-evolution-series-2026-act-3-ro16",
   "date_display": "Sun, September 6, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "7:00 AM",
   "team1": "Dragon Ranger Gaming",
   "team2": "Any Questions Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T14:29:37.504184+00:00",
+  "captured_at": "2026-09-03T14:53:18.558336+00:00",
   "lines": [
     {
       "match_id": 748626,
@@ -91,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.37037037037037035,
       "implied_prob_fair": 0.34466019417475724,
+      "source": "match:748626"
+    },
+    {
+      "match_id": 748626,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51839",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6443298969072165,
+      "source": "match:748626"
+    },
+    {
+      "match_id": 748626,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51839",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 2.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.3556701030927835,
       "source": "match:748626"
     }
   ]

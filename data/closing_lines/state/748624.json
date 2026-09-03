@@ -2,12 +2,12 @@
   "match_id": 748624,
   "match_url": "/748624/funplus-phoenix-vs-a-team-china-evolution-series-2026-act-3-ro16",
   "date_display": "Sat, September 5, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "7:00 AM",
   "team1": "FunPlus Phoenix",
   "team2": "A Team",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T14:28:03.866350+00:00",
+  "captured_at": "2026-09-03T14:53:12.390424+00:00",
   "lines": [
     {
       "match_id": 748624,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.2631578947368421,
       "implied_prob_fair": 0.24302788844621515,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51832",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7645875251509054,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51832",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.23541247484909456,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51835",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7448132780082988,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51835",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 3.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2785515320334262,
+      "implied_prob_fair": 0.2551867219917013,
       "source": "match:748624"
     }
   ]
