@@ -7,7 +7,7 @@
   "team2": "The Spiders",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-09-03T13:01:08.386146+00:00",
+  "captured_at": "2026-09-03T13:35:47.372263+00:00",
   "lines": [
     {
       "match_id": 724905,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8565737051792828,
+      "implied_prob_fair": 0.8588235294117647,
       "source": "match:724905"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "The Spiders",
       "team_tag": "TS",
-      "decimal_odds": 6.45,
+      "decimal_odds": 6.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15503875968992248,
-      "implied_prob_fair": 0.14342629482071714,
+      "implied_prob_raw": 0.15220700152207,
+      "implied_prob_fair": 0.1411764705882353,
       "source": "match:724905"
     }
   ]
