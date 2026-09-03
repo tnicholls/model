@@ -2,12 +2,12 @@
   "match_id": 748627,
   "match_url": "/748627/bilibili-gaming-vs-keepbest-gaming-china-evolution-series-2026-act-3-qf",
   "date_display": "Wed, September 9, 2026",
-  "time_display": "5:00 AM",
+  "time_display": "10:00 AM",
   "team1": "Bilibili Gaming",
   "team2": "KeepBest Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-03T15:50:45.595721+00:00",
+  "captured_at": "2026-09-03T16:07:45.563023+00:00",
   "lines": [
     {
       "match_id": 748627,
@@ -63,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.7633587786259541,
       "implied_prob_fair": 0.712719298245614,
-      "source": "match:748627"
-    },
-    {
-      "match_id": 748627,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51860",
-      "stage": "pre-match",
-      "team": "Bilibili Gaming",
-      "team_tag": "BLG",
-      "decimal_odds": 2.9,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.3062200956937799,
-      "source": "match:748627"
-    },
-    {
-      "match_id": 748627,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51860",
-      "stage": "pre-match",
-      "team": "KeepBest Gaming",
-      "team_tag": "KBG",
-      "decimal_odds": 1.28,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.69377990430622,
       "source": "match:748627"
     }
   ]

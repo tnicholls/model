@@ -1,13 +1,13 @@
 {
   "match_id": 724906,
   "match_url": "/724906/axolotl-vs-himmers-game-changers-2026-north-america-stage-2-playoffs-lr2",
-  "date_display": "Thu, September 3, 2026",
-  "time_display": "7:30 PM",
+  "date_display": "Fri, September 4, 2026",
+  "time_display": "12:30 AM",
   "team1": "Axolotl",
   "team2": "HIMMERS",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-09-03T15:50:17.993224+00:00",
+  "captured_at": "2026-09-03T16:07:17.575912+00:00",
   "lines": [
     {
       "match_id": 724906,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.4098360655737705,
       "implied_prob_fair": 0.37913486005089053,
-      "source": "match:724906"
-    },
-    {
-      "match_id": 724906,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51862",
-      "stage": "pre-match",
-      "team": "Axolotl",
-      "team_tag": "AXL",
-      "decimal_odds": 1.45,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6310432569974554,
-      "source": "match:724906"
-    },
-    {
-      "match_id": 724906,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51862",
-      "stage": "pre-match",
-      "team": "HIMMERS",
-      "team_tag": "HER",
-      "decimal_odds": 2.48,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.40322580645161293,
-      "implied_prob_fair": 0.3689567430025445,
       "source": "match:724906"
     }
   ]
