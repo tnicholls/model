@@ -2,12 +2,12 @@
   "match_id": 748623,
   "match_url": "/748623/nova-esports-vs-edward-gaming-china-evolution-series-2026-act-3-ro16",
   "date_display": "Sat, September 5, 2026",
-  "time_display": "5:00 AM",
+  "time_display": "10:00 AM",
   "team1": "Nova Esports",
   "team2": "EDward Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T13:36:17.709921+00:00",
+  "captured_at": "2026-09-03T14:11:48.504308+00:00",
   "lines": [
     {
       "match_id": 748623,
@@ -91,62 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.5208333333333334,
       "implied_prob_fair": 0.48108108108108105,
-      "source": "match:748623"
-    },
-    {
-      "match_id": 748623,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51828",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.72,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5182072829131653,
-      "source": "match:748623"
-    },
-    {
-      "match_id": 748623,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51828",
-      "stage": "pre-match",
-      "team": "EDward Gaming",
-      "team_tag": "EDG",
-      "decimal_odds": 1.85,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.4817927170868347,
-      "source": "match:748623"
-    },
-    {
-      "match_id": 748623,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51834",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.81,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5524861878453039,
-      "implied_prob_fair": 0.505464480874317,
-      "source": "match:748623"
-    },
-    {
-      "match_id": 748623,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51834",
-      "stage": "pre-match",
-      "team": "EDward Gaming",
-      "team_tag": "EDG",
-      "decimal_odds": 1.85,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.494535519125683,
       "source": "match:748623"
     }
   ]

@@ -2,12 +2,12 @@
   "match_id": 742480,
   "match_url": "/742480/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf",
   "date_display": "Fri, September 4, 2026",
-  "time_display": "4:00 AM",
+  "time_display": "9:00 AM",
   "team1": "Nongshim RedForce",
   "team2": "Global Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-03T13:35:50.461575+00:00",
+  "captured_at": "2026-09-03T14:11:34.042464+00:00",
   "lines": [
     {
       "match_id": 742480,
@@ -91,62 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.4,
       "implied_prob_fair": 0.37185929648241206,
-      "source": "match:742480"
-    },
-    {
-      "match_id": 742480,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51722",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 1.42,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6282722513089005,
-      "source": "match:742480"
-    },
-    {
-      "match_id": 742480,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51722",
-      "stage": "pre-match",
-      "team": "Global Esports",
-      "team_tag": "GE",
-      "decimal_odds": 2.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3717277486910995,
-      "source": "match:742480"
-    },
-    {
-      "match_id": 742480,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51690",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 1.54,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6234718826405868,
-      "source": "match:742480"
-    },
-    {
-      "match_id": 742480,
-      "bookmaker": "1x",
-      "bet_url": "/rr/bet/51690",
-      "stage": "pre-match",
-      "team": "Global Esports",
-      "team_tag": "GE",
-      "decimal_odds": 2.55,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3921568627450981,
-      "implied_prob_fair": 0.3765281173594133,
       "source": "match:742480"
     }
   ]
