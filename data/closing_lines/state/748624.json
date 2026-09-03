@@ -7,8 +7,36 @@
   "team2": "A Team",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T16:07:34.661717+00:00",
+  "captured_at": "2026-09-03T16:23:48.176995+00:00",
   "lines": [
+    {
+      "match_id": 748624,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51824",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7678916827852998,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51824",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 3.97,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2518891687657431,
+      "implied_prob_fair": 0.23210831721470018,
+      "source": "match:748624"
+    },
     {
       "match_id": 748624,
       "bookmaker": "rainbet",

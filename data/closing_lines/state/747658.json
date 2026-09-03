@@ -7,7 +7,7 @@
   "team2": "RIZON",
   "event_name": "THE POKAL 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-09-03T16:07:15.054859+00:00",
+  "captured_at": "2026-09-03T16:23:27.795907+00:00",
   "lines": [
     {
       "match_id": 747658,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ALTERNATE aTTaX",
       "team_tag": "ATN",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.4331550802139037,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4202127659574468,
       "source": "match:747658"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "RIZON",
       "team_tag": "RZN",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5668449197860962,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5797872340425532,
       "source": "match:747658"
     }
   ]
