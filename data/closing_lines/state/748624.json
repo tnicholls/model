@@ -2,12 +2,12 @@
   "match_id": 748624,
   "match_url": "/748624/funplus-phoenix-vs-a-team-china-evolution-series-2026-act-3-ro16",
   "date_display": "Sat, September 5, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "7:00 AM",
   "team1": "FunPlus Phoenix",
   "team2": "A Team",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-04T03:33:19.469170+00:00",
+  "captured_at": "2026-09-04T17:55:07.334478+00:00",
   "lines": [
     {
       "match_id": 748624,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.763671875,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.704954954954955,
       "source": "match:748624"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 3.91,
+      "decimal_odds": 3.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2557544757033248,
-      "implied_prob_fair": 0.236328125,
+      "implied_prob_raw": 0.3194888178913738,
+      "implied_prob_fair": 0.2950450450450451,
       "source": "match:748624"
     },
     {
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.29411764705882354,
       "implied_prob_fair": 0.2703862660944206,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51832",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51832",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 3.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51835",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7448132780082988,
+      "source": "match:748624"
+    },
+    {
+      "match_id": 748624,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51835",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 3.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2785515320334262,
+      "implied_prob_fair": 0.2551867219917013,
       "source": "match:748624"
     }
   ]

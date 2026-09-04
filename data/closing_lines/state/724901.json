@@ -2,12 +2,12 @@
   "match_id": 724901,
   "match_url": "/724901/flyquest-red-vs-shopify-rebellion-gold-game-changers-2026-north-america-stage-2-playoffs-ubf",
   "date_display": "Tue, September 8, 2026",
-  "time_display": "10:00 PM",
+  "time_display": "5:00 PM",
   "team1": "FlyQuest RED",
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-04T03:33:30.608707+00:00",
+  "captured_at": "2026-09-04T17:55:16.935558+00:00",
   "lines": [
     {
       "match_id": 724901,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.51,
+      "decimal_odds": 2.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39840637450199207,
-      "implied_prob_fair": 0.36616161616161613,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.3643216080402011,
       "source": "match:724901"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6338383838383838,
+      "implied_prob_fair": 0.635678391959799,
       "source": "match:724901"
     }
   ]
