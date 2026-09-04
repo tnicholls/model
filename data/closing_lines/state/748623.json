@@ -7,36 +7,8 @@
   "team2": "EDward Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-04T20:07:59.297091+00:00",
+  "captured_at": "2026-09-04T20:29:50.838869+00:00",
   "lines": [
-    {
-      "match_id": 748623,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51823",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.79,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5175202156334231,
-      "source": "match:748623"
-    },
-    {
-      "match_id": 748623,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51823",
-      "stage": "pre-match",
-      "team": "EDward Gaming",
-      "team_tag": "EDG",
-      "decimal_odds": 1.92,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48247978436657685,
-      "source": "match:748623"
-    },
     {
       "match_id": 748623,
       "bookmaker": "rainbet",

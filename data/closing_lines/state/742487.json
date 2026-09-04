@@ -7,8 +7,36 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-09-04T20:07:51.965521+00:00",
+  "captured_at": "2026-09-04T20:29:49.350856+00:00",
   "lines": [
+    {
+      "match_id": 742487,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51867",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 2.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.42894736842105263,
+      "source": "match:742487"
+    },
+    {
+      "match_id": 742487,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51867",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5710526315789474,
+      "source": "match:742487"
+    },
     {
       "match_id": 742487,
       "bookmaker": "rainbet",
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.44,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4297082228116711,
       "source": "match:742487"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.65,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.56,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5702917771883289,
       "source": "match:742487"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4444444444444444,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.43526170798898073,
       "source": "match:742487"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5555555555555556,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5647382920110192,
       "source": "match:742487"
     },
     {
