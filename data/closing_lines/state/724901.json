@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-04T19:46:13.008970+00:00",
+  "captured_at": "2026-09-04T20:08:36.078394+00:00",
   "lines": [
     {
       "match_id": 724901,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.36318407960199,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:724901"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6368159203980098,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:724901"
     },
     {
