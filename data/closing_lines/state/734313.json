@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-09-03T17:44:50.595929+00:00",
+  "captured_at": "2026-09-04T03:20:37.828920+00:00",
   "lines": [
     {
       "match_id": 734313,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6265664160401002,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6221662468513854,
       "source": "match:734313"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37343358395989973,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.3778337531486146,
       "source": "match:734313"
     },
     {

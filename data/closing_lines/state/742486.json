@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-09-03T17:44:42.637555+00:00",
+  "captured_at": "2026-09-04T03:01:43.465580+00:00",
   "lines": [
     {
       "match_id": 742486,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 2.87,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3484320557491289,
-      "implied_prob_fair": 0.32629107981220656,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.32860520094562645,
       "source": "match:742486"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6737089201877935,
+      "implied_prob_fair": 0.6713947990543735,
       "source": "match:742486"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 2.96,
+      "decimal_odds": 2.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31639722863741343,
+      "implied_prob_raw": 0.3424657534246575,
+      "implied_prob_fair": 0.3225058004640371,
       "source": "match:742486"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6836027713625867,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6774941995359629,
       "source": "match:742486"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "VARREL",
       "team_tag": "VL",
-      "decimal_odds": 2.9,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.31764705882352945,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.34466019417475724,
       "source": "match:742486"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6823529411764706,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6553398058252428,
       "source": "match:742486"
     }
   ]

@@ -7,8 +7,36 @@
   "team2": "Unsettled Resentment",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-03T17:44:44.131495+00:00",
+  "captured_at": "2026-09-04T03:01:44.700500+00:00",
   "lines": [
+    {
+      "match_id": 748622,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51807",
+      "stage": "pre-match",
+      "team": "Trace Esports",
+      "team_tag": "TE",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7718631178707224,
+      "source": "match:748622"
+    },
+    {
+      "match_id": 748622,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51807",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 4.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24630541871921185,
+      "implied_prob_fair": 0.22813688212927757,
+      "source": "match:748622"
+    },
     {
       "match_id": 748622,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "Trace Esports",
       "team_tag": "TE",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7249466950959489,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.795847750865052,
       "source": "match:748622"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 3.4,
+      "decimal_odds": 4.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29411764705882354,
-      "implied_prob_fair": 0.2750533049040512,
+      "implied_prob_raw": 0.2173913043478261,
+      "implied_prob_fair": 0.20415224913494812,
       "source": "match:748622"
     }
   ]
