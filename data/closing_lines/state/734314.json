@@ -2,12 +2,12 @@
   "match_id": 734314,
   "match_url": "/734314/nrg-vs-loud-vct-2026-americas-stage-2-lbf",
   "date_display": "Sat, September 5, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "6:00 PM",
   "team1": "NRG",
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-09-04T22:14:20.398660+00:00",
+  "captured_at": "2026-09-04T22:33:40.423656+00:00",
   "lines": [
     {
       "match_id": 734314,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5361930294906166,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5347593582887701,
       "source": "match:734314"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4638069705093834,
+      "implied_prob_fair": 0.46524064171123,
       "source": "match:734314"
     },
     {
@@ -91,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.46511627906976744,
       "implied_prob_fair": 0.4297082228116711,
-      "source": "match:734314"
-    },
-    {
-      "match_id": 734314,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51877",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 1.58,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5647382920110192,
-      "source": "match:734314"
-    },
-    {
-      "match_id": 734314,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51877",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 2.05,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.43526170798898073,
       "source": "match:734314"
     }
   ]
