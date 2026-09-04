@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-09-04T21:01:54.585794+00:00",
+  "captured_at": "2026-09-04T21:18:02.017403+00:00",
   "lines": [
     {
       "match_id": 742487,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.18,
+      "decimal_odds": 2.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4587155963302752,
-      "implied_prob_fair": 0.4308093994778067,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.4233766233766234,
       "source": "match:742487"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.65,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.5691906005221932,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5766233766233767,
       "source": "match:742487"
     },
     {
