@@ -7,8 +7,36 @@
   "team2": "100 Thieves",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-04T17:55:00.821050+00:00",
+  "captured_at": "2026-09-04T18:41:39.256682+00:00",
   "lines": [
+    {
+      "match_id": 734307,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51740",
+      "stage": "live",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 15.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
+      "source": "match:734307"
+    },
+    {
+      "match_id": 734307,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51740",
+      "stage": "live",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
+      "source": "match:734307"
+    },
     {
       "match_id": 734307,
       "bookmaker": "rainbet",
@@ -44,11 +72,11 @@
       "stage": "live",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 3.5,
+      "decimal_odds": 12.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.26315789473684204,
+      "implied_prob_raw": 0.08333333333333333,
+      "implied_prob_fair": 0.07692307692307693,
       "source": "match:734307"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7368421052631579,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9230769230769231,
       "source": "match:734307"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "live",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 3.5,
+      "decimal_odds": 11.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.26315789473684204,
+      "implied_prob_raw": 0.09090909090909091,
+      "implied_prob_fair": 0.08409658617818486,
       "source": "match:734307"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7368421052631579,
+      "implied_prob_raw": 0.9900990099009901,
+      "implied_prob_fair": 0.9159034138218152,
       "source": "match:734307"
     },
     {
@@ -100,11 +128,11 @@
       "stage": "live",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 3.59,
+      "decimal_odds": 9.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2785515320334262,
-      "implied_prob_fair": 0.25979381443298966,
+      "implied_prob_raw": 0.10141987829614606,
+      "implied_prob_fair": 0.09458218549127642,
       "source": "match:734307"
     },
     {
@@ -114,11 +142,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7402061855670102,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.9054178145087237,
       "source": "match:734307"
     }
   ]
