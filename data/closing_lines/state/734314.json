@@ -7,12 +7,12 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-09-05T15:08:41.995722+00:00",
+  "captured_at": "2026-09-05T15:24:47.776572+00:00",
   "lines": [
     {
       "match_id": 734314,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51879",
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51876",
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
@@ -20,35 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5593667546174144,
-      "source": "match:734314"
-    },
-    {
-      "match_id": 734314,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51879",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 2.12,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44063324538258575,
-      "source": "match:734314"
-    },
-    {
-      "match_id": 734314,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/51876",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 1.59,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5912596401028277,
+      "implied_prob_fair": 0.5616797900262467,
       "source": "match:734314"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4087403598971723,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4383202099737532,
       "source": "match:734314"
     },
     {
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5702917771883289,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.56,
       "source": "match:734314"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4297082228116711,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44,
       "source": "match:734314"
     },
     {
