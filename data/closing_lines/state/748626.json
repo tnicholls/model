@@ -7,36 +7,8 @@
   "team2": "Any Questions Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-04T22:33:45.011807+00:00",
+  "captured_at": "2026-09-05T00:34:01.566352+00:00",
   "lines": [
-    {
-      "match_id": 748626,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51826",
-      "stage": "pre-match",
-      "team": "Dragon Ranger Gaming",
-      "team_tag": "DRG",
-      "decimal_odds": 1.41,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6552567237163813,
-      "source": "match:748626"
-    },
-    {
-      "match_id": 748626,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51826",
-      "stage": "pre-match",
-      "team": "Any Questions Gaming",
-      "team_tag": "AQ",
-      "decimal_odds": 2.68,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3447432762836185,
-      "source": "match:748626"
-    },
     {
       "match_id": 748626,
       "bookmaker": "rainbet",

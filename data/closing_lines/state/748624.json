@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-04T22:33:38.848955+00:00",
+  "captured_at": "2026-09-05T00:33:09.482905+00:00",
   "lines": [
     {
       "match_id": 748624,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
       "source": "match:748624"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 3.1,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
       "source": "match:748624"
     }
   ]
