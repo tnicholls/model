@@ -7,7 +7,7 @@
   "team2": "Global Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-09-05T14:43:16.031478+00:00",
+  "captured_at": "2026-09-05T15:08:43.530949+00:00",
   "lines": [
     {
       "match_id": 742481,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.6034912718204488,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6452380952380953,
       "source": "match:742481"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.42,
+      "decimal_odds": 2.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4132231404958678,
-      "implied_prob_fair": 0.39650872817955113,
+      "implied_prob_raw": 0.36900369003690037,
+      "implied_prob_fair": 0.3547619047619047,
       "source": "match:742481"
     }
   ]

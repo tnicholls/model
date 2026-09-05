@@ -7,8 +7,36 @@
   "team2": "JD Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-05T14:43:17.514922+00:00",
+  "captured_at": "2026-09-05T15:08:45.202343+00:00",
   "lines": [
+    {
+      "match_id": 748625,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51825",
+      "stage": "pre-match",
+      "team": "All Gamers",
+      "team_tag": "AG",
+      "decimal_odds": 2.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.3953488372093023,
+      "source": "match:748625"
+    },
+    {
+      "match_id": 748625,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51825",
+      "stage": "pre-match",
+      "team": "JD Gaming",
+      "team_tag": "JDG",
+      "decimal_odds": 1.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6046511627906976,
+      "source": "match:748625"
+    },
     {
       "match_id": 748625,
       "bookmaker": "rainbet",
