@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-09-05T02:31:19.735087+00:00",
+  "captured_at": "2026-09-05T07:47:50.000726+00:00",
   "lines": [
     {
       "match_id": 734314,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.547872340425532,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5476190476190476,
       "source": "match:734314"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4521276595744681,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.4523809523809524,
       "source": "match:734314"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5729166666666667,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5654450261780105,
       "source": "match:734314"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42708333333333337,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.4345549738219895,
       "source": "match:734314"
     },
     {
