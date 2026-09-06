@@ -2,12 +2,12 @@
   "match_id": 748627,
   "match_url": "/748627/bilibili-gaming-vs-keepbest-gaming-china-evolution-series-2026-act-3-qf",
   "date_display": "Wed, September 9, 2026",
-  "time_display": "10:00 AM",
+  "time_display": "5:00 AM",
   "team1": "Bilibili Gaming",
   "team2": "KeepBest Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-06T20:44:09.491107+00:00",
+  "captured_at": "2026-09-06T21:00:20.876512+00:00",
   "lines": [
     {
       "match_id": 748627,
@@ -91,6 +91,62 @@
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
       "implied_prob_fair": 0.7111111111111111,
+      "source": "match:748627"
+    },
+    {
+      "match_id": 748627,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51860",
+      "stage": "pre-match",
+      "team": "Bilibili Gaming",
+      "team_tag": "BLG",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3062200956937799,
+      "source": "match:748627"
+    },
+    {
+      "match_id": 748627,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/51860",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.69377990430622,
+      "source": "match:748627"
+    },
+    {
+      "match_id": 748627,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51865",
+      "stage": "pre-match",
+      "team": "Bilibili Gaming",
+      "team_tag": "BLG",
+      "decimal_odds": 3.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29239766081871343,
+      "implied_prob_fair": 0.26766595289079226,
+      "source": "match:748627"
+    },
+    {
+      "match_id": 748627,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51865",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7323340471092077,
       "source": "match:748627"
     }
   ]
