@@ -32187,3 +32187,16 @@
 {"bookmaker": "winz", "vig": 0.11785874943769681, "sampled_at": "2026-09-06T17:08:18.782823+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "1x", "vig": 0.0922253032195246, "sampled_at": "2026-09-06T17:08:18.782823+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "thunderpick", "vig": 0.08769379844961245, "sampled_at": "2026-09-06T17:25:21.327848+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.06776069119165351, "sampled_at": "2026-09-06T20:44:04.676624+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06860959319975724, "sampled_at": "2026-09-06T20:44:04.676624+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.07427055702917773, "sampled_at": "2026-09-06T20:44:04.676624+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.07567567567567579, "sampled_at": "2026-09-06T20:44:07.705065+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.07567567567567579, "sampled_at": "2026-09-06T20:44:07.705065+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.0770645754671313, "sampled_at": "2026-09-06T20:44:09.491107+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.0693400167084377, "sampled_at": "2026-09-06T20:44:09.491107+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08173076923076916, "sampled_at": "2026-09-06T20:44:09.491107+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.08080420028172619, "sampled_at": "2026-09-06T20:44:10.751638+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.07086458744571655, "sampled_at": "2026-09-06T20:44:10.751638+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.0854341736694677, "sampled_at": "2026-09-06T20:44:15.506644+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.07034872001612591, "sampled_at": "2026-09-06T20:44:15.506644+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08333333333333348, "sampled_at": "2026-09-06T20:44:15.506644+00:00", "source": "pre_match_snapshot"}
