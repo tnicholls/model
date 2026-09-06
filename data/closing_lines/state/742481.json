@@ -7,7 +7,7 @@
   "team2": "Global Esports",
   "event_name": "VCT 2026: Pacific Stage 2",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-09-06T09:01:58.564667+00:00",
+  "captured_at": "2026-09-06T10:23:13.605242+00:00",
   "lines": [
     {
       "match_id": 742481,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6284289276807979,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8726190476190476,
       "source": "match:742481"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.52,
+      "decimal_odds": 7.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.37157107231920194,
+      "implied_prob_raw": 0.1364256480218281,
+      "implied_prob_fair": 0.12738095238095237,
       "source": "match:742481"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8405797101449275,
       "source": "match:742481"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.8,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.15942028985507248,
       "source": "match:742481"
     }
   ]
