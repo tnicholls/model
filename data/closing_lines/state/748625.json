@@ -7,7 +7,7 @@
   "team2": "JD Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-06T06:55:32.766277+00:00",
+  "captured_at": "2026-09-06T08:05:12.538152+00:00",
   "lines": [
     {
       "match_id": 748625,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.3943298969072165,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.39896373056994816,
       "source": "match:748625"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6056701030927835,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6010362694300517,
       "source": "match:748625"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "All Gamers",
       "team_tag": "AG",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3893129770992367,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.3838383838383838,
       "source": "match:748625"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6106870229007634,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6161616161616161,
       "source": "match:748625"
     },
     {

@@ -7,36 +7,8 @@
   "team2": "Any Questions Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Round of 16",
-  "captured_at": "2026-09-06T06:55:34.300758+00:00",
+  "captured_at": "2026-09-06T08:05:14.185773+00:00",
   "lines": [
-    {
-      "match_id": 748626,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51826",
-      "stage": "pre-match",
-      "team": "Dragon Ranger Gaming",
-      "team_tag": "DRG",
-      "decimal_odds": 1.51,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6147959183673469,
-      "source": "match:748626"
-    },
-    {
-      "match_id": 748626,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51826",
-      "stage": "pre-match",
-      "team": "Any Questions Gaming",
-      "team_tag": "AQ",
-      "decimal_odds": 2.41,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.41493775933609955,
-      "implied_prob_fair": 0.38520408163265296,
-      "source": "match:748626"
-    },
     {
       "match_id": 748626,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6072351421188631,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6153846153846154,
       "source": "match:748626"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.39276485788113696,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.38461538461538464,
       "source": "match:748626"
     }
   ]
