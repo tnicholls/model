@@ -1,0 +1,41 @@
+{
+  "match_id": 748630,
+  "match_url": "/748630/jd-gaming-vs-any-questions-gaming-china-evolution-series-2026-act-3-qf",
+  "date_display": "Thu, September 10, 2026",
+  "time_display": "12:00 PM",
+  "team1": "JD Gaming",
+  "team2": "Any Questions Gaming",
+  "event_name": "China Evolution Series 2026: Act 3",
+  "series": "Main Event\u2013Quarterfinals",
+  "captured_at": "2026-09-06T15:48:05.439641+00:00",
+  "lines": [
+    {
+      "match_id": 748630,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51908",
+      "stage": "pre-match",
+      "team": "JD Gaming",
+      "team_tag": "JDG",
+      "decimal_odds": 3.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.2873051224944321,
+      "source": "match:748630"
+    },
+    {
+      "match_id": 748630,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51908",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 1.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7126948775055678,
+      "source": "match:748630"
+    }
+  ]
+}

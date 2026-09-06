@@ -7,8 +7,36 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-09-06T15:31:49.184536+00:00",
+  "captured_at": "2026-09-06T15:47:52.841090+00:00",
   "lines": [
+    {
+      "match_id": 734308,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51899",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6537530266343825,
+      "source": "match:734308"
+    },
+    {
+      "match_id": 734308,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51899",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 2.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3462469733656174,
+      "source": "match:734308"
+    },
     {
       "match_id": 734308,
       "bookmaker": "rainbet",
