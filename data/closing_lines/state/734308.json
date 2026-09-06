@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "VCT 2026: Americas Stage 2",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-09-06T21:00:16.481789+00:00",
+  "captured_at": "2026-09-06T21:16:50.407298+00:00",
   "lines": [
     {
       "match_id": 734308,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5411140583554377,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6361386138613861,
       "source": "match:734308"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.04,
+      "decimal_odds": 2.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.4588859416445623,
+      "implied_prob_raw": 0.38910505836575876,
+      "implied_prob_fair": 0.36386138613861385,
       "source": "match:734308"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6419753086419754,
       "source": "match:734308"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.35802469135802467,
       "source": "match:734308"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6372549019607844,
       "source": "match:734308"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
+      "implied_prob_raw": 0.3846153846153846,
+      "implied_prob_fair": 0.3627450980392157,
       "source": "match:734308"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.74,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5747126436781609,
-      "implied_prob_fair": 0.5372340425531915,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6698113207547169,
       "source": "match:734308"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.46276595744680854,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.330188679245283,
       "source": "match:734308"
     }
   ]
