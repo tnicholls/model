@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-06T11:00:23.420478+00:00",
+  "captured_at": "2026-09-06T15:31:53.759420+00:00",
   "lines": [
     {
       "match_id": 748627,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 3.14,
+      "decimal_odds": 3.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3184713375796178,
-      "implied_prob_fair": 0.29438202247191014,
+      "implied_prob_raw": 0.3194888178913738,
+      "implied_prob_fair": 0.2966292134831461,
       "source": "match:748627"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.70561797752809,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.703370786516854,
       "source": "match:748627"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 3.25,
+      "decimal_odds": 3.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3076923076923077,
-      "implied_prob_fair": 0.28728070175438597,
+      "implied_prob_raw": 0.31746031746031744,
+      "implied_prob_fair": 0.296875,
       "source": "match:748627"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.712719298245614,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.703125,
       "source": "match:748627"
     },
     {
