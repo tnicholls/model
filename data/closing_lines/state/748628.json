@@ -2,12 +2,12 @@
   "match_id": 748628,
   "match_url": "/748628/titan-esports-club-vs-unsettled-resentment-china-evolution-series-2026-act-3-qf",
   "date_display": "Wed, September 9, 2026",
-  "time_display": "7:00 AM",
+  "time_display": "12:00 PM",
   "team1": "Titan Esports Club",
   "team2": "Unsettled Resentment",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-05T15:24:58.278565+00:00",
+  "captured_at": "2026-09-06T00:43:39.938192+00:00",
   "lines": [
     {
       "match_id": 748628,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.35335689045936397,
       "implied_prob_fair": 0.324582338902148,
+      "source": "match:748628"
+    },
+    {
+      "match_id": 748628,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51894",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6866359447004607,
+      "source": "match:748628"
+    },
+    {
+      "match_id": 748628,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51894",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 2.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33557046979865773,
+      "implied_prob_fair": 0.3133640552995392,
       "source": "match:748628"
     }
   ]

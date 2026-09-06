@@ -2,12 +2,12 @@
   "match_id": 748629,
   "match_url": "/748629/nova-esports-vs-funplus-phoenix-china-evolution-series-2026-act-3-qf",
   "date_display": "Thu, September 10, 2026",
-  "time_display": "5:00 AM",
+  "time_display": "10:00 AM",
   "team1": "Nova Esports",
   "team2": "FunPlus Phoenix",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-05T15:25:02.864607+00:00",
+  "captured_at": "2026-09-06T00:43:44.634983+00:00",
   "lines": [
     {
       "match_id": 748629,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.8403361344537815,
       "implied_prob_fair": 0.7741935483870969,
+      "source": "match:748629"
+    },
+    {
+      "match_id": 748629,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51897",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 4.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24390243902439027,
+      "implied_prob_fair": 0.2278719397363465,
+      "source": "match:748629"
+    },
+    {
+      "match_id": 748629,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/51897",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7721280602636534,
+      "source": "match:748629"
+    },
+    {
+      "match_id": 748629,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51896",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 4.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23076923076923073,
+      "source": "match:748629"
+    },
+    {
+      "match_id": 748629,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51896",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7692307692307692,
       "source": "match:748629"
     }
   ]
