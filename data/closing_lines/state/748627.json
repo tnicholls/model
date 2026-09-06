@@ -7,8 +7,36 @@
   "team2": "KeepBest Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-06T05:30:19.482920+00:00",
+  "captured_at": "2026-09-06T05:46:16.037523+00:00",
   "lines": [
+    {
+      "match_id": 748627,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51861",
+      "stage": "pre-match",
+      "team": "Bilibili Gaming",
+      "team_tag": "BLG",
+      "decimal_odds": 3.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3184713375796178,
+      "implied_prob_fair": 0.29438202247191014,
+      "source": "match:748627"
+    },
+    {
+      "match_id": 748627,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51861",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.70561797752809,
+      "source": "match:748627"
+    },
     {
       "match_id": 748627,
       "bookmaker": "rainbet",
