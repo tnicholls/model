@@ -7,7 +7,7 @@
   "team2": "Unsettled Resentment",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-06T21:16:56.288362+00:00",
+  "captured_at": "2026-09-07T02:48:43.250709+00:00",
   "lines": [
     {
       "match_id": 748628,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.33557046979865773,
       "implied_prob_fair": 0.3133640552995392,
+      "source": "match:748628"
+    },
+    {
+      "match_id": 748628,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51909",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
+      "source": "match:748628"
+    },
+    {
+      "match_id": 748628,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51909",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
       "source": "match:748628"
     },
     {
