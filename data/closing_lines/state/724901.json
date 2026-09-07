@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-07T03:04:41.878483+00:00",
+  "captured_at": "2026-09-07T21:35:01.608010+00:00",
   "lines": [
     {
       "match_id": 724901,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.85,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3508771929824561,
-      "implied_prob_fair": 0.32464454976303314,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31924882629107987,
       "source": "match:724901"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6753554502369669,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6807511737089202,
       "source": "match:724901"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37185929648241206,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.3684210526315789,
       "source": "match:724901"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6281407035175879,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.631578947368421,
       "source": "match:724901"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.43,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4115226337448559,
-      "implied_prob_fair": 0.37692307692307686,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.37789203084832906,
       "source": "match:724901"
     },
     {
@@ -146,7 +146,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6230769230769231,
+      "implied_prob_fair": 0.6221079691516709,
       "source": "match:724901"
     }
   ]
