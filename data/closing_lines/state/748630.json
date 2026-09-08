@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-07T21:35:11.064416+00:00",
+  "captured_at": "2026-09-08T01:07:42.086075+00:00",
   "lines": [
     {
       "match_id": 748630,
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 3.15,
+      "decimal_odds": 3.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31746031746031744,
-      "implied_prob_fair": 0.29054054054054057,
+      "implied_prob_raw": 0.3215434083601286,
+      "implied_prob_fair": 0.29478458049886624,
       "source": "match:748630"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7094594594594595,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7052154195011339,
       "source": "match:748630"
     }
   ]

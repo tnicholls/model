@@ -7,36 +7,8 @@
   "team2": "FunPlus Phoenix",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-07T21:35:09.630739+00:00",
+  "captured_at": "2026-09-08T01:07:40.527312+00:00",
   "lines": [
-    {
-      "match_id": 748629,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51891",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 4.13,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.24213075060532688,
-      "implied_prob_fair": 0.2236842105263158,
-      "source": "match:748629"
-    },
-    {
-      "match_id": 748629,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51891",
-      "stage": "pre-match",
-      "team": "FunPlus Phoenix",
-      "team_tag": "FPX",
-      "decimal_odds": 1.19,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7763157894736842,
-      "source": "match:748629"
-    },
     {
       "match_id": 748629,
       "bookmaker": "rainbet",
