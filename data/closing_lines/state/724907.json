@@ -1,0 +1,69 @@
+{
+  "match_id": 724907,
+  "match_url": "/724907/the-spiders-vs-himmers-game-changers-2026-north-america-stage-2-playoffs-lr3",
+  "date_display": "Tue, September 8, 2026",
+  "time_display": "7:30 PM",
+  "team1": "The Spiders",
+  "team2": "HIMMERS",
+  "event_name": "Game Changers 2026: North America Stage 2",
+  "series": "Playoffs\u2013Lower Round 3",
+  "captured_at": "2026-09-08T16:19:05.636570+00:00",
+  "lines": [
+    {
+      "match_id": 724907,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51924",
+      "stage": "pre-match",
+      "team": "The Spiders",
+      "team_tag": "TS",
+      "decimal_odds": 2.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.3730964467005076,
+      "source": "match:724907"
+    },
+    {
+      "match_id": 724907,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51924",
+      "stage": "pre-match",
+      "team": "HIMMERS",
+      "team_tag": "HER",
+      "decimal_odds": 1.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6269035532994924,
+      "source": "match:724907"
+    },
+    {
+      "match_id": 724907,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51925",
+      "stage": "pre-match",
+      "team": "The Spiders",
+      "team_tag": "TS",
+      "decimal_odds": 2.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.424,
+      "source": "match:724907"
+    },
+    {
+      "match_id": 724907,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51925",
+      "stage": "pre-match",
+      "team": "HIMMERS",
+      "team_tag": "HER",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5760000000000001,
+      "source": "match:724907"
+    }
+  ]
+}

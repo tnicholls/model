@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: North America Stage 2",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-09-08T10:29:25.499050+00:00",
+  "captured_at": "2026-09-08T16:19:03.997131+00:00",
   "lines": [
     {
       "match_id": 724901,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.71,
+      "decimal_odds": 3.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36900369003690037,
-      "implied_prob_fair": 0.3422330097087379,
+      "implied_prob_raw": 0.33112582781456956,
+      "implied_prob_fair": 0.30733944954128445,
       "source": "match:724901"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6577669902912622,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.6926605504587157,
       "source": "match:724901"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.68,
+      "decimal_odds": 2.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3479318734793187,
+      "implied_prob_raw": 0.3424657534246575,
+      "implied_prob_fair": 0.31775700934579443,
       "source": "match:724901"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6520681265206814,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6822429906542057,
       "source": "match:724901"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3414634146341463,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.31764705882352945,
       "source": "match:724901"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6585365853658537,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6823529411764706,
       "source": "match:724901"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.3556701030927835,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3170731707317073,
       "source": "match:724901"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6443298969072165,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.6829268292682926,
       "source": "match:724901"
     },
     {
@@ -128,11 +128,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.63,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3802281368821293,
-      "implied_prob_fair": 0.34739454094292804,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31002331002331,
       "source": "match:724901"
     },
     {
@@ -142,11 +142,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6526054590570719,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.6899766899766899,
       "source": "match:724901"
     }
   ]
