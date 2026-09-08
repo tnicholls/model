@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-08T04:33:42.400095+00:00",
+  "captured_at": "2026-09-08T10:29:27.108438+00:00",
   "lines": [
     {
       "match_id": 748627,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 3.07,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.32573289902280134,
-      "implied_prob_fair": 0.30227272727272736,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31322505800464034,
       "source": "match:748627"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.33,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.6977272727272728,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6867749419953596,
       "source": "match:748627"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Bilibili Gaming",
       "team_tag": "BLG",
-      "decimal_odds": 2.86,
+      "decimal_odds": 2.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3496503496503497,
-      "implied_prob_fair": 0.3270588235294118,
+      "implied_prob_raw": 0.3597122302158274,
+      "implied_prob_fair": 0.33651551312649164,
       "source": "match:748627"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6729411764705883,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6634844868735083,
       "source": "match:748627"
     },
     {
