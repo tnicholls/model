@@ -7,7 +7,7 @@
   "team2": "FunPlus Phoenix",
   "event_name": "China Evolution Series 2026: Act 3",
   "series": "Main Event\u2013Quarterfinals",
-  "captured_at": "2026-09-08T16:19:13.759575+00:00",
+  "captured_at": "2026-09-09T17:17:17.669216+00:00",
   "lines": [
     {
       "match_id": 748629,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 4.12,
+      "decimal_odds": 3.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24271844660194175,
-      "implied_prob_fair": 0.224105461393597,
+      "implied_prob_raw": 0.2824858757062147,
+      "implied_prob_fair": 0.2609603340292275,
       "source": "match:748629"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.775894538606403,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7390396659707724,
       "source": "match:748629"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 4.0,
+      "decimal_odds": 4.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25,
-      "implied_prob_fair": 0.23371647509578544,
+      "implied_prob_raw": 0.24390243902439027,
+      "implied_prob_fair": 0.2278719397363465,
       "source": "match:748629"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7662835249042146,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7721280602636534,
       "source": "match:748629"
     },
     {

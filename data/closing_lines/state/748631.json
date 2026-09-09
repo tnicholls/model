@@ -1,0 +1,41 @@
+{
+  "match_id": 748631,
+  "match_url": "/748631/keepbest-gaming-vs-unsettled-resentment-china-evolution-series-2026-act-3-sf",
+  "date_display": "Fri, September 11, 2026",
+  "time_display": "5:00 AM",
+  "team1": "KeepBest Gaming",
+  "team2": "Unsettled Resentment",
+  "event_name": "China Evolution Series 2026: Act 3",
+  "series": "Main Event\u2013Semifinals",
+  "captured_at": "2026-09-09T17:17:22.131513+00:00",
+  "lines": [
+    {
+      "match_id": 748631,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51964",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.45552560646900275,
+      "source": "match:748631"
+    },
+    {
+      "match_id": 748631,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51964",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.69,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.5444743935309974,
+      "source": "match:748631"
+    }
+  ]
+}
