@@ -7,36 +7,8 @@
   "team2": "Ushiras",
   "event_name": "Game Changers 2026: Brazil Finals",
   "series": "Main Event\u2013Lower Round 3",
-  "captured_at": "2026-09-09T17:17:14.392579+00:00",
+  "captured_at": "2026-09-09T17:33:14.824877+00:00",
   "lines": [
-    {
-      "match_id": 731780,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51930",
-      "stage": "pre-match",
-      "team": "Evil Geniuses GC",
-      "team_tag": "EG.G",
-      "decimal_odds": 1.41,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6594202898550725,
-      "source": "match:731780"
-    },
-    {
-      "match_id": 731780,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51930",
-      "stage": "pre-match",
-      "team": "Ushiras",
-      "team_tag": "USHI",
-      "decimal_odds": 2.73,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3663003663003663,
-      "implied_prob_fair": 0.34057971014492755,
-      "source": "match:731780"
-    },
     {
       "match_id": 731780,
       "bookmaker": "rainbet",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses GC",
       "team_tag": "EG.G",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7013574660633485,
       "source": "match:731780"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Ushiras",
       "team_tag": "USHI",
-      "decimal_odds": 2.8,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.2986425339366516,
       "source": "match:731780"
     },
     {
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "Evil Geniuses GC",
       "team_tag": "EG.G",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6582278481012658,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.6829268292682926,
       "source": "match:731780"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "Ushiras",
       "team_tag": "USHI",
-      "decimal_odds": 2.6,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3846153846153846,
-      "implied_prob_fair": 0.34177215189873417,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3170731707317073,
       "source": "match:731780"
     },
     {
