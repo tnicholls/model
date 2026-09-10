@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (B)",
-  "captured_at": "2026-09-10T07:58:54.373673+00:00",
+  "captured_at": "2026-09-10T12:02:26.379054+00:00",
   "lines": [
     {
       "match_id": 753450,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6867749419953596,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6594202898550725,
       "source": "match:753450"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 2.96,
+      "decimal_odds": 2.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31322505800464034,
+      "implied_prob_raw": 0.3663003663003663,
+      "implied_prob_fair": 0.34057971014492755,
       "source": "match:753450"
     },
     {
