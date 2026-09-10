@@ -1,0 +1,41 @@
+{
+  "match_id": 731782,
+  "match_url": "/731782/mibr-gc-vs-evil-geniuses-gc-game-changers-2026-brazil-finals-lbf",
+  "date_display": "Thu, September 10, 2026",
+  "time_display": "4:00 PM",
+  "team1": "MIBR GC",
+  "team2": "Evil Geniuses GC",
+  "event_name": "Game Changers 2026: Brazil Finals",
+  "series": "Main Event\u2013Lower Final",
+  "captured_at": "2026-09-10T07:50:14.634852+00:00",
+  "lines": [
+    {
+      "match_id": 731782,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51995",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.803448275862069,
+      "source": "match:731782"
+    },
+    {
+      "match_id": 731782,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51995",
+      "stage": "pre-match",
+      "team": "Evil Geniuses GC",
+      "team_tag": "EG.G",
+      "decimal_odds": 4.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2145922746781116,
+      "implied_prob_fair": 0.19655172413793104,
+      "source": "match:731782"
+    }
+  ]
+}

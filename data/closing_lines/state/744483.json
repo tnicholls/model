@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "Regional Final\u2013Main Event",
-  "captured_at": "2026-09-09T17:33:33.679724+00:00",
+  "captured_at": "2026-09-10T07:58:21.942870+00:00",
   "lines": [
     {
       "match_id": 744483,
@@ -91,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.6756756756756757,
       "implied_prob_fair": 0.6032171581769437,
+      "source": "match:744483"
+    },
+    {
+      "match_id": 744483,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51994",
+      "stage": "pre-match",
+      "team": "Akave Esports GC",
+      "team_tag": "AKV.",
+      "decimal_odds": 2.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.38601036269430045,
+      "source": "match:744483"
+    },
+    {
+      "match_id": 744483,
+      "bookmaker": "1x",
+      "bet_url": "/rr/bet/51994",
+      "stage": "pre-match",
+      "team": "KR\u00dc BLAZE",
+      "team_tag": "KRUB",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6139896373056994,
       "source": "match:744483"
     }
   ]
