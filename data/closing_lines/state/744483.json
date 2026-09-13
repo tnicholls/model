@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "Regional Final\u2013Main Event",
-  "captured_at": "2026-09-13T21:50:05.304215+00:00",
+  "captured_at": "2026-09-13T22:06:33.981299+00:00",
   "lines": [
     {
       "match_id": 744483,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.2881844380403458,
-      "implied_prob_fair": 0.2648305084745763,
+      "implied_prob_fair": 0.266384778012685,
       "source": "match:744483"
     },
     {
@@ -30,18 +30,18 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7351694915254238,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.733615221987315,
       "source": "match:744483"
     },
     {
       "match_id": 744483,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52007",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
       "decimal_odds": 3.52,
@@ -55,7 +55,7 @@
       "match_id": 744483,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52007",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
       "decimal_odds": 1.25,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 4.1,
+      "decimal_odds": 4.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24390243902439027,
-      "implied_prob_fair": 0.22641509433962262,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23224568138195778,
       "source": "match:744483"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7735849056603773,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7677543186180423,
       "source": "match:744483"
     },
     {
