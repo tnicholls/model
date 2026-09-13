@@ -7,7 +7,7 @@
   "team2": "FUT Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (A)",
-  "captured_at": "2026-09-13T17:13:37.551183+00:00",
+  "captured_at": "2026-09-13T20:16:26.101906+00:00",
   "lines": [
     {
       "match_id": 753445,
@@ -27,34 +27,6 @@
       "match_id": 753445,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/51916",
-      "stage": "pre-match",
-      "team": "FUT Esports",
-      "team_tag": "FUT",
-      "decimal_odds": 1.35,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6889400921658986,
-      "source": "match:753445"
-    },
-    {
-      "match_id": 753445,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51961",
-      "stage": "pre-match",
-      "team": "JD Gaming",
-      "team_tag": "JDG",
-      "decimal_odds": 2.99,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.33444816053511706,
-      "implied_prob_fair": 0.31105990783410137,
-      "source": "match:753445"
-    },
-    {
-      "match_id": 753445,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51961",
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
@@ -100,11 +72,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 2.9,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.3062200956937799,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
       "source": "match:753445"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.69377990430622,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
       "source": "match:753445"
     }
   ]
