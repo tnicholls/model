@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: LATAM Main Event",
   "series": "Regional Final\u2013Main Event",
-  "captured_at": "2026-09-13T19:41:27.291622+00:00",
+  "captured_at": "2026-09-13T21:50:05.304215+00:00",
   "lines": [
     {
       "match_id": 744483,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.2647058823529412,
+      "implied_prob_raw": 0.2840909090909091,
+      "implied_prob_fair": 0.2620545073375262,
       "source": "match:744483"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7352941176470589,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7379454926624738,
       "source": "match:744483"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.6,
+      "decimal_odds": 4.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2777777777777778,
-      "implied_prob_fair": 0.25773195876288657,
+      "implied_prob_raw": 0.24390243902439027,
+      "implied_prob_fair": 0.22641509433962262,
       "source": "match:744483"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7422680412371133,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7735849056603773,
       "source": "match:744483"
     },
     {
