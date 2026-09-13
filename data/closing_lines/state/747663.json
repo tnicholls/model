@@ -1,0 +1,69 @@
+{
+  "match_id": 747663,
+  "match_url": "/747663/cgn-esports-vs-twisted-saints-esports-the-pokal-2026-gf",
+  "date_display": "Sun, September 13, 2026",
+  "time_display": "4:00 PM",
+  "team1": "CGN Esports",
+  "team2": "Twisted Saints Esports",
+  "event_name": "THE POKAL 2026",
+  "series": "Playoffs\u2013Grand Final",
+  "captured_at": "2026-09-13T16:52:51.258531+00:00",
+  "lines": [
+    {
+      "match_id": 747663,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52038",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:747663"
+    },
+    {
+      "match_id": 747663,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52038",
+      "stage": "pre-match",
+      "team": "Twisted Saints Esports",
+      "team_tag": "TSE",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:747663"
+    },
+    {
+      "match_id": 747663,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/52039",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 1.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7645875251509054,
+      "source": "match:747663"
+    },
+    {
+      "match_id": 747663,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/52039",
+      "stage": "pre-match",
+      "team": "Twisted Saints Esports",
+      "team_tag": "TSE",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.23541247484909456,
+      "source": "match:747663"
+    }
+  ]
+}
