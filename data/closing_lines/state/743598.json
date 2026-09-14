@@ -1,0 +1,41 @@
+{
+  "match_id": 743598,
+  "match_url": "/743598/team-falcons-vega-vs-swaglord9000-game-changers-2026-pacific-ubqf",
+  "date_display": "Tue, September 15, 2026",
+  "time_display": "8:00 AM",
+  "team1": "Team Falcons Vega",
+  "team2": "swaglord9000",
+  "event_name": "Game Changers 2026: Pacific",
+  "series": "Main Event\u2013Upper Quarterfinals",
+  "captured_at": "2026-09-14T15:44:34.119306+00:00",
+  "lines": [
+    {
+      "match_id": 743598,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52045",
+      "stage": "pre-match",
+      "team": "Team Falcons Vega",
+      "team_tag": "FLCV",
+      "decimal_odds": 1.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.8101472995090016,
+      "source": "match:743598"
+    },
+    {
+      "match_id": 743598,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52045",
+      "stage": "pre-match",
+      "team": "swaglord9000",
+      "team_tag": "SL9",
+      "decimal_odds": 4.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.20202020202020202,
+      "implied_prob_fair": 0.18985270049099834,
+      "source": "match:743598"
+    }
+  ]
+}

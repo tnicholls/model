@@ -1,0 +1,41 @@
+{
+  "match_id": 743600,
+  "match_url": "/743600/gen-g-gc-vs-fennel-gc-game-changers-2026-pacific-ubsf",
+  "date_display": "Tue, September 15, 2026",
+  "time_display": "12:00 PM",
+  "team1": "Gen.G GC",
+  "team2": "FENNEL GC",
+  "event_name": "Game Changers 2026: Pacific",
+  "series": "Main Event\u2013Upper Semifinals",
+  "captured_at": "2026-09-14T16:01:01.473044+00:00",
+  "lines": [
+    {
+      "match_id": 743600,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52046",
+      "stage": "pre-match",
+      "team": "Gen.G GC",
+      "team_tag": "GEN.",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5501355013550134,
+      "source": "match:743600"
+    },
+    {
+      "match_id": 743600,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52046",
+      "stage": "pre-match",
+      "team": "FENNEL GC",
+      "team_tag": "FL.G",
+      "decimal_odds": 2.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4926108374384237,
+      "implied_prob_fair": 0.4498644986449864,
+      "source": "match:743600"
+    }
+  ]
+}
