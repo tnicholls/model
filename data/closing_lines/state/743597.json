@@ -7,7 +7,7 @@
   "team2": "wiwiwi",
   "event_name": "Game Changers 2026: Pacific",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-09-14T03:14:48.952296+00:00",
+  "captured_at": "2026-09-14T09:23:34.155580+00:00",
   "lines": [
     {
       "match_id": 743597,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FENNEL GC",
       "team_tag": "FL.G",
-      "decimal_odds": 1.09,
+      "decimal_odds": 1.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8394698085419735,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8586525759577278,
       "source": "match:743597"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "wiwiwi",
       "team_tag": "WIWI",
-      "decimal_odds": 5.7,
+      "decimal_odds": 6.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17543859649122806,
-      "implied_prob_fair": 0.16053019145802652,
+      "implied_prob_raw": 0.15384615384615385,
+      "implied_prob_fair": 0.14134742404227213,
       "source": "match:743597"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FENNEL GC",
       "team_tag": "FL.G",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8223684210526316,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.7971014492753623,
       "source": "match:743597"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "wiwiwi",
       "team_tag": "WIWI",
-      "decimal_odds": 5.0,
+      "decimal_odds": 4.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2,
-      "implied_prob_fair": 0.17763157894736845,
+      "implied_prob_raw": 0.22727272727272727,
+      "implied_prob_fair": 0.2028985507246377,
       "source": "match:743597"
     }
   ]
