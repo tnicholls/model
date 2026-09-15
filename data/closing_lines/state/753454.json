@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-14T21:53:37.285216+00:00",
+  "captured_at": "2026-09-15T04:17:59.581352+00:00",
   "lines": [
     {
       "match_id": 753454,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 753454,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51956",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 3.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3205128205128205,
+      "implied_prob_fair": 0.298876404494382,
+      "source": "match:753454"
+    },
+    {
+      "match_id": 753454,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51956",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.701123595505618,
+      "source": "match:753454"
+    },
+    {
+      "match_id": 753454,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51978",
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28416485900216926,
+      "implied_prob_raw": 0.3076923076923077,
+      "implied_prob_fair": 0.2888402625820569,
       "source": "match:753454"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7158351409978309,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7111597374179431,
       "source": "match:753454"
     },
     {

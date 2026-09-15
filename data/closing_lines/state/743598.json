@@ -7,7 +7,7 @@
   "team2": "swaglord9000",
   "event_name": "Game Changers 2026: Pacific",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-09-14T20:54:26.938831+00:00",
+  "captured_at": "2026-09-15T03:59:55.510017+00:00",
   "lines": [
     {
       "match_id": 743598,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Falcons Vega",
       "team_tag": "FLCV",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8765859284890426,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
       "source": "match:743598"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "swaglord9000",
       "team_tag": "SL9",
-      "decimal_odds": 7.6,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.13157894736842105,
-      "implied_prob_fair": 0.1234140715109573,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
+      "source": "match:743598"
+    },
+    {
+      "match_id": 743598,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52051",
+      "stage": "pre-match",
+      "team": "Team Falcons Vega",
+      "team_tag": "FLCV",
+      "decimal_odds": 1.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
+      "source": "match:743598"
+    },
+    {
+      "match_id": 743598,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52051",
+      "stage": "pre-match",
+      "team": "swaglord9000",
+      "team_tag": "SL9",
+      "decimal_odds": 15.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
       "source": "match:743598"
     }
   ]
