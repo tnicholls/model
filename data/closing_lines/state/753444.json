@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (A)",
-  "captured_at": "2026-09-15T04:18:07.711424+00:00",
+  "captured_at": "2026-09-20T16:33:27.478151+00:00",
   "lines": [
     {
       "match_id": 753444,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6658711217183771,
+      "implied_prob_fair": 0.667458432304038,
       "source": "match:753444"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 2.79,
+      "decimal_odds": 2.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35842293906810035,
-      "implied_prob_fair": 0.3341288782816229,
+      "implied_prob_raw": 0.35587188612099646,
+      "implied_prob_fair": 0.332541567695962,
       "source": "match:753444"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6658711217183771,
+      "implied_prob_fair": 0.667458432304038,
       "source": "match:753444"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 2.79,
+      "decimal_odds": 2.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35842293906810035,
-      "implied_prob_fair": 0.3341288782816229,
+      "implied_prob_raw": 0.35587188612099646,
+      "implied_prob_fair": 0.332541567695962,
       "source": "match:753444"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.668235294117647,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6728971962616822,
       "source": "match:753444"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 2.84,
+      "decimal_odds": 2.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35211267605633806,
-      "implied_prob_fair": 0.33176470588235296,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32710280373831774,
       "source": "match:753444"
     },
     {
