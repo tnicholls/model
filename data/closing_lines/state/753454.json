@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-21T05:46:15.922818+00:00",
+  "captured_at": "2026-09-21T23:15:29.621257+00:00",
   "lines": [
     {
       "match_id": 753454,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.77,
+      "decimal_odds": 2.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36101083032490977,
-      "implied_prob_fair": 0.33732057416267947,
+      "implied_prob_raw": 0.37735849056603776,
+      "implied_prob_fair": 0.35207823960880197,
       "source": "match:753454"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6626794258373206,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.647921760391198,
+      "source": "match:753454"
+    },
+    {
+      "match_id": 753454,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51956",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 2.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37593984962406013,
+      "implied_prob_fair": 0.351219512195122,
+      "source": "match:753454"
+    },
+    {
+      "match_id": 753454,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51956",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6487804878048781,
       "source": "match:753454"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.32835820895522383,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.3556701030927835,
       "source": "match:753454"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6716417910447761,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6443298969072165,
       "source": "match:753454"
     }
   ]
