@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-22T04:18:53.262187+00:00",
+  "captured_at": "2026-09-22T09:13:38.549310+00:00",
   "lines": [
     {
       "match_id": 753454,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.65,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37735849056603776,
-      "implied_prob_fair": 0.35207823960880197,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.37157107231920194,
       "source": "match:753454"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.647921760391198,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6284289276807979,
       "source": "match:753454"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.66,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37593984962406013,
-      "implied_prob_fair": 0.351219512195122,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.37,
       "source": "match:753454"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6487804878048781,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.63,
       "source": "match:753454"
     },
     {
