@@ -7,7 +7,7 @@
   "team2": "Xi Lai Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (D)",
-  "captured_at": "2026-09-22T16:17:50.450476+00:00",
+  "captured_at": "2026-09-22T18:22:44.193790+00:00",
   "lines": [
     {
       "match_id": 753459,
@@ -27,34 +27,6 @@
       "match_id": 753459,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/51922",
-      "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
-      "decimal_odds": 3.88,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2577319587628866,
-      "implied_prob_fair": 0.24070450097847362,
-      "source": "match:753459"
-    },
-    {
-      "match_id": 753459,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51959",
-      "stage": "pre-match",
-      "team": "Karmine Corp",
-      "team_tag": "KC",
-      "decimal_odds": 1.23,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7592954990215265,
-      "source": "match:753459"
-    },
-    {
-      "match_id": 753459,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51959",
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
@@ -104,7 +76,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7446808510638298,
+      "implied_prob_fair": 0.7391304347826088,
       "source": "match:753459"
     },
     {
@@ -114,11 +86,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.2553191489361702,
+      "implied_prob_raw": 0.29411764705882354,
+      "implied_prob_fair": 0.2608695652173913,
       "source": "match:753459"
     }
   ]
