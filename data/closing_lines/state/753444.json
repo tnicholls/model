@@ -2,13 +2,41 @@
   "match_id": 753444,
   "match_url": "/753444/100-thieves-vs-t1-valorant-champions-2026-opening-a",
   "date_display": "Sun, September 27, 2026",
-  "time_display": "10:00 AM",
+  "time_display": "12:00 PM",
   "team1": "100 Thieves",
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (A)",
-  "captured_at": "2026-09-23T23:04:56.826154+00:00",
+  "captured_at": "2026-09-23T23:25:08.585946+00:00",
   "lines": [
+    {
+      "match_id": 753444,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/51918",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6578313253012049,
+      "source": "match:753444"
+    },
+    {
+      "match_id": 753444,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/51918",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 2.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3663003663003663,
+      "implied_prob_fair": 0.34216867469879514,
+      "source": "match:753444"
+    },
     {
       "match_id": 753444,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.35714285714285715,
       "implied_prob_fair": 0.33649289099526064,
-      "source": "match:753444"
-    },
-    {
-      "match_id": 753444,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/51970",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.38,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
-      "source": "match:753444"
-    },
-    {
-      "match_id": 753444,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/51970",
-      "stage": "pre-match",
-      "team": "T1",
-      "team_tag": "T1",
-      "decimal_odds": 2.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
       "source": "match:753444"
     }
   ]

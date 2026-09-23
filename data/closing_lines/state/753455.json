@@ -2,13 +2,41 @@
   "match_id": 753455,
   "match_url": "/753455/team-liquid-vs-paper-rex-valorant-champions-2026-opening-c",
   "date_display": "Thu, September 24, 2026",
-  "time_display": "10:00 AM",
+  "time_display": "12:00 PM",
   "team1": "Team Liquid",
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-23T23:04:47.741189+00:00",
+  "captured_at": "2026-09-23T23:24:59.585787+00:00",
   "lines": [
+    {
+      "match_id": 753455,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/51919",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.41558441558441556,
+      "source": "match:753455"
+    },
+    {
+      "match_id": 753455,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/51919",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5844155844155844,
+      "source": "match:753455"
+    },
     {
       "match_id": 753455,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.6134969325153374,
       "implied_prob_fair": 0.5766233766233767,
-      "source": "match:753455"
-    },
-    {
-      "match_id": 753455,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/51988",
-      "stage": "pre-match",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 2.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.417989417989418,
-      "source": "match:753455"
-    },
-    {
-      "match_id": 753455,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/51988",
-      "stage": "pre-match",
-      "team": "Paper Rex",
-      "team_tag": "PRX",
-      "decimal_odds": 1.58,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.582010582010582,
       "source": "match:753455"
     }
   ]
