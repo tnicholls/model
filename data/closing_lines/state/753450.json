@@ -2,41 +2,13 @@
   "match_id": 753450,
   "match_url": "/753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b",
   "date_display": "Sat, September 26, 2026",
-  "time_display": "3:00 PM",
+  "time_display": "1:00 PM",
   "team1": "LOUD",
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (B)",
-  "captured_at": "2026-09-23T20:11:14.806304+00:00",
+  "captured_at": "2026-09-23T21:34:51.315006+00:00",
   "lines": [
-    {
-      "match_id": 753450,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/51920",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 1.47,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6352357320099257,
-      "source": "match:753450"
-    },
-    {
-      "match_id": 753450,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/51920",
-      "stage": "pre-match",
-      "team": "EDward Gaming",
-      "team_tag": "EDG",
-      "decimal_odds": 2.56,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3647642679900745,
-      "source": "match:753450"
-    },
     {
       "match_id": 753450,
       "bookmaker": "thunderpick",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.35714285714285715,
       "implied_prob_fair": 0.33649289099526064,
+      "source": "match:753450"
+    },
+    {
+      "match_id": 753450,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51969",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6553398058252428,
+      "source": "match:753450"
+    },
+    {
+      "match_id": 753450,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51969",
+      "stage": "pre-match",
+      "team": "EDward Gaming",
+      "team_tag": "EDG",
+      "decimal_odds": 2.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.34466019417475724,
       "source": "match:753450"
     }
   ]

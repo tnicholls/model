@@ -2,41 +2,13 @@
   "match_id": 753459,
   "match_url": "/753459/karmine-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d",
   "date_display": "Fri, September 25, 2026",
-  "time_display": "3:00 PM",
+  "time_display": "1:00 PM",
   "team1": "Karmine Corp",
   "team2": "Xi Lai Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (D)",
-  "captured_at": "2026-09-23T20:11:11.606445+00:00",
+  "captured_at": "2026-09-23T21:34:48.166492+00:00",
   "lines": [
-    {
-      "match_id": 753459,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/51922",
-      "stage": "pre-match",
-      "team": "Karmine Corp",
-      "team_tag": "KC",
-      "decimal_odds": 1.23,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7592954990215265,
-      "source": "match:753459"
-    },
-    {
-      "match_id": 753459,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/51922",
-      "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
-      "decimal_odds": 3.88,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2577319587628866,
-      "implied_prob_fair": 0.24070450097847362,
-      "source": "match:753459"
-    },
     {
       "match_id": 753459,
       "bookmaker": "thunderpick",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.2531645569620253,
       "implied_prob_fair": 0.23745173745173742,
+      "source": "match:753459"
+    },
+    {
+      "match_id": 753459,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51991",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
+      "source": "match:753459"
+    },
+    {
+      "match_id": 753459,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/51991",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:753459"
     }
   ]
