@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-23T16:36:43.909305+00:00",
+  "captured_at": "2026-09-23T17:11:22.368705+00:00",
   "lines": [
     {
       "match_id": 753455,
@@ -91,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.6134969325153374,
       "implied_prob_fair": 0.5766233766233767,
-      "source": "match:753455"
-    },
-    {
-      "match_id": 753455,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51984",
-      "stage": "pre-match",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 2.05,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.43526170798898073,
-      "source": "match:753455"
-    },
-    {
-      "match_id": 753455,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51984",
-      "stage": "pre-match",
-      "team": "Paper Rex",
-      "team_tag": "PRX",
-      "decimal_odds": 1.58,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5647382920110192,
       "source": "match:753455"
     }
   ]

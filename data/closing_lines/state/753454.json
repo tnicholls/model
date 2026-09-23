@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-23T16:36:45.399869+00:00",
+  "captured_at": "2026-09-23T17:11:23.839319+00:00",
   "lines": [
     {
       "match_id": 753454,
@@ -91,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.6802721088435374,
       "implied_prob_fair": 0.6405867970660147,
-      "source": "match:753454"
-    },
-    {
-      "match_id": 753454,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51985",
-      "stage": "pre-match",
-      "team": "TYLOO",
-      "team_tag": "TYL",
-      "decimal_odds": 2.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3717277486910995,
-      "source": "match:753454"
-    },
-    {
-      "match_id": 753454,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/51985",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.42,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6282722513089005,
       "source": "match:753454"
     }
   ]
