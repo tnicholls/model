@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-24T10:20:10.781623+00:00",
+  "captured_at": "2026-09-24T10:36:24.532222+00:00",
   "lines": [
     {
       "match_id": 753455,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 3.22,
+      "decimal_odds": 2.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3105590062111801,
-      "implied_prob_fair": 0.2907488986784141,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.41298701298701296,
       "source": "match:753455"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.709251101321586,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5870129870129869,
       "source": "match:753455"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 3.22,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3105590062111801,
-      "implied_prob_fair": 0.2907488986784141,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.40102827763496146,
       "source": "match:753455"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.709251101321586,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5989717223650385,
       "source": "match:753455"
     },
     {
