@@ -7,7 +7,7 @@
   "team2": "Xi Lai Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (D)",
-  "captured_at": "2026-09-24T07:54:12.473440+00:00",
+  "captured_at": "2026-09-24T08:10:26.105674+00:00",
   "lines": [
     {
       "match_id": 753459,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7818181818181817,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7908611599297013,
       "source": "match:753459"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 4.3,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23255813953488372,
-      "implied_prob_fair": 0.21818181818181814,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.20913884007029876,
       "source": "match:753459"
     }
   ]
