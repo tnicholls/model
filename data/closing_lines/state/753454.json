@@ -2,12 +2,12 @@
   "match_id": 753454,
   "match_url": "/753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c",
   "date_display": "Thu, September 24, 2026",
-  "time_display": "3:10 PM",
+  "time_display": "3:25 PM",
   "team1": "TYLOO",
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (C)",
-  "captured_at": "2026-09-24T11:57:32.975220+00:00",
+  "captured_at": "2026-09-24T12:13:45.567489+00:00",
   "lines": [
     {
       "match_id": 753454,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.59,
+      "decimal_odds": 2.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3861003861003861,
-      "implied_prob_fair": 0.36049382716049383,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.3647642679900745,
       "source": "match:753454"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6395061728395062,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6352357320099257,
       "source": "match:753454"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.61,
+      "decimal_odds": 2.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.35872235872235875,
+      "implied_prob_raw": 0.38759689922480617,
+      "implied_prob_fair": 0.3613861386138614,
       "source": "match:753454"
     },
     {
@@ -62,7 +62,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6412776412776413,
+      "implied_prob_fair": 0.6386138613861386,
       "source": "match:753454"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 2.68,
+      "decimal_odds": 2.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3510895883777239,
+      "implied_prob_raw": 0.37593984962406013,
+      "implied_prob_fair": 0.3527980535279805,
       "source": "match:753454"
     },
     {
@@ -90,7 +90,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.648910411622276,
+      "implied_prob_fair": 0.6472019464720195,
       "source": "match:753454"
     }
   ]
