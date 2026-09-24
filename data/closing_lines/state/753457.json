@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (C)",
-  "captured_at": "2026-09-24T15:08:40.508426+00:00",
+  "captured_at": "2026-09-24T15:24:49.355605+00:00",
   "lines": [
     {
       "match_id": 753457,
@@ -27,6 +27,34 @@
       "match_id": 753457,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52097",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7303609341825902,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52099",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 3.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29069767441860467,
+      "implied_prob_fair": 0.26963906581740976,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52099",
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
