@@ -1,0 +1,69 @@
+{
+  "match_id": 753457,
+  "match_url": "/753457/tyloo-vs-team-liquid-valorant-champions-2026-elim-c",
+  "date_display": "Thu, October 1, 2026",
+  "time_display": "12:00 PM",
+  "team1": "TYLOO",
+  "team2": "Team Liquid",
+  "event_name": "Valorant Champions 2026",
+  "series": "Group Stage\u2013Elimination (C)",
+  "captured_at": "2026-09-24T15:08:40.508426+00:00",
+  "lines": [
+    {
+      "match_id": 753457,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52097",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 3.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29069767441860467,
+      "implied_prob_fair": 0.26963906581740976,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52097",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7303609341825902,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52106",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 3.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.27027027027027023,
+      "implied_prob_fair": 0.2540322580645161,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52106",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7459677419354839,
+      "source": "match:753457"
+    }
+  ]
+}

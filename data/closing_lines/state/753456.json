@@ -1,0 +1,69 @@
+{
+  "match_id": 753456,
+  "match_url": "/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c",
+  "date_display": "Tue, September 29, 2026",
+  "time_display": "12:00 PM",
+  "team1": "G2 Esports",
+  "team2": "Paper Rex",
+  "event_name": "Valorant Champions 2026",
+  "series": "Group Stage\u2013Winner's (C)",
+  "captured_at": "2026-09-24T15:08:34.229114+00:00",
+  "lines": [
+    {
+      "match_id": 753456,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52096",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 2.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.45248868778280543,
+      "implied_prob_fair": 0.41994750656167984,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52096",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5800524934383202,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52105",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4383202099737532,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52105",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5616797900262467,
+      "source": "match:753456"
+    }
+  ]
+}
