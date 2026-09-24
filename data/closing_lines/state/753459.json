@@ -7,7 +7,7 @@
   "team2": "Xi Lai Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (D)",
-  "captured_at": "2026-09-24T15:24:35.311488+00:00",
+  "captured_at": "2026-09-24T15:40:44.220184+00:00",
   "lines": [
     {
       "match_id": 753459,
@@ -39,44 +39,16 @@
     },
     {
       "match_id": 753459,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51959",
-      "stage": "pre-match",
-      "team": "Karmine Corp",
-      "team_tag": "KC",
-      "decimal_odds": 1.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7777777777777778,
-      "source": "match:753459"
-    },
-    {
-      "match_id": 753459,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/51959",
-      "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
-      "decimal_odds": 4.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.2222222222222222,
-      "source": "match:753459"
-    },
-    {
-      "match_id": 753459,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/51980",
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.18,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.795847750865052,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.8040201005025126,
       "source": "match:753459"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 4.6,
+      "decimal_odds": 4.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2173913043478261,
-      "implied_prob_fair": 0.20415224913494812,
+      "implied_prob_raw": 0.20833333333333334,
+      "implied_prob_fair": 0.19597989949748745,
       "source": "match:753459"
     }
   ]
