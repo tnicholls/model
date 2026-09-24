@@ -7,7 +7,7 @@
   "team2": "Xi Lai Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (D)",
-  "captured_at": "2026-09-24T22:13:02.519351+00:00",
+  "captured_at": "2026-09-24T22:30:00.821757+00:00",
   "lines": [
     {
       "match_id": 753459,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7777777777777778,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7915194346289753,
       "source": "match:753459"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 4.2,
+      "decimal_odds": 4.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.2222222222222222,
+      "implied_prob_raw": 0.2232142857142857,
+      "implied_prob_fair": 0.20848056537102472,
       "source": "match:753459"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7777777777777778,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7922535211267606,
       "source": "match:753459"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 4.2,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.2222222222222222,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.2077464788732394,
       "source": "match:753459"
     },
     {
