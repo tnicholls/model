@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (D)",
-  "captured_at": "2026-09-25T13:18:14.220487+00:00",
+  "captured_at": "2026-09-25T14:33:14.549559+00:00",
   "lines": [
     {
       "match_id": 753462,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.8928571428571428,
       "implied_prob_fair": 0.8308157099697885,
+      "source": "match:753462"
+    },
+    {
+      "match_id": 753462,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52120",
+      "stage": "pre-match",
+      "team": "Xi Lai Gaming",
+      "team_tag": "XLG",
+      "decimal_odds": 5.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.1811023622047244,
+      "source": "match:753462"
+    },
+    {
+      "match_id": 753462,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52120",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8188976377952756,
       "source": "match:753462"
     }
   ]
