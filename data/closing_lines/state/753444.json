@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (A)",
-  "captured_at": "2026-09-25T16:24:59.226182+00:00",
+  "captured_at": "2026-09-25T16:41:04.837064+00:00",
   "lines": [
     {
       "match_id": 753444,
@@ -27,6 +27,34 @@
       "match_id": 753444,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/51918",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 2.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3663003663003663,
+      "implied_prob_fair": 0.34216867469879514,
+      "source": "match:753444"
+    },
+    {
+      "match_id": 753444,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51955",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6578313253012049,
+      "source": "match:753444"
+    },
+    {
+      "match_id": 753444,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51955",
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
