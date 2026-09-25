@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (C)",
-  "captured_at": "2026-09-25T06:17:03.169035+00:00",
+  "captured_at": "2026-09-25T13:00:52.227662+00:00",
   "lines": [
     {
       "match_id": 753456,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.4123711340206186,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4087403598971723,
       "source": "match:753456"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5876288659793815,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5912596401028277,
       "source": "match:753456"
     }
   ]

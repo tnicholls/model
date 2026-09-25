@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (B)",
-  "captured_at": "2026-09-25T06:16:56.759485+00:00",
+  "captured_at": "2026-09-25T13:00:46.149493+00:00",
   "lines": [
     {
       "match_id": 753449,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4693333333333332,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4666666666666667,
       "source": "match:753449"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5306666666666666,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5333333333333333,
       "source": "match:753449"
     },
     {
