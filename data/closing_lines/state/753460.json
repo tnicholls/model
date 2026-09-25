@@ -7,7 +7,7 @@
   "team2": "NRG",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (D)",
-  "captured_at": "2026-09-25T02:50:24.747428+00:00",
+  "captured_at": "2026-09-25T03:06:33.096300+00:00",
   "lines": [
     {
       "match_id": 753460,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5405405405405405,
       "implied_prob_fair": 0.5053475935828876,
+      "source": "match:753460"
+    },
+    {
+      "match_id": 753460,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51962",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4919786096256684,
+      "source": "match:753460"
+    },
+    {
+      "match_id": 753460,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51962",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5080213903743315,
       "source": "match:753460"
     },
     {
