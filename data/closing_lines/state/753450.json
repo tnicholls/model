@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (B)",
-  "captured_at": "2026-09-25T19:44:20.433548+00:00",
+  "captured_at": "2026-09-25T20:17:17.063989+00:00",
   "lines": [
     {
       "match_id": 753450,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6487804878048781,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6537530266343825,
       "source": "match:753450"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 2.66,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37593984962406013,
-      "implied_prob_fair": 0.351219512195122,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3462469733656174,
       "source": "match:753450"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6487804878048781,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6537530266343825,
       "source": "match:753450"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 2.66,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37593984962406013,
-      "implied_prob_fair": 0.351219512195122,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3462469733656174,
       "source": "match:753450"
     },
     {
