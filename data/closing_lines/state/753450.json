@@ -2,12 +2,12 @@
   "match_id": 753450,
   "match_url": "/753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b",
   "date_display": "Sat, September 26, 2026",
-  "time_display": "3:00 PM",
+  "time_display": "3:30 PM",
   "team1": "LOUD",
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (B)",
-  "captured_at": "2026-09-26T05:31:53.194665+00:00",
+  "captured_at": "2026-09-26T12:09:10.212423+00:00",
   "lines": [
     {
       "match_id": 753450,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6537530266343825,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6496350364963503,
       "source": "match:753450"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3462469733656174,
+      "implied_prob_raw": 0.37453183520599254,
+      "implied_prob_fair": 0.35036496350364965,
       "source": "match:753450"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6537530266343825,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6487804878048781,
       "source": "match:753450"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3462469733656174,
+      "implied_prob_raw": 0.37593984962406013,
+      "implied_prob_fair": 0.351219512195122,
       "source": "match:753450"
     },
     {
