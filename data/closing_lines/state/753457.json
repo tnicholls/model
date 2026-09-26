@@ -2,41 +2,13 @@
   "match_id": 753457,
   "match_url": "/753457/tyloo-vs-team-liquid-valorant-champions-2026-elim-c",
   "date_display": "Thu, October 1, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "10:00 AM",
   "team1": "TYLOO",
   "team2": "Team Liquid",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (C)",
-  "captured_at": "2026-09-26T15:35:27.466324+00:00",
+  "captured_at": "2026-09-26T15:51:34.310197+00:00",
   "lines": [
-    {
-      "match_id": 753457,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52097",
-      "stage": "pre-match",
-      "team": "TYLOO",
-      "team_tag": "TYL",
-      "decimal_odds": 3.41,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.27292110874200426,
-      "source": "match:753457"
-    },
-    {
-      "match_id": 753457,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52097",
-      "stage": "pre-match",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 1.28,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7270788912579957,
-      "source": "match:753457"
-    },
     {
       "match_id": 753457,
       "bookmaker": "thunderpick",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.78125,
       "implied_prob_fair": 0.7322175732217574,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52104",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 3.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.27947598253275113,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52104",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7205240174672489,
       "source": "match:753457"
     }
   ]

@@ -2,41 +2,13 @@
   "match_id": 753456,
   "match_url": "/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c",
   "date_display": "Tue, September 29, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "10:00 AM",
   "team1": "G2 Esports",
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (C)",
-  "captured_at": "2026-09-26T15:35:22.174549+00:00",
+  "captured_at": "2026-09-26T15:51:28.104078+00:00",
   "lines": [
-    {
-      "match_id": 753456,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52096",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 2.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.418848167539267,
-      "source": "match:753456"
-    },
-    {
-      "match_id": 753456,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52096",
-      "stage": "pre-match",
-      "team": "Paper Rex",
-      "team_tag": "PRX",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5811518324607331,
-      "source": "match:753456"
-    },
     {
       "match_id": 753456,
       "bookmaker": "thunderpick",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.6289308176100629,
       "implied_prob_fair": 0.5912596401028277,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52101",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 2.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.4297082228116711,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52101",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.62,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5702917771883289,
       "source": "match:753456"
     }
   ]
