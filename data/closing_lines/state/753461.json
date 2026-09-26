@@ -7,36 +7,8 @@
   "team2": "NRG",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (D)",
-  "captured_at": "2026-09-26T16:07:30.106339+00:00",
+  "captured_at": "2026-09-26T19:00:31.545764+00:00",
   "lines": [
-    {
-      "match_id": 753461,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52111",
-      "stage": "pre-match",
-      "team": "Karmine Corp",
-      "team_tag": "KC",
-      "decimal_odds": 2.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.418848167539267,
-      "source": "match:753461"
-    },
-    {
-      "match_id": 753461,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52111",
-      "stage": "pre-match",
-      "team": "NRG",
-      "team_tag": "NRG",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5811518324607331,
-      "source": "match:753461"
-    },
     {
       "match_id": 753461,
       "bookmaker": "rainbet",
