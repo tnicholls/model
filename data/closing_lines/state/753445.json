@@ -7,7 +7,7 @@
   "team2": "FUT Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Opening (A)",
-  "captured_at": "2026-09-26T12:09:13.340448+00:00",
+  "captured_at": "2026-09-26T14:27:27.963471+00:00",
   "lines": [
     {
       "match_id": 753445,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 3.01,
+      "decimal_odds": 3.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33222591362126247,
-      "implied_prob_fair": 0.3096330275229358,
+      "implied_prob_raw": 0.3003003003003003,
+      "implied_prob_fair": 0.2807775377969763,
       "source": "match:753445"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6903669724770642,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7192224622030238,
+      "source": "match:753445"
+    },
+    {
+      "match_id": 753445,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51961",
+      "stage": "pre-match",
+      "team": "JD Gaming",
+      "team_tag": "JDG",
+      "decimal_odds": 3.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3003003003003003,
+      "implied_prob_fair": 0.2807775377969763,
+      "source": "match:753445"
+    },
+    {
+      "match_id": 753445,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/51961",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 1.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7192224622030238,
       "source": "match:753445"
     },
     {
