@@ -7,8 +7,36 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-09-26T19:00:41.385109+00:00",
+  "captured_at": "2026-09-26T19:25:30.322424+00:00",
   "lines": [
+    {
+      "match_id": 753452,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52123",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7046979865771812,
+      "source": "match:753452"
+    },
+    {
+      "match_id": 753452,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52123",
+      "stage": "pre-match",
+      "team": "EDward Gaming",
+      "team_tag": "EDG",
+      "decimal_odds": 3.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.31746031746031744,
+      "implied_prob_fair": 0.2953020134228188,
+      "source": "match:753452"
+    },
     {
       "match_id": 753452,
       "bookmaker": "rainbet",
