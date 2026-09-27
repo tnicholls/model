@@ -1,0 +1,41 @@
+{
+  "match_id": 753447,
+  "match_url": "/753447/t1-vs-tbd-valorant-champions-2026-elim-a",
+  "date_display": "Fri, October 2, 2026",
+  "time_display": "3:00 PM",
+  "team1": "T1",
+  "team2": "TBD",
+  "event_name": "Valorant Champions 2026",
+  "series": "Group Stage\u2013Elimination (A)",
+  "captured_at": "2026-09-27T13:18:56.010034+00:00",
+  "lines": [
+    {
+      "match_id": 753447,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52138",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 1.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8214849921011058,
+      "source": "match:753447"
+    },
+    {
+      "match_id": 753447,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52138",
+      "stage": "pre-match",
+      "team": "JD Gaming",
+      "team_tag": "JDG",
+      "decimal_odds": 5.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.17851500789889413,
+      "source": "match:753447"
+    }
+  ]
+}
