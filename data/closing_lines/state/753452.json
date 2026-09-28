@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-09-27T22:13:44.669457+00:00",
+  "captured_at": "2026-09-28T02:14:15.792752+00:00",
   "lines": [
     {
       "match_id": 753452,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7046979865771812,
+      "implied_prob_fair": 0.7060133630289532,
       "source": "match:753452"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.15,
+      "decimal_odds": 3.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31746031746031744,
-      "implied_prob_fair": 0.2953020134228188,
+      "implied_prob_raw": 0.31545741324921134,
+      "implied_prob_fair": 0.29398663697104677,
       "source": "match:753452"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7046979865771812,
+      "implied_prob_fair": 0.7060133630289532,
       "source": "match:753452"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.15,
+      "decimal_odds": 3.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31746031746031744,
-      "implied_prob_fair": 0.2953020134228188,
+      "implied_prob_raw": 0.31545741324921134,
+      "implied_prob_fair": 0.29398663697104677,
       "source": "match:753452"
     },
     {

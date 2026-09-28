@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (C)",
-  "captured_at": "2026-09-27T22:13:41.599150+00:00",
+  "captured_at": "2026-09-28T02:14:12.473147+00:00",
   "lines": [
     {
       "match_id": 753457,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 3.41,
+      "decimal_odds": 3.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.27292110874200426,
+      "implied_prob_raw": 0.2958579881656805,
+      "implied_prob_fair": 0.2762312633832977,
       "source": "match:753457"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7270788912579957,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7237687366167023,
       "source": "match:753457"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 3.41,
+      "decimal_odds": 3.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.27292110874200426,
+      "implied_prob_raw": 0.2958579881656805,
+      "implied_prob_fair": 0.2762312633832977,
       "source": "match:753457"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7270788912579957,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7237687366167023,
       "source": "match:753457"
     },
     {
