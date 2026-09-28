@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (B)",
-  "captured_at": "2026-09-28T19:03:52.097103+00:00",
+  "captured_at": "2026-09-28T19:22:03.016039+00:00",
   "lines": [
     {
       "match_id": 753451,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42408376963350786,
+      "implied_prob_fair": 0.42558746736292424,
       "source": "match:753451"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5759162303664922,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5744125326370757,
       "source": "match:753451"
     },
     {
