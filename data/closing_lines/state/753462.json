@@ -2,41 +2,13 @@
   "match_id": 753462,
   "match_url": "/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d",
   "date_display": "Thu, October 1, 2026",
-  "time_display": "3:00 PM",
+  "time_display": "7:00 AM",
   "team1": "Xi Lai Gaming",
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (D)",
-  "captured_at": "2026-09-28T20:41:38.803706+00:00",
+  "captured_at": "2026-09-28T20:57:36.741401+00:00",
   "lines": [
-    {
-      "match_id": 753462,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52110",
-      "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
-      "decimal_odds": 5.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17304747320061256,
-      "source": "match:753462"
-    },
-    {
-      "match_id": 753462,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52110",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 1.13,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8269525267993875,
-      "source": "match:753462"
-    },
     {
       "match_id": 753462,
       "bookmaker": "thunderpick",
@@ -91,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.8695652173913044,
       "implied_prob_fair": 0.8188976377952756,
-      "source": "match:753462"
-    },
-    {
-      "match_id": 753462,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/52116",
-      "stage": "pre-match",
-      "team": "Xi Lai Gaming",
-      "team_tag": "XLG",
-      "decimal_odds": 4.5,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2222222222222222,
-      "implied_prob_fair": 0.19642857142857142,
-      "source": "match:753462"
-    },
-    {
-      "match_id": 753462,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/52116",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 1.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8035714285714286,
       "source": "match:753462"
     }
   ]
