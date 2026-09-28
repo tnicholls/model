@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (C)",
-  "captured_at": "2026-09-28T07:47:26.053112+00:00",
+  "captured_at": "2026-09-28T13:53:35.699118+00:00",
   "lines": [
     {
       "match_id": 753456,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 753456,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52098",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 2.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.41298701298701296,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52098",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5870129870129869,
+      "source": "match:753456"
+    },
+    {
+      "match_id": 753456,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52105",
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.4015345268542199,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4087403598971723,
       "source": "match:753456"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5984654731457799,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5912596401028277,
       "source": "match:753456"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4246575342465753,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.43526170798898073,
       "source": "match:753456"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5753424657534246,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5647382920110192,
       "source": "match:753456"
     }
   ]
