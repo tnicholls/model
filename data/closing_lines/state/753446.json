@@ -7,7 +7,7 @@
   "team2": "FUT Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (A)",
-  "captured_at": "2026-09-28T02:14:10.731729+00:00",
+  "captured_at": "2026-09-28T07:47:30.883046+00:00",
   "lines": [
     {
       "match_id": 753446,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6714285714285714,
+      "implied_prob_fair": 0.6752941176470588,
       "source": "match:753446"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 2.82,
+      "decimal_odds": 2.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3285714285714285,
+      "implied_prob_raw": 0.3484320557491289,
+      "implied_prob_fair": 0.3247058823529411,
       "source": "match:753446"
     },
     {
@@ -44,45 +44,17 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.669833729216152,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.676056338028169,
       "source": "match:753446"
     },
     {
       "match_id": 753446,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52139",
-      "stage": "pre-match",
-      "team": "FUT Esports",
-      "team_tag": "FUT",
-      "decimal_odds": 2.82,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.33016627078384797,
-      "source": "match:753446"
-    },
-    {
-      "match_id": 753446,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/52141",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6728971962616822,
-      "source": "match:753446"
-    },
-    {
-      "match_id": 753446,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/52141",
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
@@ -90,7 +62,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.3472222222222222,
-      "implied_prob_fair": 0.32710280373831774,
+      "implied_prob_fair": 0.3239436619718309,
+      "source": "match:753446"
+    },
+    {
+      "match_id": 753446,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52141",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.7015590200445434,
+      "source": "match:753446"
+    },
+    {
+      "match_id": 753446,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52141",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 3.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.31746031746031744,
+      "implied_prob_fair": 0.2984409799554566,
       "source": "match:753446"
     },
     {
@@ -100,11 +100,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6582278481012658,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.69377990430622,
       "source": "match:753446"
     },
     {
@@ -114,11 +114,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 2.6,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3846153846153846,
-      "implied_prob_fair": 0.34177215189873417,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3062200956937799,
       "source": "match:753446"
     }
   ]
