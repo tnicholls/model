@@ -2,13 +2,41 @@
   "match_id": 753452,
   "match_url": "/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b",
   "date_display": "Fri, October 2, 2026",
-  "time_display": "4:00 AM",
+  "time_display": "12:00 PM",
   "team1": "Global Esports",
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-09-29T22:03:09.541053+00:00",
+  "captured_at": "2026-09-29T22:19:02.668572+00:00",
   "lines": [
+    {
+      "match_id": 753452,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52121",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.7066666666666667,
+      "source": "match:753452"
+    },
+    {
+      "match_id": 753452,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52121",
+      "stage": "pre-match",
+      "team": "EDward Gaming",
+      "team_tag": "EDG",
+      "decimal_odds": 3.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.31446540880503143,
+      "implied_prob_fair": 0.29333333333333333,
+      "source": "match:753452"
+    },
     {
       "match_id": 753452,
       "bookmaker": "thunderpick",
@@ -63,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.30303030303030304,
       "implied_prob_fair": 0.28416485900216926,
+      "source": "match:753452"
+    },
+    {
+      "match_id": 753452,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/52129",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7126436781609196,
+      "source": "match:753452"
+    },
+    {
+      "match_id": 753452,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/52129",
+      "stage": "pre-match",
+      "team": "EDward Gaming",
+      "team_tag": "EDG",
+      "decimal_odds": 3.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.28735632183908044,
       "source": "match:753452"
     }
   ]

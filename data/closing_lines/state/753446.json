@@ -2,13 +2,41 @@
   "match_id": 753446,
   "match_url": "/753446/100-thieves-vs-fut-esports-valorant-champions-2026-winners-a",
   "date_display": "Wed, September 30, 2026",
-  "time_display": "7:00 AM",
+  "time_display": "3:00 PM",
   "team1": "100 Thieves",
   "team2": "FUT Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (A)",
-  "captured_at": "2026-09-29T22:03:04.916365+00:00",
+  "captured_at": "2026-09-29T22:18:57.976176+00:00",
   "lines": [
+    {
+      "match_id": 753446,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52137",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6931818181818181,
+      "source": "match:753446"
+    },
+    {
+      "match_id": 753446,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52137",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 3.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3278688524590164,
+      "implied_prob_fair": 0.3068181818181818,
+      "source": "match:753446"
+    },
     {
       "match_id": 753446,
       "bookmaker": "thunderpick",
@@ -63,6 +91,34 @@
       "payout": null,
       "implied_prob_raw": 0.3278688524590164,
       "implied_prob_fair": 0.3068181818181818,
+      "source": "match:753446"
+    },
+    {
+      "match_id": 753446,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/52143",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.704225352112676,
+      "source": "match:753446"
+    },
+    {
+      "match_id": 753446,
+      "bookmaker": "winz",
+      "bet_url": "/rr/bet/52143",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 3.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3333333333333333,
+      "implied_prob_fair": 0.29577464788732394,
       "source": "match:753446"
     }
   ]
