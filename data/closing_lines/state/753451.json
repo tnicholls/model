@@ -2,41 +2,13 @@
   "match_id": 753451,
   "match_url": "/753451/team-vitality-vs-loud-valorant-champions-2026-winners-b",
   "date_display": "Wed, September 30, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "4:00 AM",
   "team1": "Team Vitality",
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (B)",
-  "captured_at": "2026-09-29T18:33:30.022578+00:00",
+  "captured_at": "2026-09-29T21:47:10.339462+00:00",
   "lines": [
-    {
-      "match_id": 753451,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52124",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 2.11,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.47393364928909953,
-      "implied_prob_fair": 0.44327176781002636,
-      "source": "match:753451"
-    },
-    {
-      "match_id": 753451,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52124",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 1.68,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5567282321899736,
-      "source": "match:753451"
-    },
     {
       "match_id": 753451,
       "bookmaker": "thunderpick",
@@ -91,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.5882352941176471,
       "implied_prob_fair": 0.5526315789473685,
-      "source": "match:753451"
-    },
-    {
-      "match_id": 753451,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/52127",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 1.98,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.45,
-      "source": "match:753451"
-    },
-    {
-      "match_id": 753451,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/52127",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 1.62,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5499999999999999,
       "source": "match:753451"
     }
   ]
