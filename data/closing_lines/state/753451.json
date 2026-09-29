@@ -7,48 +7,20 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (B)",
-  "captured_at": "2026-09-29T14:12:39.676957+00:00",
+  "captured_at": "2026-09-29T16:38:37.605000+00:00",
   "lines": [
     {
       "match_id": 753451,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52122",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 2.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42408376963350786,
-      "source": "match:753451"
-    },
-    {
-      "match_id": 753451,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52122",
-      "stage": "pre-match",
-      "team": "LOUD",
-      "team_tag": "LOUD",
-      "decimal_odds": 1.62,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5759162303664922,
-      "source": "match:753451"
-    },
-    {
-      "match_id": 753451,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52125",
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44210526315789467,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.4564643799472295,
       "source": "match:753451"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5578947368421052,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5435356200527705,
       "source": "match:753451"
     }
   ]
