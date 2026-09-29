@@ -7,8 +7,36 @@
   "team2": "FUT Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Winner's (A)",
-  "captured_at": "2026-09-29T12:53:11.834946+00:00",
+  "captured_at": "2026-09-29T13:09:05.444889+00:00",
   "lines": [
+    {
+      "match_id": 753446,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52139",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6813953488372093,
+      "source": "match:753446"
+    },
+    {
+      "match_id": 753446,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52139",
+      "stage": "pre-match",
+      "team": "FUT Esports",
+      "team_tag": "FUT",
+      "decimal_odds": 2.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.341296928327645,
+      "implied_prob_fair": 0.3186046511627907,
+      "source": "match:753446"
+    },
     {
       "match_id": 753446,
       "bookmaker": "rainbet",
