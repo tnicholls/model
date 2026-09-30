@@ -7,7 +7,7 @@
   "team2": "JD Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (A)",
-  "captured_at": "2026-09-30T03:01:40.297656+00:00",
+  "captured_at": "2026-09-30T07:02:10.345804+00:00",
   "lines": [
     {
       "match_id": 753447,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.8040201005025126,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8256880733944955,
       "source": "match:753447"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "JD Gaming",
       "team_tag": "JDG",
-      "decimal_odds": 4.8,
+      "decimal_odds": 5.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20833333333333334,
-      "implied_prob_fair": 0.19597989949748745,
+      "implied_prob_raw": 0.18518518518518517,
+      "implied_prob_fair": 0.17431192660550457,
       "source": "match:753447"
     },
     {
