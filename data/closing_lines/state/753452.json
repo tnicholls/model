@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-09-30T20:05:47.530451+00:00",
+  "captured_at": "2026-09-30T20:54:38.039423+00:00",
   "lines": [
     {
       "match_id": 753452,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7204301075268817,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7158351409978309,
       "source": "match:753452"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.35,
+      "decimal_odds": 3.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29850746268656714,
-      "implied_prob_fair": 0.27956989247311825,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.28416485900216926,
       "source": "match:753452"
     },
     {
