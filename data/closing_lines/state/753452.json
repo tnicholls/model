@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-10-01T06:24:03.893827+00:00",
+  "captured_at": "2026-10-01T12:28:40.291472+00:00",
   "lines": [
     {
       "match_id": 753452,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6975169300225732,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6931818181818181,
       "source": "match:753452"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.09,
+      "decimal_odds": 3.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3236245954692557,
-      "implied_prob_fair": 0.30248306997742663,
-      "source": "match:753452"
-    },
-    {
-      "match_id": 753452,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52123",
-      "stage": "pre-match",
-      "team": "Global Esports",
-      "team_tag": "GE",
-      "decimal_odds": 1.34,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6981981981981982,
-      "source": "match:753452"
-    },
-    {
-      "match_id": 753452,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52123",
-      "stage": "pre-match",
-      "team": "EDward Gaming",
-      "team_tag": "EDG",
-      "decimal_odds": 3.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.30180180180180183,
+      "implied_prob_raw": 0.3278688524590164,
+      "implied_prob_fair": 0.3068181818181818,
       "source": "match:753452"
     },
     {
@@ -91,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.30303030303030304,
       "implied_prob_fair": 0.28416485900216926,
-      "source": "match:753452"
-    },
-    {
-      "match_id": 753452,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/52129",
-      "stage": "pre-match",
-      "team": "Global Esports",
-      "team_tag": "GE",
-      "decimal_odds": 1.25,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7126436781609196,
-      "source": "match:753452"
-    },
-    {
-      "match_id": 753452,
-      "bookmaker": "winz",
-      "bet_url": "/rr/bet/52129",
-      "stage": "pre-match",
-      "team": "EDward Gaming",
-      "team_tag": "EDG",
-      "decimal_odds": 3.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.28735632183908044,
       "source": "match:753452"
     }
   ]
