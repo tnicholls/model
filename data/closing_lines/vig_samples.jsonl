@@ -39717,3 +39717,15 @@
 {"bookmaker": "rainbet", "vig": 0.06162464985994398, "sampled_at": "2026-10-01T23:23:01.972688+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "ggbet", "vig": 0.07843137254901955, "sampled_at": "2026-10-01T23:23:03.525088+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "rainbet", "vig": 0.06609211483574917, "sampled_at": "2026-10-01T23:23:03.525088+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.06862745098039214, "sampled_at": "2026-10-01T23:38:48.155709+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.06752003126832129, "sampled_at": "2026-10-01T23:38:48.155709+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06638908165625712, "sampled_at": "2026-10-01T23:38:48.155709+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.0695006747638327, "sampled_at": "2026-10-01T23:38:49.635204+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.0695006747638327, "sampled_at": "2026-10-01T23:38:49.635204+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06237816764132553, "sampled_at": "2026-10-01T23:38:49.635204+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.07222508148910611, "sampled_at": "2026-10-01T23:38:51.225431+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07222508148910611, "sampled_at": "2026-10-01T23:38:51.225431+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06162464985994398, "sampled_at": "2026-10-01T23:38:51.225431+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.07843137254901955, "sampled_at": "2026-10-01T23:38:52.812883+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07604017216642767, "sampled_at": "2026-10-01T23:38:52.812883+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06609211483574917, "sampled_at": "2026-10-01T23:38:52.812883+00:00", "source": "pre_match_snapshot"}
