@@ -7,7 +7,7 @@
   "team2": "Team Liquid",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (C)",
-  "captured_at": "2026-09-30T22:42:23.398138+00:00",
+  "captured_at": "2026-10-01T02:09:18.436407+00:00",
   "lines": [
     {
       "match_id": 753457,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 3.76,
+      "decimal_odds": 3.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26595744680851063,
-      "implied_prob_fair": 0.248,
+      "implied_prob_raw": 0.2617801047120419,
+      "implied_prob_fair": 0.24505928853754938,
       "source": "match:753457"
     },
     {
@@ -34,27 +34,27 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7520000000000001,
+      "implied_prob_fair": 0.7549407114624506,
       "source": "match:753457"
     },
     {
       "match_id": 753457,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/52106",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52099",
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 3.85,
+      "decimal_odds": 3.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.243614931237721,
+      "implied_prob_raw": 0.2610966057441253,
+      "implied_prob_fair": 0.24457593688362914,
       "source": "match:753457"
     },
     {
       "match_id": 753457,
-      "bookmaker": "rainbet",
-      "bet_url": "/rr/bet/52106",
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52099",
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
@@ -62,7 +62,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.756385068762279,
+      "implied_prob_fair": 0.7554240631163708,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52106",
+      "stage": "pre-match",
+      "team": "TYLOO",
+      "team_tag": "TYL",
+      "decimal_odds": 3.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2531645569620253,
+      "implied_prob_fair": 0.23745173745173742,
+      "source": "match:753457"
+    },
+    {
+      "match_id": 753457,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52106",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7625482625482626,
       "source": "match:753457"
     },
     {
@@ -72,11 +100,11 @@
       "stage": "pre-match",
       "team": "TYLOO",
       "team_tag": "TYL",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.2699115044247788,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.2553191489361702,
       "source": "match:753457"
     },
     {
@@ -86,11 +114,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7300884955752213,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7446808510638298,
       "source": "match:753457"
     }
   ]
