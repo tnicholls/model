@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-10-01T02:09:21.457512+00:00",
+  "captured_at": "2026-10-01T06:24:03.893827+00:00",
   "lines": [
     {
       "match_id": 753452,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7073170731707317,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.6975169300225732,
       "source": "match:753452"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.19,
+      "decimal_odds": 3.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31347962382445144,
-      "implied_prob_fair": 0.2926829268292683,
+      "implied_prob_raw": 0.3236245954692557,
+      "implied_prob_fair": 0.30248306997742663,
       "source": "match:753452"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7073170731707317,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.6981981981981982,
       "source": "match:753452"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.19,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31347962382445144,
-      "implied_prob_fair": 0.2926829268292683,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.30180180180180183,
       "source": "match:753452"
     },
     {

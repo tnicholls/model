@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (D)",
-  "captured_at": "2026-10-01T02:09:19.870786+00:00",
+  "captured_at": "2026-10-01T06:24:02.223332+00:00",
   "lines": [
     {
       "match_id": 753462,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 5.4,
+      "decimal_odds": 5.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17304747320061256,
+      "implied_prob_raw": 0.19607843137254904,
+      "implied_prob_fair": 0.1826923076923077,
       "source": "match:753462"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8269525267993875,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8173076923076923,
       "source": "match:753462"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xi Lai Gaming",
       "team_tag": "XLG",
-      "decimal_odds": 5.4,
+      "decimal_odds": 5.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17304747320061256,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.18699186991869918,
       "source": "match:753462"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8269525267993875,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8130081300813009,
       "source": "match:753462"
     },
     {
