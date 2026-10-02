@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (D)",
-  "captured_at": "2026-10-02T00:51:43.689308+00:00",
+  "captured_at": "2026-10-02T06:49:07.620996+00:00",
   "lines": [
     {
       "match_id": 753463,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5454545454545455,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5555555555555556,
       "source": "match:753463"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.04,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45454545454545453,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4444444444444444,
+      "source": "match:753463"
+    },
+    {
+      "match_id": 753463,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52161",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.557029177718833,
+      "source": "match:753463"
+    },
+    {
+      "match_id": 753463,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52161",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 2.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44297082228116713,
       "source": "match:753463"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5616797900262467,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5876288659793815,
       "source": "match:753463"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.4383202099737532,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4123711340206186,
       "source": "match:753463"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "EDward Gaming",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Elimination (B)",
-  "captured_at": "2026-10-02T00:51:38.826701+00:00",
+  "captured_at": "2026-10-02T06:49:02.835109+00:00",
   "lines": [
     {
       "match_id": 753452,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6880733944954128,
+      "implied_prob_fair": 0.6859122401847575,
       "source": "match:753452"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.0,
+      "decimal_odds": 2.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3333333333333333,
-      "implied_prob_fair": 0.3119266055045871,
+      "implied_prob_raw": 0.33670033670033667,
+      "implied_prob_fair": 0.3140877598152425,
       "source": "match:753452"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.688787185354691,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6836027713625867,
       "source": "match:753452"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.01,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33222591362126247,
-      "implied_prob_fair": 0.3112128146453089,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31639722863741343,
       "source": "match:753452"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7158351409978309,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.706401766004415,
       "source": "match:753452"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "EDward Gaming",
       "team_tag": "EDG",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28416485900216926,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.293598233995585,
       "source": "match:753452"
     }
   ]
