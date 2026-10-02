@@ -7,8 +7,36 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (D)",
-  "captured_at": "2026-10-02T22:38:13.589850+00:00",
+  "captured_at": "2026-10-02T22:53:58.274187+00:00",
   "lines": [
+    {
+      "match_id": 753463,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52161",
+      "stage": "pre-match",
+      "team": "Karmine Corp",
+      "team_tag": "KC",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5721784776902887,
+      "source": "match:753463"
+    },
+    {
+      "match_id": 753463,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52161",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 2.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.42782152230971127,
+      "source": "match:753463"
+    },
     {
       "match_id": 753463,
       "bookmaker": "rainbet",
