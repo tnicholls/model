@@ -7,7 +7,7 @@
   "team2": "Global Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (B)",
-  "captured_at": "2026-10-02T19:16:48.590854+00:00",
+  "captured_at": "2026-10-02T19:32:36.177866+00:00",
   "lines": [
     {
       "match_id": 753453,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5235602094240838,
       "implied_prob_fair": 0.4851752021563342,
+      "source": "match:753453"
+    },
+    {
+      "match_id": 753453,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52168",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5161290322580646,
+      "source": "match:753453"
+    },
+    {
+      "match_id": 753453,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52168",
+      "stage": "pre-match",
+      "team": "Global Esports",
+      "team_tag": "GE",
+      "decimal_odds": 1.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48387096774193555,
       "source": "match:753453"
     },
     {
