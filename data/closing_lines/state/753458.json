@@ -2,13 +2,41 @@
   "match_id": 753458,
   "match_url": "/753458/g2-esports-vs-team-liquid-valorant-champions-2026-decider-c",
   "date_display": "Sat, October 3, 2026",
-  "time_display": "4:00 AM",
+  "time_display": "12:00 PM",
   "team1": "G2 Esports",
   "team2": "Team Liquid",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (C)",
-  "captured_at": "2026-10-02T23:25:22.129726+00:00",
+  "captured_at": "2026-10-02T23:41:05.067640+00:00",
   "lines": [
+    {
+      "match_id": 753458,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52157",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5502645502645503,
+      "source": "match:753458"
+    },
+    {
+      "match_id": 753458,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52157",
+      "stage": "pre-match",
+      "team": "Team Liquid",
+      "team_tag": "TL",
+      "decimal_odds": 2.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4807692307692307,
+      "implied_prob_fair": 0.4497354497354497,
+      "source": "match:753458"
+    },
     {
       "match_id": 753458,
       "bookmaker": "thunderpick",
@@ -20,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5517241379310345,
+      "implied_prob_fair": 0.5529100529100528,
       "source": "match:753458"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Liquid",
       "team_tag": "TL",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.44827586206896547,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.44708994708994704,
       "source": "match:753458"
     },
     {
