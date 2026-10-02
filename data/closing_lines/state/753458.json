@@ -7,36 +7,8 @@
   "team2": "Team Liquid",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (C)",
-  "captured_at": "2026-10-02T22:02:32.448916+00:00",
+  "captured_at": "2026-10-02T22:22:28.972251+00:00",
   "lines": [
-    {
-      "match_id": 753458,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52158",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.71,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5464190981432361,
-      "source": "match:753458"
-    },
-    {
-      "match_id": 753458,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52158",
-      "stage": "pre-match",
-      "team": "Team Liquid",
-      "team_tag": "TL",
-      "decimal_odds": 2.06,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4535809018567639,
-      "source": "match:753458"
-    },
     {
       "match_id": 753458,
       "bookmaker": "rainbet",
