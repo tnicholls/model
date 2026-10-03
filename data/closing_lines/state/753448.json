@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (A)",
-  "captured_at": "2026-10-03T16:27:48.499551+00:00",
+  "captured_at": "2026-10-03T19:53:32.477428+00:00",
   "lines": [
     {
       "match_id": 753448,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5199999999999999,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5253333333333333,
       "source": "match:753448"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.48,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4746666666666666,
       "source": "match:753448"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FUT Esports",
       "team_tag": "FUT",
-      "decimal_odds": 1.79,
+      "decimal_odds": 1.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5213903743315508,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.528,
       "source": "match:753448"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.4786096256684492,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.47200000000000003,
       "source": "match:753448"
     },
     {
