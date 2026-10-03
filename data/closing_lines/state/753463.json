@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (D)",
-  "captured_at": "2026-10-03T04:35:12.986374+00:00",
+  "captured_at": "2026-10-03T04:50:58.278600+00:00",
   "lines": [
     {
       "match_id": 753463,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5706806282722513,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5759162303664922,
       "source": "match:753463"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.18,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4587155963302752,
-      "implied_prob_fair": 0.42931937172774864,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.42408376963350786,
       "source": "match:753463"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Karmine Corp",
       "team_tag": "KC",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5732984293193717,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.5796344647519582,
       "source": "match:753463"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.19,
+      "decimal_odds": 2.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.4267015706806283,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.42036553524804177,
       "source": "match:753463"
     },
     {
