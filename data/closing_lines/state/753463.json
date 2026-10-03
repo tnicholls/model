@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (D)",
-  "captured_at": "2026-10-03T05:06:45.392605+00:00",
+  "captured_at": "2026-10-03T10:42:18.423185+00:00",
   "lines": [
     {
       "match_id": 753463,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5759162303664922,
+      "implied_prob_fair": 0.577023498694517,
       "source": "match:753463"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42408376963350786,
+      "implied_prob_raw": 0.45248868778280543,
+      "implied_prob_fair": 0.42297650130548303,
       "source": "match:753463"
     },
     {
