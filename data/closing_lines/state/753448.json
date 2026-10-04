@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (A)",
-  "captured_at": "2026-10-04T00:47:56.906216+00:00",
+  "captured_at": "2026-10-04T06:26:02.170595+00:00",
   "lines": [
     {
       "match_id": 753448,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.528,
+      "implied_prob_fair": 0.5267379679144386,
       "source": "match:753448"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 1.98,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.47200000000000003,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4732620320855615,
       "source": "match:753448"
     },
     {

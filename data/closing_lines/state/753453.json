@@ -7,7 +7,7 @@
   "team2": "Global Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Group Stage\u2013Decider (B)",
-  "captured_at": "2026-10-04T00:47:55.291240+00:00",
+  "captured_at": "2026-10-04T06:26:00.647630+00:00",
   "lines": [
     {
       "match_id": 753453,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5502645502645503,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5437665782493368,
       "source": "match:753453"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4497354497354497,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.4562334217506631,
       "source": "match:753453"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5529100529100528,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5490716180371352,
       "source": "match:753453"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.09,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.44708994708994704,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.4509283819628647,
       "source": "match:753453"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5578947368421052,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5691906005221932,
       "source": "match:753453"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Global Esports",
       "team_tag": "GE",
-      "decimal_odds": 2.12,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44210526315789467,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4308093994778067,
       "source": "match:753453"
     }
   ]
