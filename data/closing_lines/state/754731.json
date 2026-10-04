@@ -1,0 +1,69 @@
+{
+  "match_id": 754731,
+  "match_url": "/754731/team-vitality-vs-nongshim-redforce-valorant-champions-2026-ubqf",
+  "date_display": "Thu, October 8, 2026",
+  "time_display": "3:00 PM",
+  "team1": "Team Vitality",
+  "team2": "Nongshim RedForce",
+  "event_name": "Valorant Champions 2026",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-10-04T19:56:59.445258+00:00",
+  "lines": [
+    {
+      "match_id": 754731,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52182",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5308310991957105,
+      "source": "match:754731"
+    },
+    {
+      "match_id": 754731,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52182",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 1.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.46916890080428963,
+      "source": "match:754731"
+    },
+    {
+      "match_id": 754731,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52199",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5343915343915343,
+      "source": "match:754731"
+    },
+    {
+      "match_id": 754731,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52199",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4656084656084655,
+      "source": "match:754731"
+    }
+  ]
+}
