@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-06T18:38:17.540878+00:00",
+  "captured_at": "2026-10-06T18:53:53.518984+00:00",
   "lines": [
     {
       "match_id": 754732,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.35587188612099646,
       "implied_prob_fair": 0.332541567695962,
+      "source": "match:754732"
+    },
+    {
+      "match_id": 754732,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52187",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6682464454976303,
+      "source": "match:754732"
+    },
+    {
+      "match_id": 754732,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52187",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 2.82,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3546099290780142,
+      "implied_prob_fair": 0.3317535545023697,
       "source": "match:754732"
     },
     {
