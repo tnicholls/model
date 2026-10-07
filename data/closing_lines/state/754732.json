@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T09:59:38.728619+00:00",
+  "captured_at": "2026-10-07T10:15:13.838969+00:00",
   "lines": [
     {
       "match_id": 754732,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7785977859778597,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8472222222222222,
       "source": "match:754732"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 4.22,
+      "decimal_odds": 6.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23696682464454977,
-      "implied_prob_fair": 0.2214022140221402,
+      "implied_prob_raw": 0.1639344262295082,
+      "implied_prob_fair": 0.1527777777777778,
       "source": "match:754732"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7602339181286549,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8472222222222222,
       "source": "match:754732"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 3.9,
+      "decimal_odds": 6.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25641025641025644,
-      "implied_prob_fair": 0.23976608187134507,
+      "implied_prob_raw": 0.1639344262295082,
+      "implied_prob_fair": 0.1527777777777778,
       "source": "match:754732"
     },
     {
