@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T20:24:27.610199+00:00",
+  "captured_at": "2026-10-07T20:39:59.214478+00:00",
   "lines": [
     {
       "match_id": 754730,
@@ -39,44 +39,16 @@
     },
     {
       "match_id": 754730,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52181",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.44,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6487804878048781,
-      "source": "match:754730"
-    },
-    {
-      "match_id": 754730,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52181",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 2.66,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37593984962406013,
-      "implied_prob_fair": 0.351219512195122,
-      "source": "match:754730"
-    },
-    {
-      "match_id": 754730,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52198",
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6538461538461539,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6728971962616822,
       "source": "match:754730"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.72,
+      "decimal_odds": 2.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3676470588235294,
-      "implied_prob_fair": 0.34615384615384615,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32710280373831774,
       "source": "match:754730"
     }
   ]
