@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T01:07:52.629032+00:00",
+  "captured_at": "2026-10-07T01:23:28.375778+00:00",
   "lines": [
     {
       "match_id": 754733,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.544973544973545,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5526315789473685,
       "source": "match:754733"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.45502645502645506,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4473684210526316,
       "source": "match:754733"
     }
   ]
