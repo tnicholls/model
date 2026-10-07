@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T22:27:18.389882+00:00",
+  "captured_at": "2026-10-07T23:43:28.675379+00:00",
   "lines": [
     {
       "match_id": 754731,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.74,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5747126436781609,
-      "implied_prob_fair": 0.536,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5345744680851062,
       "source": "match:754731"
     },
     {
@@ -62,7 +62,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.49751243781094534,
-      "implied_prob_fair": 0.4640000000000001,
+      "implied_prob_fair": 0.4654255319148936,
       "source": "match:754731"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5343915343915343,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5278514588859416,
       "source": "match:754731"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.02,
+      "decimal_odds": 1.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4656084656084655,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.4721485411140583,
       "source": "match:754731"
     }
   ]
