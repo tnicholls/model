@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T08:30:21.119311+00:00",
+  "captured_at": "2026-10-07T08:45:56.122062+00:00",
   "lines": [
     {
       "match_id": 754732,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7152173913043478,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.717391304347826,
       "source": "match:754732"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 3.29,
+      "decimal_odds": 3.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.303951367781155,
-      "implied_prob_fair": 0.2847826086956522,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.28260869565217395,
       "source": "match:754732"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7186147186147186,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7133479212253829,
       "source": "match:754732"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 3.32,
+      "decimal_odds": 3.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30120481927710846,
-      "implied_prob_fair": 0.28138528138528146,
+      "implied_prob_raw": 0.3067484662576687,
+      "implied_prob_fair": 0.28665207877461707,
       "source": "match:754732"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.33,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7518796992481203,
-      "implied_prob_fair": 0.706401766004415,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7158351409978309,
       "source": "match:754732"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 3.2,
+      "decimal_odds": 3.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.293598233995585,
+      "implied_prob_raw": 0.30303030303030304,
+      "implied_prob_fair": 0.28416485900216926,
       "source": "match:754732"
     }
   ]
