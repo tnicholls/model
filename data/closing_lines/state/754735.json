@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-10-07T20:40:06.932804+00:00",
+  "captured_at": "2026-10-07T22:27:24.547900+00:00",
   "lines": [
     {
       "match_id": 754735,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 754735,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52208",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5188172043010751,
+      "source": "match:754735"
+    },
+    {
+      "match_id": 754735,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52208",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.48118279569892475,
+      "source": "match:754735"
+    },
+    {
+      "match_id": 754735,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52215",
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5132978723404255,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5382585751978891,
       "source": "match:754735"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.93,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.48670212765957455,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4617414248021108,
       "source": "match:754735"
     }
   ]
