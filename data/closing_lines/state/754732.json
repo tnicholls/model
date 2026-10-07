@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T07:12:16.946907+00:00",
+  "captured_at": "2026-10-07T07:43:36.919437+00:00",
   "lines": [
     {
       "match_id": 754732,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7060133630289532,
+      "implied_prob_fair": 0.7066666666666667,
       "source": "match:754732"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 3.17,
+      "decimal_odds": 3.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.31545741324921134,
-      "implied_prob_fair": 0.29398663697104677,
+      "implied_prob_raw": 0.31446540880503143,
+      "implied_prob_fair": 0.29333333333333333,
       "source": "match:754732"
     },
     {
