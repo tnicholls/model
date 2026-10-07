@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-07T17:34:34.193626+00:00",
+  "captured_at": "2026-10-07T17:50:05.762340+00:00",
   "lines": [
     {
       "match_id": 754730,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6196473551637279,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.63,
       "source": "match:754730"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.380352644836272,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.37,
       "source": "match:754730"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6196473551637279,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6309226932668328,
       "source": "match:754730"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.380352644836272,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.3690773067331671,
       "source": "match:754730"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6320987654320989,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6472019464720195,
       "source": "match:754730"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.36790123456790125,
+      "implied_prob_raw": 0.37593984962406013,
+      "implied_prob_fair": 0.3527980535279805,
       "source": "match:754730"
     }
   ]
