@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-10-08T15:21:21.882177+00:00",
+  "captured_at": "2026-10-08T15:36:50.770952+00:00",
   "lines": [
     {
       "match_id": 754734,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.5434782608695652,
       "implied_prob_fair": 0.5053763440860215,
+      "source": "match:754734"
+    },
+    {
+      "match_id": 754734,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52229",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.69,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.5564304461942258,
+      "source": "match:754734"
+    },
+    {
+      "match_id": 754734,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52229",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 2.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.44356955380577423,
       "source": "match:754734"
     }
   ]
