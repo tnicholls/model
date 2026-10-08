@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-08T22:33:37.462362+00:00",
+  "captured_at": "2026-10-08T22:49:05.730190+00:00",
   "lines": [
     {
       "match_id": 754739,
@@ -27,6 +27,34 @@
       "match_id": 754739,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52205",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6151898734177216,
+      "source": "match:754739"
+    },
+    {
+      "match_id": 754739,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52207",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 2.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4115226337448559,
+      "implied_prob_fair": 0.3848101265822785,
+      "source": "match:754739"
+    },
+    {
+      "match_id": 754739,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52207",
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
