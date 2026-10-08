@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-08T17:41:53.353059+00:00",
+  "captured_at": "2026-10-08T20:07:30.929514+00:00",
   "lines": [
     {
       "match_id": 754738,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6147959183673469,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6142131979695432,
       "source": "match:754738"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.41,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.41493775933609955,
-      "implied_prob_fair": 0.38520408163265296,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.38578680203045684,
+      "source": "match:754738"
+    },
+    {
+      "match_id": 754738,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52221",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6142131979695432,
+      "source": "match:754738"
+    },
+    {
+      "match_id": 754738,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52221",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 2.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.38578680203045684,
       "source": "match:754738"
     },
     {
