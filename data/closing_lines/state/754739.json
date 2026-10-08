@@ -7,7 +7,7 @@
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-08T00:45:36.588613+00:00",
+  "captured_at": "2026-10-08T01:01:08.139734+00:00",
   "lines": [
     {
       "match_id": 754739,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.38618925831202044,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.3903061224489796,
       "source": "match:754739"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6138107416879796,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6096938775510204,
       "source": "match:754739"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "T1",
       "team_tag": "T1",
-      "decimal_odds": 2.41,
+      "decimal_odds": 2.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.41493775933609955,
-      "implied_prob_fair": 0.38520408163265296,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.3903061224489796,
       "source": "match:754739"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Paper Rex",
       "team_tag": "PRX",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6147959183673469,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6096938775510204,
       "source": "match:754739"
     },
     {
