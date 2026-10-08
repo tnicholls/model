@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-10-08T06:03:13.497424+00:00",
+  "captured_at": "2026-10-08T09:28:39.290799+00:00",
   "lines": [
     {
       "match_id": 754735,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5161290322580646,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.514745308310992,
       "source": "match:754735"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48387096774193555,
+      "implied_prob_fair": 0.48525469168900803,
       "source": "match:754735"
     },
     {
