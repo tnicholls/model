@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-08T03:15:08.924413+00:00",
+  "captured_at": "2026-10-08T03:30:40.346152+00:00",
   "lines": [
     {
       "match_id": 754730,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6487804878048781,
+      "implied_prob_fair": 0.6496350364963503,
       "source": "match:754730"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.66,
+      "decimal_odds": 2.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37593984962406013,
-      "implied_prob_fair": 0.351219512195122,
+      "implied_prob_raw": 0.37453183520599254,
+      "implied_prob_fair": 0.35036496350364965,
       "source": "match:754730"
     },
     {
