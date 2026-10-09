@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-10-09T12:25:56.771103+00:00",
+  "captured_at": "2026-10-09T13:19:44.682486+00:00",
   "lines": [
     {
       "match_id": 754734,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5294117647058824,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.536,
       "source": "match:754734"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.47058823529411764,
+      "implied_prob_raw": 0.49751243781094534,
+      "implied_prob_fair": 0.4640000000000001,
       "source": "match:754734"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.5320855614973262,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5372340425531915,
       "source": "match:754734"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.4679144385026738,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.46276595744680854,
       "source": "match:754734"
     },
     {

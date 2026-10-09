@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-09T12:25:53.485959+00:00",
+  "captured_at": "2026-10-09T13:19:41.589742+00:00",
   "lines": [
     {
       "match_id": 754738,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6752941176470588,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7982758620689656,
       "source": "match:754738"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.87,
+      "decimal_odds": 4.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3484320557491289,
-      "implied_prob_fair": 0.3247058823529411,
+      "implied_prob_raw": 0.2159827213822894,
+      "implied_prob_fair": 0.20172413793103447,
       "source": "match:754738"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6752941176470588,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7982758620689656,
       "source": "match:754738"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.87,
+      "decimal_odds": 4.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3484320557491289,
-      "implied_prob_fair": 0.3247058823529411,
+      "implied_prob_raw": 0.2159827213822894,
+      "implied_prob_fair": 0.20172413793103447,
       "source": "match:754738"
     },
     {
