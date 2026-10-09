@@ -7,7 +7,7 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-09T02:52:04.899736+00:00",
+  "captured_at": "2026-10-09T08:21:00.604237+00:00",
   "lines": [
     {
       "match_id": 754738,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6352357320099257,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6196473551637279,
       "source": "match:754738"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3647642679900745,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.380352644836272,
       "source": "match:754738"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6352357320099257,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6221662468513854,
       "source": "match:754738"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nongshim RedForce",
       "team_tag": "NS",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3647642679900745,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.3778337531486146,
       "source": "match:754738"
     },
     {
