@@ -41669,3 +41669,15 @@
 {"bookmaker": "thunderpick", "vig": 0.07803468208092479, "sampled_at": "2026-10-09T01:17:04.323093+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "rainbet", "vig": 0.06442577030812324, "sampled_at": "2026-10-09T01:17:04.323093+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "shuffle", "vig": 0.08139534883720945, "sampled_at": "2026-10-09T01:17:04.323093+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.06941737058696118, "sampled_at": "2026-10-09T01:32:26.924798+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06161953988040958, "sampled_at": "2026-10-09T01:32:26.924798+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08465608465608465, "sampled_at": "2026-10-09T01:32:26.924798+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.06875572066978952, "sampled_at": "2026-10-09T01:32:28.448018+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.061765939597315356, "sampled_at": "2026-10-09T01:32:28.448018+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08465608465608465, "sampled_at": "2026-10-09T01:32:28.448018+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07062090287121059, "sampled_at": "2026-10-09T01:32:30.017782+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06323132313231339, "sampled_at": "2026-10-09T01:32:30.017782+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08139534883720945, "sampled_at": "2026-10-09T01:32:30.017782+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07803468208092479, "sampled_at": "2026-10-09T01:32:31.544932+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06442577030812324, "sampled_at": "2026-10-09T01:32:31.544932+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08139534883720945, "sampled_at": "2026-10-09T01:32:31.544932+00:00", "source": "pre_match_snapshot"}
