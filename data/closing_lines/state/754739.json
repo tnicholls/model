@@ -2,13 +2,41 @@
   "match_id": 754739,
   "match_url": "/754739/t1-vs-paper-rex-valorant-champions-2026-lr1",
   "date_display": "Fri, October 9, 2026",
-  "time_display": "10:00 AM",
+  "time_display": "12:00 PM",
   "team1": "T1",
   "team2": "Paper Rex",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-09T00:00:00.473332+00:00",
+  "captured_at": "2026-10-09T00:15:28.223912+00:00",
   "lines": [
+    {
+      "match_id": 754739,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52205",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": 2.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4115226337448559,
+      "implied_prob_fair": 0.3848101265822785,
+      "source": "match:754739"
+    },
+    {
+      "match_id": 754739,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52205",
+      "stage": "pre-match",
+      "team": "Paper Rex",
+      "team_tag": "PRX",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6151898734177216,
+      "source": "match:754739"
+    },
     {
       "match_id": 754739,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.6993006993006994,
       "implied_prob_fair": 0.6587112171837709,
-      "source": "match:754739"
-    },
-    {
-      "match_id": 754739,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52209",
-      "stage": "pre-match",
-      "team": "T1",
-      "team_tag": "T1",
-      "decimal_odds": 2.7,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3414634146341463,
-      "source": "match:754739"
-    },
-    {
-      "match_id": 754739,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52209",
-      "stage": "pre-match",
-      "team": "Paper Rex",
-      "team_tag": "PRX",
-      "decimal_odds": 1.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6585365853658537,
       "source": "match:754739"
     }
   ]
