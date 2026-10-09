@@ -2,13 +2,41 @@
   "match_id": 754738,
   "match_url": "/754738/100-thieves-vs-nongshim-redforce-valorant-champions-2026-lr1",
   "date_display": "Fri, October 9, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "3:00 PM",
   "team1": "100 Thieves",
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-09T01:32:28.448018+00:00",
+  "captured_at": "2026-10-09T01:47:55.766947+00:00",
   "lines": [
+    {
+      "match_id": 754738,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52220",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.51,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6196473551637279,
+      "source": "match:754738"
+    },
+    {
+      "match_id": 754738,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52220",
+      "stage": "pre-match",
+      "team": "Nongshim RedForce",
+      "team_tag": "NS",
+      "decimal_odds": 2.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.380352644836272,
+      "source": "match:754738"
+    },
     {
       "match_id": 754738,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.390625,
       "implied_prob_fair": 0.36790123456790125,
-      "source": "match:754738"
-    },
-    {
-      "match_id": 754738,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52224",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6585365853658537,
-      "source": "match:754738"
-    },
-    {
-      "match_id": 754738,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52224",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 2.7,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3414634146341463,
       "source": "match:754738"
     }
   ]

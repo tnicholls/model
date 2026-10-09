@@ -2,13 +2,41 @@
   "match_id": 754734,
   "match_url": "/754734/g2-esports-vs-team-vitality-valorant-champions-2026-ubsf",
   "date_display": "Sat, October 10, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "3:00 PM",
   "team1": "G2 Esports",
   "team2": "Team Vitality",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-10-09T01:32:31.544932+00:00",
+  "captured_at": "2026-10-09T01:47:58.931628+00:00",
   "lines": [
+    {
+      "match_id": 754734,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52222",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5308310991957105,
+      "source": "match:754734"
+    },
+    {
+      "match_id": 754734,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52222",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.46916890080428963,
+      "source": "match:754734"
+    },
     {
       "match_id": 754734,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.47619047619047616,
       "implied_prob_fair": 0.4473684210526316,
-      "source": "match:754734"
-    },
-    {
-      "match_id": 754734,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52225",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.72,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
-      "source": "match:754734"
-    },
-    {
-      "match_id": 754734,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52225",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 2.0,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
       "source": "match:754734"
     }
   ]
