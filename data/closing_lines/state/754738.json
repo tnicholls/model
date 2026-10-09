@@ -7,36 +7,8 @@
   "team2": "Nongshim RedForce",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-10-09T00:46:04.119365+00:00",
+  "captured_at": "2026-10-09T01:01:33.063773+00:00",
   "lines": [
-    {
-      "match_id": 754738,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52221",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.52,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6142131979695432,
-      "source": "match:754738"
-    },
-    {
-      "match_id": 754738,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52221",
-      "stage": "pre-match",
-      "team": "Nongshim RedForce",
-      "team_tag": "NS",
-      "decimal_odds": 2.42,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4132231404958678,
-      "implied_prob_fair": 0.38578680203045684,
-      "source": "match:754738"
-    },
     {
       "match_id": 754738,
       "bookmaker": "rainbet",
