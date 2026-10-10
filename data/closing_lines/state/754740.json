@@ -7,7 +7,7 @@
   "team2": "100 Thieves",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-10-10T17:29:02.776429+00:00",
+  "captured_at": "2026-10-10T17:44:25.633489+00:00",
   "lines": [
     {
       "match_id": 754740,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.4745308310991957,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.4798927613941019,
       "source": "match:754740"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5254691689008043,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.520107238605898,
       "source": "match:754740"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.97,
+      "decimal_odds": 1.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.4732620320855615,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.4798927613941019,
       "source": "match:754740"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5267379679144386,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.520107238605898,
       "source": "match:754740"
     },
     {
