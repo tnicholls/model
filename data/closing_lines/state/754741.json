@@ -1,0 +1,41 @@
+{
+  "match_id": 754741,
+  "match_url": "/754741/g2-esports-vs-t1-valorant-champions-2026-lr2",
+  "date_display": "Sun, October 11, 2026",
+  "time_display": "3:00 PM",
+  "team1": "G2 Esports",
+  "team2": "T1",
+  "event_name": "Valorant Champions 2026",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-10-10T13:53:12.248610+00:00",
+  "lines": [
+    {
+      "match_id": 754741,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52248",
+      "stage": "pre-match",
+      "team": "G2 Esports",
+      "team_tag": "G2",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:754741"
+    },
+    {
+      "match_id": 754741,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52248",
+      "stage": "pre-match",
+      "team": "T1",
+      "team_tag": "T1",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:754741"
+    }
+  ]
+}
