@@ -7,7 +7,7 @@
   "team2": "T1",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-10-10T16:58:19.195335+00:00",
+  "captured_at": "2026-10-10T17:13:41.426429+00:00",
   "lines": [
     {
       "match_id": 754741,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.4424778761061947,
       "implied_prob_fair": 0.4114583333333333,
-      "source": "match:754741"
-    },
-    {
-      "match_id": 754741,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52250",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 1.57,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5911458333333334,
-      "source": "match:754741"
-    },
-    {
-      "match_id": 754741,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52250",
-      "stage": "pre-match",
-      "team": "T1",
-      "team_tag": "T1",
-      "decimal_odds": 2.27,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.44052863436123346,
-      "implied_prob_fair": 0.4088541666666667,
       "source": "match:754741"
     },
     {
