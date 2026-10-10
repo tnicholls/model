@@ -1,0 +1,69 @@
+{
+  "match_id": 754736,
+  "match_url": "/754736/team-vitality-vs-loud-valorant-champions-2026-ubf",
+  "date_display": "Fri, October 16, 2026",
+  "time_display": "9:00 AM",
+  "team1": "Team Vitality",
+  "team2": "LOUD",
+  "event_name": "Valorant Champions 2026",
+  "series": "Playoffs\u2013Upper Final",
+  "captured_at": "2026-10-10T14:08:39.092169+00:00",
+  "lines": [
+    {
+      "match_id": 754736,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52249",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4598930481283422,
+      "source": "match:754736"
+    },
+    {
+      "match_id": 754736,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52249",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.72,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5401069518716577,
+      "source": "match:754736"
+    },
+    {
+      "match_id": 754736,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52251",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4598930481283422,
+      "source": "match:754736"
+    },
+    {
+      "match_id": 754736,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52251",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.72,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5401069518716577,
+      "source": "match:754736"
+    }
+  ]
+}
