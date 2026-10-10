@@ -7,7 +7,7 @@
   "team2": "100 Thieves",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-10-10T17:13:39.896595+00:00",
+  "captured_at": "2026-10-10T17:29:02.776429+00:00",
   "lines": [
     {
       "match_id": 754740,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.47311827956989244,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4732620320855615,
       "source": "match:754740"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5268817204301075,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.5267379679144386,
       "source": "match:754740"
     },
     {
