@@ -7,7 +7,7 @@
   "team2": "100 Thieves",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-10-10T19:19:15.160958+00:00",
+  "captured_at": "2026-10-10T19:34:38.145906+00:00",
   "lines": [
     {
       "match_id": 754740,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 754740,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52245",
+      "stage": "pre-match",
+      "team": "NRG",
+      "team_tag": "NRG",
+      "decimal_odds": 1.94,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.4798927613941019,
+      "source": "match:754740"
+    },
+    {
+      "match_id": 754740,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52245",
+      "stage": "pre-match",
+      "team": "100 Thieves",
+      "team_tag": "100T",
+      "decimal_odds": 1.79,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.520107238605898,
+      "source": "match:754740"
+    },
+    {
+      "match_id": 754740,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52257",
       "stage": "pre-match",
       "team": "NRG",
       "team_tag": "NRG",
-      "decimal_odds": 1.97,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.47745358090185674,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4656084656084655,
       "source": "match:754740"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5225464190981433,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5343915343915343,
       "source": "match:754740"
     }
   ]
