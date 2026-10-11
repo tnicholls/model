@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-10-11T20:59:42.459747+00:00",
+  "captured_at": "2026-10-11T21:15:02.282847+00:00",
   "lines": [
     {
       "match_id": 754736,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4598930481283422,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.46524064171123,
       "source": "match:754736"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5401069518716577,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5347593582887701,
       "source": "match:754736"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.02,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.4598930481283422,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.46524064171123,
       "source": "match:754736"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5401069518716577,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5347593582887701,
       "source": "match:754736"
     },
     {
