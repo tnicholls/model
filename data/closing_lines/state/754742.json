@@ -2,17 +2,17 @@
   "match_id": 754742,
   "match_url": "/754742/100-thieves-vs-g2-esports-valorant-champions-2026-lr3",
   "date_display": "Fri, October 16, 2026",
-  "time_display": "4:00 AM",
+  "time_display": "12:00 PM",
   "team1": "100 Thieves",
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-10-11T19:43:54.711123+00:00",
+  "captured_at": "2026-10-11T20:28:37.527982+00:00",
   "lines": [
     {
       "match_id": 754742,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52261",
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52260",
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
@@ -25,8 +25,8 @@
     },
     {
       "match_id": 754742,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52261",
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52260",
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5948717948717949,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5984654731457799,
       "source": "match:754742"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4051282051282052,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.4015345268542199,
       "source": "match:754742"
     }
   ]
