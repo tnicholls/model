@@ -7,7 +7,7 @@
   "team2": "Misa Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Closed Qualifier Playoffs\u2013Lower Final",
-  "captured_at": "2026-10-12T16:27:51.734199+00:00",
+  "captured_at": "2026-10-12T16:50:59.446932+00:00",
   "lines": [
     {
       "match_id": 762036,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 1.01,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9900990099009901,
-      "implied_prob_fair": 0.9303928325292903,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
       "source": "match:762036"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 13.5,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.07407407407407407,
-      "implied_prob_fair": 0.06960716747070986,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
       "source": "match:762036"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 1.01,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9900990099009901,
-      "implied_prob_fair": 0.9303928325292903,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
       "source": "match:762036"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 13.5,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.07407407407407407,
-      "implied_prob_fair": 0.06960716747070986,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
       "source": "match:762036"
     },
     {
