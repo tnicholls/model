@@ -7,8 +7,36 @@
   "team2": "Misa Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Closed Qualifier Playoffs\u2013Lower Final",
-  "captured_at": "2026-10-12T05:51:14.391074+00:00",
+  "captured_at": "2026-10-12T06:06:31.861839+00:00",
   "lines": [
+    {
+      "match_id": 762036,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52240",
+      "stage": "pre-match",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 1.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7941176470588236,
+      "source": "match:762036"
+    },
+    {
+      "match_id": 762036,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52240",
+      "stage": "pre-match",
+      "team": "Misa Esports",
+      "team_tag": "MISA",
+      "decimal_odds": 4.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2178649237472767,
+      "implied_prob_fair": 0.2058823529411765,
+      "source": "match:762036"
+    },
     {
       "match_id": 762036,
       "bookmaker": "rainbet",
