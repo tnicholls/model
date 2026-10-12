@@ -7,7 +7,7 @@
   "team2": "Misa Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Closed Qualifier Playoffs\u2013Lower Final",
-  "captured_at": "2026-10-12T11:48:45.725243+00:00",
+  "captured_at": "2026-10-12T12:04:05.232573+00:00",
   "lines": [
     {
       "match_id": 762036,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8156606851549756,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7975567190226877,
       "source": "match:762036"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 5.0,
+      "decimal_odds": 4.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2,
-      "implied_prob_fair": 0.18433931484502447,
+      "implied_prob_raw": 0.2188183807439825,
+      "implied_prob_fair": 0.2024432809773124,
       "source": "match:762036"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7593688362919132,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7735849056603773,
       "source": "match:762036"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 3.85,
+      "decimal_odds": 4.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.24063116370808674,
+      "implied_prob_raw": 0.24390243902439027,
+      "implied_prob_fair": 0.22641509433962262,
       "source": "match:762036"
     }
   ]
