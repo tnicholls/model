@@ -2,41 +2,13 @@
   "match_id": 754742,
   "match_url": "/754742/100-thieves-vs-g2-esports-valorant-champions-2026-lr3",
   "date_display": "Fri, October 16, 2026",
-  "time_display": "12:00 PM",
+  "time_display": "4:00 AM",
   "team1": "100 Thieves",
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-10-11T21:45:42.276765+00:00",
+  "captured_at": "2026-10-12T05:05:24.297710+00:00",
   "lines": [
-    {
-      "match_id": 754742,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52260",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.57,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5900783289817232,
-      "source": "match:754742"
-    },
-    {
-      "match_id": 754742,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52260",
-      "stage": "pre-match",
-      "team": "G2 Esports",
-      "team_tag": "G2",
-      "decimal_odds": 2.26,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4424778761061947,
-      "implied_prob_fair": 0.40992167101827676,
-      "source": "match:754742"
-    },
     {
       "match_id": 754742,
       "bookmaker": "thunderpick",
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5984654731457799,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5912596401028277,
       "source": "match:754742"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.4015345268542199,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4087403598971723,
       "source": "match:754742"
     }
   ]
