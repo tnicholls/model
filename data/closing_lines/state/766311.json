@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-13T23:20:40.727409+00:00",
+  "captured_at": "2026-10-13T23:56:26.701666+00:00",
   "lines": [
     {
       "match_id": 766311,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.55,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28169014084507044,
-      "implied_prob_fair": 0.26195426195426197,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.2647058823529412,
       "source": "match:766311"
     },
     {
@@ -90,7 +90,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.738045738045738,
+      "implied_prob_fair": 0.7352941176470589,
       "source": "match:766311"
     }
   ]
