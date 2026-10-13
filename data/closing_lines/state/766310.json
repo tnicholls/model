@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-13T09:51:38.491890+00:00",
+  "captured_at": "2026-10-13T17:29:42.543670+00:00",
   "lines": [
     {
       "match_id": 766310,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.43935309973045816,
+      "implied_prob_fair": 0.4423592493297587,
       "source": "match:766310"
     },
     {
@@ -30,11 +30,67 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5606469002695418,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5576407506702413,
+      "source": "match:766310"
+    },
+    {
+      "match_id": 766310,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52272",
+      "stage": "pre-match",
+      "team": "FlyQuest RED",
+      "team_tag": "FLY",
+      "decimal_odds": 2.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.4411764705882353,
+      "source": "match:766310"
+    },
+    {
+      "match_id": 766310,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52272",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5588235294117646,
+      "source": "match:766310"
+    },
+    {
+      "match_id": 766310,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52275",
+      "stage": "pre-match",
+      "team": "FlyQuest RED",
+      "team_tag": "FLY",
+      "decimal_odds": 2.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4391534391534391,
+      "source": "match:766310"
+    },
+    {
+      "match_id": 766310,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52275",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5608465608465608,
       "source": "match:766310"
     }
   ]
