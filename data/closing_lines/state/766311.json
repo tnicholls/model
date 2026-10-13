@@ -1,0 +1,41 @@
+{
+  "match_id": 766311,
+  "match_url": "/766311/akave-esports-gc-vs-mibr-gc-game-changers-2026-americas-last-chance-qualifier-rr",
+  "date_display": "Thu, October 15, 2026",
+  "time_display": "2:00 AM",
+  "team1": "Akave Esports GC",
+  "team2": "MIBR GC",
+  "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
+  "series": "Main Event\u2013Round Robin",
+  "captured_at": "2026-10-13T09:51:40.131338+00:00",
+  "lines": [
+    {
+      "match_id": 766311,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52267",
+      "stage": "pre-match",
+      "team": "Akave Esports GC",
+      "team_tag": "AKV.",
+      "decimal_odds": 2.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.36548223350253806,
+      "source": "match:766311"
+    },
+    {
+      "match_id": 766311,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52267",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6345177664974618,
+      "source": "match:766311"
+    }
+  ]
+}

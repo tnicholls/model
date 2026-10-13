@@ -1,0 +1,41 @@
+{
+  "match_id": 766309,
+  "match_url": "/766309/flyquest-red-vs-akave-esports-gc-game-changers-2026-americas-last-chance-qualifier-rr",
+  "date_display": "Wed, October 14, 2026",
+  "time_display": "10:00 PM",
+  "team1": "FlyQuest RED",
+  "team2": "Akave Esports GC",
+  "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
+  "series": "Main Event\u2013Round Robin",
+  "captured_at": "2026-10-13T09:51:36.866222+00:00",
+  "lines": [
+    {
+      "match_id": 766309,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52265",
+      "stage": "pre-match",
+      "team": "FlyQuest RED",
+      "team_tag": "FLY",
+      "decimal_odds": 1.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6134969325153374,
+      "implied_prob_fair": 0.5606469002695418,
+      "source": "match:766309"
+    },
+    {
+      "match_id": 766309,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52265",
+      "stage": "pre-match",
+      "team": "Akave Esports GC",
+      "team_tag": "AKV.",
+      "decimal_odds": 2.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4807692307692307,
+      "implied_prob_fair": 0.43935309973045816,
+      "source": "match:766309"
+    }
+  ]
+}
