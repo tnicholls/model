@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-13T20:08:11.633061+00:00",
+  "captured_at": "2026-10-13T20:23:35.978734+00:00",
   "lines": [
     {
       "match_id": 766310,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4423592493297587,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.45945945945945943,
       "source": "match:766310"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.65,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.5576407506702413,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5405405405405405,
       "source": "match:766310"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.09,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.4411764705882353,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.450402144772118,
       "source": "match:766310"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.65,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.5588235294117646,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.549597855227882,
       "source": "match:766310"
     },
     {
