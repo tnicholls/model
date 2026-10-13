@@ -7,7 +7,7 @@
   "team2": "Akave Esports GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-13T20:54:22.619590+00:00",
+  "captured_at": "2026-10-13T21:09:46.199363+00:00",
   "lines": [
     {
       "match_id": 766309,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.4444444444444444,
       "implied_prob_fair": 0.4078947368421052,
-      "source": "match:766309"
-    },
-    {
-      "match_id": 766309,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52271",
-      "stage": "pre-match",
-      "team": "FlyQuest RED",
-      "team_tag": "FLY",
-      "decimal_odds": 1.54,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.5979112271540469,
-      "source": "match:766309"
-    },
-    {
-      "match_id": 766309,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52271",
-      "stage": "pre-match",
-      "team": "Akave Esports GC",
-      "team_tag": "AKV.",
-      "decimal_odds": 2.29,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.40208877284595296,
       "source": "match:766309"
     },
     {
