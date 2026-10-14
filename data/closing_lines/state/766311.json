@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T21:41:35.685009+00:00",
+  "captured_at": "2026-10-14T21:56:58.374845+00:00",
   "lines": [
     {
       "match_id": 766311,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 4.67,
+      "decimal_odds": 5.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21413276231263384,
-      "implied_prob_fair": 0.19759450171821305,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.18433931484502447,
       "source": "match:766311"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8024054982817869,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8156606851549756,
       "source": "match:766311"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 4.85,
+      "decimal_odds": 5.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2061855670103093,
-      "implied_prob_fair": 0.18896321070234115,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.17591125198098256,
       "source": "match:766311"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8110367892976589,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8240887480190174,
       "source": "match:766311"
     },
     {
