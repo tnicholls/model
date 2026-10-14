@@ -7,7 +7,7 @@
   "team2": "Akave Esports GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T18:17:38.255230+00:00",
+  "captured_at": "2026-10-14T18:33:02.414672+00:00",
   "lines": [
     {
       "match_id": 766309,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.686046511627907,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.757455268389662,
       "source": "match:766309"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 2.95,
+      "decimal_odds": 3.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3389830508474576,
-      "implied_prob_fair": 0.313953488372093,
+      "implied_prob_raw": 0.26246719160104987,
+      "implied_prob_fair": 0.24254473161033796,
       "source": "match:766309"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7340425531914894,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7500000000000001,
       "source": "match:766309"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.45,
+      "decimal_odds": 3.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2898550724637681,
-      "implied_prob_fair": 0.26595744680851063,
+      "implied_prob_raw": 0.27322404371584696,
+      "implied_prob_fair": 0.25,
       "source": "match:766309"
     },
     {
