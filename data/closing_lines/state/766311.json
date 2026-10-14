@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T19:34:41.505784+00:00",
+  "captured_at": "2026-10-14T19:50:05.524431+00:00",
   "lines": [
     {
       "match_id": 766311,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.96,
+      "decimal_odds": 4.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25252525252525254,
-      "implied_prob_fair": 0.23255813953488375,
+      "implied_prob_raw": 0.24937655860349128,
+      "implied_prob_fair": 0.23032629558541265,
       "source": "match:766311"
     },
     {
@@ -34,7 +34,35 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7674418604651163,
+      "implied_prob_fair": 0.7696737044145873,
+      "source": "match:766311"
+    },
+    {
+      "match_id": 766311,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52273",
+      "stage": "pre-match",
+      "team": "Akave Esports GC",
+      "team_tag": "AKV.",
+      "decimal_odds": 4.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24038461538461536,
+      "implied_prob_fair": 0.22097378277153557,
+      "source": "match:766311"
+    },
+    {
+      "match_id": 766311,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52273",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7790262172284644,
       "source": "match:766311"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 4.1,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24390243902439027,
-      "implied_prob_fair": 0.22641509433962262,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.2063492063492063,
       "source": "match:766311"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7735849056603773,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7936507936507936,
       "source": "match:766311"
     }
   ]
