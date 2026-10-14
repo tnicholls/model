@@ -7,7 +7,7 @@
   "team2": "Akave Esports GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T13:54:07.920138+00:00",
+  "captured_at": "2026-10-14T16:51:51.675992+00:00",
   "lines": [
     {
       "match_id": 766309,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6347607052896727,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7098214285714286,
       "source": "match:766309"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 2.52,
+      "decimal_odds": 3.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.36523929471032746,
+      "implied_prob_raw": 0.31446540880503143,
+      "implied_prob_fair": 0.29017857142857145,
       "source": "match:766309"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6568627450980392,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7306034482758621,
       "source": "match:766309"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 2.68,
+      "decimal_odds": 3.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.34313725490196073,
+      "implied_prob_raw": 0.2949852507374631,
+      "implied_prob_fair": 0.26939655172413796,
       "source": "match:766309"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.645320197044335,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6713947990543735,
       "source": "match:766309"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 2.62,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38167938931297707,
-      "implied_prob_fair": 0.35467980295566504,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.32860520094562645,
       "source": "match:766309"
     }
   ]
