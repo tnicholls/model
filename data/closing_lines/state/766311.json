@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T09:51:46.635543+00:00",
+  "captured_at": "2026-10-14T13:54:11.065123+00:00",
   "lines": [
     {
       "match_id": 766311,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 2.72,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3676470588235294,
-      "implied_prob_fair": 0.3381995133819951,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.26315789473684204,
       "source": "match:766311"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.661800486618005,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7368421052631579,
+      "source": "match:766311"
+    },
+    {
+      "match_id": 766311,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52273",
+      "stage": "pre-match",
+      "team": "Akave Esports GC",
+      "team_tag": "AKV.",
+      "decimal_odds": 3.63,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.27548209366391185,
+      "implied_prob_fair": 0.2530864197530864,
+      "source": "match:766311"
+    },
+    {
+      "match_id": 766311,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52273",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7469135802469135,
       "source": "match:766311"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.2647058823529412,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.25773195876288657,
       "source": "match:766311"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7352941176470589,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7422680412371133,
       "source": "match:766311"
     }
   ]

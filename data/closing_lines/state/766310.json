@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T09:51:44.994450+00:00",
+  "captured_at": "2026-10-14T13:54:09.407573+00:00",
   "lines": [
     {
       "match_id": 766310,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.46091644204851756,
+      "implied_prob_raw": 0.49751243781094534,
+      "implied_prob_fair": 0.4596774193548387,
       "source": "match:766310"
     },
     {
@@ -34,35 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5390835579514824,
-      "source": "match:766310"
-    },
-    {
-      "match_id": 766310,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52272",
-      "stage": "pre-match",
-      "team": "FlyQuest RED",
-      "team_tag": "FLY",
-      "decimal_odds": 2.09,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.44266666666666665,
-      "source": "match:766310"
-    },
-    {
-      "match_id": 766310,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52272",
-      "stage": "pre-match",
-      "team": "MIBR GC",
-      "team_tag": "MIBR",
-      "decimal_odds": 1.66,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5573333333333332,
+      "implied_prob_fair": 0.5403225806451611,
       "source": "match:766310"
     },
     {
