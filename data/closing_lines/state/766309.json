@@ -7,7 +7,7 @@
   "team2": "Akave Esports GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T18:33:02.414672+00:00",
+  "captured_at": "2026-10-14T18:48:26.553226+00:00",
   "lines": [
     {
       "match_id": 766309,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.757455268389662,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8556149732620321,
       "source": "match:766309"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.81,
+      "decimal_odds": 6.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26246719160104987,
-      "implied_prob_fair": 0.24254473161033796,
+      "implied_prob_raw": 0.15625,
+      "implied_prob_fair": 0.14438502673796794,
       "source": "match:766309"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7500000000000001,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8548168249660787,
       "source": "match:766309"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 3.66,
+      "decimal_odds": 6.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27322404371584696,
-      "implied_prob_fair": 0.25,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.1451831750339213,
       "source": "match:766309"
     },
     {
