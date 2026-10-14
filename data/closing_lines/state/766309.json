@@ -7,7 +7,7 @@
   "team2": "Akave Esports GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T19:19:14.479812+00:00",
+  "captured_at": "2026-10-14T19:34:38.408265+00:00",
   "lines": [
     {
       "match_id": 766309,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.04,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9615384615384615,
-      "implied_prob_fair": 0.8909853249475891,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7858439201451906,
       "source": "match:766309"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 8.5,
+      "decimal_odds": 4.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11764705882352941,
-      "implied_prob_fair": 0.1090146750524109,
+      "implied_prob_raw": 0.23094688221709006,
+      "implied_prob_fair": 0.21415607985480942,
       "source": "match:766309"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.03,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.970873786407767,
-      "implied_prob_fair": 0.8941418293936279,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7964601769911506,
       "source": "match:766309"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Akave Esports GC",
       "team_tag": "AKV.",
-      "decimal_odds": 8.7,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1149425287356322,
-      "implied_prob_fair": 0.10585817060637205,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.20353982300884954,
       "source": "match:766309"
     },
     {

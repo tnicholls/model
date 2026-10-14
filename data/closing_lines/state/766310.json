@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Round Robin",
-  "captured_at": "2026-10-14T19:19:15.998541+00:00",
+  "captured_at": "2026-10-14T19:34:39.945061+00:00",
   "lines": [
     {
       "match_id": 766310,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.97,
+      "decimal_odds": 2.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.46900269541778977,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.39896373056994816,
       "source": "match:766310"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.74,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5747126436781609,
-      "implied_prob_fair": 0.5309973045822103,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6010362694300517,
       "source": "match:766310"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.07,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.44652406417112295,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.37913486005089053,
       "source": "match:766310"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.553475935828877,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6208651399491093,
       "source": "match:766310"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.58,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38759689922480617,
-      "implied_prob_fair": 0.35980148883374685,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37373737373737376,
       "source": "match:766310"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6401985111662531,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6262626262626262,
       "source": "match:766310"
     }
   ]
