@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-10-15T23:21:17.062984+00:00",
+  "captured_at": "2026-10-15T23:36:37.049843+00:00",
   "lines": [
     {
       "match_id": 744488,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 2.03,
+      "decimal_odds": 3.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4557640750670242,
+      "implied_prob_raw": 0.29069767441860467,
+      "implied_prob_fair": 0.26963906581740976,
       "source": "match:744488"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5442359249329759,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7303609341825902,
       "source": "match:744488"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.86,
+      "decimal_odds": 3.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5376344086021505,
-      "implied_prob_fair": 0.4986522911051214,
+      "implied_prob_raw": 0.3205128205128205,
+      "implied_prob_fair": 0.3035714285714286,
       "source": "match:744488"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5013477088948788,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6964285714285715,
       "source": "match:744488"
     },
     {
