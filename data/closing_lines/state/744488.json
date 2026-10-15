@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-10-15T14:15:03.826142+00:00",
+  "captured_at": "2026-10-15T14:50:44.005791+00:00",
   "lines": [
     {
       "match_id": 744488,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5311653116531165,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5365853658536586,
       "source": "match:744488"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.96,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.46883468834688347,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.46341463414634154,
       "source": "match:744488"
     },
     {
