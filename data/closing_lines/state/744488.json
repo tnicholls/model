@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-10-15T15:21:33.022923+00:00",
+  "captured_at": "2026-10-15T15:39:16.001234+00:00",
   "lines": [
     {
       "match_id": 744488,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5230352303523035,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5324324324324324,
       "source": "match:744488"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.93,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.47696476964769646,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4675675675675675,
       "source": "match:744488"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5256064690026954,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5442359249329759,
       "source": "match:744488"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.95,
+      "decimal_odds": 2.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.4743935309973046,
+      "implied_prob_raw": 0.4926108374384237,
+      "implied_prob_fair": 0.4557640750670242,
       "source": "match:744488"
     },
     {
