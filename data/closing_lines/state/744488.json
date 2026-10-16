@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Americas Last Chance Qualifier",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-10-16T01:26:10.727432+00:00",
+  "captured_at": "2026-10-16T01:41:29.979092+00:00",
   "lines": [
     {
       "match_id": 744488,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 7.5,
+      "decimal_odds": 7.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.13333333333333333,
-      "implied_prob_fair": 0.12383177570093458,
+      "implied_prob_raw": 0.12658227848101264,
+      "implied_prob_fair": 0.11731843575418993,
       "source": "match:744488"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8761682242990654,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.88268156424581,
       "source": "match:744488"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest RED",
       "team_tag": "FLY",
-      "decimal_odds": 6.0,
+      "decimal_odds": 7.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16666666666666666,
-      "implied_prob_fair": 0.15966386554621845,
+      "implied_prob_raw": 0.12987012987012986,
+      "implied_prob_fair": 0.125,
       "source": "match:744488"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8403361344537814,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.875,
       "source": "match:744488"
     },
     {
