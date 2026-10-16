@@ -7,7 +7,7 @@
   "team2": "LOUD",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-10-16T06:44:33.753847+00:00",
+  "captured_at": "2026-10-16T07:02:21.424707+00:00",
   "lines": [
     {
       "match_id": 754736,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.33,
+      "decimal_odds": 1.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4291845493562232,
-      "implied_prob_fair": 0.40102827763496146,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5080213903743315,
       "source": "match:754736"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "live",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5989717223650385,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4919786096256684,
+      "source": "match:754736"
+    },
+    {
+      "match_id": 754736,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52251",
+      "stage": "live",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 1.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5080213903743315,
+      "source": "match:754736"
+    },
+    {
+      "match_id": 754736,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52251",
+      "stage": "live",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4919786096256684,
       "source": "match:754736"
     },
     {
