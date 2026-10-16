@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-10-16T11:50:25.378826+00:00",
+  "captured_at": "2026-10-16T12:06:11.736013+00:00",
   "lines": [
     {
       "match_id": 754742,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 2.77,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36101083032490977,
-      "implied_prob_fair": 0.33732057416267947,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.40826873385012924,
       "source": "match:754742"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6626794258373206,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5917312661498708,
       "source": "match:754742"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 2.54,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39370078740157477,
-      "implied_prob_fair": 0.3681592039800995,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.42931937172774864,
       "source": "match:754742"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6318407960199005,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5706806282722513,
       "source": "match:754742"
     },
     {
