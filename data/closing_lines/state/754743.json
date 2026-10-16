@@ -7,48 +7,20 @@
   "team2": "100 Thieves",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-10-16T14:11:16.628431+00:00",
+  "captured_at": "2026-10-16T14:27:02.423497+00:00",
   "lines": [
     {
       "match_id": 754743,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52301",
-      "stage": "pre-match",
-      "team": "Team Vitality",
-      "team_tag": "VIT",
-      "decimal_odds": 2.13,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.4365079365079365,
-      "source": "match:754743"
-    },
-    {
-      "match_id": 754743,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52301",
-      "stage": "pre-match",
-      "team": "100 Thieves",
-      "team_tag": "100T",
-      "decimal_odds": 1.65,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6060606060606061,
-      "implied_prob_fair": 0.5634920634920635,
-      "source": "match:754743"
-    },
-    {
-      "match_id": 754743,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52307",
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4087403598971723,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.38190954773869346,
       "source": "match:754743"
     },
     {
@@ -58,11 +30,11 @@
       "stage": "pre-match",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5912596401028277,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6180904522613065,
       "source": "match:754743"
     }
   ]
