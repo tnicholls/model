@@ -7,7 +7,7 @@
   "team2": "G2 Esports",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-10-16T12:37:43.894767+00:00",
+  "captured_at": "2026-10-16T12:53:30.071806+00:00",
   "lines": [
     {
       "match_id": 754742,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.578125,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5053475935828876,
       "source": "match:754742"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.22,
+      "decimal_odds": 1.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.421875,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.4946524064171124,
       "source": "match:754742"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.578125,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5053475935828876,
       "source": "match:754742"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "G2 Esports",
       "team_tag": "G2",
-      "decimal_odds": 2.22,
+      "decimal_odds": 1.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.421875,
+      "implied_prob_raw": 0.5291005291005292,
+      "implied_prob_fair": 0.4946524064171124,
       "source": "match:754742"
     },
     {
