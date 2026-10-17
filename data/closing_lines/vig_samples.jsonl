@@ -44738,3 +44738,15 @@
 {"bookmaker": "shuffle", "vig": 0.0874568469505177, "sampled_at": "2026-10-17T03:24:25.513693+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "thunderpick", "vig": 0.08193277310924363, "sampled_at": "2026-10-17T03:24:27.061830+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "rainbet", "vig": 0.06150793650793651, "sampled_at": "2026-10-17T03:24:27.061830+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06327257490048188, "sampled_at": "2026-10-17T03:40:00.872517+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.046798029556650356, "sampled_at": "2026-10-17T03:40:00.872517+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06454151908697359, "sampled_at": "2026-10-17T03:40:03.908998+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08333333333333348, "sampled_at": "2026-10-17T03:40:03.908998+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.0795705842145471, "sampled_at": "2026-10-17T03:40:05.413297+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.0648489314664702, "sampled_at": "2026-10-17T03:40:05.413297+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.08197358197358207, "sampled_at": "2026-10-17T03:40:05.413297+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.0842490842490844, "sampled_at": "2026-10-17T03:40:07.101834+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06430155210643007, "sampled_at": "2026-10-17T03:40:07.101834+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "shuffle", "vig": 0.0874568469505177, "sampled_at": "2026-10-17T03:40:07.101834+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.08193277310924363, "sampled_at": "2026-10-17T03:40:08.578059+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06150793650793651, "sampled_at": "2026-10-17T03:40:08.578059+00:00", "source": "pre_match_snapshot"}
