@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-10-17T22:38:07.195343+00:00",
+  "captured_at": "2026-10-17T22:53:48.318336+00:00",
   "lines": [
     {
       "match_id": 754737,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.47619047619047616,
       "implied_prob_fair": 0.4444444444444444,
+      "source": "match:754737"
+    },
+    {
+      "match_id": 754737,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52317",
+      "stage": "pre-match",
+      "team": "LOUD",
+      "team_tag": "LOUD",
+      "decimal_odds": 1.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5567282321899736,
+      "source": "match:754737"
+    },
+    {
+      "match_id": 754737,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52317",
+      "stage": "pre-match",
+      "team": "Team Vitality",
+      "team_tag": "VIT",
+      "decimal_odds": 2.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.44327176781002636,
       "source": "match:754737"
     },
     {
