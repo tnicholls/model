@@ -7,7 +7,7 @@
   "team2": "Team Vitality",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-10-17T18:50:49.794826+00:00",
+  "captured_at": "2026-10-17T19:06:30.932335+00:00",
   "lines": [
     {
       "match_id": 754737,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.547872340425532,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5543766578249337,
       "source": "match:754737"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4521276595744681,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.4456233421750664,
       "source": "match:754737"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "LOUD",
       "team_tag": "LOUD",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.550531914893617,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.557029177718833,
       "source": "match:754737"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.07,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.449468085106383,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.44297082228116713,
       "source": "match:754737"
     },
     {
