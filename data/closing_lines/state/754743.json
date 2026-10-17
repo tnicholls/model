@@ -7,7 +7,7 @@
   "team2": "100 Thieves",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-10-17T07:14:07.209688+00:00",
+  "captured_at": "2026-10-17T07:29:49.079815+00:00",
   "lines": [
     {
       "match_id": 754743,
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.8,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.34117647058823525,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.39698492462311563,
       "source": "match:754743"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6588235294117647,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.6030150753768844,
       "source": "match:754743"
     }
   ]
