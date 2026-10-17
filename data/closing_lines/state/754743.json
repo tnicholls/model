@@ -7,7 +7,7 @@
   "team2": "100 Thieves",
   "event_name": "Valorant Champions 2026",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-10-17T09:19:44.468179+00:00",
+  "captured_at": "2026-10-17T09:35:25.634811+00:00",
   "lines": [
     {
       "match_id": 754743,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.48,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.40322580645161293,
-      "implied_prob_fair": 0.37688442211055284,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.5026737967914439,
       "source": "match:754743"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6231155778894473,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.49732620320855614,
       "source": "match:754743"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "live",
       "team": "Team Vitality",
       "team_tag": "VIT",
-      "decimal_odds": 2.9,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3448275862068966,
-      "implied_prob_fair": 0.32870370370370366,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.4789473684210527,
       "source": "match:754743"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "live",
       "team": "100 Thieves",
       "team_tag": "100T",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6712962962962963,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5210526315789473,
       "source": "match:754743"
     }
   ]
