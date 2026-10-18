@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-18T03:53:26.887696+00:00",
+  "captured_at": "2026-10-18T04:09:08.818063+00:00",
   "lines": [
     {
       "match_id": 773430,
@@ -39,44 +39,16 @@
     },
     {
       "match_id": 773430,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52304",
-      "stage": "pre-match",
-      "team": "Team Liquid Brazil",
-      "team_tag": "TLV",
-      "decimal_odds": 1.61,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.574074074074074,
-      "source": "match:773430"
-    },
-    {
-      "match_id": 773430,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52304",
-      "stage": "pre-match",
-      "team": "Gentle Mates GC",
-      "team_tag": "M8GC",
-      "decimal_odds": 2.17,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4608294930875576,
-      "implied_prob_fair": 0.42592592592592593,
-      "source": "match:773430"
-    },
-    {
-      "match_id": 773430,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52314",
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5912596401028277,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5876288659793815,
       "source": "match:773430"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.3,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4347826086956522,
-      "implied_prob_fair": 0.4087403598971723,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4123711340206186,
       "source": "match:773430"
     }
   ]
