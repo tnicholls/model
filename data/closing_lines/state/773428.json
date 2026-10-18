@@ -7,7 +7,7 @@
   "team2": "Nova Esports GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Round 1",
-  "captured_at": "2026-10-18T05:37:22.579576+00:00",
+  "captured_at": "2026-10-18T05:53:03.833163+00:00",
   "lines": [
     {
       "match_id": 773428,
@@ -27,6 +27,34 @@
       "match_id": 773428,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52294",
+      "stage": "pre-match",
+      "team": "Nova Esports GC",
+      "team_tag": "NOVA",
+      "decimal_odds": 4.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.234192037470726,
+      "implied_prob_fair": 0.21651376146788992,
+      "source": "match:773428"
+    },
+    {
+      "match_id": 773428,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52303",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7834862385321102,
+      "source": "match:773428"
+    },
+    {
+      "match_id": 773428,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52303",
       "stage": "pre-match",
       "team": "Nova Esports GC",
       "team_tag": "NOVA",
