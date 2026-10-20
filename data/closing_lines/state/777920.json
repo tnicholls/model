@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-20T21:54:38.494546+00:00",
+  "captured_at": "2026-10-20T22:20:55.818392+00:00",
   "lines": [
     {
       "match_id": 777920,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 777920,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52334",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8536585365853657,
+      "source": "match:777920"
+    },
+    {
+      "match_id": 777920,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52334",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 6.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.14634146341463414,
+      "source": "match:777920"
+    },
+    {
+      "match_id": 777920,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52332",
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8493150684931507,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.850480109739369,
       "source": "match:777920"
     },
     {
@@ -62,7 +90,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.16129032258064516,
-      "implied_prob_fair": 0.1506849315068493,
+      "implied_prob_fair": 0.149519890260631,
       "source": "match:777920"
     }
   ]
