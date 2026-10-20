@@ -7,7 +7,7 @@
   "team2": "Natus Vincere",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-20T20:36:04.192083+00:00",
+  "captured_at": "2026-10-20T21:21:48.619843+00:00",
   "lines": [
     {
       "match_id": 777925,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.28104575163398693,
+      "implied_prob_raw": 0.29850746268656714,
+      "implied_prob_fair": 0.27801724137931033,
       "source": "match:777925"
     },
     {
@@ -90,7 +90,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.718954248366013,
+      "implied_prob_fair": 0.7219827586206896,
       "source": "match:777925"
     }
   ]
