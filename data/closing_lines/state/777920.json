@@ -7,7 +7,7 @@
   "team2": "Habos Babos",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-20T21:21:47.042404+00:00",
+  "captured_at": "2026-10-20T21:38:13.595326+00:00",
   "lines": [
     {
       "match_id": 777920,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8393632416787266,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8493150684931507,
       "source": "match:777920"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 5.8,
+      "decimal_odds": 6.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.16063675832127355,
+      "implied_prob_raw": 0.16129032258064516,
+      "implied_prob_fair": 0.1506849315068493,
       "source": "match:777920"
     }
   ]
