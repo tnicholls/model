@@ -1,0 +1,41 @@
+{
+  "match_id": 777944,
+  "match_url": "/777944/wolves-esports-vs-a-team-vct-china-2026-threshold-week-1-ro12",
+  "date_display": "Wed, October 21, 2026",
+  "time_display": "7:00 AM",
+  "team1": "Wolves Esports",
+  "team2": "A Team",
+  "event_name": "VCT China 2026: Threshold",
+  "series": "Week 1\u2013Round of 12",
+  "captured_at": "2026-10-20T17:27:11.639192+00:00",
+  "lines": [
+    {
+      "match_id": 777944,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52327",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.656019656019656,
+      "source": "match:777944"
+    },
+    {
+      "match_id": 777944,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52327",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 2.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37453183520599254,
+      "implied_prob_fair": 0.34398034398034394,
+      "source": "match:777944"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 777943,
+  "match_url": "/777943/dragon-ranger-gaming-vs-rare-atom-vct-china-2026-threshold-week-1-ro12",
+  "date_display": "Wed, October 21, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Dragon Ranger Gaming",
+  "team2": "Rare Atom",
+  "event_name": "VCT China 2026: Threshold",
+  "series": "Week 1\u2013Round of 12",
+  "captured_at": "2026-10-20T17:27:16.304147+00:00",
+  "lines": [
+    {
+      "match_id": 777943,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52328",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 1.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7031963470319634,
+      "source": "match:777943"
+    },
+    {
+      "match_id": 777943,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52328",
+      "stage": "pre-match",
+      "team": "Rare Atom",
+      "team_tag": "RA",
+      "decimal_odds": 3.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3246753246753247,
+      "implied_prob_fair": 0.29680365296803657,
+      "source": "match:777943"
+    }
+  ]
+}
