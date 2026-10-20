@@ -7,7 +7,7 @@
   "team2": "Rare Atom",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-20T22:20:52.703090+00:00",
+  "captured_at": "2026-10-20T22:37:17.551760+00:00",
   "lines": [
     {
       "match_id": 777943,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.3184713375796178,
       "implied_prob_fair": 0.2927927927927928,
-      "source": "match:777943"
-    },
-    {
-      "match_id": 777943,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52343",
-      "stage": "pre-match",
-      "team": "Dragon Ranger Gaming",
-      "team_tag": "DRG",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7013574660633485,
-      "source": "match:777943"
-    },
-    {
-      "match_id": 777943,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52343",
-      "stage": "pre-match",
-      "team": "Rare Atom",
-      "team_tag": "RA",
-      "decimal_odds": 3.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3225806451612903,
-      "implied_prob_fair": 0.2986425339366516,
       "source": "match:777943"
     },
     {
