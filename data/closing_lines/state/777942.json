@@ -1,0 +1,41 @@
+{
+  "match_id": 777942,
+  "match_url": "/777942/unsettled-resentment-vs-octagonal-disposition-gaming-vct-china-2026-threshold-week-1-ro12",
+  "date_display": "Wed, October 21, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Unsettled Resentment",
+  "team2": "Octagonal Disposition Gaming",
+  "event_name": "VCT China 2026: Threshold",
+  "series": "Week 1\u2013Round of 12",
+  "captured_at": "2026-10-20T18:29:47.066344+00:00",
+  "lines": [
+    {
+      "match_id": 777942,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52339",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.87,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.5,
+      "source": "match:777942"
+    },
+    {
+      "match_id": 777942,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52339",
+      "stage": "pre-match",
+      "team": "Octagonal Disposition Gaming",
+      "team_tag": "ODG",
+      "decimal_odds": 1.87,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.5,
+      "source": "match:777942"
+    }
+  ]
+}
