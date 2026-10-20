@@ -1,0 +1,41 @@
+{
+  "match_id": 777920,
+  "match_url": "/777920/eintracht-frankfurt-vs-habos-babos-project-blender-2026-group-a",
+  "date_display": "Wed, October 21, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Eintracht Frankfurt",
+  "team2": "Habos Babos",
+  "event_name": "Project Blender 2026",
+  "series": "Phase 2\u2013Group A",
+  "captured_at": "2026-10-20T16:09:52.277035+00:00",
+  "lines": [
+    {
+      "match_id": 777920,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52332",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 1.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8214849921011058,
+      "source": "match:777920"
+    },
+    {
+      "match_id": 777920,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52332",
+      "stage": "pre-match",
+      "team": "Habos Babos",
+      "team_tag": "HABO",
+      "decimal_odds": 5.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.17851500789889413,
+      "source": "match:777920"
+    }
+  ]
+}
