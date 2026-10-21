@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T01:05:15.481697+00:00",
+  "captured_at": "2026-10-21T01:32:23.421780+00:00",
   "lines": [
     {
       "match_id": 777944,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.3676470588235294,
       "implied_prob_fair": 0.3381995133819951,
+      "source": "match:777944"
+    },
+    {
+      "match_id": 777944,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52341",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6698564593301435,
+      "source": "match:777944"
+    },
+    {
+      "match_id": 777944,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52341",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 2.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3301435406698564,
       "source": "match:777944"
     },
     {
