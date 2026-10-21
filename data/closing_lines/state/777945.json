@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T04:46:43.329699+00:00",
+  "captured_at": "2026-10-21T05:03:15.181477+00:00",
   "lines": [
     {
       "match_id": 777945,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8156606851549756,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7368421052631579,
       "source": "match:777945"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 5.0,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2,
-      "implied_prob_fair": 0.18433931484502447,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.26315789473684204,
       "source": "match:777945"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7407407407407407,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7474747474747475,
       "source": "match:777945"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 3.6,
+      "decimal_odds": 3.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2777777777777778,
-      "implied_prob_fair": 0.2592592592592593,
+      "implied_prob_raw": 0.27027027027027023,
+      "implied_prob_fair": 0.2525252525252525,
       "source": "match:777945"
     }
   ]
