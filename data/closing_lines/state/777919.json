@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-21T05:52:32.318953+00:00",
+  "captured_at": "2026-10-21T07:52:54.638594+00:00",
   "lines": [
     {
       "match_id": 777919,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 2.33,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4291845493562232,
-      "implied_prob_fair": 0.3963730569948186,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.46091644204851756,
       "source": "match:777919"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6036269430051813,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5390835579514824,
       "source": "match:777919"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 2.2,
+      "decimal_odds": 1.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.417989417989418,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48108108108108105,
       "source": "match:777919"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.582010582010582,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5189189189189188,
       "source": "match:777919"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 2.34,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.3969072164948454,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.47184986595174266,
       "source": "match:777919"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6030927835051546,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5281501340482575,
       "source": "match:777919"
     }
   ]
