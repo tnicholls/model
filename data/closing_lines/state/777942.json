@@ -7,7 +7,7 @@
   "team2": "Octagonal Disposition Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T05:19:41.032584+00:00",
+  "captured_at": "2026-10-21T05:36:05.109779+00:00",
   "lines": [
     {
       "match_id": 777942,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5230352303523035,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5176151761517616,
       "source": "match:777942"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Octagonal Disposition Gaming",
       "team_tag": "ODG",
-      "decimal_odds": 1.93,
+      "decimal_odds": 1.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.47696476964769646,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.4823848238482385,
+      "source": "match:777942"
+    },
+    {
+      "match_id": 777942,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52342",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.527027027027027,
+      "source": "match:777942"
+    },
+    {
+      "match_id": 777942,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52342",
+      "stage": "pre-match",
+      "team": "Octagonal Disposition Gaming",
+      "team_tag": "ODG",
+      "decimal_odds": 1.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.47297297297297297,
       "source": "match:777942"
     },
     {

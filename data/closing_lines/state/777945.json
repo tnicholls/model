@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T05:19:39.451112+00:00",
+  "captured_at": "2026-10-21T05:36:03.543990+00:00",
   "lines": [
     {
       "match_id": 777945,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.2958579881656805,
       "implied_prob_fair": 0.27155172413793105,
-      "source": "match:777945"
-    },
-    {
-      "match_id": 777945,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52347",
-      "stage": "pre-match",
-      "team": "Any Questions Gaming",
-      "team_tag": "AQ",
-      "decimal_odds": 1.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.756972111553785,
-      "source": "match:777945"
-    },
-    {
-      "match_id": 777945,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52347",
-      "stage": "pre-match",
-      "team": "World Sports Invictus Gaming",
-      "team_tag": "WSIG",
-      "decimal_odds": 3.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.24302788844621515,
       "source": "match:777945"
     },
     {
