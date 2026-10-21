@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-20T23:59:34.921217+00:00",
+  "captured_at": "2026-10-21T00:16:02.571069+00:00",
   "lines": [
     {
       "match_id": 777919,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.3922077922077922,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.3963730569948186,
       "source": "match:777919"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6077922077922078,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6036269430051813,
       "source": "match:777919"
     },
     {
