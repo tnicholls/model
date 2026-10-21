@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T03:14:52.205936+00:00",
+  "captured_at": "2026-10-21T03:31:17.155985+00:00",
   "lines": [
     {
       "match_id": 777944,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.6072351421188631,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6698564593301435,
       "source": "match:777944"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.39276485788113696,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.3301435406698564,
       "source": "match:777944"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6454767726161369,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.676056338028169,
       "source": "match:777944"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 2.64,
+      "decimal_odds": 2.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3787878787878788,
-      "implied_prob_fair": 0.35452322738386305,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.3239436619718309,
       "source": "match:777944"
     }
   ]
