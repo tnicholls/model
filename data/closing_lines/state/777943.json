@@ -7,7 +7,7 @@
   "team2": "Rare Atom",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T07:52:52.891354+00:00",
+  "captured_at": "2026-10-21T10:16:08.771838+00:00",
   "lines": [
     {
       "match_id": 777943,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7126948775055678,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7186813186813186,
       "source": "match:777943"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Rare Atom",
       "team_tag": "RA",
-      "decimal_odds": 3.2,
+      "decimal_odds": 3.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.2873051224944321,
+      "implied_prob_raw": 0.3058103975535168,
+      "implied_prob_fair": 0.28131868131868126,
       "source": "match:777943"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7205240174672489,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:777943"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Rare Atom",
       "team_tag": "RA",
-      "decimal_odds": 3.3,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.30303030303030304,
-      "implied_prob_fair": 0.27947598253275113,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:777943"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7079646017699115,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7474747474747475,
       "source": "match:777943"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Rare Atom",
       "team_tag": "RA",
-      "decimal_odds": 3.2,
+      "decimal_odds": 3.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.2920353982300885,
+      "implied_prob_raw": 0.27027027027027023,
+      "implied_prob_fair": 0.2525252525252525,
       "source": "match:777943"
     }
   ]

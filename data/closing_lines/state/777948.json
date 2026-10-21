@@ -1,0 +1,41 @@
+{
+  "match_id": 777948,
+  "match_url": "/777948/keepbest-gaming-vs-wolves-esports-vct-china-2026-threshold-week-1-qf",
+  "date_display": "Thu, October 22, 2026",
+  "time_display": "12:00 PM",
+  "team1": "KeepBest Gaming",
+  "team2": "Wolves Esports",
+  "event_name": "VCT China 2026: Threshold",
+  "series": "Week 1\u2013Quarterfinals",
+  "captured_at": "2026-10-21T10:32:18.827220+00:00",
+  "lines": [
+    {
+      "match_id": 777948,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52360",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 2.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4486486486486486,
+      "source": "match:777948"
+    },
+    {
+      "match_id": 777948,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52360",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5513513513513514,
+      "source": "match:777948"
+    }
+  ]
+}

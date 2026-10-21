@@ -1,0 +1,41 @@
+{
+  "match_id": 777949,
+  "match_url": "/777949/nova-esports-vs-any-questions-gaming-vct-china-2026-threshold-week-1-qf",
+  "date_display": "Thu, October 22, 2026",
+  "time_display": "2:00 PM",
+  "team1": "Nova Esports",
+  "team2": "Any Questions Gaming",
+  "event_name": "VCT China 2026: Threshold",
+  "series": "Week 1\u2013Quarterfinals",
+  "captured_at": "2026-10-21T10:32:23.651747+00:00",
+  "lines": [
+    {
+      "match_id": 777949,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52361",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.761904761904762,
+      "source": "match:777949"
+    },
+    {
+      "match_id": 777949,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52361",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 3.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2604166666666667,
+      "implied_prob_fair": 0.2380952380952381,
+      "source": "match:777949"
+    }
+  ]
+}
