@@ -7,7 +7,7 @@
   "team2": "Wolves Esports",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-21T19:27:30.584666+00:00",
+  "captured_at": "2026-10-21T19:43:56.020419+00:00",
   "lines": [
     {
       "match_id": 777948,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.6024096385542169,
       "implied_prob_fair": 0.5525606469002695,
-      "source": "match:777948"
-    },
-    {
-      "match_id": 777948,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52368",
-      "stage": "pre-match",
-      "team": "KeepBest Gaming",
-      "team_tag": "KBG",
-      "decimal_odds": 2.06,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.44772117962466484,
-      "source": "match:777948"
-    },
-    {
-      "match_id": 777948,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52368",
-      "stage": "pre-match",
-      "team": "Wolves Esports",
-      "team_tag": "WOL",
-      "decimal_odds": 1.67,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5522788203753352,
       "source": "match:777948"
     },
     {

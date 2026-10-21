@@ -7,7 +7,7 @@
   "team2": "Natus Vincere",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-21T19:27:24.390645+00:00",
+  "captured_at": "2026-10-21T19:43:49.814465+00:00",
   "lines": [
     {
       "match_id": 778513,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 4.93,
+      "decimal_odds": 4.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20283975659229211,
-      "implied_prob_fair": 0.18780889621087316,
+      "implied_prob_raw": 0.22172949002217296,
+      "implied_prob_fair": 0.20458553791887124,
       "source": "match:778513"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8121911037891268,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7954144620811288,
       "source": "match:778513"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 4.75,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21052631578947367,
-      "implied_prob_fair": 0.19491525423728812,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.2063492063492063,
       "source": "match:778513"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8050847457627119,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7936507936507936,
       "source": "match:778513"
     },
     {
