@@ -7,7 +7,7 @@
   "team2": "Blezz",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-21T01:33:18.314612+00:00",
+  "captured_at": "2026-10-21T01:52:56.653886+00:00",
   "lines": [
     {
       "match_id": 777926,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7357293868921776,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7411273486430063,
       "source": "match:777926"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 3.48,
+      "decimal_odds": 3.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28735632183908044,
-      "implied_prob_fair": 0.2642706131078224,
+      "implied_prob_raw": 0.28169014084507044,
+      "implied_prob_fair": 0.2588726513569937,
       "source": "match:777926"
     },
     {
