@@ -7,7 +7,7 @@
   "team2": "Natus Vincere",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-21T22:26:19.987304+00:00",
+  "captured_at": "2026-10-21T23:50:26.906307+00:00",
   "lines": [
     {
       "match_id": 778516,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.761904761904762,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6363636363636364,
       "source": "match:778516"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 3.84,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2604166666666667,
-      "implied_prob_fair": 0.2380952380952381,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.36363636363636365,
       "source": "match:778516"
     }
   ]

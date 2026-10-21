@@ -7,7 +7,7 @@
   "team2": "Natus Vincere",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-21T22:26:24.616768+00:00",
+  "captured_at": "2026-10-21T23:50:31.843811+00:00",
   "lines": [
     {
       "match_id": 778517,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6301020408163265,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6103896103896104,
       "source": "match:778517"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.3698979591836734,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.38961038961038963,
       "source": "match:778517"
     }
   ]
