@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Round of 12",
-  "captured_at": "2026-10-21T05:03:15.181477+00:00",
+  "captured_at": "2026-10-21T05:19:39.451112+00:00",
   "lines": [
     {
       "match_id": 777945,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7180616740088106,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.728448275862069,
       "source": "match:777945"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 3.26,
+      "decimal_odds": 3.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3067484662576687,
-      "implied_prob_fair": 0.28193832599118945,
+      "implied_prob_raw": 0.2958579881656805,
+      "implied_prob_fair": 0.27155172413793105,
       "source": "match:777945"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7368421052631579,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:777945"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.26315789473684204,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:777945"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7474747474747475,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7602339181286549,
       "source": "match:777945"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 3.7,
+      "decimal_odds": 3.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27027027027027023,
-      "implied_prob_fair": 0.2525252525252525,
+      "implied_prob_raw": 0.25641025641025644,
+      "implied_prob_fair": 0.23976608187134507,
       "source": "match:777945"
     }
   ]
