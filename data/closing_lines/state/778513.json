@@ -7,7 +7,7 @@
   "team2": "Natus Vincere",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-21T19:10:58.697465+00:00",
+  "captured_at": "2026-10-21T19:27:24.390645+00:00",
   "lines": [
     {
       "match_id": 778513,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 3.58,
+      "decimal_odds": 4.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27932960893854747,
-      "implied_prob_fair": 0.25879917184265006,
+      "implied_prob_raw": 0.20283975659229211,
+      "implied_prob_fair": 0.18780889621087316,
       "source": "match:778513"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7412008281573499,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8121911037891268,
       "source": "match:778513"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 3.46,
+      "decimal_odds": 4.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28901734104046245,
-      "implied_prob_fair": 0.2669491525423729,
+      "implied_prob_raw": 0.21052631578947367,
+      "implied_prob_fair": 0.19491525423728812,
       "source": "match:778513"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.733050847457627,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8050847457627119,
       "source": "match:778513"
     },
     {
