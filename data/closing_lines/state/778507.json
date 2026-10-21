@@ -1,0 +1,69 @@
+{
+  "match_id": 778507,
+  "match_url": "/778507/cgn-esports-vs-joblife-project-blender-2026-group-a",
+  "date_display": "Wed, October 21, 2026",
+  "time_display": "7:00 PM",
+  "team1": "CGN Esports",
+  "team2": "Joblife",
+  "event_name": "Project Blender 2026",
+  "series": "Phase 2\u2013Group A",
+  "captured_at": "2026-10-21T16:12:17.302419+00:00",
+  "lines": [
+    {
+      "match_id": 778507,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52380",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 1.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.46630727762803237,
+      "source": "match:778507"
+    },
+    {
+      "match_id": 778507,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52380",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 1.73,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5336927223719676,
+      "source": "match:778507"
+    },
+    {
+      "match_id": 778507,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52392",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:778507"
+    },
+    {
+      "match_id": 778507,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52392",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:778507"
+    }
+  ]
+}

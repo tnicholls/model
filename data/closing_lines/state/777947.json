@@ -7,7 +7,7 @@
   "team2": "Dragon Ranger Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-21T13:32:18.213391+00:00",
+  "captured_at": "2026-10-21T16:12:44.390755+00:00",
   "lines": [
     {
       "match_id": 777947,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.4716981132075471,
       "implied_prob_fair": 0.43163538873994634,
+      "source": "match:777947"
+    },
+    {
+      "match_id": 777947,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52371",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.62,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.568,
+      "source": "match:777947"
+    },
+    {
+      "match_id": 777947,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52371",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 2.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4694835680751174,
+      "implied_prob_fair": 0.432,
+      "source": "match:777947"
+    },
+    {
+      "match_id": 777947,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52379",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.74,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5372340425531915,
+      "source": "match:777947"
+    },
+    {
+      "match_id": 777947,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52379",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.46276595744680854,
       "source": "match:777947"
     }
   ]
