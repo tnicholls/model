@@ -7,7 +7,7 @@
   "team2": "Natus Vincere",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-21T10:16:13.612683+00:00",
+  "captured_at": "2026-10-21T13:31:54.026315+00:00",
   "lines": [
     {
       "match_id": 777925,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 2.96,
+      "decimal_odds": 2.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.308411214953271,
+      "implied_prob_raw": 0.33557046979865773,
+      "implied_prob_fair": 0.30858468677494205,
       "source": "match:777925"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6915887850467289,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.691415313225058,
       "source": "match:777925"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 3.35,
+      "decimal_odds": 3.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29850746268656714,
-      "implied_prob_fair": 0.27801724137931033,
+      "implied_prob_raw": 0.3333333333333333,
+      "implied_prob_fair": 0.3103448275862069,
       "source": "match:777925"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere",
       "team_tag": "NAVI",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7219827586206896,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6896551724137931,
       "source": "match:777925"
     }
   ]

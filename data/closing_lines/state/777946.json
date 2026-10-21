@@ -1,0 +1,41 @@
+{
+  "match_id": 777946,
+  "match_url": "/777946/titan-esports-club-vs-unsettled-resentment-vct-china-2026-threshold-week-1-qf",
+  "date_display": "Fri, October 23, 2026",
+  "time_display": "12:00 PM",
+  "team1": "Titan Esports Club",
+  "team2": "Unsettled Resentment",
+  "event_name": "VCT China 2026: Threshold",
+  "series": "Week 1\u2013Quarterfinals",
+  "captured_at": "2026-10-21T13:32:16.775431+00:00",
+  "lines": [
+    {
+      "match_id": 777946,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52364",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.61,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.5683646112600536,
+      "source": "match:777946"
+    },
+    {
+      "match_id": 777946,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52364",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 2.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.43163538873994634,
+      "source": "match:777946"
+    }
+  ]
+}
