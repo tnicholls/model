@@ -1,0 +1,41 @@
+{
+  "match_id": 778516,
+  "match_url": "/778516/eternal-fire-vs-natus-vincere-project-blender-2026-group-b",
+  "date_display": "Thu, October 22, 2026",
+  "time_display": "2:00 PM",
+  "team1": "Eternal Fire",
+  "team2": "Natus Vincere",
+  "event_name": "Project Blender 2026",
+  "series": "Phase 2\u2013Group B",
+  "captured_at": "2026-10-21T22:26:19.987304+00:00",
+  "lines": [
+    {
+      "match_id": 778516,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52400",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.761904761904762,
+      "source": "match:778516"
+    },
+    {
+      "match_id": 778516,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52400",
+      "stage": "pre-match",
+      "team": "Natus Vincere",
+      "team_tag": "NAVI",
+      "decimal_odds": 3.84,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2604166666666667,
+      "implied_prob_fair": 0.2380952380952381,
+      "source": "match:778516"
+    }
+  ]
+}

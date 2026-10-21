@@ -1,0 +1,41 @@
+{
+  "match_id": 778517,
+  "match_url": "/778517/blezz-vs-natus-vincere-project-blender-2026-group-b",
+  "date_display": "Thu, October 22, 2026",
+  "time_display": "7:00 PM",
+  "team1": "Blezz",
+  "team2": "Natus Vincere",
+  "event_name": "Project Blender 2026",
+  "series": "Phase 2\u2013Group B",
+  "captured_at": "2026-10-21T22:26:24.616768+00:00",
+  "lines": [
+    {
+      "match_id": 778517,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52405",
+      "stage": "pre-match",
+      "team": "Blezz",
+      "team_tag": "BLEZ",
+      "decimal_odds": 1.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6301020408163265,
+      "source": "match:778517"
+    },
+    {
+      "match_id": 778517,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52405",
+      "stage": "pre-match",
+      "team": "Natus Vincere",
+      "team_tag": "NAVI",
+      "decimal_odds": 2.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.3698979591836734,
+      "source": "match:778517"
+    }
+  ]
+}
