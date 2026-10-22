@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-22T06:40:03.153041+00:00",
+  "captured_at": "2026-10-22T06:56:25.957036+00:00",
   "lines": [
     {
       "match_id": 778512,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7637795275590551,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6958525345622119,
       "source": "match:778512"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 3.88,
+      "decimal_odds": 3.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2577319587628866,
-      "implied_prob_fair": 0.23622047244094488,
+      "implied_prob_raw": 0.33112582781456956,
+      "implied_prob_fair": 0.304147465437788,
+      "source": "match:778512"
+    },
+    {
+      "match_id": 778512,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52424",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 1.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7264957264957265,
+      "source": "match:778512"
+    },
+    {
+      "match_id": 778512,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52424",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 3.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.29411764705882354,
+      "implied_prob_fair": 0.2735042735042735,
       "source": "match:778512"
     }
   ]

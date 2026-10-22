@@ -7,7 +7,7 @@
   "team2": "Wolves Esports",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-22T06:39:55.279735+00:00",
+  "captured_at": "2026-10-22T06:56:18.194559+00:00",
   "lines": [
     {
       "match_id": 777948,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.22,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.41732283464566927,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.45844504021447724,
       "source": "match:777948"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5826771653543307,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5415549597855228,
       "source": "match:777948"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.12,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4716981132075471,
-      "implied_prob_fair": 0.44063324538258575,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.47200000000000003,
       "source": "match:777948"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5593667546174144,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.528,
       "source": "match:777948"
     }
   ]
