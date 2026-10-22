@@ -7,8 +7,36 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Round 1",
-  "captured_at": "2026-10-22T10:29:57.404790+00:00",
+  "captured_at": "2026-10-22T10:46:22.184986+00:00",
   "lines": [
+    {
+      "match_id": 773427,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52302",
+      "stage": "pre-match",
+      "team": "FENNEL GC",
+      "team_tag": "FLGC",
+      "decimal_odds": 4.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24213075060532688,
+      "implied_prob_fair": 0.225140712945591,
+      "source": "match:773427"
+    },
+    {
+      "match_id": 773427,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52302",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.774859287054409,
+      "source": "match:773427"
+    },
     {
       "match_id": 773427,
       "bookmaker": "rainbet",
