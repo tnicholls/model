@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-22T08:02:04.093637+00:00",
+  "captured_at": "2026-10-22T08:18:31.376425+00:00",
   "lines": [
     {
       "match_id": 778512,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7264957264957265,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7095343680709534,
       "source": "match:778512"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 3.4,
+      "decimal_odds": 3.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29411764705882354,
-      "implied_prob_fair": 0.2735042735042735,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.29046563192904656,
       "source": "match:778512"
     }
   ]
