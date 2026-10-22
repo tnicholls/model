@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-22T05:50:39.122791+00:00",
+  "captured_at": "2026-10-22T06:07:05.261873+00:00",
   "lines": [
     {
       "match_id": 778510,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Habos Babos",
       "team_tag": "HABO",
-      "decimal_odds": 12.0,
+      "decimal_odds": 11.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.08333333333333333,
-      "implied_prob_fair": 0.0776325903151422,
+      "implied_prob_raw": 0.09090909090909091,
+      "implied_prob_fair": 0.0848585690515807,
       "source": "match:778510"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.01,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9900990099009901,
-      "implied_prob_fair": 0.9223674096848579,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9151414309484193,
       "source": "match:778510"
     }
   ]

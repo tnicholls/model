@@ -7,36 +7,8 @@
   "team2": "Habos Babos",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-22T05:50:47.382268+00:00",
+  "captured_at": "2026-10-22T06:07:13.400727+00:00",
   "lines": [
-    {
-      "match_id": 778511,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52402",
-      "stage": "pre-match",
-      "team": "CGN Esports",
-      "team_tag": "CGN",
-      "decimal_odds": 1.09,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.865265760197775,
-      "source": "match:778511"
-    },
-    {
-      "match_id": 778511,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52402",
-      "stage": "pre-match",
-      "team": "Habos Babos",
-      "team_tag": "HABO",
-      "decimal_odds": 7.0,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.13473423980222496,
-      "source": "match:778511"
-    },
     {
       "match_id": 778511,
       "bookmaker": "rainbet",
