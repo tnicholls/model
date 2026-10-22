@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-22T03:55:33.655915+00:00",
+  "captured_at": "2026-10-22T04:11:56.223085+00:00",
   "lines": [
     {
       "match_id": 777949,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7602339181286549,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7219827586206896,
       "source": "match:777949"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 3.9,
+      "decimal_odds": 3.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25641025641025644,
-      "implied_prob_fair": 0.23976608187134507,
+      "implied_prob_raw": 0.29850746268656714,
+      "implied_prob_fair": 0.27801724137931033,
       "source": "match:777949"
     }
   ]
