@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "VCT China 2026: Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-22T06:23:33.813506+00:00",
+  "captured_at": "2026-10-22T06:39:56.873422+00:00",
   "lines": [
     {
       "match_id": 777949,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7253218884120172,
+      "implied_prob_fair": 0.7264957264957265,
       "source": "match:777949"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 3.38,
+      "decimal_odds": 3.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2958579881656805,
-      "implied_prob_fair": 0.27467811158798283,
+      "implied_prob_raw": 0.29411764705882354,
+      "implied_prob_fair": 0.2735042735042735,
       "source": "match:777949"
     },
     {
