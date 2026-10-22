@@ -7,34 +7,34 @@
   "team2": "Blezz",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-22T09:56:57.275947+00:00",
+  "captured_at": "2026-10-22T10:13:21.733127+00:00",
   "lines": [
     {
       "match_id": 778515,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52399",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 2.04,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45599999999999996,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.40625000000000006,
       "source": "match:778515"
     },
     {
       "match_id": 778515,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52399",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5439999999999999,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.59375,
       "source": "match:778515"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4521276595744681,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4613333333333334,
       "source": "match:778515"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.547872340425532,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5386666666666667,
       "source": "match:778515"
     }
   ]
