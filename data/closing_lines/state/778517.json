@@ -7,8 +7,36 @@
   "team2": "Natus Vincere Junior",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-22T09:40:40.642994+00:00",
+  "captured_at": "2026-10-22T09:57:05.891838+00:00",
   "lines": [
+    {
+      "match_id": 778517,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52407",
+      "stage": "pre-match",
+      "team": "Blezz",
+      "team_tag": "BLEZ",
+      "decimal_odds": 1.61,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.574074074074074,
+      "source": "match:778517"
+    },
+    {
+      "match_id": 778517,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52407",
+      "stage": "pre-match",
+      "team": "Natus Vincere Junior",
+      "team_tag": "NVJ",
+      "decimal_odds": 2.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.42592592592592593,
+      "source": "match:778517"
+    },
     {
       "match_id": 778517,
       "bookmaker": "rainbet",
@@ -16,11 +44,11 @@
       "stage": "pre-match",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.547872340425532,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.5386666666666667,
       "source": "match:778517"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.4521276595744681,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4613333333333334,
       "source": "match:778517"
     }
   ]
