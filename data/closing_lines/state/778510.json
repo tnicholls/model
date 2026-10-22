@@ -7,7 +7,7 @@
   "team2": "Joblife",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-22T06:07:05.261873+00:00",
+  "captured_at": "2026-10-22T06:23:30.659010+00:00",
   "lines": [
     {
       "match_id": 778510,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.06666666666666667,
-      "implied_prob_fair": 0.06542056074766356,
+      "implied_prob_fair": 0.06483790523690773,
       "source": "match:778510"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.05,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9523809523809523,
-      "implied_prob_fair": 0.9345794392523364,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.9351620947630923,
       "source": "match:778510"
     },
     {
