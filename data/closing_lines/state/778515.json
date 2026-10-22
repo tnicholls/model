@@ -7,7 +7,7 @@
   "team2": "Blezz",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-22T07:12:43.522425+00:00",
+  "captured_at": "2026-10-22T07:29:06.940290+00:00",
   "lines": [
     {
       "match_id": 778515,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 2.27,
+      "decimal_odds": 2.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.44052863436123346,
-      "implied_prob_fair": 0.40731070496083555,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.39896373056994816,
       "source": "match:778515"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5926892950391646,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6010362694300517,
       "source": "match:778515"
     },
     {
