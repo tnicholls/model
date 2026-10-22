@@ -2,12 +2,12 @@
   "match_id": 778515,
   "match_url": "/778515/team-george-vs-blezz-project-blender-2026-group-b",
   "date_display": "Thu, October 22, 2026",
-  "time_display": "6:00 AM",
+  "time_display": "5:00 AM",
   "team1": "TEAM GEORGE",
   "team2": "Blezz",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-22T09:24:09.198251+00:00",
+  "captured_at": "2026-10-22T09:40:32.367678+00:00",
   "lines": [
     {
       "match_id": 778515,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.44297082228116713,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.4521276595744681,
       "source": "match:778515"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Blezz",
       "team_tag": "BLEZ",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.557029177718833,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.547872340425532,
       "source": "match:778515"
     }
   ]
