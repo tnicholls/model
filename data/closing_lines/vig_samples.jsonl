@@ -49831,3 +49831,16 @@
 {"bookmaker": "rainbet", "vig": 0.07579603137978763, "sampled_at": "2026-10-22T21:13:35.816994+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "thunderpick", "vig": 0.07545045045045029, "sampled_at": "2026-10-22T21:13:38.943396+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "rainbet", "vig": 0.07553916638730573, "sampled_at": "2026-10-22T21:13:38.943396+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07773901698857033, "sampled_at": "2026-10-22T21:29:31.728559+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.0714285714285714, "sampled_at": "2026-10-22T21:29:31.728559+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.0799324678348956, "sampled_at": "2026-10-22T21:29:33.206592+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06976214862865593, "sampled_at": "2026-10-22T21:29:33.206592+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07718941496523879, "sampled_at": "2026-10-22T21:29:34.816301+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06532935754947133, "sampled_at": "2026-10-22T21:29:34.816301+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06425204663855144, "sampled_at": "2026-10-22T21:29:36.472280+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07604639726938767, "sampled_at": "2026-10-22T21:29:39.512494+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.07579603137978763, "sampled_at": "2026-10-22T21:29:39.512494+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07545045045045029, "sampled_at": "2026-10-22T21:29:42.645633+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.07553916638730573, "sampled_at": "2026-10-22T21:29:42.645633+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.05676567656765674, "sampled_at": "2026-10-22T21:13:26.378149+00:00", "source": "closing"}
+{"bookmaker": "rainbet", "vig": 0.0620689655172415, "sampled_at": "2026-10-22T21:13:26.378149+00:00", "source": "closing"}
