@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group A",
-  "captured_at": "2026-10-22T08:51:12.320242+00:00",
+  "captured_at": "2026-10-22T09:24:04.285056+00:00",
   "lines": [
     {
       "match_id": 778509,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6287878787878788,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7164835164835164,
       "source": "match:778509"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.49,
+      "decimal_odds": 3.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4016064257028112,
-      "implied_prob_fair": 0.37121212121212116,
+      "implied_prob_raw": 0.3067484662576687,
+      "implied_prob_fair": 0.2835164835164835,
       "source": "match:778509"
     }
   ]

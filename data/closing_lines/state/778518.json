@@ -7,7 +7,7 @@
   "team2": "TEAM GEORGE",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Group B",
-  "captured_at": "2026-10-22T09:07:52.806885+00:00",
+  "captured_at": "2026-10-22T09:24:17.288568+00:00",
   "lines": [
     {
       "match_id": 778518,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7677543186180423,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.76171875,
       "source": "match:778518"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "TEAM GEORGE",
       "team_tag": "GEOR",
-      "decimal_odds": 4.0,
+      "decimal_odds": 3.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25,
-      "implied_prob_fair": 0.23224568138195778,
+      "implied_prob_raw": 0.25641025641025644,
+      "implied_prob_fair": 0.23828125000000003,
       "source": "match:778518"
     }
   ]
