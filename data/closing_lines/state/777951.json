@@ -1,0 +1,41 @@
+{
+  "match_id": 777951,
+  "match_url": "/777951/keepbest-gaming-vs-nova-esports-vct-2026-china-threshold-week-1-sf",
+  "date_display": "Sat, October 24, 2026",
+  "time_display": "4:00 AM",
+  "team1": "KeepBest Gaming",
+  "team2": "Nova Esports",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 1\u2013Semifinals",
+  "captured_at": "2026-10-22T20:09:20.626465+00:00",
+  "lines": [
+    {
+      "match_id": 777951,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52429",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 2.96,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31002331002331,
+      "source": "match:777951"
+    },
+    {
+      "match_id": 777951,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52429",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.6899766899766899,
+      "source": "match:777951"
+    }
+  ]
+}

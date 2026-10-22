@@ -7,34 +7,34 @@
   "team2": "Nova Esports GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Round 1",
-  "captured_at": "2026-10-22T19:53:08.021322+00:00",
+  "captured_at": "2026-10-22T20:09:13.004981+00:00",
   "lines": [
     {
       "match_id": 773428,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52303",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7954545454545454,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8830022075055188,
       "source": "match:773428"
     },
     {
       "match_id": 773428,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52303",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Nova Esports GC",
       "team_tag": "NOVA",
-      "decimal_odds": 4.55,
+      "decimal_odds": 8.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21978021978021978,
-      "implied_prob_fair": 0.2045454545454545,
+      "implied_prob_raw": 0.125,
+      "implied_prob_fair": 0.11699779249448126,
       "source": "match:773428"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.8085808580858087,
+      "implied_prob_fair": 0.8116883116883117,
       "source": "match:773428"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nova Esports GC",
       "team_tag": "NOVA",
-      "decimal_odds": 4.9,
+      "decimal_odds": 5.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2040816326530612,
-      "implied_prob_fair": 0.1914191419141914,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.1883116883116883,
       "source": "match:773428"
     }
   ]
