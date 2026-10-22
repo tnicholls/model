@@ -1,0 +1,41 @@
+{
+  "match_id": 769161,
+  "match_url": "/769161/cgn-esports-vs-natus-vincere-junior-project-blender-2026-sf",
+  "date_display": "Fri, October 23, 2026",
+  "time_display": "4:00 AM",
+  "team1": "CGN Esports",
+  "team2": "Natus Vincere Junior",
+  "event_name": "Project Blender 2026",
+  "series": "Phase 2\u2013Semifinals",
+  "captured_at": "2026-10-22T23:06:21.921737+00:00",
+  "lines": [
+    {
+      "match_id": 769161,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52435",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:769161"
+    },
+    {
+      "match_id": 769161,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52435",
+      "stage": "pre-match",
+      "team": "Natus Vincere Junior",
+      "team_tag": "NVJ",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:769161"
+    }
+  ]
+}
