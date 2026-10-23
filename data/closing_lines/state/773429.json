@@ -1,0 +1,41 @@
+{
+  "match_id": 773429,
+  "match_url": "/773429/g2-gozen-vs-mibr-gc-game-changers-2026-championship-s-o-paulo-ubqf",
+  "date_display": "Sat, October 24, 2026",
+  "time_display": "1:00 PM",
+  "team1": "G2 Gozen",
+  "team2": "MIBR GC",
+  "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
+  "series": "Main Event\u2013Upper Quarterfinals",
+  "captured_at": "2026-10-23T01:16:10.490685+00:00",
+  "lines": [
+    {
+      "match_id": 773429,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52437",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5522788203753352,
+      "source": "match:773429"
+    },
+    {
+      "match_id": 773429,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52437",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 2.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.44772117962466484,
+      "source": "match:773429"
+    }
+  ]
+}

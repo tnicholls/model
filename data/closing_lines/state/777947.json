@@ -7,7 +7,7 @@
   "team2": "Dragon Ranger Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-23T00:59:46.227981+00:00",
+  "captured_at": "2026-10-23T01:15:57.604164+00:00",
   "lines": [
     {
       "match_id": 777947,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5148247978436657,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:777947"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.91,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.4851752021563342,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5,
       "source": "match:777947"
     },
     {
