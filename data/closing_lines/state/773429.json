@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-23T22:23:50.996742+00:00",
+  "captured_at": "2026-10-23T22:39:54.420878+00:00",
   "lines": [
     {
       "match_id": 773429,
@@ -27,6 +27,34 @@
       "match_id": 773429,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52436",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 2.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4391534391534391,
+      "source": "match:773429"
+    },
+    {
+      "match_id": 773429,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52437",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5608465608465608,
+      "source": "match:773429"
+    },
+    {
+      "match_id": 773429,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52437",
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
