@@ -7,36 +7,8 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Semifinals",
-  "captured_at": "2026-10-23T12:58:07.862133+00:00",
+  "captured_at": "2026-10-23T13:14:15.995101+00:00",
   "lines": [
-    {
-      "match_id": 777951,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52429",
-      "stage": "pre-match",
-      "team": "KeepBest Gaming",
-      "team_tag": "KBG",
-      "decimal_odds": 2.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.35714285714285715,
-      "implied_prob_fair": 0.3301435406698564,
-      "source": "match:777951"
-    },
-    {
-      "match_id": 777951,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52429",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.38,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6698564593301435,
-      "source": "match:777951"
-    },
     {
       "match_id": 777951,
       "bookmaker": "rainbet",
