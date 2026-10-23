@@ -7,7 +7,7 @@
   "team2": "Gen.G GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-23T20:41:36.596769+00:00",
+  "captured_at": "2026-10-23T20:57:39.503957+00:00",
   "lines": [
     {
       "match_id": 773432,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.62,
+      "decimal_odds": 2.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5748031496062992,
+      "implied_prob_raw": 0.42372881355932207,
+      "implied_prob_fair": 0.3948717948717949,
       "source": "match:773432"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Gen.G GC",
       "team_tag": "GEN.",
-      "decimal_odds": 2.19,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.4251968503937008,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6051282051282051,
       "source": "match:773432"
     },
     {
