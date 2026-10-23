@@ -2,12 +2,12 @@
   "match_id": 769162,
   "match_url": "/769162/eternal-fire-vs-eintracht-frankfurt-project-blender-2026-sf",
   "date_display": "Fri, October 23, 2026",
-  "time_display": "6:00 AM",
+  "time_display": "6:45 AM",
   "team1": "Eternal Fire",
   "team2": "Eintracht Frankfurt",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Semifinals",
-  "captured_at": "2026-10-23T10:48:53.949320+00:00",
+  "captured_at": "2026-10-23T11:05:05.275783+00:00",
   "lines": [
     {
       "match_id": 769162,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5853018372703411,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6082474226804124,
       "source": "match:769162"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 2.23,
+      "decimal_odds": 2.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4484304932735426,
-      "implied_prob_fair": 0.4146981627296588,
+      "implied_prob_raw": 0.42372881355932207,
+      "implied_prob_fair": 0.3917525773195877,
       "source": "match:769162"
     }
   ]
