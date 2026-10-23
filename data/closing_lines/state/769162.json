@@ -7,7 +7,7 @@
   "team2": "Eintracht Frankfurt",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Semifinals",
-  "captured_at": "2026-10-23T13:30:18.882310+00:00",
+  "captured_at": "2026-10-23T14:02:35.844717+00:00",
   "lines": [
     {
       "match_id": 769162,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7771535580524345,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.795774647887324,
       "source": "match:769162"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 4.15,
+      "decimal_odds": 4.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24096385542168672,
-      "implied_prob_fair": 0.2228464419475655,
+      "implied_prob_raw": 0.22123893805309736,
+      "implied_prob_fair": 0.20422535211267606,
       "source": "match:769162"
     }
   ]
