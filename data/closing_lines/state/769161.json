@@ -7,7 +7,7 @@
   "team2": "Natus Vincere Junior",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Semifinals",
-  "captured_at": "2026-10-23T06:36:23.642441+00:00",
+  "captured_at": "2026-10-23T08:55:37.272716+00:00",
   "lines": [
     {
       "match_id": 769161,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6269035532994924,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6568627450980392,
       "source": "match:769161"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.3730964467005076,
+      "implied_prob_raw": 0.3731343283582089,
+      "implied_prob_fair": 0.34313725490196073,
       "source": "match:769161"
     }
   ]
