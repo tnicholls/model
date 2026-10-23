@@ -7,34 +7,34 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-23T17:15:46.902652+00:00",
+  "captured_at": "2026-10-23T18:56:07.911161+00:00",
   "lines": [
     {
       "match_id": 773430,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52304",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6561743341404359,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6246851385390428,
       "source": "match:773430"
     },
     {
       "match_id": 773430,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52304",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.71,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36900369003690037,
-      "implied_prob_fair": 0.34382566585956414,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.3753148614609572,
       "source": "match:773430"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.6521739130434782,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.668235294117647,
       "source": "match:773430"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.7,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3478260869565217,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.33176470588235296,
       "source": "match:773430"
     }
   ]
