@@ -7,7 +7,7 @@
   "team2": "Dragon Ranger Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Semifinals",
-  "captured_at": "2026-10-23T22:07:42.414190+00:00",
+  "captured_at": "2026-10-23T22:23:46.259945+00:00",
   "lines": [
     {
       "match_id": 777950,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6289308176100629,
       "implied_prob_fair": 0.5760000000000001,
+      "source": "match:777950"
+    },
+    {
+      "match_id": 777950,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52450",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 2.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.4244031830238727,
+      "source": "match:777950"
+    },
+    {
+      "match_id": 777950,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52450",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5755968169761273,
       "source": "match:777950"
     },
     {
