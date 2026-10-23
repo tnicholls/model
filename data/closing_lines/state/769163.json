@@ -1,0 +1,41 @@
+{
+  "match_id": 769163,
+  "match_url": "/769163/cgn-esports-vs-eintracht-frankfurt-project-blender-2026-gf",
+  "date_display": "Sat, October 24, 2026",
+  "time_display": "8:00 AM",
+  "team1": "CGN Esports",
+  "team2": "Eintracht Frankfurt",
+  "event_name": "Project Blender 2026",
+  "series": "Phase 2\u2013Grand Final",
+  "captured_at": "2026-10-23T17:15:54.756324+00:00",
+  "lines": [
+    {
+      "match_id": 769163,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52455",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 2.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.3958333333333333,
+      "source": "match:769163"
+    },
+    {
+      "match_id": 769163,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52455",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6041666666666666,
+      "source": "match:769163"
+    }
+  ]
+}
