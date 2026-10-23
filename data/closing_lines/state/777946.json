@@ -7,36 +7,8 @@
   "team2": "Unsettled Resentment",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Quarterfinals",
-  "captured_at": "2026-10-23T03:41:35.928398+00:00",
+  "captured_at": "2026-10-23T03:57:47.112921+00:00",
   "lines": [
-    {
-      "match_id": 777946,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52370",
-      "stage": "pre-match",
-      "team": "Titan Esports Club",
-      "team_tag": "TEC",
-      "decimal_odds": 1.63,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5687830687830688,
-      "source": "match:777946"
-    },
-    {
-      "match_id": 777946,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52370",
-      "stage": "pre-match",
-      "team": "Unsettled Resentment",
-      "team_tag": "UR",
-      "decimal_odds": 2.15,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4312169312169312,
-      "source": "match:777946"
-    },
     {
       "match_id": 777946,
       "bookmaker": "rainbet",
