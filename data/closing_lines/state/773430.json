@@ -7,8 +7,36 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-23T02:20:45.086245+00:00",
+  "captured_at": "2026-10-23T02:36:56.154500+00:00",
   "lines": [
+    {
+      "match_id": 773430,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52304",
+      "stage": "pre-match",
+      "team": "Team Liquid Brazil",
+      "team_tag": "TLV",
+      "decimal_odds": 1.51,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6147959183673469,
+      "source": "match:773430"
+    },
+    {
+      "match_id": 773430,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52304",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 2.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.38520408163265296,
+      "source": "match:773430"
+    },
     {
       "match_id": 773430,
       "bookmaker": "rainbet",
