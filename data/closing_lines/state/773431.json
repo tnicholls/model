@@ -7,8 +7,36 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Quarterfinals",
-  "captured_at": "2026-10-23T12:09:52.564635+00:00",
+  "captured_at": "2026-10-23T12:26:00.899844+00:00",
   "lines": [
+    {
+      "match_id": 773431,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52439",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5767195767195767,
+      "source": "match:773431"
+    },
+    {
+      "match_id": 773431,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52439",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 2.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4232804232804233,
+      "source": "match:773431"
+    },
     {
       "match_id": 773431,
       "bookmaker": "rainbet",
