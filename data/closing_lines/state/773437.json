@@ -2,13 +2,41 @@
   "match_id": 773437,
   "match_url": "/773437/team-liquid-brazil-vs-nova-esports-gc-game-changers-2026-championship-s-o-paulo-lr1",
   "date_display": "Sun, October 25, 2026",
-  "time_display": "9:00 PM",
+  "time_display": "11:00 PM",
   "team1": "Team Liquid Brazil",
   "team2": "Nova Esports GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 1",
-  "captured_at": "2026-10-24T23:24:42.657078+00:00",
+  "captured_at": "2026-10-24T23:40:32.579322+00:00",
   "lines": [
+    {
+      "match_id": 773437,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52458",
+      "stage": "pre-match",
+      "team": "Team Liquid Brazil",
+      "team_tag": "TLV",
+      "decimal_odds": 1.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8721624850657109,
+      "source": "match:773437"
+    },
+    {
+      "match_id": 773437,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52458",
+      "stage": "pre-match",
+      "team": "Nova Esports GC",
+      "team_tag": "NOVA",
+      "decimal_odds": 7.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.136986301369863,
+      "implied_prob_fair": 0.12783751493428913,
+      "source": "match:773437"
+    },
     {
       "match_id": 773437,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.13157894736842105,
       "implied_prob_fair": 0.1234140715109573,
-      "source": "match:773437"
-    },
-    {
-      "match_id": 773437,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52460",
-      "stage": "pre-match",
-      "team": "Team Liquid Brazil",
-      "team_tag": "TLV",
-      "decimal_odds": 1.06,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8684863523573201,
-      "source": "match:773437"
-    },
-    {
-      "match_id": 773437,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52460",
-      "stage": "pre-match",
-      "team": "Nova Esports GC",
-      "team_tag": "NOVA",
-      "decimal_odds": 7.0,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.1315136476426799,
       "source": "match:773437"
     }
   ]
