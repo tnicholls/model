@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Main Event\u2013Semifinals",
-  "captured_at": "2026-10-24T02:24:38.828480+00:00",
+  "captured_at": "2026-10-24T02:40:42.662400+00:00",
   "lines": [
     {
       "match_id": 772431,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.5235602094240838,
       "implied_prob_fair": 0.4865591397849462,
-      "source": "match:772431"
-    },
-    {
-      "match_id": 772431,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52288",
-      "stage": "pre-match",
-      "team": "FUT Esports",
-      "team_tag": "FUT",
-      "decimal_odds": 1.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.517426273458445,
-      "source": "match:772431"
-    },
-    {
-      "match_id": 772431,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52288",
-      "stage": "pre-match",
-      "team": "Fire Flux Esports",
-      "team_tag": "FF",
-      "decimal_odds": 1.93,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.482573726541555,
       "source": "match:772431"
     },
     {
