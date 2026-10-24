@@ -7,7 +7,7 @@
   "team2": "Dragon Ranger Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Semifinals",
-  "captured_at": "2026-10-24T04:49:15.611208+00:00",
+  "captured_at": "2026-10-24T05:05:19.522260+00:00",
   "lines": [
     {
       "match_id": 777950,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 2.19,
+      "decimal_odds": 2.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.42063492063492064,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.41578947368421054,
       "source": "match:777950"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5793650793650793,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5842105263157895,
       "source": "match:777950"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 2.25,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.4109947643979057,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.40364583333333337,
       "source": "match:777950"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5890052356020942,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5963541666666666,
       "source": "match:777950"
     },
     {
