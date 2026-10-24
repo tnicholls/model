@@ -7,7 +7,7 @@
   "team2": "BBL Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Main Event\u2013Semifinals",
-  "captured_at": "2026-10-24T01:36:31.410768+00:00",
+  "captured_at": "2026-10-24T01:52:35.463067+00:00",
   "lines": [
     {
       "match_id": 772432,
@@ -27,34 +27,6 @@
       "match_id": 772432,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52284",
-      "stage": "pre-match",
-      "team": "BBL Esports",
-      "team_tag": "BBL",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5811518324607331,
-      "source": "match:772432"
-    },
-    {
-      "match_id": 772432,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52289",
-      "stage": "pre-match",
-      "team": "GIANTX",
-      "team_tag": "GX",
-      "decimal_odds": 2.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.418848167539267,
-      "source": "match:772432"
-    },
-    {
-      "match_id": 772432,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52289",
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
