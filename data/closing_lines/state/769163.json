@@ -2,41 +2,13 @@
   "match_id": 769163,
   "match_url": "/769163/cgn-esports-vs-eintracht-frankfurt-project-blender-2026-gf",
   "date_display": "Sat, October 24, 2026",
-  "time_display": "4:00 PM",
+  "time_display": "2:00 PM",
   "team1": "CGN Esports",
   "team2": "Eintracht Frankfurt",
   "event_name": "Project Blender 2026",
   "series": "Phase 2\u2013Grand Final",
-  "captured_at": "2026-10-24T06:14:28.107867+00:00",
+  "captured_at": "2026-10-24T06:30:29.183695+00:00",
   "lines": [
-    {
-      "match_id": 769163,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52454",
-      "stage": "pre-match",
-      "team": "CGN Esports",
-      "team_tag": "CGN",
-      "decimal_odds": 1.99,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.46216216216216216,
-      "source": "match:769163"
-    },
-    {
-      "match_id": 769163,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52454",
-      "stage": "pre-match",
-      "team": "Eintracht Frankfurt",
-      "team_tag": "SGE",
-      "decimal_odds": 1.71,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5378378378378379,
-      "source": "match:769163"
-    },
     {
       "match_id": 769163,
       "bookmaker": "thunderpick",
@@ -63,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5434782608695652,
       "implied_prob_fair": 0.5040431266846361,
+      "source": "match:769163"
+    },
+    {
+      "match_id": 769163,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52457",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 2.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.450402144772118,
+      "source": "match:769163"
+    },
+    {
+      "match_id": 769163,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52457",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 1.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.549597855227882,
       "source": "match:769163"
     }
   ]

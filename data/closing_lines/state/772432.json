@@ -2,41 +2,13 @@
   "match_id": 772432,
   "match_url": "/772432/giantx-vs-bbl-esports-monsters-reloaded-2026-main-event-sf",
   "date_display": "Sat, October 24, 2026",
-  "time_display": "4:30 PM",
+  "time_display": "2:30 PM",
   "team1": "GIANTX",
   "team2": "BBL Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Main Event\u2013Semifinals",
-  "captured_at": "2026-10-24T06:14:29.594105+00:00",
+  "captured_at": "2026-10-24T06:30:30.759305+00:00",
   "lines": [
-    {
-      "match_id": 772432,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52284",
-      "stage": "pre-match",
-      "team": "GIANTX",
-      "team_tag": "GX",
-      "decimal_odds": 2.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4504504504504504,
-      "implied_prob_fair": 0.418848167539267,
-      "source": "match:772432"
-    },
-    {
-      "match_id": 772432,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52284",
-      "stage": "pre-match",
-      "team": "BBL Esports",
-      "team_tag": "BBL",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5811518324607331,
-      "source": "match:772432"
-    },
     {
       "match_id": 772432,
       "bookmaker": "thunderpick",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.6369426751592356,
       "implied_prob_fair": 0.5922077922077923,
+      "source": "match:772432"
+    },
+    {
+      "match_id": 772432,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52287",
+      "stage": "pre-match",
+      "team": "GIANTX",
+      "team_tag": "GX",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.423076923076923,
+      "source": "match:772432"
+    },
+    {
+      "match_id": 772432,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52287",
+      "stage": "pre-match",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5769230769230769,
       "source": "match:772432"
     }
   ]
