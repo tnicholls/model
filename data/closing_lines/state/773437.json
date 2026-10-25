@@ -7,7 +7,7 @@
   "team2": "Nova Esports GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 1",
-  "captured_at": "2026-10-25T09:32:15.095191+00:00",
+  "captured_at": "2026-10-25T09:48:07.624085+00:00",
   "lines": [
     {
       "match_id": 773437,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8721624850657109,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8900523560209423,
       "source": "match:773437"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports GC",
       "team_tag": "NOVA",
-      "decimal_odds": 7.3,
+      "decimal_odds": 8.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.136986301369863,
-      "implied_prob_fair": 0.12783751493428913,
+      "implied_prob_raw": 0.11764705882352941,
+      "implied_prob_fair": 0.1099476439790576,
       "source": "match:773437"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8732057416267942,
+      "implied_prob_raw": 0.9615384615384615,
+      "implied_prob_fair": 0.8909853249475891,
       "source": "match:773437"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nova Esports GC",
       "team_tag": "NOVA",
-      "decimal_odds": 7.3,
+      "decimal_odds": 8.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.136986301369863,
-      "implied_prob_fair": 0.12679425837320574,
+      "implied_prob_raw": 0.11764705882352941,
+      "implied_prob_fair": 0.1090146750524109,
       "source": "match:773437"
     },
     {
