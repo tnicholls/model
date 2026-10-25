@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Grand Final",
-  "captured_at": "2026-10-25T03:11:08.415341+00:00",
+  "captured_at": "2026-10-25T03:27:01.028322+00:00",
   "lines": [
     {
       "match_id": 777952,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 2.36,
+      "decimal_odds": 2.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.39641943734015345,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.4,
       "source": "match:777952"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6035805626598465,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.6,
       "source": "match:777952"
     }
   ]
