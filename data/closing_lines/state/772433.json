@@ -7,7 +7,7 @@
   "team2": "BBL Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-10-25T10:35:42.925128+00:00",
+  "captured_at": "2026-10-25T10:51:35.568073+00:00",
   "lines": [
     {
       "match_id": 772433,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.61,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5785340314136125,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5896103896103896,
       "source": "match:772433"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 2.21,
+      "decimal_odds": 2.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45248868778280543,
-      "implied_prob_fair": 0.4214659685863874,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4103896103896104,
       "source": "match:772433"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5922077922077923,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5859374999999999,
       "source": "match:772433"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.4077922077922079,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.41406249999999994,
       "source": "match:772433"
     },
     {

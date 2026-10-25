@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Grand Final",
-  "captured_at": "2026-10-25T10:35:41.268295+00:00",
+  "captured_at": "2026-10-25T10:51:33.950502+00:00",
   "lines": [
     {
       "match_id": 777952,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8450704225352113,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.8525033829499323,
       "source": "match:777952"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 6.0,
+      "decimal_odds": 6.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16666666666666666,
-      "implied_prob_fair": 0.15492957746478872,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.14749661705006767,
       "source": "match:777952"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8370044052863437,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.8525033829499323,
       "source": "match:777952"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 5.7,
+      "decimal_odds": 6.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17543859649122806,
-      "implied_prob_fair": 0.1629955947136564,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.14749661705006767,
       "source": "match:777952"
     },
     {
