@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Semifinals",
-  "captured_at": "2026-10-25T08:28:51.136830+00:00",
+  "captured_at": "2026-10-25T08:44:43.533894+00:00",
   "lines": [
     {
       "match_id": 773433,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5427807486631016,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5401069518716577,
       "source": "match:773433"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.45721925133689845,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4598930481283422,
       "source": "match:773433"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.546916890080429,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.543010752688172,
       "source": "match:773433"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.04,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45308310991957107,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4569892473118279,
       "source": "match:773433"
     },
     {
