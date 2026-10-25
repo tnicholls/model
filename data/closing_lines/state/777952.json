@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Grand Final",
-  "captured_at": "2026-10-25T04:46:22.974240+00:00",
+  "captured_at": "2026-10-25T05:02:15.698111+00:00",
   "lines": [
     {
       "match_id": 777952,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 2.31,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4329004329004329,
-      "implied_prob_fair": 0.40310077519379844,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.41406249999999994,
       "source": "match:777952"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5968992248062015,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5859374999999999,
       "source": "match:777952"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.4077922077922079,
+      "implied_prob_raw": 0.4484304932735426,
+      "implied_prob_fair": 0.41775456919060056,
       "source": "match:777952"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5922077922077923,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5822454308093995,
       "source": "match:777952"
     },
     {
