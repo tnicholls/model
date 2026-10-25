@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Grand Final",
-  "captured_at": "2026-10-25T04:30:30.699377+00:00",
+  "captured_at": "2026-10-25T04:46:22.974240+00:00",
   "lines": [
     {
       "match_id": 777952,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.39845758354755784,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.40310077519379844,
       "source": "match:777952"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6015424164524421,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5968992248062015,
       "source": "match:777952"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4005167958656331,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4077922077922079,
       "source": "match:777952"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.599483204134367,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5922077922077923,
       "source": "match:777952"
     },
     {
