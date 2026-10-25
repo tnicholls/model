@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 1\u2013Grand Final",
-  "captured_at": "2026-10-25T05:49:52.571437+00:00",
+  "captured_at": "2026-10-25T06:05:45.045196+00:00",
   "lines": [
     {
       "match_id": 777952,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Dragon Ranger Gaming",
       "team_tag": "DRG",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4444444444444444,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.449468085106383,
       "source": "match:777952"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5555555555555556,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.550531914893617,
+      "source": "match:777952"
+    },
+    {
+      "match_id": 777952,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52470",
+      "stage": "pre-match",
+      "team": "Dragon Ranger Gaming",
+      "team_tag": "DRG",
+      "decimal_odds": 2.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4694835680751174,
+      "implied_prob_fair": 0.4379947229551451,
+      "source": "match:777952"
+    },
+    {
+      "match_id": 777952,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52470",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5620052770448549,
       "source": "match:777952"
     },
     {
