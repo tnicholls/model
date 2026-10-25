@@ -7,7 +7,7 @@
   "team2": "BBL Esports",
   "event_name": "Monsters Reloaded 2026",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-10-25T10:19:50.619050+00:00",
+  "captured_at": "2026-10-25T10:35:42.925128+00:00",
   "lines": [
     {
       "match_id": 772433,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6610576923076923,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.5785340314136125,
       "source": "match:772433"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "BBL Esports",
       "team_tag": "BBL",
-      "decimal_odds": 2.75,
+      "decimal_odds": 2.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36363636363636365,
-      "implied_prob_fair": 0.3389423076923077,
+      "implied_prob_raw": 0.45248868778280543,
+      "implied_prob_fair": 0.4214659685863874,
+      "source": "match:772433"
+    },
+    {
+      "match_id": 772433,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52474",
+      "stage": "pre-match",
+      "team": "Fire Flux Esports",
+      "team_tag": "FF",
+      "decimal_odds": 1.57,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5922077922077923,
+      "source": "match:772433"
+    },
+    {
+      "match_id": 772433,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52474",
+      "stage": "pre-match",
+      "team": "BBL Esports",
+      "team_tag": "BBL",
+      "decimal_odds": 2.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4077922077922079,
       "source": "match:772433"
     },
     {
