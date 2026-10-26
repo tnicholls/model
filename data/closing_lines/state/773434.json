@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Semifinals",
-  "captured_at": "2026-10-26T13:53:02.139953+00:00",
+  "captured_at": "2026-10-26T16:48:03.906592+00:00",
   "lines": [
     {
       "match_id": 773434,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6926605504587157,
+      "implied_prob_fair": 0.6933638443935927,
       "source": "match:773434"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 3.02,
+      "decimal_odds": 3.03,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33112582781456956,
-      "implied_prob_fair": 0.30733944954128445,
+      "implied_prob_raw": 0.33003300330033003,
+      "implied_prob_fair": 0.30663615560640733,
       "source": "match:773434"
     },
     {
