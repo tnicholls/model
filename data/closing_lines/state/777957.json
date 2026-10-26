@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T06:02:00.593470+00:00",
+  "captured_at": "2026-10-26T08:14:18.270032+00:00",
   "lines": [
     {
       "match_id": 777957,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5786666666666666,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.5973684210526315,
       "source": "match:777957"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.17,
+      "decimal_odds": 2.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4608294930875576,
-      "implied_prob_fair": 0.42133333333333334,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4026315789473684,
       "source": "match:777957"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5561497326203209,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5767195767195767,
       "source": "match:777957"
     },
     {
@@ -58,11 +58,39 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4438502673796791,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4232804232804233,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52508",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6015424164524421,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52508",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.39845758354755784,
       "source": "match:777957"
     }
   ]

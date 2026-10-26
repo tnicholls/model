@@ -7,7 +7,7 @@
   "team2": "Octagonal Disposition Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T06:02:05.270674+00:00",
+  "captured_at": "2026-10-26T08:14:23.171376+00:00",
   "lines": [
     {
       "match_id": 777958,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5748663101604278,
+      "implied_prob_fair": 0.577127659574468,
       "source": "match:777958"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Octagonal Disposition Gaming",
       "team_tag": "ODG",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.42513368983957217,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.4228723404255319,
+      "source": "match:777958"
+    },
+    {
+      "match_id": 777958,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52511",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5833333333333334,
+      "source": "match:777958"
+    },
+    {
+      "match_id": 777958,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52511",
+      "stage": "pre-match",
+      "team": "Octagonal Disposition Gaming",
+      "team_tag": "ODG",
+      "decimal_odds": 2.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41666666666666663,
       "source": "match:777958"
     }
   ]
