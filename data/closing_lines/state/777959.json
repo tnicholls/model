@@ -2,13 +2,41 @@
   "match_id": 777959,
   "match_url": "/777959/any-questions-gaming-vs-rare-atom-vct-2026-china-threshold-week-2-ro12",
   "date_display": "Wed, October 28, 2026",
-  "time_display": "11:00 AM",
+  "time_display": "1:00 PM",
   "team1": "Any Questions Gaming",
   "team2": "Rare Atom",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T23:35:04.813974+00:00",
+  "captured_at": "2026-10-26T23:50:45.431214+00:00",
   "lines": [
+    {
+      "match_id": 777959,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52501",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.656019656019656,
+      "source": "match:777959"
+    },
+    {
+      "match_id": 777959,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52501",
+      "stage": "pre-match",
+      "team": "Rare Atom",
+      "team_tag": "RA",
+      "decimal_odds": 2.67,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37453183520599254,
+      "implied_prob_fair": 0.34398034398034394,
+      "source": "match:777959"
+    },
     {
       "match_id": 777959,
       "bookmaker": "thunderpick",
@@ -63,34 +91,6 @@
       "payout": null,
       "implied_prob_raw": 0.3546099290780142,
       "implied_prob_fair": 0.3317535545023697,
-      "source": "match:777959"
-    },
-    {
-      "match_id": 777959,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52510",
-      "stage": "pre-match",
-      "team": "Any Questions Gaming",
-      "team_tag": "AQ",
-      "decimal_odds": 1.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6585365853658537,
-      "source": "match:777959"
-    },
-    {
-      "match_id": 777959,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52510",
-      "stage": "pre-match",
-      "team": "Rare Atom",
-      "team_tag": "RA",
-      "decimal_odds": 2.7,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3414634146341463,
       "source": "match:777959"
     }
   ]

@@ -2,13 +2,41 @@
   "match_id": 777958,
   "match_url": "/777958/a-team-vs-octagonal-disposition-gaming-vct-2026-china-threshold-week-2-ro12",
   "date_display": "Wed, October 28, 2026",
-  "time_display": "9:00 AM",
+  "time_display": "11:00 AM",
   "team1": "A Team",
   "team2": "Octagonal Disposition Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T23:35:03.260698+00:00",
+  "captured_at": "2026-10-26T23:50:43.918571+00:00",
   "lines": [
+    {
+      "match_id": 777958,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52498",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.577127659574468,
+      "source": "match:777958"
+    },
+    {
+      "match_id": 777958,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52498",
+      "stage": "pre-match",
+      "team": "Octagonal Disposition Gaming",
+      "team_tag": "ODG",
+      "decimal_odds": 2.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.4228723404255319,
+      "source": "match:777958"
+    },
     {
       "match_id": 777958,
       "bookmaker": "rainbet",
@@ -35,34 +63,6 @@
       "payout": null,
       "implied_prob_raw": 0.4464285714285714,
       "implied_prob_fair": 0.41666666666666663,
-      "source": "match:777958"
-    },
-    {
-      "match_id": 777958,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52509",
-      "stage": "pre-match",
-      "team": "A Team",
-      "team_tag": "AT",
-      "decimal_odds": 1.62,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5702917771883289,
-      "source": "match:777958"
-    },
-    {
-      "match_id": 777958,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52509",
-      "stage": "pre-match",
-      "team": "Octagonal Disposition Gaming",
-      "team_tag": "ODG",
-      "decimal_odds": 2.15,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.4297082228116711,
       "source": "match:777958"
     }
   ]
