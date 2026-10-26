@@ -7,7 +7,7 @@
   "team2": "FENNEL GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-10-26T04:10:24.364204+00:00",
+  "captured_at": "2026-10-26T04:26:08.399319+00:00",
   "lines": [
     {
       "match_id": 773440,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.63,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6177215189873417,
       "source": "match:773440"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FENNEL GC",
       "team_tag": "FLGC",
-      "decimal_odds": 2.52,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.37,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.3822784810126582,
       "source": "match:773440"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.631578947368421,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6208651399491093,
       "source": "match:773440"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FENNEL GC",
       "team_tag": "FLGC",
-      "decimal_odds": 2.52,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.3684210526315789,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.37913486005089053,
       "source": "match:773440"
     },
     {
