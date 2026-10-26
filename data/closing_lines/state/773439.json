@@ -7,7 +7,7 @@
   "team2": "Team Liquid Brazil",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-10-26T01:37:52.787987+00:00",
+  "captured_at": "2026-10-26T01:53:38.364329+00:00",
   "lines": [
     {
       "match_id": 773439,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.82,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5081081081081081,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5054054054054055,
       "source": "match:773439"
     },
     {
@@ -58,11 +58,39 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
+      "decimal_odds": 1.87,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.4945945945945946,
+      "source": "match:773439"
+    },
+    {
+      "match_id": 773439,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52503",
+      "stage": "pre-match",
+      "team": "G2 Gozen",
+      "team_tag": "G2G",
       "decimal_odds": 1.88,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.491891891891892,
+      "implied_prob_fair": 0.5,
+      "source": "match:773439"
+    },
+    {
+      "match_id": 773439,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52503",
+      "stage": "pre-match",
+      "team": "Team Liquid Brazil",
+      "team_tag": "TLV",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.5,
       "source": "match:773439"
     }
   ]
