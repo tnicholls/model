@@ -7,7 +7,7 @@
   "team2": "FENNEL GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-10-26T02:20:16.278103+00:00",
+  "captured_at": "2026-10-26T02:36:00.120873+00:00",
   "lines": [
     {
       "match_id": 773440,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.4016064257028112,
       "implied_prob_fair": 0.37437185929648237,
-      "source": "match:773440"
-    },
-    {
-      "match_id": 773440,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52488",
-      "stage": "pre-match",
-      "team": "SK Nebula",
-      "team_tag": "SKN",
-      "decimal_odds": 1.48,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6262626262626262,
-      "source": "match:773440"
-    },
-    {
-      "match_id": 773440,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52488",
-      "stage": "pre-match",
-      "team": "FENNEL GC",
-      "team_tag": "FLGC",
-      "decimal_odds": 2.48,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.40322580645161293,
-      "implied_prob_fair": 0.37373737373737376,
       "source": "match:773440"
     },
     {
