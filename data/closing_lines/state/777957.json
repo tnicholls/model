@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T03:07:33.314329+00:00",
+  "captured_at": "2026-10-26T03:23:17.220439+00:00",
   "lines": [
     {
       "match_id": 777957,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5748663101604278,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5786666666666666,
       "source": "match:777957"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.42513368983957217,
+      "implied_prob_raw": 0.4608294930875576,
+      "implied_prob_fair": 0.42133333333333334,
       "source": "match:777957"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Wolves Esports",
       "team_tag": "WOL",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5522788203753352,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5561497326203209,
       "source": "match:777957"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.06,
+      "decimal_odds": 2.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4854368932038835,
-      "implied_prob_fair": 0.44772117962466484,
+      "implied_prob_raw": 0.4807692307692307,
+      "implied_prob_fair": 0.4438502673796791,
       "source": "match:777957"
     }
   ]
