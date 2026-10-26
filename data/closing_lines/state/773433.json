@@ -7,7 +7,7 @@
   "team2": "Gentle Mates GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Semifinals",
-  "captured_at": "2026-10-26T19:25:25.196743+00:00",
+  "captured_at": "2026-10-26T19:41:51.408154+00:00",
   "lines": [
     {
       "match_id": 773433,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.49019607843137253,
       "implied_prob_fair": 0.45599999999999996,
+      "source": "match:773433"
+    },
+    {
+      "match_id": 773433,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52479",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5466666666666666,
+      "source": "match:773433"
+    },
+    {
+      "match_id": 773433,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52479",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 2.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.4533333333333333,
       "source": "match:773433"
     },
     {
