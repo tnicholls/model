@@ -7,7 +7,7 @@
   "team2": "Team Liquid Brazil",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-10-26T05:13:22.591568+00:00",
+  "captured_at": "2026-10-26T05:46:13.579431+00:00",
   "lines": [
     {
       "match_id": 773439,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5080645161290323,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5053763440860215,
       "source": "match:773439"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.89,
+      "decimal_odds": 1.88,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5291005291005292,
-      "implied_prob_fair": 0.49193548387096786,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.4946236559139785,
       "source": "match:773439"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "G2 Gozen",
       "team_tag": "G2G",
-      "decimal_odds": 1.84,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5434782608695652,
-      "implied_prob_fair": 0.5040431266846361,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.4986522911051214,
       "source": "match:773439"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.87,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.53475935828877,
-      "implied_prob_fair": 0.49595687331536387,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5013477088948788,
       "source": "match:773439"
     },
     {
