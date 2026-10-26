@@ -7,7 +7,7 @@
   "team2": "Team Liquid Brazil",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 2",
-  "captured_at": "2026-10-26T18:37:38.399734+00:00",
+  "captured_at": "2026-10-26T18:53:24.299423+00:00",
   "lines": [
     {
       "match_id": 773439,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.5434782608695652,
       "implied_prob_fair": 0.5053763440860215,
-      "source": "match:773439"
-    },
-    {
-      "match_id": 773439,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52491",
-      "stage": "pre-match",
-      "team": "G2 Gozen",
-      "team_tag": "G2G",
-      "decimal_odds": 1.93,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.482573726541555,
-      "source": "match:773439"
-    },
-    {
-      "match_id": 773439,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52491",
-      "stage": "pre-match",
-      "team": "Team Liquid Brazil",
-      "team_tag": "TLV",
-      "decimal_odds": 1.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.517426273458445,
       "source": "match:773439"
     },
     {
