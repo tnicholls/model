@@ -7,7 +7,7 @@
   "team2": "Victory No Limits Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T05:46:15.142845+00:00",
+  "captured_at": "2026-10-26T06:01:59.027027+00:00",
   "lines": [
     {
       "match_id": 777956,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.3861003861003861,
       "implied_prob_fair": 0.3541147132169576,
-      "source": "match:777956"
-    },
-    {
-      "match_id": 777956,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52499",
-      "stage": "pre-match",
-      "team": "Unsettled Resentment",
-      "team_tag": "UR",
-      "decimal_odds": 1.43,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6460396039603962,
-      "source": "match:777956"
-    },
-    {
-      "match_id": 777956,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52499",
-      "stage": "pre-match",
-      "team": "Victory No Limits Gaming",
-      "team_tag": "VLG",
-      "decimal_odds": 2.61,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.353960396039604,
       "source": "match:777956"
     }
   ]
