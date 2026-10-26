@@ -1,0 +1,41 @@
+{
+  "match_id": 777958,
+  "match_url": "/777958/a-team-vs-octagonal-disposition-gaming-vct-2026-china-threshold-week-2-ro12",
+  "date_display": "Wed, October 28, 2026",
+  "time_display": "11:00 AM",
+  "team1": "A Team",
+  "team2": "Octagonal Disposition Gaming",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 2\u2013Round of 12",
+  "captured_at": "2026-10-26T01:22:15.595831+00:00",
+  "lines": [
+    {
+      "match_id": 777958,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52498",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5748663101604278,
+      "source": "match:777958"
+    },
+    {
+      "match_id": 777958,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52498",
+      "stage": "pre-match",
+      "team": "Octagonal Disposition Gaming",
+      "team_tag": "ODG",
+      "decimal_odds": 2.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.42513368983957217,
+      "source": "match:777958"
+    }
+  ]
+}

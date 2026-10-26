@@ -1,0 +1,69 @@
+{
+  "match_id": 777957,
+  "match_url": "/777957/wolves-esports-vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-ro12",
+  "date_display": "Tue, October 27, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Wolves Esports",
+  "team2": "World Sports Invictus Gaming",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 2\u2013Round of 12",
+  "captured_at": "2026-10-26T01:22:10.943519+00:00",
+  "lines": [
+    {
+      "match_id": 777957,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52497",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5737265415549598,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52497",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4262734584450402,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52500",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5525606469002695,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52500",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.44743935309973043,
+      "source": "match:777957"
+    }
+  ]
+}
