@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-26T16:48:01.689050+00:00",
+  "captured_at": "2026-10-26T17:03:48.632181+00:00",
   "lines": [
     {
       "match_id": 777957,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.4166666666666667,
       "implied_prob_fair": 0.38303341902313626,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52500",
+      "stage": "pre-match",
+      "team": "Wolves Esports",
+      "team_tag": "WOL",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5974025974025974,
+      "source": "match:777957"
+    },
+    {
+      "match_id": 777957,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52500",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4025974025974026,
       "source": "match:777957"
     },
     {
