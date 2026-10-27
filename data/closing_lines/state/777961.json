@@ -1,0 +1,69 @@
+{
+  "match_id": 777961,
+  "match_url": "/777961/titan-esports-club-vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-qf",
+  "date_display": "Thu, October 29, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Titan Esports Club",
+  "team2": "World Sports Invictus Gaming",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 2\u2013Quarterfinals",
+  "captured_at": "2026-10-27T15:46:31.428450+00:00",
+  "lines": [
+    {
+      "match_id": 777961,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52519",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5910290237467017,
+      "source": "match:777961"
+    },
+    {
+      "match_id": 777961,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52519",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.4089709762532981,
+      "source": "match:777961"
+    },
+    {
+      "match_id": 777961,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52520",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5921052631578947,
+      "source": "match:777961"
+    },
+    {
+      "match_id": 777961,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52520",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.4078947368421052,
+      "source": "match:777961"
+    }
+  ]
+}
