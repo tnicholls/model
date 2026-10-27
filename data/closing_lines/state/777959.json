@@ -7,7 +7,7 @@
   "team2": "Rare Atom",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-27T21:14:49.816676+00:00",
+  "captured_at": "2026-10-27T21:30:26.427685+00:00",
   "lines": [
     {
       "match_id": 777959,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6682464454976303,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6866359447004607,
       "source": "match:777959"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Rare Atom",
       "team_tag": "RA",
-      "decimal_odds": 2.82,
+      "decimal_odds": 2.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3317535545023697,
+      "implied_prob_raw": 0.33557046979865773,
+      "implied_prob_fair": 0.3133640552995392,
       "source": "match:777959"
     }
   ]
