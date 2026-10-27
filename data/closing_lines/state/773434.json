@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Semifinals",
-  "captured_at": "2026-10-27T19:33:01.417442+00:00",
+  "captured_at": "2026-10-27T19:48:38.198711+00:00",
   "lines": [
     {
       "match_id": 773434,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7394957983193278,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7530364372469636,
       "source": "match:773434"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 3.52,
+      "decimal_odds": 3.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2840909090909091,
-      "implied_prob_fair": 0.2605042016806723,
+      "implied_prob_raw": 0.26881720430107525,
+      "implied_prob_fair": 0.2469635627530364,
       "source": "match:773434"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7384937238493725,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7515274949083502,
       "source": "match:773434"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 3.53,
+      "decimal_odds": 3.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28328611898017,
-      "implied_prob_fair": 0.26150627615062766,
+      "implied_prob_raw": 0.2710027100271003,
+      "implied_prob_fair": 0.2484725050916497,
       "source": "match:773434"
     },
     {
