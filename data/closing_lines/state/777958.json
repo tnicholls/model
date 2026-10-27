@@ -7,7 +7,7 @@
   "team2": "Octagonal Disposition Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-27T19:48:39.674826+00:00",
+  "captured_at": "2026-10-27T20:27:57.071349+00:00",
   "lines": [
     {
       "match_id": 777958,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5804749340369394,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5879265091863517,
       "source": "match:777958"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Octagonal Disposition Gaming",
       "team_tag": "ODG",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.4195250659630607,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41207349081364825,
       "source": "match:777958"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.581578947368421,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5890052356020942,
       "source": "match:777958"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Octagonal Disposition Gaming",
       "team_tag": "ODG",
-      "decimal_odds": 2.21,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45248868778280543,
-      "implied_prob_fair": 0.4184210526315789,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.4109947643979057,
       "source": "match:777958"
     },
     {
