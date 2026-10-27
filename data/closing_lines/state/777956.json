@@ -7,7 +7,7 @@
   "team2": "Victory No Limits Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-27T05:25:58.982584+00:00",
+  "captured_at": "2026-10-27T06:14:27.022738+00:00",
   "lines": [
     {
       "match_id": 777956,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6792452830188679,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7042889390519187,
       "source": "match:777956"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Victory No Limits Gaming",
       "team_tag": "VLG",
-      "decimal_odds": 2.88,
+      "decimal_odds": 3.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3472222222222222,
-      "implied_prob_fair": 0.32075471698113206,
+      "implied_prob_raw": 0.3205128205128205,
+      "implied_prob_fair": 0.29571106094808125,
       "source": "match:777956"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7052154195011339,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7294372294372294,
       "source": "match:777956"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Victory No Limits Gaming",
       "team_tag": "VLG",
-      "decimal_odds": 3.11,
+      "decimal_odds": 3.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3215434083601286,
-      "implied_prob_fair": 0.29478458049886624,
+      "implied_prob_raw": 0.29673590504451036,
+      "implied_prob_fair": 0.2705627705627705,
       "source": "match:777956"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.34,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6570048309178744,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.6981981981981982,
       "source": "match:777956"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Victory No Limits Gaming",
       "team_tag": "VLG",
-      "decimal_odds": 2.72,
+      "decimal_odds": 3.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3676470588235294,
-      "implied_prob_fair": 0.3429951690821256,
+      "implied_prob_raw": 0.3225806451612903,
+      "implied_prob_fair": 0.30180180180180183,
       "source": "match:777956"
     }
   ]
