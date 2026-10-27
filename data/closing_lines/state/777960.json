@@ -1,0 +1,69 @@
+{
+  "match_id": 777960,
+  "match_url": "/777960/keepbest-gaming-vs-unsettled-resentment-vct-2026-china-threshold-week-2-qf",
+  "date_display": "Thu, October 29, 2026",
+  "time_display": "11:00 AM",
+  "team1": "KeepBest Gaming",
+  "team2": "Unsettled Resentment",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 2\u2013Quarterfinals",
+  "captured_at": "2026-10-27T14:30:54.560716+00:00",
+  "lines": [
+    {
+      "match_id": 777960,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52516",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.71,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5340599455040871,
+      "source": "match:777960"
+    },
+    {
+      "match_id": 777960,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52516",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.96,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.4659400544959128,
+      "source": "match:777960"
+    },
+    {
+      "match_id": 777960,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52517",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.72,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5338753387533877,
+      "source": "match:777960"
+    },
+    {
+      "match_id": 777960,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52517",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.97,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4661246612466125,
+      "source": "match:777960"
+    }
+  ]
+}
