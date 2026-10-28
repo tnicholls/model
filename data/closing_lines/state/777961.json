@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-28T03:17:43.254772+00:00",
+  "captured_at": "2026-10-28T04:52:44.137250+00:00",
   "lines": [
     {
       "match_id": 777961,
@@ -39,30 +39,30 @@
     },
     {
       "match_id": 777961,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52520",
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52533",
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5953002610966058,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.596401028277635,
       "source": "match:777961"
     },
     {
       "match_id": 777961,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52520",
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52533",
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.40469973890339433,
+      "implied_prob_raw": 0.4310344827586207,
+      "implied_prob_fair": 0.4035989717223651,
       "source": "match:777961"
     }
   ]
