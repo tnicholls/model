@@ -7,7 +7,7 @@
   "team2": "Rare Atom",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-28T01:59:40.339428+00:00",
+  "captured_at": "2026-10-28T02:15:15.638751+00:00",
   "lines": [
     {
       "match_id": 777959,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6577017114914425,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.661800486618005,
       "source": "match:777959"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Rare Atom",
       "team_tag": "RA",
-      "decimal_odds": 2.69,
+      "decimal_odds": 2.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3717472118959108,
-      "implied_prob_fair": 0.3422982885085575,
+      "implied_prob_raw": 0.3676470588235294,
+      "implied_prob_fair": 0.3381995133819951,
       "source": "match:777959"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6577669902912622,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6618357487922706,
       "source": "match:777959"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Rare Atom",
       "team_tag": "RA",
-      "decimal_odds": 2.71,
+      "decimal_odds": 2.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36900369003690037,
-      "implied_prob_fair": 0.3422330097087379,
+      "implied_prob_raw": 0.36496350364963503,
+      "implied_prob_fair": 0.33816425120772947,
       "source": "match:777959"
     },
     {
