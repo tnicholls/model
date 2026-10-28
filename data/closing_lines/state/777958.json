@@ -7,7 +7,7 @@
   "team2": "Octagonal Disposition Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Round of 12",
-  "captured_at": "2026-10-28T02:30:49.489025+00:00",
+  "captured_at": "2026-10-28T02:46:25.359326+00:00",
   "lines": [
     {
       "match_id": 777958,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.4464285714285714,
       "implied_prob_fair": 0.41207349081364825,
+      "source": "match:777958"
+    },
+    {
+      "match_id": 777958,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52515",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 1.57,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5890052356020942,
+      "source": "match:777958"
+    },
+    {
+      "match_id": 777958,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52515",
+      "stage": "pre-match",
+      "team": "Octagonal Disposition Gaming",
+      "team_tag": "ODG",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.4109947643979057,
       "source": "match:777958"
     },
     {
