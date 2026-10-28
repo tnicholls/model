@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Final",
-  "captured_at": "2026-10-28T16:28:05.997538+00:00",
+  "captured_at": "2026-10-28T16:43:38.125266+00:00",
   "lines": [
     {
       "match_id": 773435,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5466666666666666,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.550531914893617,
       "source": "match:773435"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.4533333333333333,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.449468085106383,
       "source": "match:773435"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.546916890080429,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5519999999999999,
       "source": "match:773435"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 2.04,
+      "decimal_odds": 2.07,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45308310991957107,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.448,
       "source": "match:773435"
     },
     {
