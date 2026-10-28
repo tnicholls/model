@@ -7,7 +7,7 @@
   "team2": "Unsettled Resentment",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-28T00:14:32.154906+00:00",
+  "captured_at": "2026-10-28T00:30:07.786230+00:00",
   "lines": [
     {
       "match_id": 777960,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.71,
+      "decimal_odds": 1.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5847953216374269,
-      "implied_prob_fair": 0.5340599455040871,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.5420054200542006,
       "source": "match:777960"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.96,
+      "decimal_odds": 2.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5102040816326531,
-      "implied_prob_fair": 0.4659400544959128,
+      "implied_prob_raw": 0.5,
+      "implied_prob_fair": 0.4579945799457995,
       "source": "match:777960"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5338753387533877,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.543010752688172,
       "source": "match:777960"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.97,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5076142131979695,
-      "implied_prob_fair": 0.4661246612466125,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4569892473118279,
       "source": "match:777960"
     },
     {
