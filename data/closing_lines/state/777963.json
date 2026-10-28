@@ -1,0 +1,69 @@
+{
+  "match_id": 777963,
+  "match_url": "/777963/funplus-phoenix-vs-any-questions-gaming-vct-2026-china-threshold-week-2-qf",
+  "date_display": "Fri, October 30, 2026",
+  "time_display": "1:00 PM",
+  "team1": "FunPlus Phoenix",
+  "team2": "Any Questions Gaming",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 2\u2013Quarterfinals",
+  "captured_at": "2026-10-28T15:11:47.896554+00:00",
+  "lines": [
+    {
+      "match_id": 777963,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52546",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.44,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6363636363636364,
+      "source": "match:777963"
+    },
+    {
+      "match_id": 777963,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52546",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 2.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.36363636363636365,
+      "source": "match:777963"
+    },
+    {
+      "match_id": 777963,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52549",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6265664160401002,
+      "source": "match:777963"
+    },
+    {
+      "match_id": 777963,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52549",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 2.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37343358395989973,
+      "source": "match:777963"
+    }
+  ]
+}

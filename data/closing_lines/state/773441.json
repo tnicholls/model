@@ -7,7 +7,7 @@
   "team2": "Team Liquid Brazil",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 3",
-  "captured_at": "2026-10-28T11:00:01.130433+00:00",
+  "captured_at": "2026-10-28T15:11:41.299036+00:00",
   "lines": [
     {
       "match_id": 773441,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 3.95,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2531645569620253,
-      "implied_prob_fair": 0.23892100192678226,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24752475247524752,
       "source": "match:773441"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Team Liquid Brazil",
       "team_tag": "TLV",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7610789980732178,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7524752475247526,
       "source": "match:773441"
     }
   ]

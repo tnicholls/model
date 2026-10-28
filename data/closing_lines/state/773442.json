@@ -7,7 +7,7 @@
   "team2": "SK Nebula",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 3",
-  "captured_at": "2026-10-28T10:59:59.460979+00:00",
+  "captured_at": "2026-10-28T15:11:39.710695+00:00",
   "lines": [
     {
       "match_id": 773442,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5558510638297872,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5684210526315789,
       "source": "match:773442"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 2.09,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.4441489361702128,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.431578947368421,
+      "source": "match:773442"
+    },
+    {
+      "match_id": 773442,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52525",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5634920634920635,
+      "source": "match:773442"
+    },
+    {
+      "match_id": 773442,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52525",
+      "stage": "pre-match",
+      "team": "SK Nebula",
+      "team_tag": "SKN",
+      "decimal_odds": 2.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4694835680751174,
+      "implied_prob_fair": 0.4365079365079365,
       "source": "match:773442"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5677083333333334,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5876288659793815,
       "source": "match:773442"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "SK Nebula",
       "team_tag": "SKN",
-      "decimal_odds": 2.18,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4587155963302752,
-      "implied_prob_fair": 0.43229166666666663,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.4123711340206186,
       "source": "match:773442"
     }
   ]
