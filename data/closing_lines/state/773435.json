@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Final",
-  "captured_at": "2026-10-28T01:13:04.838347+00:00",
+  "captured_at": "2026-10-28T01:28:40.237741+00:00",
   "lines": [
     {
       "match_id": 773435,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.48780487804878053,
       "implied_prob_fair": 0.4533333333333333,
+      "source": "match:773435"
+    },
+    {
+      "match_id": 773435,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52529",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.69,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.546916890080429,
+      "source": "match:773435"
+    },
+    {
+      "match_id": 773435,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52529",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 2.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45308310991957107,
       "source": "match:773435"
     }
   ]
