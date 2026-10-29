@@ -1,0 +1,69 @@
+{
+  "match_id": 777964,
+  "match_url": "/777964/unsettled-resentment-vs-world-sports-invictus-gaming-vct-2026-china-threshold-week-2-sf",
+  "date_display": "Sat, October 31, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Unsettled Resentment",
+  "team2": "World Sports Invictus Gaming",
+  "event_name": "VCT 2026: China Threshold",
+  "series": "Week 2\u2013Semifinals",
+  "captured_at": "2026-10-29T17:00:45.323101+00:00",
+  "lines": [
+    {
+      "match_id": 777964,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52556",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6103896103896104,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52556",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.38961038961038963,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52557",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6124031007751938,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52557",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.38759689922480617,
+      "source": "match:777964"
+    }
+  ]
+}

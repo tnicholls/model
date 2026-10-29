@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Final",
-  "captured_at": "2026-10-29T13:49:52.159248+00:00",
+  "captured_at": "2026-10-29T17:00:42.355691+00:00",
   "lines": [
     {
       "match_id": 773435,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 773435,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52529",
+      "stage": "pre-match",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 1.99,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.4679144385026738,
+      "source": "match:773435"
+    },
+    {
+      "match_id": 773435,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52529",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5320855614973262,
+      "source": "match:773435"
+    },
+    {
+      "match_id": 773435,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52540",
       "stage": "pre-match",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.4748010610079576,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4603174603174603,
       "source": "match:773435"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.79,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5251989389920424,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5396825396825397,
       "source": "match:773435"
     }
   ]
