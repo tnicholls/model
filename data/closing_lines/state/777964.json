@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-29T20:10:15.080566+00:00",
+  "captured_at": "2026-10-29T20:25:40.275494+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6403940886699507,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6196473551637279,
       "source": "match:777964"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.6,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3846153846153846,
-      "implied_prob_fair": 0.3596059113300492,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.380352644836272,
       "source": "match:777964"
     }
   ]
