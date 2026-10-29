@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-29T08:28:32.633625+00:00",
+  "captured_at": "2026-10-29T13:34:02.377850+00:00",
   "lines": [
     {
       "match_id": 777962,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7853211009174312,
+      "implied_prob_fair": 0.7868852459016394,
       "source": "match:777962"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 4.28,
+      "decimal_odds": 4.32,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2336448598130841,
-      "implied_prob_fair": 0.21467889908256882,
+      "implied_prob_raw": 0.23148148148148145,
+      "implied_prob_fair": 0.21311475409836064,
       "source": "match:777962"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7876588021778583,
+      "implied_prob_fair": 0.7891891891891891,
       "source": "match:777962"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 4.34,
+      "decimal_odds": 4.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2304147465437788,
-      "implied_prob_fair": 0.21234119782214153,
+      "implied_prob_raw": 0.22831050228310504,
+      "implied_prob_fair": 0.2108108108108108,
       "source": "match:777962"
     },
     {
