@@ -7,7 +7,7 @@
   "team2": "Unsettled Resentment",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-29T00:38:36.879511+00:00",
+  "captured_at": "2026-10-29T01:12:50.319913+00:00",
   "lines": [
     {
       "match_id": 777960,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5456989247311828,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5510752688172044,
       "source": "match:777960"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4543010752688172,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.44892473118279574,
       "source": "match:777960"
     },
     {
