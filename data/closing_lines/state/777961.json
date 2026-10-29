@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-29T05:46:42.210616+00:00",
+  "captured_at": "2026-10-29T08:28:30.976218+00:00",
   "lines": [
     {
       "match_id": 777961,
@@ -39,44 +39,16 @@
     },
     {
       "match_id": 777961,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52520",
-      "stage": "pre-match",
-      "team": "Titan Esports Club",
-      "team_tag": "TEC",
-      "decimal_odds": 1.5,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6163682864450128,
-      "source": "match:777961"
-    },
-    {
-      "match_id": 777961,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52520",
-      "stage": "pre-match",
-      "team": "World Sports Invictus Gaming",
-      "team_tag": "WSIG",
-      "decimal_odds": 2.41,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.41493775933609955,
-      "implied_prob_fair": 0.3836317135549872,
-      "source": "match:777961"
-    },
-    {
-      "match_id": 777961,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52533",
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6265664160401002,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6487804878048781,
       "source": "match:777961"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37343358395989973,
+      "implied_prob_raw": 0.37593984962406013,
+      "implied_prob_fair": 0.351219512195122,
       "source": "match:777961"
     }
   ]
