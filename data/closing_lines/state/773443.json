@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 4",
-  "captured_at": "2026-10-29T01:44:51.412092+00:00",
+  "captured_at": "2026-10-29T05:31:19.504619+00:00",
   "lines": [
     {
       "match_id": 773443,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 2.31,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4329004329004329,
-      "implied_prob_fair": 0.40310077519379844,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.38071065989847713,
       "source": "match:773443"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5968992248062015,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6192893401015228,
       "source": "match:773443"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 2.29,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.40364583333333337,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3826530612244898,
       "source": "match:773443"
     },
     {
@@ -58,11 +58,39 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5963541666666666,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6173469387755102,
+      "source": "match:773443"
+    },
+    {
+      "match_id": 773443,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52555",
+      "stage": "pre-match",
+      "team": "KR\u00dc BLAZE",
+      "team_tag": "KRUB",
+      "decimal_odds": 2.42,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3888888888888889,
+      "source": "match:773443"
+    },
+    {
+      "match_id": 773443,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52555",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6111111111111112,
       "source": "match:773443"
     }
   ]

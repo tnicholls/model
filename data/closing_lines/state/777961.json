@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-29T01:44:44.762114+00:00",
+  "captured_at": "2026-10-29T05:31:13.452721+00:00",
   "lines": [
     {
       "match_id": 777961,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.51,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6622516556291391,
-      "implied_prob_fair": 0.6118251928020565,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6072351421188631,
       "source": "match:777961"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.38,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42016806722689076,
-      "implied_prob_fair": 0.3881748071979434,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39276485788113696,
       "source": "match:777961"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6208651399491093,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6163682864450128,
       "source": "match:777961"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.44,
+      "decimal_odds": 2.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4098360655737705,
-      "implied_prob_fair": 0.37913486005089053,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.3836317135549872,
       "source": "match:777961"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6035805626598465,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6196473551637279,
       "source": "match:777961"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.36,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.39641943734015345,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.380352644836272,
       "source": "match:777961"
     }
   ]

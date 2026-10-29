@@ -7,7 +7,7 @@
   "team2": "Unsettled Resentment",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-29T01:44:43.107442+00:00",
+  "captured_at": "2026-10-29T05:31:11.931040+00:00",
   "lines": [
     {
       "match_id": 777960,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5510752688172044,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6015625000000001,
       "source": "match:777960"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.05,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.44892473118279574,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.39843750000000006,
       "source": "match:777960"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5573333333333332,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6163682864450128,
       "source": "match:777960"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.09,
+      "decimal_odds": 2.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.44266666666666665,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.3836317135549872,
       "source": "match:777960"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.63,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6134969325153374,
-      "implied_prob_fair": 0.5744125326370757,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6265664160401002,
       "source": "match:777960"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42558746736292424,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37343358395989973,
       "source": "match:777960"
     }
   ]
