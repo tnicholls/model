@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 4",
-  "captured_at": "2026-10-30T18:01:29.272412+00:00",
+  "captured_at": "2026-10-30T18:17:19.678344+00:00",
   "lines": [
     {
       "match_id": 773443,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 2.45,
+      "decimal_odds": 2.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4081632653061224,
-      "implied_prob_fair": 0.379746835443038,
+      "implied_prob_raw": 0.39840637450199207,
+      "implied_prob_fair": 0.3709273182957394,
       "source": "match:773443"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6202531645569621,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6290726817042606,
       "source": "match:773443"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 2.41,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.41493775933609955,
-      "implied_prob_fair": 0.38676844783715014,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.37878787878787873,
       "source": "match:773443"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 1.52,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.61323155216285,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6212121212121211,
       "source": "match:773443"
     },
     {
