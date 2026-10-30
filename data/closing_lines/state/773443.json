@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 4",
-  "captured_at": "2026-10-30T20:08:07.298740+00:00",
+  "captured_at": "2026-10-30T20:23:56.580390+00:00",
   "lines": [
     {
       "match_id": 773443,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6802721088435374,
       "implied_prob_fair": 0.6334164588528678,
+      "source": "match:773443"
+    },
+    {
+      "match_id": 773443,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52552",
+      "stage": "pre-match",
+      "team": "KR\u00dc BLAZE",
+      "team_tag": "KRUB",
+      "decimal_odds": 2.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.37437185929648237,
+      "source": "match:773443"
+    },
+    {
+      "match_id": 773443,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52552",
+      "stage": "pre-match",
+      "team": "MIBR GC",
+      "team_tag": "MIBR",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6256281407035176,
       "source": "match:773443"
     },
     {
