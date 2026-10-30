@@ -7,7 +7,7 @@
   "team2": "MIBR GC",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Round 4",
-  "captured_at": "2026-10-30T22:38:09.791631+00:00",
+  "captured_at": "2026-10-30T22:53:57.466739+00:00",
   "lines": [
     {
       "match_id": 773443,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6359102244389027,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8111658456486044,
       "source": "match:773443"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 2.55,
+      "decimal_odds": 4.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3921568627450981,
-      "implied_prob_fair": 0.3640897755610973,
+      "implied_prob_raw": 0.20242914979757085,
+      "implied_prob_fair": 0.18883415435139572,
       "source": "match:773443"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6368159203980098,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7936507936507936,
       "source": "match:773443"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "MIBR GC",
       "team_tag": "MIBR",
-      "decimal_odds": 2.56,
+      "decimal_odds": 4.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.36318407960199,
+      "implied_prob_raw": 0.2222222222222222,
+      "implied_prob_fair": 0.2063492063492063,
       "source": "match:773443"
     },
     {
