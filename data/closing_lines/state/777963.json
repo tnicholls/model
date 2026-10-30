@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-30T06:25:54.283365+00:00",
+  "captured_at": "2026-10-30T06:51:52.445670+00:00",
   "lines": [
     {
       "match_id": 777963,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6265664160401002,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6035805626598465,
       "source": "match:777963"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37343358395989973,
+      "implied_prob_raw": 0.42372881355932207,
+      "implied_prob_fair": 0.39641943734015345,
       "source": "match:777963"
     }
   ]
