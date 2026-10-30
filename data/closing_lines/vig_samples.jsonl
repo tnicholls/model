@@ -55499,3 +55499,15 @@
 {"bookmaker": "ggbet", "vig": 0.08936725375081522, "sampled_at": "2026-10-30T09:51:29.273007+00:00", "source": "closing"}
 {"bookmaker": "thunderpick", "vig": 0.07672955974842766, "sampled_at": "2026-10-30T09:51:29.273007+00:00", "source": "closing"}
 {"bookmaker": "rainbet", "vig": 0.06746681214766337, "sampled_at": "2026-10-30T09:51:29.273007+00:00", "source": "closing"}
+{"bookmaker": "ggbet", "vig": 0.07727129473111205, "sampled_at": "2026-10-30T16:27:46.925497+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.07370699475962628, "sampled_at": "2026-10-30T16:27:46.925497+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06359588852855502, "sampled_at": "2026-10-30T16:27:46.925497+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.07436674604892834, "sampled_at": "2026-10-30T16:27:48.417865+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.073774289373995, "sampled_at": "2026-10-30T16:27:48.417865+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06439880188275571, "sampled_at": "2026-10-30T16:27:48.417865+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.08333333333333326, "sampled_at": "2026-10-30T16:27:49.917856+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.08160442600276618, "sampled_at": "2026-10-30T16:27:49.917856+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06875572066978952, "sampled_at": "2026-10-30T16:27:49.917856+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.09596510359869148, "sampled_at": "2026-10-30T16:27:51.492389+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.08800773694390718, "sampled_at": "2026-10-30T16:27:51.492389+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06893208837185583, "sampled_at": "2026-10-30T16:27:51.492389+00:00", "source": "pre_match_snapshot"}
