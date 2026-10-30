@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Final",
-  "captured_at": "2026-10-30T19:04:47.122190+00:00",
+  "captured_at": "2026-10-30T19:20:36.373289+00:00",
   "lines": [
     {
       "match_id": 773435,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 3.72,
+      "decimal_odds": 7.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26881720430107525,
-      "implied_prob_fair": 0.24848484848484848,
+      "implied_prob_raw": 0.13157894736842105,
+      "implied_prob_fair": 0.12138728323699423,
       "source": "match:773435"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "live",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7515151515151515,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8786127167630058,
+      "source": "match:773435"
+    },
+    {
+      "match_id": 773435,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52529",
+      "stage": "live",
+      "team": "Gentle Mates GC",
+      "team_tag": "M8GC",
+      "decimal_odds": 7.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.13157894736842105,
+      "implied_prob_fair": 0.12138728323699423,
+      "source": "match:773435"
+    },
+    {
+      "match_id": 773435,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52529",
+      "stage": "live",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 1.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8786127167630058,
       "source": "match:773435"
     },
     {
