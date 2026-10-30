@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-30T00:10:49.302111+00:00",
+  "captured_at": "2026-10-30T00:26:14.691591+00:00",
   "lines": [
     {
       "match_id": 777963,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6535626535626535,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6577017114914425,
       "source": "match:777963"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.66,
+      "decimal_odds": 2.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37593984962406013,
-      "implied_prob_fair": 0.3464373464373464,
+      "implied_prob_raw": 0.3717472118959108,
+      "implied_prob_fair": 0.3422982885085575,
       "source": "match:777963"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.653658536585366,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.656934306569343,
       "source": "match:777963"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.68,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3731343283582089,
-      "implied_prob_fair": 0.3463414634146341,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3430656934306569,
       "source": "match:777963"
     },
     {
