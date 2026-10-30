@@ -2,41 +2,13 @@
   "match_id": 777965,
   "match_url": "/777965/nova-esports-vs-any-questions-gaming-vct-2026-china-threshold-week-2-sf",
   "date_display": "Sat, October 31, 2026",
-  "time_display": "1:00 PM",
+  "time_display": "11:00 AM",
   "team1": "Nova Esports",
   "team2": "Any Questions Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-30T23:25:36.892728+00:00",
+  "captured_at": "2026-10-30T23:41:22.339080+00:00",
   "lines": [
-    {
-      "match_id": 777965,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52561",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.39,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.6601466992665037,
-      "source": "match:777965"
-    },
-    {
-      "match_id": 777965,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52561",
-      "stage": "pre-match",
-      "team": "Any Questions Gaming",
-      "team_tag": "AQ",
-      "decimal_odds": 2.7,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.37037037037037035,
-      "implied_prob_fair": 0.3398533007334963,
-      "source": "match:777965"
-    },
     {
       "match_id": 777965,
       "bookmaker": "thunderpick",
@@ -91,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.3597122302158274,
       "implied_prob_fair": 0.33651551312649164,
+      "source": "match:777965"
+    },
+    {
+      "match_id": 777965,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52564",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6585365853658537,
+      "source": "match:777965"
+    },
+    {
+      "match_id": 777965,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52564",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 2.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3414634146341463,
       "source": "match:777965"
     }
   ]
