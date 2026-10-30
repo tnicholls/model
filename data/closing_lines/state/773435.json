@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Upper Final",
-  "captured_at": "2026-10-30T18:33:06.971688+00:00",
+  "captured_at": "2026-10-30T18:48:56.900675+00:00",
   "lines": [
     {
       "match_id": 773435,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 4.42,
+      "decimal_odds": 3.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22624434389140272,
-      "implied_prob_fair": 0.20930232558139533,
+      "implied_prob_raw": 0.2695417789757412,
+      "implied_prob_fair": 0.2505050505050505,
       "source": "match:773435"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7906976744186046,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7494949494949495,
       "source": "match:773435"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 4.71,
+      "decimal_odds": 3.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21231422505307856,
-      "implied_prob_fair": 0.1962457337883959,
+      "implied_prob_raw": 0.25510204081632654,
+      "implied_prob_fair": 0.23586744639376217,
       "source": "match:773435"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8037542662116042,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7641325536062378,
       "source": "match:773435"
     },
     {
