@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Quarterfinals",
-  "captured_at": "2026-10-30T02:34:00.006311+00:00",
+  "captured_at": "2026-10-30T03:52:57.705479+00:00",
   "lines": [
     {
       "match_id": 777962,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7906137184115524,
+      "implied_prob_fair": 0.7928571428571428,
       "source": "match:777962"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 4.38,
+      "decimal_odds": 4.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22831050228310504,
-      "implied_prob_fair": 0.20938628158844766,
+      "implied_prob_raw": 0.2252252252252252,
+      "implied_prob_fair": 0.2071428571428571,
+      "source": "match:777962"
+    },
+    {
+      "match_id": 777962,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52542",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7775735294117647,
+      "source": "match:777962"
+    },
+    {
+      "match_id": 777962,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52542",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 4.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.23640661938534277,
+      "implied_prob_fair": 0.22242647058823528,
       "source": "match:777962"
     },
     {
