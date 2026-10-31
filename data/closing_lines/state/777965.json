@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T11:19:53.869788+00:00",
+  "captured_at": "2026-10-31T11:35:41.168106+00:00",
   "lines": [
     {
       "match_id": 777965,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6460396039603962,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.656934306569343,
       "source": "match:777965"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.61,
+      "decimal_odds": 2.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.353960396039604,
+      "implied_prob_raw": 0.37037037037037035,
+      "implied_prob_fair": 0.3430656934306569,
       "source": "match:777965"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6352357320099257,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6738095238095237,
       "source": "match:777965"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3647642679900745,
+      "implied_prob_raw": 0.35335689045936397,
+      "implied_prob_fair": 0.3261904761904762,
       "source": "match:777965"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6454767726161369,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6231155778894473,
       "source": "match:777965"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 2.64,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3787878787878788,
-      "implied_prob_fair": 0.35452322738386305,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37688442211055284,
       "source": "match:777965"
     }
   ]
