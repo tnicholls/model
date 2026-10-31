@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T13:26:03.580558+00:00",
+  "captured_at": "2026-10-31T13:41:48.959540+00:00",
   "lines": [
     {
       "match_id": 777965,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8556149732620321,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9342783505154639,
       "source": "match:777965"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 6.4,
+      "decimal_odds": 14.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15625,
-      "implied_prob_fair": 0.14438502673796794,
+      "implied_prob_raw": 0.06896551724137931,
+      "implied_prob_fair": 0.06572164948453608,
       "source": "match:777965"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8405797101449275,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.850480109739369,
       "source": "match:777965"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 5.8,
+      "decimal_odds": 6.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.15942028985507248,
+      "implied_prob_raw": 0.16129032258064516,
+      "implied_prob_fair": 0.149519890260631,
       "source": "match:777965"
     },
     {
