@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Final",
-  "captured_at": "2026-10-31T02:23:04.060140+00:00",
+  "captured_at": "2026-10-31T02:38:53.343285+00:00",
   "lines": [
     {
       "match_id": 773444,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7936507936507936,
+      "implied_prob_fair": 0.7932862190812721,
       "source": "match:773444"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.5,
+      "decimal_odds": 4.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2222222222222222,
-      "implied_prob_fair": 0.2063492063492063,
+      "implied_prob_raw": 0.22271714922048996,
+      "implied_prob_fair": 0.20671378091872789,
       "source": "match:773444"
     },
     {
