@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Final",
-  "captured_at": "2026-10-31T18:25:07.407583+00:00",
+  "captured_at": "2026-10-31T18:40:51.034258+00:00",
   "lines": [
     {
       "match_id": 773444,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7848101265822784,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8308157099697885,
       "source": "match:773444"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.34,
+      "decimal_odds": 5.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2304147465437788,
-      "implied_prob_fair": 0.21518987341772153,
+      "implied_prob_raw": 0.18181818181818182,
+      "implied_prob_fair": 0.1691842900302115,
       "source": "match:773444"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7721280602636534,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8099173553719008,
       "source": "match:773444"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.1,
+      "decimal_odds": 4.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24390243902439027,
-      "implied_prob_fair": 0.2278719397363465,
+      "implied_prob_raw": 0.2040816326530612,
+      "implied_prob_fair": 0.19008264462809912,
       "source": "match:773444"
     },
     {
