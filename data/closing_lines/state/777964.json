@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T10:00:55.696663+00:00",
+  "captured_at": "2026-10-31T10:16:42.794886+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6560975609756098,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.522911051212938,
       "source": "match:777964"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.69,
+      "decimal_odds": 1.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3717472118959108,
-      "implied_prob_fair": 0.34390243902439027,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.47708894878706204,
       "source": "match:777964"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6528117359413204,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5148247978436657,
       "source": "match:777964"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.67,
+      "decimal_odds": 1.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37453183520599254,
-      "implied_prob_fair": 0.34718826405867975,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.4851752021563342,
       "source": "match:777964"
     },
     {
