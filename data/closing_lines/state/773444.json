@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Final",
-  "captured_at": "2026-10-31T08:42:01.667873+00:00",
+  "captured_at": "2026-10-31T08:57:49.005821+00:00",
   "lines": [
     {
       "match_id": 773444,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7844202898550725,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7889087656529516,
       "source": "match:773444"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.33,
+      "decimal_odds": 4.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23094688221709006,
-      "implied_prob_fair": 0.21557971014492752,
+      "implied_prob_raw": 0.22675736961451246,
+      "implied_prob_fair": 0.21109123434704827,
       "source": "match:773444"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.7846715328467153,
+      "implied_prob_fair": 0.7892857142857144,
       "source": "match:773444"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.3,
+      "decimal_odds": 4.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23255813953488372,
-      "implied_prob_fair": 0.21532846715328463,
+      "implied_prob_raw": 0.22624434389140272,
+      "implied_prob_fair": 0.21071428571428572,
       "source": "match:773444"
     },
     {
