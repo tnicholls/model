@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T04:13:34.254339+00:00",
+  "captured_at": "2026-10-31T04:29:21.189343+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5953002610966058,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6036269430051813,
       "source": "match:777964"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.40469973890339433,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.3963730569948186,
       "source": "match:777964"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.61,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5763157894736841,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6056701030927835,
       "source": "match:777964"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.19,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.42368421052631583,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3943298969072165,
       "source": "match:777964"
     },
     {
