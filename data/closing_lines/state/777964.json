@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T06:35:39.503065+00:00",
+  "captured_at": "2026-10-31T06:51:26.779684+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -39,16 +39,44 @@
     },
     {
       "match_id": 777964,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52557",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.53,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6056701030927835,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52557",
+      "stage": "pre-match",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 2.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3943298969072165,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52560",
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5979381443298969,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5854922279792746,
       "source": "match:777964"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4020618556701031,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.4145077720207254,
       "source": "match:777964"
     }
   ]
