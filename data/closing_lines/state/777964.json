@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T09:29:20.638168+00:00",
+  "captured_at": "2026-10-31T09:45:08.307979+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.792920353982301,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7515151515151515,
       "source": "match:777964"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 4.48,
+      "decimal_odds": 3.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2232142857142857,
-      "implied_prob_fair": 0.2070796460176991,
+      "implied_prob_raw": 0.26881720430107525,
+      "implied_prob_fair": 0.24848484848484848,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52557",
+      "stage": "live",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7515151515151515,
+      "source": "match:777964"
+    },
+    {
+      "match_id": 777964,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52557",
+      "stage": "live",
+      "team": "World Sports Invictus Gaming",
+      "team_tag": "WSIG",
+      "decimal_odds": 3.72,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.26881720430107525,
+      "implied_prob_fair": 0.24848484848484848,
       "source": "match:777964"
     },
     {
