@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Final",
-  "captured_at": "2026-10-31T05:00:59.264106+00:00",
+  "captured_at": "2026-10-31T05:16:46.144065+00:00",
   "lines": [
     {
       "match_id": 773444,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7961672473867596,
+      "implied_prob_fair": 0.7932862190812721,
       "source": "match:773444"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.57,
+      "decimal_odds": 4.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2188183807439825,
-      "implied_prob_fair": 0.2038327526132404,
+      "implied_prob_raw": 0.22271714922048996,
+      "implied_prob_fair": 0.20671378091872789,
       "source": "match:773444"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.16,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7964912280701754,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7921847246891652,
       "source": "match:773444"
     },
     {
@@ -58,11 +58,39 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.54,
+      "decimal_odds": 4.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22026431718061673,
-      "implied_prob_fair": 0.20350877192982453,
+      "implied_prob_raw": 0.2242152466367713,
+      "implied_prob_fair": 0.20781527531083482,
+      "source": "match:773444"
+    },
+    {
+      "match_id": 773444,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52570",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7993197278911565,
+      "source": "match:773444"
+    },
+    {
+      "match_id": 773444,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52570",
+      "stage": "pre-match",
+      "team": "KR\u00dc BLAZE",
+      "team_tag": "KRUB",
+      "decimal_odds": 4.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2127659574468085,
+      "implied_prob_fair": 0.20068027210884354,
       "source": "match:773444"
     }
   ]
