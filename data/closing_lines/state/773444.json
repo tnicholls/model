@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Lower Final",
-  "captured_at": "2026-10-31T06:51:30.130198+00:00",
+  "captured_at": "2026-10-31T07:07:17.517838+00:00",
   "lines": [
     {
       "match_id": 773444,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7932862190812721,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7844202898550725,
       "source": "match:773444"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.49,
+      "decimal_odds": 4.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22271714922048996,
-      "implied_prob_fair": 0.20671378091872789,
+      "implied_prob_raw": 0.23094688221709006,
+      "implied_prob_fair": 0.21557971014492752,
       "source": "match:773444"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7921847246891652,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7846715328467153,
       "source": "match:773444"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 4.46,
+      "decimal_odds": 4.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2242152466367713,
-      "implied_prob_fair": 0.20781527531083482,
+      "implied_prob_raw": 0.23255813953488372,
+      "implied_prob_fair": 0.21532846715328463,
       "source": "match:773444"
     },
     {
