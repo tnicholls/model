@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T10:32:29.594459+00:00",
+  "captured_at": "2026-10-31T10:48:17.072729+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.7,
+      "decimal_odds": 3.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5454545454545455,
+      "implied_prob_raw": 0.27932960893854747,
+      "implied_prob_fair": 0.25879917184265006,
       "source": "match:777964"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.04,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45454545454545453,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7412008281573499,
       "source": "match:777964"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.7,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5454545454545455,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
       "source": "match:777964"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 2.04,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45454545454545453,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:777964"
     },
     {
