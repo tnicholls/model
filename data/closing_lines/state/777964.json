@@ -7,7 +7,7 @@
   "team2": "World Sports Invictus Gaming",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Semifinals",
-  "captured_at": "2026-10-31T10:16:42.794886+00:00",
+  "captured_at": "2026-10-31T10:32:29.594459+00:00",
   "lines": [
     {
       "match_id": 777964,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.522911051212938,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5454545454545455,
       "source": "match:777964"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 1.94,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5154639175257733,
-      "implied_prob_fair": 0.47708894878706204,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45454545454545453,
       "source": "match:777964"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5148247978436657,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5454545454545455,
       "source": "match:777964"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "World Sports Invictus Gaming",
       "team_tag": "WSIG",
-      "decimal_odds": 1.91,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.4851752021563342,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45454545454545453,
       "source": "match:777964"
     },
     {
