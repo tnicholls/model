@@ -7,7 +7,7 @@
   "team2": "KR\u00dc BLAZE",
   "event_name": "Game Changers 2026: Championship S\u00e3o Paulo",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-11-01T20:53:30.060561+00:00",
+  "captured_at": "2026-11-01T21:09:05.258820+00:00",
   "lines": [
     {
       "match_id": 773436,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Gentle Mates GC",
       "team_tag": "M8GC",
-      "decimal_odds": 2.79,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35842293906810035,
-      "implied_prob_fair": 0.3341288782816229,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.2592592592592593,
       "source": "match:773436"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "KR\u00dc BLAZE",
       "team_tag": "KRUB",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6658711217183771,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7407407407407407,
       "source": "match:773436"
     },
     {
