@@ -2,12 +2,12 @@
   "match_id": 777966,
   "match_url": "/777966/unsettled-resentment-vs-nova-esports-vct-2026-china-threshold-week-2-gf",
   "date_display": "Sun, November 1, 2026",
-  "time_display": "3:00 AM",
+  "time_display": "9:00 AM",
   "team1": "Unsettled Resentment",
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Grand Final",
-  "captured_at": "2026-11-01T01:03:32.109675+00:00",
+  "captured_at": "2026-11-01T01:19:11.007222+00:00",
   "lines": [
     {
       "match_id": 777966,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.7692307692307692,
       "implied_prob_fair": 0.7204301075268817,
+      "source": "match:777966"
+    },
+    {
+      "match_id": 777966,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52574",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24302788844621515,
+      "source": "match:777966"
+    },
+    {
+      "match_id": 777966,
+      "bookmaker": "shuffle",
+      "bet_url": "/rr/bet/52574",
+      "stage": "pre-match",
+      "team": "Nova Esports",
+      "team_tag": "NOVA",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.756972111553785,
       "source": "match:777966"
     }
   ]
