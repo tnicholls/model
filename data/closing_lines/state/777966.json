@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Grand Final",
-  "captured_at": "2026-11-01T04:18:04.640205+00:00",
+  "captured_at": "2026-11-01T04:33:43.156706+00:00",
   "lines": [
     {
       "match_id": 777966,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 3.43,
+      "decimal_odds": 3.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29154518950437314,
-      "implied_prob_fair": 0.26865671641791045,
+      "implied_prob_raw": 0.3115264797507788,
+      "implied_prob_fair": 0.2866666666666667,
       "source": "match:777966"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7313432835820896,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7133333333333334,
       "source": "match:777966"
     },
     {
