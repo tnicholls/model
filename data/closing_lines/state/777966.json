@@ -2,12 +2,12 @@
   "match_id": 777966,
   "match_url": "/777966/unsettled-resentment-vs-nova-esports-vct-2026-china-threshold-week-2-gf",
   "date_display": "Sun, November 1, 2026",
-  "time_display": "9:00 AM",
+  "time_display": "3:00 AM",
   "team1": "Unsettled Resentment",
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Grand Final",
-  "captured_at": "2026-11-01T02:06:12.269443+00:00",
+  "captured_at": "2026-11-01T04:02:25.906446+00:00",
   "lines": [
     {
       "match_id": 777966,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 3.09,
+      "decimal_odds": 3.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3236245954692557,
-      "implied_prob_fair": 0.30248306997742663,
+      "implied_prob_raw": 0.29154518950437314,
+      "implied_prob_fair": 0.26865671641791045,
       "source": "match:777966"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6975169300225732,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7313432835820896,
       "source": "match:777966"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 3.35,
+      "decimal_odds": 4.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29850746268656714,
-      "implied_prob_fair": 0.27956989247311825,
+      "implied_prob_raw": 0.23809523809523808,
+      "implied_prob_fair": 0.2222222222222222,
       "source": "match:777966"
     },
     {
@@ -58,39 +58,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7204301075268817,
-      "source": "match:777966"
-    },
-    {
-      "match_id": 777966,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52574",
-      "stage": "pre-match",
-      "team": "Unsettled Resentment",
-      "team_tag": "UR",
-      "decimal_odds": 3.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.24302788844621515,
-      "source": "match:777966"
-    },
-    {
-      "match_id": 777966,
-      "bookmaker": "shuffle",
-      "bet_url": "/rr/bet/52574",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.22,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.756972111553785,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7777777777777778,
       "source": "match:777966"
     }
   ]
