@@ -7,7 +7,7 @@
   "team2": "Nova Esports",
   "event_name": "VCT 2026: China Threshold",
   "series": "Week 2\u2013Grand Final",
-  "captured_at": "2026-11-01T00:14:27.869612+00:00",
+  "captured_at": "2026-11-01T00:47:50.972755+00:00",
   "lines": [
     {
       "match_id": 777966,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 3.25,
+      "decimal_odds": 3.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3076923076923077,
-      "implied_prob_fair": 0.282560706401766,
+      "implied_prob_raw": 0.30959752321981426,
+      "implied_prob_fair": 0.2853982300884956,
       "source": "match:777966"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "Nova Esports",
       "team_tag": "NOVA",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.717439293598234,
-      "source": "match:777966"
-    },
-    {
-      "match_id": 777966,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52571",
-      "stage": "pre-match",
-      "team": "Unsettled Resentment",
-      "team_tag": "UR",
-      "decimal_odds": 3.28,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3048780487804878,
-      "implied_prob_fair": 0.2807017543859649,
-      "source": "match:777966"
-    },
-    {
-      "match_id": 777966,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52571",
-      "stage": "pre-match",
-      "team": "Nova Esports",
-      "team_tag": "NOVA",
-      "decimal_odds": 1.28,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7192982456140351,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7146017699115044,
       "source": "match:777966"
     },
     {
