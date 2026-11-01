@@ -56382,3 +56382,5 @@
 {"bookmaker": "rainbet", "vig": 0.06439880188275571, "sampled_at": "2026-11-01T18:17:26.480928+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "thunderpick", "vig": 0.08672027820039108, "sampled_at": "2026-11-01T05:31:11.174457+00:00", "source": "closing"}
 {"bookmaker": "rainbet", "vig": 0.0714285714285714, "sampled_at": "2026-11-01T05:31:11.174457+00:00", "source": "closing"}
+{"bookmaker": "thunderpick", "vig": 0.06678147722923833, "sampled_at": "2026-11-01T18:33:03.652099+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "rainbet", "vig": 0.06439880188275571, "sampled_at": "2026-11-01T18:33:03.652099+00:00", "source": "pre_match_snapshot"}
