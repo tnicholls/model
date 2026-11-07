@@ -1,0 +1,69 @@
+{
+  "match_id": 785084,
+  "match_url": "/785084/masterclass-vs-fisher-esports-vct-2027-america-kickoff-north-america-open-qualifier-open-qual",
+  "date_display": "Sun, November 8, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Masterclass",
+  "team2": "Fisher Esports",
+  "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
+  "series": "Open Qualifier #1\u2013Round of 32",
+  "captured_at": "2026-11-07T21:26:05.704596+00:00",
+  "lines": [
+    {
+      "match_id": 785084,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52608",
+      "stage": "pre-match",
+      "team": "Masterclass",
+      "team_tag": "MC",
+      "decimal_odds": 1.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8567603748326639,
+      "source": "match:785084"
+    },
+    {
+      "match_id": 785084,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52608",
+      "stage": "pre-match",
+      "team": "Fisher Esports",
+      "team_tag": "FISH",
+      "decimal_odds": 6.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15625,
+      "implied_prob_fair": 0.143239625167336,
+      "source": "match:785084"
+    },
+    {
+      "match_id": 785084,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52609",
+      "stage": "pre-match",
+      "team": "Masterclass",
+      "team_tag": "MC",
+      "decimal_odds": 1.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8567603748326639,
+      "source": "match:785084"
+    },
+    {
+      "match_id": 785084,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52609",
+      "stage": "pre-match",
+      "team": "Fisher Esports",
+      "team_tag": "FISH",
+      "decimal_odds": 6.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15625,
+      "implied_prob_fair": 0.143239625167336,
+      "source": "match:785084"
+    }
+  ]
+}
