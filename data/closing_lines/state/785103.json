@@ -7,40 +7,12 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #1\u2013Round of 8",
-  "captured_at": "2026-11-08T20:37:33.364028+00:00",
+  "captured_at": "2026-11-08T20:53:12.765167+00:00",
   "lines": [
     {
       "match_id": 785103,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52616",
-      "stage": "pre-match",
-      "team": "counterfeit",
-      "team_tag": "FAKE",
-      "decimal_odds": 3.41,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.2698072805139186,
-      "source": "match:785103"
-    },
-    {
-      "match_id": 785103,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52616",
-      "stage": "pre-match",
-      "team": "Masterclass",
-      "team_tag": "MC",
-      "decimal_odds": 1.26,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7301927194860813,
-      "source": "match:785103"
-    },
-    {
-      "match_id": 785103,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52618",
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
@@ -53,8 +25,8 @@
     },
     {
       "match_id": 785103,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52618",
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52616",
       "stage": "pre-match",
       "team": "Masterclass",
       "team_tag": "MC",
@@ -63,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.7874015748031495,
       "implied_prob_fair": 0.7262931034482758,
+      "source": "match:785103"
+    },
+    {
+      "match_id": 785103,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52618",
+      "stage": "pre-match",
+      "team": "counterfeit",
+      "team_tag": "FAKE",
+      "decimal_odds": 3.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.303951367781155,
+      "implied_prob_fair": 0.2816593886462882,
+      "source": "match:785103"
+    },
+    {
+      "match_id": 785103,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52618",
+      "stage": "pre-match",
+      "team": "Masterclass",
+      "team_tag": "MC",
+      "decimal_odds": 1.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7183406113537117,
       "source": "match:785103"
     }
   ]
