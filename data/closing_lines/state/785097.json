@@ -1,0 +1,41 @@
+{
+  "match_id": 785097,
+  "match_url": "/785097/masterclass-vs-yoshi-industries-vct-2027-america-kickoff-north-america-open-qualifier-open-qu",
+  "date_display": "Sun, November 8, 2026",
+  "time_display": "2:10 AM",
+  "team1": "Masterclass",
+  "team2": "yoshi industries",
+  "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
+  "series": "Open Qualifier #1\u2013Round of 16",
+  "captured_at": "2026-11-08T00:15:17.357116+00:00",
+  "lines": [
+    {
+      "match_id": 785097,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52612",
+      "stage": "pre-match",
+      "team": "Masterclass",
+      "team_tag": "MC",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.847457627118644,
+      "source": "match:785097"
+    },
+    {
+      "match_id": 785097,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52612",
+      "stage": "pre-match",
+      "team": "yoshi industries",
+      "team_tag": "YOSH",
+      "decimal_odds": 6.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.16666666666666666,
+      "implied_prob_fair": 0.15254237288135594,
+      "source": "match:785097"
+    }
+  ]
+}
