@@ -7,7 +7,7 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #1\u2013Round of 8",
-  "captured_at": "2026-11-08T20:53:12.765167+00:00",
+  "captured_at": "2026-11-08T21:08:52.822115+00:00",
   "lines": [
     {
       "match_id": 785103,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.37,
+      "decimal_odds": 3.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29673590504451036,
-      "implied_prob_fair": 0.27370689655172414,
+      "implied_prob_raw": 0.3115264797507788,
+      "implied_prob_fair": 0.2866666666666667,
       "source": "match:785103"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7262931034482758,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7133333333333334,
       "source": "match:785103"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.29,
+      "decimal_odds": 3.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.303951367781155,
-      "implied_prob_fair": 0.2816593886462882,
+      "implied_prob_raw": 0.33222591362126247,
+      "implied_prob_fair": 0.3096330275229358,
       "source": "match:785103"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.29,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7751937984496123,
-      "implied_prob_fair": 0.7183406113537117,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6903669724770642,
       "source": "match:785103"
     }
   ]
