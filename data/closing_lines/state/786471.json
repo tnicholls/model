@@ -7,7 +7,7 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Semifinals",
-  "captured_at": "2026-11-08T05:01:07.564222+00:00",
+  "captured_at": "2026-11-08T05:16:47.298616+00:00",
   "lines": [
     {
       "match_id": 786471,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5025125628140703,
       "implied_prob_fair": 0.46070460704607036,
+      "source": "match:786471"
+    },
+    {
+      "match_id": 786471,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52614",
+      "stage": "pre-match",
+      "team": "BONK",
+      "team_tag": "BNK",
+      "decimal_odds": 1.69,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.5395095367847411,
+      "source": "match:786471"
+    },
+    {
+      "match_id": 786471,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52614",
+      "stage": "pre-match",
+      "team": "Pixel Lumina",
+      "team_tag": "PXL",
+      "decimal_odds": 1.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.4604904632152589,
       "source": "match:786471"
     }
   ]
