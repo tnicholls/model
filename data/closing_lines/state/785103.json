@@ -7,7 +7,7 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #1\u2013Round of 8",
-  "captured_at": "2026-11-08T22:58:39.666331+00:00",
+  "captured_at": "2026-11-08T23:14:19.108133+00:00",
   "lines": [
     {
       "match_id": 785103,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.7751937984496123,
       "implied_prob_fair": 0.7133333333333334,
+      "source": "match:785103"
+    },
+    {
+      "match_id": 785103,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52618",
+      "stage": "pre-match",
+      "team": "counterfeit",
+      "team_tag": "FAKE",
+      "decimal_odds": 3.01,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33222591362126247,
+      "implied_prob_fair": 0.3096330275229358,
+      "source": "match:785103"
+    },
+    {
+      "match_id": 785103,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52618",
+      "stage": "pre-match",
+      "team": "Masterclass",
+      "team_tag": "MC",
+      "decimal_odds": 1.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6903669724770642,
       "source": "match:785103"
     }
   ]
