@@ -7,7 +7,7 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #1\u2013Round of 8",
-  "captured_at": "2026-11-08T19:11:09.249375+00:00",
+  "captured_at": "2026-11-08T19:26:49.160280+00:00",
   "lines": [
     {
       "match_id": 785103,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.6,
+      "decimal_odds": 3.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2777777777777778,
-      "implied_prob_fair": 0.256198347107438,
+      "implied_prob_raw": 0.29325513196480935,
+      "implied_prob_fair": 0.2698072805139186,
       "source": "match:785103"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.743801652892562,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7301927194860813,
       "source": "match:785103"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.55,
+      "decimal_odds": 3.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28169014084507044,
-      "implied_prob_fair": 0.26041666666666663,
+      "implied_prob_raw": 0.29673590504451036,
+      "implied_prob_fair": 0.27370689655172414,
       "source": "match:785103"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7395833333333333,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7262931034482758,
       "source": "match:785103"
     }
   ]
