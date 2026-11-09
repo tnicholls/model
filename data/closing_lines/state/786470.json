@@ -7,7 +7,7 @@
   "team2": "F9 EICAR",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Semifinals",
-  "captured_at": "2026-11-09T00:17:16.409744+00:00",
+  "captured_at": "2026-11-09T00:32:56.406727+00:00",
   "lines": [
     {
       "match_id": 786470,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5376344086021505,
       "implied_prob_fair": 0.49318801089918257,
+      "source": "match:786470"
+    },
+    {
+      "match_id": 786470,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52622",
+      "stage": "pre-match",
+      "team": "xXxMasterProMegaTeamxXx",
+      "team_tag": "XXXM",
+      "decimal_odds": 1.81,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.505464480874317,
+      "source": "match:786470"
+    },
+    {
+      "match_id": 786470,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52622",
+      "stage": "pre-match",
+      "team": "F9 EICAR",
+      "team_tag": "F9",
+      "decimal_odds": 1.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.494535519125683,
       "source": "match:786470"
     }
   ]
