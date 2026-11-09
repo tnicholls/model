@@ -7,7 +7,7 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Semifinals",
-  "captured_at": "2026-11-09T21:32:49.478220+00:00",
+  "captured_at": "2026-11-09T21:48:34.402132+00:00",
   "lines": [
     {
       "match_id": 786471,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.16,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7887067395264117,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7982456140350879,
       "source": "match:786471"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 4.33,
+      "decimal_odds": 4.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23094688221709006,
-      "implied_prob_fair": 0.21129326047358832,
+      "implied_prob_raw": 0.21978021978021978,
+      "implied_prob_fair": 0.20175438596491227,
       "source": "match:786471"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7792207792207793,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7982456140350879,
       "source": "match:786471"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 4.2,
+      "decimal_odds": 4.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23809523809523808,
-      "implied_prob_fair": 0.22077922077922077,
+      "implied_prob_raw": 0.21978021978021978,
+      "implied_prob_fair": 0.20175438596491227,
       "source": "match:786471"
     }
   ]
