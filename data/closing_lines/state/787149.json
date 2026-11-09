@@ -7,7 +7,7 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #1\u2013Seeding",
-  "captured_at": "2026-11-09T01:35:43.895806+00:00",
+  "captured_at": "2026-11-09T01:53:28.802701+00:00",
   "lines": [
     {
       "match_id": 787149,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 4.53,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22075055187637968,
-      "implied_prob_fair": 0.2038664323374341,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.44266666666666665,
       "source": "match:787149"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.16,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7961335676625659,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5573333333333332,
       "source": "match:787149"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 4.47,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2237136465324385,
-      "implied_prob_fair": 0.2074468085106383,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.44266666666666665,
       "source": "match:787149"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.7925531914893617,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5573333333333332,
       "source": "match:787149"
     }
   ]
