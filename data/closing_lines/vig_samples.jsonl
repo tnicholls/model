@@ -56533,3 +56533,7 @@
 {"bookmaker": "thunderpick", "vig": 0.09571382533032557, "sampled_at": "2026-11-09T00:32:57.927537+00:00", "source": "pre_match_snapshot"}
 {"bookmaker": "ggbet", "vig": 0.07941995582445038, "sampled_at": "2026-11-09T00:17:10.306606+00:00", "source": "closing"}
 {"bookmaker": "thunderpick", "vig": 0.07876023077955185, "sampled_at": "2026-11-09T00:17:10.306606+00:00", "source": "closing"}
+{"bookmaker": "ggbet", "vig": 0.0901205964474543, "sampled_at": "2026-11-09T00:48:39.141298+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.09302672838584436, "sampled_at": "2026-11-09T00:48:39.141298+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "ggbet", "vig": 0.09037946780034645, "sampled_at": "2026-11-09T00:48:40.871919+00:00", "source": "pre_match_snapshot"}
+{"bookmaker": "thunderpick", "vig": 0.09571382533032557, "sampled_at": "2026-11-09T00:48:40.871919+00:00", "source": "pre_match_snapshot"}
