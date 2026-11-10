@@ -7,7 +7,7 @@
   "team2": "F9 EICAR",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Semifinals",
-  "captured_at": "2026-11-10T15:55:39.571711+00:00",
+  "captured_at": "2026-11-10T16:11:15.189454+00:00",
   "lines": [
     {
       "match_id": 786470,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "xXxMasterProMegaTeamxXx",
       "team_tag": "MPMT",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.5244565217391304,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.4809782608695652,
       "source": "match:786470"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 1.93,
+      "decimal_odds": 1.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.4755434782608696,
+      "implied_prob_raw": 0.5649717514124294,
+      "implied_prob_fair": 0.5190217391304348,
       "source": "match:786470"
     },
     {
