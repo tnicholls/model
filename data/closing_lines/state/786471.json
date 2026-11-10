@@ -7,34 +7,34 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Semifinals",
-  "captured_at": "2026-11-10T16:11:16.744916+00:00",
+  "captured_at": "2026-11-10T16:26:53.334553+00:00",
   "lines": [
     {
       "match_id": 786471,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52613",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6883720930232559,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.846262341325811,
       "source": "match:786471"
     },
     {
       "match_id": 786471,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52613",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 2.96,
+      "decimal_odds": 6.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31162790697674425,
+      "implied_prob_raw": 0.16666666666666666,
+      "implied_prob_fair": 0.153737658674189,
       "source": "match:786471"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6883720930232559,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8575197889182057,
       "source": "match:786471"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 2.96,
+      "decimal_odds": 6.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33783783783783783,
-      "implied_prob_fair": 0.31162790697674425,
+      "implied_prob_raw": 0.15384615384615385,
+      "implied_prob_fair": 0.1424802110817942,
       "source": "match:786471"
     }
   ]
