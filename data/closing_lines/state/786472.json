@@ -7,8 +7,36 @@
   "team2": "Aurora Gaming",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Grand Final",
-  "captured_at": "2026-11-10T18:42:43.363070+00:00",
+  "captured_at": "2026-11-10T18:58:54.767562+00:00",
   "lines": [
+    {
+      "match_id": 786472,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52630",
+      "stage": "live",
+      "team": "F9 EICAR",
+      "team_tag": "F9",
+      "decimal_odds": 1.95,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.4743935309973046,
+      "source": "match:786472"
+    },
+    {
+      "match_id": 786472,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52630",
+      "stage": "live",
+      "team": "Aurora Gaming",
+      "team_tag": "AURA",
+      "decimal_odds": 1.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5256064690026954,
+      "source": "match:786472"
+    },
     {
       "match_id": 786472,
       "bookmaker": "thunderpick",
@@ -16,11 +44,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 3.08,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3246753246753247,
-      "implied_prob_fair": 0.2984054669703873,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5283018867924527,
       "source": "match:786472"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7015945330296127,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.4716981132075471,
       "source": "match:786472"
     }
   ]
