@@ -7,7 +7,7 @@
   "team2": "Aurora Gaming",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Grand Final",
-  "captured_at": "2026-11-10T20:06:59.380224+00:00",
+  "captured_at": "2026-11-10T20:42:57.829149+00:00",
   "lines": [
     {
       "match_id": 786472,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 2.91,
+      "decimal_odds": 3.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3436426116838488,
-      "implied_prob_fair": 0.3185011709601874,
+      "implied_prob_raw": 0.2881844380403458,
+      "implied_prob_fair": 0.266384778012685,
       "source": "match:786472"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6814988290398126,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.733615221987315,
       "source": "match:786472"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 2.91,
+      "decimal_odds": 3.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3436426116838488,
-      "implied_prob_fair": 0.3185011709601874,
+      "implied_prob_raw": 0.28735632183908044,
+      "implied_prob_fair": 0.26582278481012656,
       "source": "match:786472"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6814988290398126,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7341772151898733,
       "source": "match:786472"
     }
   ]
