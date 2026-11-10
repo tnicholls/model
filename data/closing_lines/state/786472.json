@@ -1,0 +1,41 @@
+{
+  "match_id": 786472,
+  "match_url": "/786472/f9-eicar-vs-aurora-gaming-vct-2027-emea-kickoff-europe-qualifier-qualifier-1-gf",
+  "date_display": "Tue, November 10, 2026",
+  "time_display": "8:30 PM",
+  "team1": "F9 EICAR",
+  "team2": "Aurora Gaming",
+  "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
+  "series": "Qualifier #1\u2013Grand Final",
+  "captured_at": "2026-11-10T18:42:43.363070+00:00",
+  "lines": [
+    {
+      "match_id": 786472,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52629",
+      "stage": "live",
+      "team": "F9 EICAR",
+      "team_tag": "F9",
+      "decimal_odds": 3.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3246753246753247,
+      "implied_prob_fair": 0.2984054669703873,
+      "source": "match:786472"
+    },
+    {
+      "match_id": 786472,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52629",
+      "stage": "live",
+      "team": "Aurora Gaming",
+      "team_tag": "AURA",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7015945330296127,
+      "source": "match:786472"
+    }
+  ]
+}

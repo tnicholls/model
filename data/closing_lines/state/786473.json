@@ -1,0 +1,41 @@
+{
+  "match_id": 786473,
+  "match_url": "/786473/xxxmasterpromegateamxxx-vs-pixel-lumina-vct-2027-emea-kickoff-europe-qualifier-qualifier-1-co",
+  "date_display": "Tue, November 10, 2026",
+  "time_display": "8:30 PM",
+  "team1": "xXxMasterProMegaTeamxXx",
+  "team2": "Pixel Lumina",
+  "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
+  "series": "Qualifier #1\u2013Consolation",
+  "captured_at": "2026-11-10T18:42:46.764814+00:00",
+  "lines": [
+    {
+      "match_id": 786473,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52628",
+      "stage": "live",
+      "team": "xXxMasterProMegaTeamxXx",
+      "team_tag": "MPMT",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.42780748663101603,
+      "source": "match:786473"
+    },
+    {
+      "match_id": 786473,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52628",
+      "stage": "live",
+      "team": "Pixel Lumina",
+      "team_tag": "PXL",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5721925133689839,
+      "source": "match:786473"
+    }
+  ]
+}
