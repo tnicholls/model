@@ -7,7 +7,7 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #1\u2013Semifinals",
-  "captured_at": "2026-11-10T12:48:21.851734+00:00",
+  "captured_at": "2026-11-10T13:03:58.517719+00:00",
   "lines": [
     {
       "match_id": 786471,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7709923664122138,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7763157894736842,
       "source": "match:786471"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 4.04,
+      "decimal_odds": 4.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24752475247524752,
-      "implied_prob_fair": 0.22900763358778628,
-      "source": "match:786471"
-    },
-    {
-      "match_id": 786471,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52614",
-      "stage": "pre-match",
-      "team": "Aurora Gaming",
-      "team_tag": "AURA",
-      "decimal_odds": 1.2,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7718631178707224,
-      "source": "match:786471"
-    },
-    {
-      "match_id": 786471,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52614",
-      "stage": "pre-match",
-      "team": "Pixel Lumina",
-      "team_tag": "PXL",
-      "decimal_odds": 4.06,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.24630541871921185,
-      "implied_prob_fair": 0.22813688212927757,
+      "implied_prob_raw": 0.24213075060532688,
+      "implied_prob_fair": 0.2236842105263158,
       "source": "match:786471"
     }
   ]
