@@ -7,7 +7,7 @@
   "team2": "Original Gaming",
   "event_name": "Predator League 2027: Vietnam",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-11-11T23:25:02.405001+00:00",
+  "captured_at": "2026-11-11T23:40:31.118125+00:00",
   "lines": [
     {
       "match_id": 784392,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.2695417789757412,
       "implied_prob_fair": 0.2459349593495935,
+      "source": "match:784392"
+    },
+    {
+      "match_id": 784392,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52635",
+      "stage": "pre-match",
+      "team": "Fancy United Esports",
+      "team_tag": "FCY",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7578740157480315,
+      "source": "match:784392"
+    },
+    {
+      "match_id": 784392,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52635",
+      "stage": "pre-match",
+      "team": "Original Gaming",
+      "team_tag": "OG",
+      "decimal_odds": 3.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2597402597402597,
+      "implied_prob_fair": 0.24212598425196846,
       "source": "match:784392"
     }
   ]
