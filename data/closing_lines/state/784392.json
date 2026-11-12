@@ -7,7 +7,7 @@
   "team2": "Original Gaming",
   "event_name": "Predator League 2027: Vietnam",
   "series": "Main Event\u2013Grand Final",
-  "captured_at": "2026-11-12T09:24:01.097708+00:00",
+  "captured_at": "2026-11-12T18:09:24.733030+00:00",
   "lines": [
     {
       "match_id": 784392,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7525354969574036,
+      "implied_prob_fair": 0.7550200803212852,
       "source": "match:784392"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Original Gaming",
       "team_tag": "OG",
-      "decimal_odds": 3.71,
+      "decimal_odds": 3.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2695417789757412,
-      "implied_prob_fair": 0.24746450304259632,
+      "implied_prob_raw": 0.26595744680851063,
+      "implied_prob_fair": 0.24497991967871485,
       "source": "match:784392"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7540650406504066,
+      "implied_prob_fair": 0.758,
       "source": "match:784392"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Original Gaming",
       "team_tag": "OG",
-      "decimal_odds": 3.71,
+      "decimal_odds": 3.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2695417789757412,
-      "implied_prob_fair": 0.2459349593495935,
+      "implied_prob_raw": 0.2638522427440633,
+      "implied_prob_fair": 0.242,
       "source": "match:784392"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Fancy United Esports",
       "team_tag": "FCY",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7578740157480315,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.76171875,
       "source": "match:784392"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Original Gaming",
       "team_tag": "OG",
-      "decimal_odds": 3.85,
+      "decimal_odds": 3.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2597402597402597,
-      "implied_prob_fair": 0.24212598425196846,
+      "implied_prob_raw": 0.25641025641025644,
+      "implied_prob_fair": 0.23828125000000003,
       "source": "match:784392"
     }
   ]
