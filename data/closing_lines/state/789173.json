@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Round of 16",
-  "captured_at": "2026-11-14T08:01:14.010105+00:00",
+  "captured_at": "2026-11-14T09:16:22.714124+00:00",
   "lines": [
     {
       "match_id": 789173,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6451612903225806,
       "implied_prob_fair": 0.5921052631578947,
+      "source": "match:789173"
+    },
+    {
+      "match_id": 789173,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52650",
+      "stage": "pre-match",
+      "team": "TEAM GEORGE",
+      "team_tag": "GRG",
+      "decimal_odds": 2.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.4095744680851064,
+      "source": "match:789173"
+    },
+    {
+      "match_id": 789173,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52650",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 1.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.5904255319148937,
       "source": "match:789173"
     }
   ]
