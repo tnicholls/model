@@ -7,7 +7,7 @@
   "team2": "UNTAMABLE BEASTS",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #2\u2013Round of 8",
-  "captured_at": "2026-11-15T23:04:09.844184+00:00",
+  "captured_at": "2026-11-15T23:19:41.727149+00:00",
   "lines": [
     {
       "match_id": 789941,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Yellow Dragon Gaming",
       "team_tag": "YDG",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7241379310344828,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8063973063973064,
       "source": "match:789941"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "UNTAMABLE BEASTS",
       "team_tag": "UB",
-      "decimal_odds": 3.36,
+      "decimal_odds": 4.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2976190476190476,
-      "implied_prob_fair": 0.27586206896551724,
+      "implied_prob_raw": 0.20876826722338204,
+      "implied_prob_fair": 0.1936026936026936,
       "source": "match:789941"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Yellow Dragon Gaming",
       "team_tag": "YDG",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7603143418467585,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8063973063973064,
       "source": "match:789941"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "UNTAMABLE BEASTS",
       "team_tag": "UB",
-      "decimal_odds": 3.87,
+      "decimal_odds": 4.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25839793281653745,
-      "implied_prob_fair": 0.23968565815324167,
+      "implied_prob_raw": 0.20876826722338204,
+      "implied_prob_fair": 0.1936026936026936,
       "source": "match:789941"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "yoshi industries",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #2\u2013Round of 8",
-  "captured_at": "2026-11-15T23:04:11.322906+00:00",
+  "captured_at": "2026-11-15T23:19:43.205340+00:00",
   "lines": [
     {
       "match_id": 789943,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.21052631578947367,
       "implied_prob_fair": 0.19491525423728812,
-      "source": "match:789943"
-    },
-    {
-      "match_id": 789943,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52665",
-      "stage": "live",
-      "team": "Wildcard",
-      "team_tag": "WC",
-      "decimal_odds": 1.14,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8067796610169492,
-      "source": "match:789943"
-    },
-    {
-      "match_id": 789943,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52665",
-      "stage": "live",
-      "team": "yoshi industries",
-      "team_tag": "YOSH",
-      "decimal_odds": 4.76,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.21008403361344538,
-      "implied_prob_fair": 0.19322033898305085,
       "source": "match:789943"
     }
   ]
