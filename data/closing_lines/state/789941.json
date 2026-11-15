@@ -1,0 +1,41 @@
+{
+  "match_id": 789941,
+  "match_url": "/789941/yellow-dragon-gaming-vs-untamable-beasts-vct-2027-america-kickoff-north-america-open-qualifier-open-qualifier-2-ro8",
+  "date_display": "Mon, November 16, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Yellow Dragon Gaming",
+  "team2": "UNTAMABLE BEASTS",
+  "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
+  "series": "Open Qualifier #2\u2013Round of 8",
+  "captured_at": "2026-11-15T13:38:39.708709+00:00",
+  "lines": [
+    {
+      "match_id": 789941,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52658",
+      "stage": "pre-match",
+      "team": "Yellow Dragon Gaming",
+      "team_tag": "YDG",
+      "decimal_odds": 1.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6195372750642673,
+      "source": "match:789941"
+    },
+    {
+      "match_id": 789941,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52658",
+      "stage": "pre-match",
+      "team": "UNTAMABLE BEASTS",
+      "team_tag": "UB",
+      "decimal_odds": 2.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.3804627249357326,
+      "source": "match:789941"
+    }
+  ]
+}
