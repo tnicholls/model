@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Semifinals",
-  "captured_at": "2026-11-15T17:18:04.874965+00:00",
+  "captured_at": "2026-11-15T17:33:46.597638+00:00",
   "lines": [
     {
       "match_id": 790756,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 3.74,
+      "decimal_odds": 2.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.267379679144385,
-      "implied_prob_fair": 0.24748490945674043,
+      "implied_prob_raw": 0.35587188612099646,
+      "implied_prob_fair": 0.32935560859188545,
       "source": "match:790756"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7525150905432596,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6706443914081146,
       "source": "match:790756"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 4.18,
+      "decimal_odds": 2.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23923444976076558,
-      "implied_prob_fair": 0.22160148975791435,
+      "implied_prob_raw": 0.35211267605633806,
+      "implied_prob_fair": 0.32541567695962,
       "source": "match:790756"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7783985102420856,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6745843230403801,
       "source": "match:790756"
     }
   ]
