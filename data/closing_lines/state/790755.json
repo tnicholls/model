@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Semifinals",
-  "captured_at": "2026-11-15T16:46:39.957180+00:00",
+  "captured_at": "2026-11-15T17:02:21.465369+00:00",
   "lines": [
     {
       "match_id": 790755,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.4743935309973046,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.47849462365591405,
       "source": "match:790755"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5256064690026954,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5215053763440861,
       "source": "match:790755"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.4743935309973046,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.4945945945945946,
       "source": "match:790755"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 1.76,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5681818181818182,
-      "implied_prob_fair": 0.5256064690026954,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5054054054054055,
       "source": "match:790755"
     }
   ]
