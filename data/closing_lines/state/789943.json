@@ -7,7 +7,7 @@
   "team2": "yoshi industries",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #2\u2013Round of 8",
-  "captured_at": "2026-11-15T17:33:56.238469+00:00",
+  "captured_at": "2026-11-15T21:39:36.100514+00:00",
   "lines": [
     {
       "match_id": 789943,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8240887480190174,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8121911037891268,
       "source": "match:789943"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "yoshi industries",
       "team_tag": "YOSH",
-      "decimal_odds": 5.2,
+      "decimal_odds": 4.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1923076923076923,
-      "implied_prob_fair": 0.17591125198098256,
+      "implied_prob_raw": 0.20283975659229211,
+      "implied_prob_fair": 0.18780889621087316,
       "source": "match:789943"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8240887480190174,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8169934640522876,
       "source": "match:789943"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "yoshi industries",
       "team_tag": "YOSH",
-      "decimal_odds": 5.2,
+      "decimal_odds": 5.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1923076923076923,
-      "implied_prob_fair": 0.17591125198098256,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.18300653594771243,
       "source": "match:789943"
     }
   ]
