@@ -1,0 +1,41 @@
+{
+  "match_id": 790755,
+  "match_url": "/790755/bar-a-esports-vs-wip-esports-vct-2027-emea-kickoff-europe-qualifier-qualifier-2-sf",
+  "date_display": "Sun, November 15, 2026",
+  "time_display": "6:00 PM",
+  "team1": "Bar\u00e7a eSports",
+  "team2": "WIP Esports",
+  "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
+  "series": "Qualifier #2\u2013Semifinals",
+  "captured_at": "2026-11-15T14:25:17.968194+00:00",
+  "lines": [
+    {
+      "match_id": 790755,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52659",
+      "stage": "pre-match",
+      "team": "Bar\u00e7a eSports",
+      "team_tag": "BAR",
+      "decimal_odds": 1.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6416040100250627,
+      "source": "match:790755"
+    },
+    {
+      "match_id": 790755,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52659",
+      "stage": "pre-match",
+      "team": "WIP Esports",
+      "team_tag": "WIP",
+      "decimal_odds": 2.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.3583959899749373,
+      "source": "match:790755"
+    }
+  ]
+}

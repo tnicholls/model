@@ -7,7 +7,7 @@
   "team2": "UNTAMABLE BEASTS",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #2\u2013Round of 8",
-  "captured_at": "2026-11-15T14:09:47.297755+00:00",
+  "captured_at": "2026-11-15T14:25:27.682316+00:00",
   "lines": [
     {
       "match_id": 789941,
@@ -27,6 +27,34 @@
       "match_id": 789941,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52658",
+      "stage": "pre-match",
+      "team": "UNTAMABLE BEASTS",
+      "team_tag": "UB",
+      "decimal_odds": 2.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.3804627249357326,
+      "source": "match:789941"
+    },
+    {
+      "match_id": 789941,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52664",
+      "stage": "pre-match",
+      "team": "Yellow Dragon Gaming",
+      "team_tag": "YDG",
+      "decimal_odds": 1.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6195372750642673,
+      "source": "match:789941"
+    },
+    {
+      "match_id": 789941,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52664",
       "stage": "pre-match",
       "team": "UNTAMABLE BEASTS",
       "team_tag": "UB",
