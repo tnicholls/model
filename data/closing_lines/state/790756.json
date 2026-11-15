@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Semifinals",
-  "captured_at": "2026-11-15T16:15:18.028814+00:00",
+  "captured_at": "2026-11-15T16:30:59.645541+00:00",
   "lines": [
     {
       "match_id": 790756,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 3.51,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2849002849002849,
-      "implied_prob_fair": 0.2641509433962264,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.42857142857142855,
       "source": "match:790756"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7358490566037735,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5714285714285714,
       "source": "match:790756"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 3.62,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27624309392265195,
-      "implied_prob_fair": 0.2551440329218107,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.42105263157894735,
       "source": "match:790756"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7448559670781892,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5789473684210527,
       "source": "match:790756"
     }
   ]

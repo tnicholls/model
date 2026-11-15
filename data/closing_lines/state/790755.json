@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Semifinals",
-  "captured_at": "2026-11-15T16:15:16.381000+00:00",
+  "captured_at": "2026-11-15T16:30:57.978980+00:00",
   "lines": [
     {
       "match_id": 790755,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7677543186180423,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6658653846153846,
       "source": "match:790755"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 4.0,
+      "decimal_odds": 2.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25,
-      "implied_prob_fair": 0.23224568138195778,
+      "implied_prob_raw": 0.36101083032490977,
+      "implied_prob_fair": 0.33413461538461536,
       "source": "match:790755"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7395833333333333,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6690647482014388,
       "source": "match:790755"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 3.55,
+      "decimal_odds": 2.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28169014084507044,
-      "implied_prob_fair": 0.26041666666666663,
+      "implied_prob_raw": 0.35842293906810035,
+      "implied_prob_fair": 0.3309352517985611,
       "source": "match:790755"
     }
   ]
