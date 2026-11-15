@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Semifinals",
-  "captured_at": "2026-11-15T14:41:09.041442+00:00",
+  "captured_at": "2026-11-15T14:56:48.693482+00:00",
   "lines": [
     {
       "match_id": 790756,
@@ -27,6 +27,34 @@
       "match_id": 790756,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52660",
+      "stage": "pre-match",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 1.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6951501154734412,
+      "source": "match:790756"
+    },
+    {
+      "match_id": 790756,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52661",
+      "stage": "pre-match",
+      "team": "La Masia",
+      "team_tag": "MSA",
+      "decimal_odds": 3.01,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33222591362126247,
+      "implied_prob_fair": 0.3048498845265589,
+      "source": "match:790756"
+    },
+    {
+      "match_id": 790756,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52661",
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
