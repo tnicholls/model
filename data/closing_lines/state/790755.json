@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier",
   "series": "Qualifier #2\u2013Semifinals",
-  "captured_at": "2026-11-15T15:28:10.944977+00:00",
+  "captured_at": "2026-11-15T15:43:52.886635+00:00",
   "lines": [
     {
       "match_id": 790755,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6425000000000001,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7136465324384786,
       "source": "match:790755"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.57,
+      "decimal_odds": 3.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38910505836575876,
-      "implied_prob_fair": 0.3575,
+      "implied_prob_raw": 0.31347962382445144,
+      "implied_prob_fair": 0.28635346756152125,
       "source": "match:790755"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6416040100250627,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7058823529411765,
       "source": "match:790755"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.56,
+      "decimal_odds": 3.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3583959899749373,
+      "implied_prob_raw": 0.3205128205128205,
+      "implied_prob_fair": 0.29411764705882354,
       "source": "match:790755"
     }
   ]
