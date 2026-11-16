@@ -1,0 +1,69 @@
+{
+  "match_id": 790841,
+  "match_url": "/790841/wildcard-vs-counterfeit-vct-2027-america-kickoff-north-america-open-qualifier-open-qualifier-2-seeding",
+  "date_display": "Mon, November 16, 2026",
+  "time_display": "2:00 AM",
+  "team1": "Wildcard",
+  "team2": "counterfeit",
+  "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
+  "series": "Open Qualifier #2\u2013Seeding",
+  "captured_at": "2026-11-16T01:18:23.780640+00:00",
+  "lines": [
+    {
+      "match_id": 790841,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52668",
+      "stage": "live",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8143322475570033,
+      "source": "match:790841"
+    },
+    {
+      "match_id": 790841,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52668",
+      "stage": "live",
+      "team": "counterfeit",
+      "team_tag": "FAKE",
+      "decimal_odds": 5.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.18566775244299674,
+      "source": "match:790841"
+    },
+    {
+      "match_id": 790841,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52669",
+      "stage": "live",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.832072617246596,
+      "source": "match:790841"
+    },
+    {
+      "match_id": 790841,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52669",
+      "stage": "live",
+      "team": "counterfeit",
+      "team_tag": "FAKE",
+      "decimal_odds": 5.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.18181818181818182,
+      "implied_prob_fair": 0.16792738275340394,
+      "source": "match:790841"
+    }
+  ]
+}
