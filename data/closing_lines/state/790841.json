@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Open Qualifier",
   "series": "Open Qualifier #2\u2013Seeding",
-  "captured_at": "2026-11-16T01:18:23.780640+00:00",
+  "captured_at": "2026-11-16T01:33:52.579896+00:00",
   "lines": [
     {
       "match_id": 790841,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8143322475570033,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8732057416267942,
       "source": "match:790841"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 5.0,
+      "decimal_odds": 7.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2,
-      "implied_prob_fair": 0.18566775244299674,
+      "implied_prob_raw": 0.136986301369863,
+      "implied_prob_fair": 0.12679425837320574,
       "source": "match:790841"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.832072617246596,
+      "implied_prob_raw": 0.9433962264150942,
+      "implied_prob_fair": 0.8732057416267942,
       "source": "match:790841"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 5.5,
+      "decimal_odds": 7.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18181818181818182,
-      "implied_prob_fair": 0.16792738275340394,
+      "implied_prob_raw": 0.136986301369863,
+      "implied_prob_fair": 0.12679425837320574,
       "source": "match:790841"
     }
   ]
