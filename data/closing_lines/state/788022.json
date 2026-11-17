@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T05:17:39.339815+00:00",
+  "captured_at": "2026-11-17T05:33:22.480769+00:00",
   "lines": [
     {
       "match_id": 788022,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.8333333333333334,
       "implied_prob_fair": 0.761904761904762,
+      "source": "match:788022"
+    },
+    {
+      "match_id": 788022,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52680",
+      "stage": "pre-match",
+      "team": "Young Gaming",
+      "team_tag": "YG",
+      "decimal_odds": 3.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2610966057441253,
+      "implied_prob_fair": 0.23856858846918483,
+      "source": "match:788022"
+    },
+    {
+      "match_id": 788022,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52680",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7614314115308151,
       "source": "match:788022"
     }
   ]

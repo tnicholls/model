@@ -7,7 +7,7 @@
   "team2": "Hyper Tide Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T05:17:33.263938+00:00",
+  "captured_at": "2026-11-17T05:33:16.196681+00:00",
   "lines": [
     {
       "match_id": 788018,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xunjing Esports",
       "team_tag": "XJG",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6113989637305699,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6067708333333334,
       "source": "match:788018"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Hyper Tide Gaming",
       "team_tag": "HTG",
-      "decimal_odds": 2.36,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.38860103626943004,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.39322916666666663,
       "source": "match:788018"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xunjing Esports",
       "team_tag": "XJG",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6139896373056994,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6031331592689295,
       "source": "match:788018"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Hyper Tide Gaming",
       "team_tag": "HTG",
-      "decimal_odds": 2.37,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42194092827004215,
-      "implied_prob_fair": 0.38601036269430045,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.3968668407310705,
       "source": "match:788018"
     }
   ]
