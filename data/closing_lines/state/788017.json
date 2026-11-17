@@ -7,7 +7,7 @@
   "team2": "A Team",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T07:25:21.606141+00:00",
+  "captured_at": "2026-11-17T07:41:04.843408+00:00",
   "lines": [
     {
       "match_id": 788017,
@@ -27,34 +27,6 @@
       "match_id": 788017,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52675",
-      "stage": "pre-match",
-      "team": "A Team",
-      "team_tag": "AT",
-      "decimal_odds": 1.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8333333333333334,
-      "source": "match:788017"
-    },
-    {
-      "match_id": 788017,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52677",
-      "stage": "pre-match",
-      "team": "Qian Xing Gaming",
-      "team_tag": "QXG",
-      "decimal_odds": 5.5,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.18181818181818182,
-      "implied_prob_fair": 0.16666666666666669,
-      "source": "match:788017"
-    },
-    {
-      "match_id": 788017,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52677",
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
