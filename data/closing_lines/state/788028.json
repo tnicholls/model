@@ -7,7 +7,7 @@
   "team2": "Unsettled Resentment",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-17T17:33:16.920321+00:00",
+  "captured_at": "2026-11-17T23:12:36.209494+00:00",
   "lines": [
     {
       "match_id": 788028,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xunjing Esports",
       "team_tag": "XJG",
-      "decimal_odds": 2.88,
+      "decimal_odds": 2.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3472222222222222,
-      "implied_prob_fair": 0.3191489361702128,
+      "implied_prob_raw": 0.3508771929824561,
+      "implied_prob_fair": 0.32142857142857145,
       "source": "match:788028"
     },
     {
@@ -34,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6808510638297873,
+      "implied_prob_fair": 0.6785714285714286,
       "source": "match:788028"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xunjing Esports",
       "team_tag": "XJG",
-      "decimal_odds": 2.84,
+      "decimal_odds": 2.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35211267605633806,
-      "implied_prob_fair": 0.3205741626794259,
+      "implied_prob_raw": 0.35335689045936397,
+      "implied_prob_fair": 0.3229665071770335,
       "source": "match:788028"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.34,
+      "decimal_odds": 1.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7462686567164178,
-      "implied_prob_fair": 0.6794258373205742,
+      "implied_prob_raw": 0.7407407407407407,
+      "implied_prob_fair": 0.6770334928229664,
       "source": "match:788028"
     }
   ]
