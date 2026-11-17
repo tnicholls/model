@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T02:24:24.771749+00:00",
+  "captured_at": "2026-11-17T02:40:07.595094+00:00",
   "lines": [
     {
       "match_id": 788019,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.8771929824561404,
       "implied_prob_fair": 0.8074324324324325,
+      "source": "match:788019"
+    },
+    {
+      "match_id": 788019,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52679",
+      "stage": "pre-match",
+      "team": "Ambitious Legend Gaming",
+      "team_tag": "ALG",
+      "decimal_odds": 4.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.21008403361344538,
+      "implied_prob_fair": 0.19322033898305085,
+      "source": "match:788019"
+    },
+    {
+      "match_id": 788019,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52679",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8067796610169492,
       "source": "match:788019"
     }
   ]
