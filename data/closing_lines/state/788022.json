@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T08:44:05.184459+00:00",
+  "captured_at": "2026-11-17T12:53:25.995282+00:00",
   "lines": [
     {
       "match_id": 788022,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 3.84,
+      "decimal_odds": 4.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2604166666666667,
-      "implied_prob_fair": 0.2380952380952381,
+      "implied_prob_raw": 0.2247191011235955,
+      "implied_prob_fair": 0.20535714285714285,
       "source": "match:788022"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.761904761904762,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7946428571428572,
       "source": "match:788022"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 3.83,
+      "decimal_odds": 4.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2610966057441253,
-      "implied_prob_fair": 0.23856858846918483,
+      "implied_prob_raw": 0.2247191011235955,
+      "implied_prob_fair": 0.20535714285714285,
       "source": "match:788022"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7614314115308151,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7946428571428572,
       "source": "match:788022"
     }
   ]
