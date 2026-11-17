@@ -7,7 +7,7 @@
   "team2": "Havoc & Yonder Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T03:27:20.005577+00:00",
+  "captured_at": "2026-11-17T03:43:04.037568+00:00",
   "lines": [
     {
       "match_id": 788020,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LGD Gaming",
       "team_tag": "LGD",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6275510204081634,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6195372750642673,
       "source": "match:788020"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Havoc & Yonder Gaming",
       "team_tag": "HYG",
-      "decimal_odds": 2.46,
+      "decimal_odds": 2.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4065040650406504,
-      "implied_prob_fair": 0.37244897959183676,
+      "implied_prob_raw": 0.41493775933609955,
+      "implied_prob_fair": 0.3804627249357326,
       "source": "match:788020"
     }
   ]
