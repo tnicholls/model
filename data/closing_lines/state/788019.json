@@ -1,0 +1,41 @@
+{
+  "match_id": 788019,
+  "match_url": "/788019/ambitious-legend-gaming-vs-keepbest-gaming-china-national-tournament-season-7-pro-qualifier-d5",
+  "date_display": "Tue, November 17, 2026",
+  "time_display": "10:30 AM",
+  "team1": "Ambitious Legend Gaming",
+  "team2": "KeepBest Gaming",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Group Stage\u2013Day 5",
+  "captured_at": "2026-11-17T02:08:41.497889+00:00",
+  "lines": [
+    {
+      "match_id": 788019,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52676",
+      "stage": "pre-match",
+      "team": "Ambitious Legend Gaming",
+      "team_tag": "ALG",
+      "decimal_odds": 4.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.20920502092050208,
+      "implied_prob_fair": 0.19256756756756754,
+      "source": "match:788019"
+    },
+    {
+      "match_id": 788019,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52676",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8074324324324325,
+      "source": "match:788019"
+    }
+  ]
+}

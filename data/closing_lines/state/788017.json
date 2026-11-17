@@ -1,0 +1,69 @@
+{
+  "match_id": 788017,
+  "match_url": "/788017/qian-xing-gaming-vs-a-team-china-national-tournament-season-7-pro-qualifier-d5",
+  "date_display": "Tue, November 17, 2026",
+  "time_display": "8:00 AM",
+  "team1": "Qian Xing Gaming",
+  "team2": "A Team",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Group Stage\u2013Day 5",
+  "captured_at": "2026-11-17T02:08:38.329375+00:00",
+  "lines": [
+    {
+      "match_id": 788017,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52675",
+      "stage": "pre-match",
+      "team": "Qian Xing Gaming",
+      "team_tag": "QXG",
+      "decimal_odds": 5.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.18518518518518517,
+      "implied_prob_fair": 0.1692307692307692,
+      "source": "match:788017"
+    },
+    {
+      "match_id": 788017,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52675",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 1.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8307692307692307,
+      "source": "match:788017"
+    },
+    {
+      "match_id": 788017,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52677",
+      "stage": "pre-match",
+      "team": "Qian Xing Gaming",
+      "team_tag": "QXG",
+      "decimal_odds": 5.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.18518518518518517,
+      "implied_prob_fair": 0.17050691244239632,
+      "source": "match:788017"
+    },
+    {
+      "match_id": 788017,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52677",
+      "stage": "pre-match",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8294930875576038,
+      "source": "match:788017"
+    }
+  ]
+}
