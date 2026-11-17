@@ -7,7 +7,7 @@
   "team2": "Victory No Limits Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T06:04:48.229432+00:00",
+  "captured_at": "2026-11-17T06:20:32.169489+00:00",
   "lines": [
     {
       "match_id": 788021,
@@ -27,6 +27,34 @@
       "match_id": 788021,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52672",
+      "stage": "pre-match",
+      "team": "Victory No Limits Gaming",
+      "team_tag": "VLG",
+      "decimal_odds": 2.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35335689045936397,
+      "implied_prob_fair": 0.324582338902148,
+      "source": "match:788021"
+    },
+    {
+      "match_id": 788021,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52673",
+      "stage": "pre-match",
+      "team": "Titan Esports Club",
+      "team_tag": "TEC",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6754176610978521,
+      "source": "match:788021"
+    },
+    {
+      "match_id": 788021,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52673",
       "stage": "pre-match",
       "team": "Victory No Limits Gaming",
       "team_tag": "VLG",
