@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 5",
-  "captured_at": "2026-11-17T06:53:58.460500+00:00",
+  "captured_at": "2026-11-17T07:09:41.676013+00:00",
   "lines": [
     {
       "match_id": 788019,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Ambitious Legend Gaming",
       "team_tag": "ALG",
-      "decimal_odds": 4.78,
+      "decimal_odds": 4.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20920502092050208,
-      "implied_prob_fair": 0.19256756756756754,
+      "implied_prob_raw": 0.22573363431151244,
+      "implied_prob_fair": 0.2075134168157424,
       "source": "match:788019"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8074324324324325,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7924865831842576,
       "source": "match:788019"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Ambitious Legend Gaming",
       "team_tag": "ALG",
-      "decimal_odds": 4.76,
+      "decimal_odds": 4.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21008403361344538,
-      "implied_prob_fair": 0.19322033898305085,
+      "implied_prob_raw": 0.22675736961451246,
+      "implied_prob_fair": 0.2082585278276481,
       "source": "match:788019"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8067796610169492,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7917414721723518,
       "source": "match:788019"
     }
   ]
