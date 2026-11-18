@@ -7,7 +7,7 @@
   "team2": "LNG Esports",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-18T00:57:40.985955+00:00",
+  "captured_at": "2026-11-18T01:13:15.949297+00:00",
   "lines": [
     {
       "match_id": 788027,
@@ -27,34 +27,6 @@
       "match_id": 788027,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52696",
-      "stage": "pre-match",
-      "team": "LNG Esports",
-      "team_tag": "LNG",
-      "decimal_odds": 1.5,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6113989637305699,
-      "source": "match:788027"
-    },
-    {
-      "match_id": 788027,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52700",
-      "stage": "pre-match",
-      "team": "Qian Xing Gaming",
-      "team_tag": "QXG",
-      "decimal_odds": 2.36,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.42372881355932207,
-      "implied_prob_fair": 0.38860103626943004,
-      "source": "match:788027"
-    },
-    {
-      "match_id": 788027,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52700",
       "stage": "pre-match",
       "team": "LNG Esports",
       "team_tag": "LNG",

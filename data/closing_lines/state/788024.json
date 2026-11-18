@@ -7,7 +7,7 @@
   "team2": "FunPlus Phoenix",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-18T00:57:36.054066+00:00",
+  "captured_at": "2026-11-18T01:13:11.000379+00:00",
   "lines": [
     {
       "match_id": 788024,
@@ -27,6 +27,34 @@
       "match_id": 788024,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52686",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.847457627118644,
+      "source": "match:788024"
+    },
+    {
+      "match_id": 788024,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52690",
+      "stage": "pre-match",
+      "team": "LGD Gaming",
+      "team_tag": "LGD",
+      "decimal_odds": 6.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.16666666666666666,
+      "implied_prob_fair": 0.15254237288135594,
+      "source": "match:788024"
+    },
+    {
+      "match_id": 788024,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52690",
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
