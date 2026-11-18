@@ -7,7 +7,7 @@
   "team2": "Second E-sport Club",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-18T02:42:29.323146+00:00",
+  "captured_at": "2026-11-18T02:58:15.965721+00:00",
   "lines": [
     {
       "match_id": 788023,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Ambitious Legend Gaming",
       "team_tag": "ALG",
-      "decimal_odds": 1.9,
+      "decimal_odds": 1.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4836956521739131,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.4755434782608696,
       "source": "match:788023"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Second E-sport Club",
       "team_tag": "SEC",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.516304347826087,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5244565217391304,
       "source": "match:788023"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Ambitious Legend Gaming",
       "team_tag": "ALG",
-      "decimal_odds": 1.9,
+      "decimal_odds": 1.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4836956521739131,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.47010869565217395,
       "source": "match:788023"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Second E-sport Club",
       "team_tag": "SEC",
-      "decimal_odds": 1.78,
+      "decimal_odds": 1.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5617977528089888,
-      "implied_prob_fair": 0.516304347826087,
+      "implied_prob_raw": 0.5780346820809249,
+      "implied_prob_fair": 0.529891304347826,
       "source": "match:788023"
     }
   ]
