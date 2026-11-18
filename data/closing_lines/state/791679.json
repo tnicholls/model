@@ -1,0 +1,41 @@
+{
+  "match_id": 791679,
+  "match_url": "/791679/cloud9-vs-counterfeit-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+  "date_display": "Sat, November 21, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Cloud9",
+  "team2": "counterfeit",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 1 (0-0)",
+  "captured_at": "2026-11-18T20:27:09.912405+00:00",
+  "lines": [
+    {
+      "match_id": 791679,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52707",
+      "stage": "pre-match",
+      "team": "Cloud9",
+      "team_tag": "C9",
+      "decimal_odds": 1.22,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7626459143968872,
+      "source": "match:791679"
+    },
+    {
+      "match_id": 791679,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52707",
+      "stage": "pre-match",
+      "team": "counterfeit",
+      "team_tag": "FAKE",
+      "decimal_odds": 3.92,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.25510204081632654,
+      "implied_prob_fair": 0.23735408560311286,
+      "source": "match:791679"
+    }
+  ]
+}

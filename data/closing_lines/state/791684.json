@@ -1,0 +1,69 @@
+{
+  "match_id": 791684,
+  "match_url": "/791684/shopify-rebellion-black-vs-xora-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
+  "date_display": "Sat, November 21, 2026",
+  "time_display": "2:30 AM",
+  "team1": "Shopify Rebellion Black",
+  "team2": "Xora Esports",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 1 (0-0)",
+  "captured_at": "2026-11-18T20:27:23.850948+00:00",
+  "lines": [
+    {
+      "match_id": 791684,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52708",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Black",
+      "team_tag": "SRB",
+      "decimal_odds": 1.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.8563899868247694,
+      "source": "match:791684"
+    },
+    {
+      "match_id": 791684,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52708",
+      "stage": "pre-match",
+      "team": "Xora Esports",
+      "team_tag": "XORA",
+      "decimal_odds": 6.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15384615384615385,
+      "implied_prob_fair": 0.1436100131752306,
+      "source": "match:791684"
+    },
+    {
+      "match_id": 791684,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52713",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Black",
+      "team_tag": "SRB",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8536585365853657,
+      "source": "match:791684"
+    },
+    {
+      "match_id": 791684,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52713",
+      "stage": "pre-match",
+      "team": "Xora Esports",
+      "team_tag": "XORA",
+      "decimal_odds": 6.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.14634146341463414,
+      "source": "match:791684"
+    }
+  ]
+}
