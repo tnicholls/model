@@ -1,0 +1,69 @@
+{
+  "match_id": 788027,
+  "match_url": "/788027/qian-xing-gaming-vs-lng-esports-china-national-tournament-season-7-pro-qualifier-d6",
+  "date_display": "Wed, November 18, 2026",
+  "time_display": "1:00 PM",
+  "team1": "Qian Xing Gaming",
+  "team2": "LNG Esports",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Group Stage\u2013Day 6",
+  "captured_at": "2026-11-18T00:10:56.809894+00:00",
+  "lines": [
+    {
+      "match_id": 788027,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52696",
+      "stage": "pre-match",
+      "team": "Qian Xing Gaming",
+      "team_tag": "QXG",
+      "decimal_odds": 2.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.3850129198966408,
+      "source": "match:788027"
+    },
+    {
+      "match_id": 788027,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52696",
+      "stage": "pre-match",
+      "team": "LNG Esports",
+      "team_tag": "LNG",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6149870801033592,
+      "source": "match:788027"
+    },
+    {
+      "match_id": 788027,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52700",
+      "stage": "pre-match",
+      "team": "Qian Xing Gaming",
+      "team_tag": "QXG",
+      "decimal_odds": 2.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.38601036269430045,
+      "source": "match:788027"
+    },
+    {
+      "match_id": 788027,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52700",
+      "stage": "pre-match",
+      "team": "LNG Esports",
+      "team_tag": "LNG",
+      "decimal_odds": 1.49,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6139896373056994,
+      "source": "match:788027"
+    }
+  ]
+}

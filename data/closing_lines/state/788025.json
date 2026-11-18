@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-17T23:12:31.381523+00:00",
+  "captured_at": "2026-11-18T00:10:53.718320+00:00",
   "lines": [
     {
       "match_id": 788025,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.42780748663101603,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4331550802139037,
       "source": "match:788025"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5721925133689839,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5668449197860962,
       "source": "match:788025"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Titan Esports Club",
       "team_tag": "TEC",
-      "decimal_odds": 2.13,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.42895442359249325,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4331550802139037,
       "source": "match:788025"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5710455764075066,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5668449197860962,
       "source": "match:788025"
     }
   ]
