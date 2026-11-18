@@ -7,7 +7,7 @@
   "team2": "Second E-sport Club",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-18T01:13:09.420864+00:00",
+  "captured_at": "2026-11-18T01:41:37.605718+00:00",
   "lines": [
     {
       "match_id": 788023,
@@ -27,6 +27,34 @@
       "match_id": 788023,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52695",
+      "stage": "pre-match",
+      "team": "Second E-sport Club",
+      "team_tag": "SEC",
+      "decimal_odds": 1.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.516304347826087,
+      "source": "match:788023"
+    },
+    {
+      "match_id": 788023,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52699",
+      "stage": "pre-match",
+      "team": "Ambitious Legend Gaming",
+      "team_tag": "ALG",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4836956521739131,
+      "source": "match:788023"
+    },
+    {
+      "match_id": 788023,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52699",
       "stage": "pre-match",
       "team": "Second E-sport Club",
       "team_tag": "SEC",
