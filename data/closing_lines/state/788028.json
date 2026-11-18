@@ -7,7 +7,7 @@
   "team2": "Unsettled Resentment",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 6",
-  "captured_at": "2026-11-18T05:48:54.860800+00:00",
+  "captured_at": "2026-11-18T06:04:41.638131+00:00",
   "lines": [
     {
       "match_id": 788028,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xunjing Esports",
       "team_tag": "XJG",
-      "decimal_odds": 2.85,
+      "decimal_odds": 2.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3508771929824561,
-      "implied_prob_fair": 0.32142857142857145,
+      "implied_prob_raw": 0.3546099290780142,
+      "implied_prob_fair": 0.3253588516746412,
       "source": "match:788028"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6785714285714286,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6746411483253588,
       "source": "match:788028"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xunjing Esports",
       "team_tag": "XJG",
-      "decimal_odds": 2.85,
+      "decimal_odds": 2.81,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3508771929824561,
-      "implied_prob_fair": 0.32142857142857145,
+      "implied_prob_raw": 0.35587188612099646,
+      "implied_prob_fair": 0.3261390887290168,
       "source": "match:788028"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 1.35,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7407407407407407,
-      "implied_prob_fair": 0.6785714285714286,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6738609112709831,
       "source": "match:788028"
     }
   ]
