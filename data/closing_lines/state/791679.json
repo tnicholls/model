@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-18T23:32:57.956080+00:00",
+  "captured_at": "2026-11-18T23:49:25.396070+00:00",
   "lines": [
     {
       "match_id": 791679,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7626459143968872,
+      "implied_prob_fair": 0.7653846153846154,
       "source": "match:791679"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.92,
+      "decimal_odds": 3.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25510204081632654,
-      "implied_prob_fair": 0.23735408560311286,
+      "implied_prob_raw": 0.25125628140703515,
+      "implied_prob_fair": 0.2346153846153846,
       "source": "match:791679"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7632093933463796,
+      "implied_prob_fair": 0.7668593448940271,
       "source": "match:791679"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.9,
+      "decimal_odds": 3.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25641025641025644,
-      "implied_prob_fair": 0.23679060665362037,
+      "implied_prob_raw": 0.25125628140703515,
+      "implied_prob_fair": 0.23314065510597304,
       "source": "match:791679"
     }
   ]
