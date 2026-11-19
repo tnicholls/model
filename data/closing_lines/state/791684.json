@@ -7,7 +7,7 @@
   "team2": "Xora Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-19T15:40:55.392621+00:00",
+  "captured_at": "2026-11-19T16:14:38.306482+00:00",
   "lines": [
     {
       "match_id": 791684,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.09,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8582574772431729,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8593749999999999,
       "source": "match:791684"
     },
     {
@@ -34,35 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.15151515151515152,
-      "implied_prob_fair": 0.14174252275682706,
-      "source": "match:791684"
-    },
-    {
-      "match_id": 791684,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52713",
-      "stage": "pre-match",
-      "team": "Shopify Rebellion Black",
-      "team_tag": "SRB",
-      "decimal_odds": 1.08,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8575197889182057,
-      "source": "match:791684"
-    },
-    {
-      "match_id": 791684,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52713",
-      "stage": "pre-match",
-      "team": "Xora Esports",
-      "team_tag": "XORA",
-      "decimal_odds": 6.5,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.15384615384615385,
-      "implied_prob_fair": 0.1424802110817942,
+      "implied_prob_fair": 0.140625,
       "source": "match:791684"
     },
     {
