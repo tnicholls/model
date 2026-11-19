@@ -1,0 +1,69 @@
+{
+  "match_id": 788030,
+  "match_url": "/788030/xunjing-esports-vs-funplus-phoenix-china-national-tournament-season-7-pro-qualifier-d7",
+  "date_display": "Thu, November 19, 2026",
+  "time_display": "8:00 AM",
+  "team1": "Xunjing Esports",
+  "team2": "FunPlus Phoenix",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Group Stage\u2013Day 7",
+  "captured_at": "2026-11-19T08:23:17.377896+00:00",
+  "lines": [
+    {
+      "match_id": 788030,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52715",
+      "stage": "pre-match",
+      "team": "Xunjing Esports",
+      "team_tag": "XJG",
+      "decimal_odds": 5.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.17591125198098256,
+      "source": "match:788030"
+    },
+    {
+      "match_id": 788030,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52715",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8240887480190174,
+      "source": "match:788030"
+    },
+    {
+      "match_id": 788030,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52720",
+      "stage": "pre-match",
+      "team": "Xunjing Esports",
+      "team_tag": "XJG",
+      "decimal_odds": 5.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1923076923076923,
+      "implied_prob_fair": 0.17591125198098256,
+      "source": "match:788030"
+    },
+    {
+      "match_id": 788030,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52720",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8240887480190174,
+      "source": "match:788030"
+    }
+  ]
+}

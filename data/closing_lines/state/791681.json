@@ -7,7 +7,7 @@
   "team2": "Wildcard",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-19T04:03:19.967911+00:00",
+  "captured_at": "2026-11-19T08:23:28.210893+00:00",
   "lines": [
     {
       "match_id": 791681,
@@ -35,6 +35,62 @@
       "payout": null,
       "implied_prob_raw": 0.6024096385542169,
       "implied_prob_fair": 0.5608465608465608,
+      "source": "match:791681"
+    },
+    {
+      "match_id": 791681,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52732",
+      "stage": "pre-match",
+      "team": "YFP",
+      "team_tag": "YFP",
+      "decimal_odds": 2.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.4388297872340426,
+      "source": "match:791681"
+    },
+    {
+      "match_id": 791681,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52732",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5611702127659575,
+      "source": "match:791681"
+    },
+    {
+      "match_id": 791681,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52734",
+      "stage": "pre-match",
+      "team": "YFP",
+      "team_tag": "YFP",
+      "decimal_odds": 2.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.42408376963350786,
+      "source": "match:791681"
+    },
+    {
+      "match_id": 791681,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52734",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.62,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5759162303664922,
       "source": "match:791681"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "Second E-sport Club",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Group Stage\u2013Day 7",
-  "captured_at": "2026-11-19T04:03:09.107993+00:00",
+  "captured_at": "2026-11-19T08:23:15.841015+00:00",
   "lines": [
     {
       "match_id": 788029,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Qian Xing Gaming",
       "team_tag": "QXG",
-      "decimal_odds": 2.99,
+      "decimal_odds": 3.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33444816053511706,
-      "implied_prob_fair": 0.3062645011600928,
+      "implied_prob_raw": 0.3215434083601286,
+      "implied_prob_fair": 0.29478458049886624,
       "source": "match:788029"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "Second E-sport Club",
       "team_tag": "SEC",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6937354988399071,
-      "source": "match:788029"
-    },
-    {
-      "match_id": 788029,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52721",
-      "stage": "pre-match",
-      "team": "Qian Xing Gaming",
-      "team_tag": "QXG",
-      "decimal_odds": 2.99,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.33444816053511706,
-      "implied_prob_fair": 0.3062645011600928,
-      "source": "match:788029"
-    },
-    {
-      "match_id": 788029,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52721",
-      "stage": "pre-match",
-      "team": "Second E-sport Club",
-      "team_tag": "SEC",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6937354988399071,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7052154195011339,
       "source": "match:788029"
     }
   ]
