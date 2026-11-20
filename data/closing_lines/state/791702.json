@@ -7,7 +7,7 @@
   "team2": "Master Bank",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T19:44:05.594218+00:00",
+  "captured_at": "2026-11-20T20:04:23.499923+00:00",
   "lines": [
     {
       "match_id": 791702,
@@ -41,7 +41,7 @@
       "match_id": 791702,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52790",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "2Game Esports",
       "team_tag": "2G",
       "decimal_odds": 1.03,
@@ -55,7 +55,7 @@
       "match_id": 791702,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52790",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Master Bank",
       "team_tag": "171",
       "decimal_odds": 8.5,

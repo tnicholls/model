@@ -7,7 +7,7 @@
   "team2": "TIME DO B3M",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T19:44:20.302898+00:00",
+  "captured_at": "2026-11-20T20:04:37.516544+00:00",
   "lines": [
     {
       "match_id": 791707,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 2.0,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4579945799457995,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.583554376657825,
       "source": "match:791707"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "TIME DO B3M",
       "team_tag": "TB3",
-      "decimal_odds": 1.69,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5420054200542006,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.4164456233421751,
       "source": "match:791707"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 1.99,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.46070460704607036,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5873015873015873,
       "source": "match:791707"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "TIME DO B3M",
       "team_tag": "TB3",
-      "decimal_odds": 1.7,
+      "decimal_odds": 2.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5392953929539295,
+      "implied_prob_raw": 0.4504504504504504,
+      "implied_prob_fair": 0.41269841269841273,
       "source": "match:791707"
     }
   ]

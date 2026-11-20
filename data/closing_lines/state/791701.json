@@ -7,7 +7,7 @@
   "team2": "0 intelecto",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T19:44:04.356174+00:00",
+  "captured_at": "2026-11-20T20:04:21.830538+00:00",
   "lines": [
     {
       "match_id": 791701,
@@ -41,7 +41,7 @@
       "match_id": 791701,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52788",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Fluxo W7M",
       "team_tag": "FX",
       "decimal_odds": 1.01,
@@ -55,7 +55,7 @@
       "match_id": 791701,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52788",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "0 intelecto",
       "team_tag": "100%",
       "decimal_odds": 15.0,
