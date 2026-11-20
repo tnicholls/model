@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:20:57.320011+00:00",
+  "captured_at": "2026-11-20T20:37:26.572971+00:00",
   "lines": [
     {
       "match_id": 791679,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.19,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8403361344537815,
-      "implied_prob_fair": 0.7832422586520946,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.8006814310051107,
       "source": "match:791679"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 4.3,
+      "decimal_odds": 4.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23255813953488372,
-      "implied_prob_fair": 0.21675774134790526,
+      "implied_prob_raw": 0.2127659574468085,
+      "implied_prob_fair": 0.19931856899488923,
       "source": "match:791679"
     }
   ]

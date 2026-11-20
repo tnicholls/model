@@ -7,34 +7,34 @@
   "team2": "Master Bank",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:20:52.557078+00:00",
+  "captured_at": "2026-11-20T20:37:21.674583+00:00",
   "lines": [
     {
       "match_id": 791702,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52783",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.03,
+      "decimal_odds": 1.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.970873786407767,
-      "implied_prob_fair": 0.8919202518363064,
+      "implied_prob_raw": 0.9900990099009901,
+      "implied_prob_fair": 0.9327115256495669,
       "source": "match:791702"
     },
     {
       "match_id": 791702,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52783",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "Master Bank",
       "team_tag": "171",
-      "decimal_odds": 8.5,
+      "decimal_odds": 14.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11764705882352941,
-      "implied_prob_fair": 0.10807974816369359,
+      "implied_prob_raw": 0.07142857142857142,
+      "implied_prob_fair": 0.06728847435043304,
       "source": "match:791702"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.03,
+      "decimal_odds": 1.01,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.970873786407767,
-      "implied_prob_fair": 0.8919202518363064,
+      "implied_prob_raw": 0.9900990099009901,
+      "implied_prob_fair": 0.9327115256495669,
       "source": "match:791702"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Master Bank",
       "team_tag": "171",
-      "decimal_odds": 8.5,
+      "decimal_odds": 14.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11764705882352941,
-      "implied_prob_fair": 0.10807974816369359,
+      "implied_prob_raw": 0.07142857142857142,
+      "implied_prob_fair": 0.06728847435043304,
       "source": "match:791702"
     }
   ]
