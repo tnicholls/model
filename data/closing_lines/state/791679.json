@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:04:28.119661+00:00",
+  "captured_at": "2026-11-20T20:20:57.320011+00:00",
   "lines": [
     {
       "match_id": 791679,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7752808988764045,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7877697841726619,
       "source": "match:791679"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 4.14,
+      "decimal_odds": 4.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24154589371980678,
-      "implied_prob_fair": 0.2247191011235955,
+      "implied_prob_raw": 0.22831050228310504,
+      "implied_prob_fair": 0.21223021582733814,
       "source": "match:791679"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.18,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.7822878228782288,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7946902654867257,
       "source": "match:791679"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 4.24,
+      "decimal_odds": 4.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.23584905660377356,
-      "implied_prob_fair": 0.21771217712177118,
+      "implied_prob_raw": 0.22271714922048996,
+      "implied_prob_fair": 0.20530973451327433,
       "source": "match:791679"
     },
     {

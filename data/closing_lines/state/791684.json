@@ -7,7 +7,7 @@
   "team2": "Xora Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:04:42.149881+00:00",
+  "captured_at": "2026-11-20T20:21:11.382541+00:00",
   "lines": [
     {
       "match_id": 791684,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.834575260804769,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8282208588957055,
       "source": "match:791684"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 5.6,
+      "decimal_odds": 5.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17857142857142858,
-      "implied_prob_fair": 0.165424739195231,
+      "implied_prob_raw": 0.18518518518518517,
+      "implied_prob_fair": 0.17177914110429449,
       "source": "match:791684"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8229813664596274,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.8146964856230031,
       "source": "match:791684"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 5.3,
+      "decimal_odds": 5.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18867924528301888,
-      "implied_prob_fair": 0.17701863354037267,
+      "implied_prob_raw": 0.19607843137254904,
+      "implied_prob_fair": 0.1853035143769968,
       "source": "match:791684"
     },
     {

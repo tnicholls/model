@@ -7,7 +7,7 @@
   "team2": "Piranhas do Caribe",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:04:34.338511+00:00",
+  "captured_at": "2026-11-20T20:21:03.558519+00:00",
   "lines": [
     {
       "match_id": 791705,
@@ -27,34 +27,6 @@
       "match_id": 791705,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52785",
-      "stage": "pre-match",
-      "team": "Piranhas do Caribe",
-      "team_tag": "PDC",
-      "decimal_odds": 6.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.15625,
-      "implied_prob_fair": 0.143239625167336,
-      "source": "match:791705"
-    },
-    {
-      "match_id": 791705,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52792",
-      "stage": "pre-match",
-      "team": "ELEVATE",
-      "team_tag": "ELV",
-      "decimal_odds": 1.07,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8567603748326639,
-      "source": "match:791705"
-    },
-    {
-      "match_id": 791705,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52792",
       "stage": "pre-match",
       "team": "Piranhas do Caribe",
       "team_tag": "PDC",
