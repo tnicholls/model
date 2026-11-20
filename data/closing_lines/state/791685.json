@@ -7,7 +7,7 @@
   "team2": "Winthrop University",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T16:01:15.387254+00:00",
+  "captured_at": "2026-11-20T16:17:44.347353+00:00",
   "lines": [
     {
       "match_id": 791685,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.5308310991957105,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5401069518716577,
       "source": "match:791685"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.46916890080428963,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.4598930481283422,
       "source": "match:791685"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 1.75,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5714285714285714,
-      "implied_prob_fair": 0.5308310991957105,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5466666666666666,
       "source": "match:791685"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.46916890080428963,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.4533333333333333,
       "source": "match:791685"
     },
     {
