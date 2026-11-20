@@ -7,7 +7,7 @@
   "team2": "Master Bank",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:37:21.674583+00:00",
+  "captured_at": "2026-11-20T21:35:06.699004+00:00",
   "lines": [
     {
       "match_id": 791702,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.01,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9900990099009901,
-      "implied_prob_fair": 0.9327115256495669,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
       "source": "match:791702"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Master Bank",
       "team_tag": "171",
-      "decimal_odds": 14.0,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.07142857142857142,
-      "implied_prob_fair": 0.06728847435043304,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
       "source": "match:791702"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.01,
+      "decimal_odds": 1.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9900990099009901,
-      "implied_prob_fair": 0.9327115256495669,
+      "implied_prob_raw": 1.0,
+      "implied_prob_fair": 0.9375,
       "source": "match:791702"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Master Bank",
       "team_tag": "171",
-      "decimal_odds": 14.0,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.07142857142857142,
-      "implied_prob_fair": 0.06728847435043304,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.0625,
       "source": "match:791702"
     }
   ]

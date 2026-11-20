@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T20:37:26.572971+00:00",
+  "captured_at": "2026-11-20T21:35:11.313185+00:00",
   "lines": [
     {
       "match_id": 791679,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.18,
+      "decimal_odds": 1.17,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8474576271186441,
-      "implied_prob_fair": 0.7877697841726619,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7940140845070423,
       "source": "match:791679"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 4.38,
+      "decimal_odds": 4.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22831050228310504,
-      "implied_prob_fair": 0.21223021582733814,
+      "implied_prob_raw": 0.22172949002217296,
+      "implied_prob_fair": 0.20598591549295775,
       "source": "match:791679"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.16,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7946902654867257,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8006932409012132,
       "source": "match:791679"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 4.49,
+      "decimal_odds": 4.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22271714922048996,
-      "implied_prob_fair": 0.20530973451327433,
+      "implied_prob_raw": 0.21645021645021645,
+      "implied_prob_fair": 0.1993067590987868,
       "source": "match:791679"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.17,
+      "decimal_odds": 1.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8547008547008548,
-      "implied_prob_fair": 0.8006814310051107,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.8130081300813009,
       "source": "match:791679"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 4.7,
+      "decimal_odds": 5.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2127659574468085,
-      "implied_prob_fair": 0.19931856899488923,
+      "implied_prob_raw": 0.2,
+      "implied_prob_fair": 0.18699186991869918,
       "source": "match:791679"
     }
   ]
