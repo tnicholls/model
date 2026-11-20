@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T11:48:35.940759+00:00",
+  "captured_at": "2026-11-20T16:00:59.893555+00:00",
   "lines": [
     {
       "match_id": 791679,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7621832358674464,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7578740157480315,
       "source": "match:791679"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.91,
+      "decimal_odds": 3.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2557544757033248,
-      "implied_prob_fair": 0.23781676413255362,
+      "implied_prob_raw": 0.2597402597402597,
+      "implied_prob_fair": 0.24212598425196846,
       "source": "match:791679"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.22,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7621832358674464,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.757396449704142,
       "source": "match:791679"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.91,
+      "decimal_odds": 3.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2557544757033248,
-      "implied_prob_fair": 0.23781676413255362,
+      "implied_prob_raw": 0.2604166666666667,
+      "implied_prob_fair": 0.242603550295858,
       "source": "match:791679"
     },
     {

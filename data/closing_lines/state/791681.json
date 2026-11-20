@@ -7,7 +7,7 @@
   "team2": "Wildcard",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T11:48:39.170335+00:00",
+  "captured_at": "2026-11-20T16:01:03.039479+00:00",
   "lines": [
     {
       "match_id": 791681,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42408376963350786,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.44210526315789467,
       "source": "match:791681"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5759162303664922,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5578947368421052,
       "source": "match:791681"
     }
   ]
