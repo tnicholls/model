@@ -7,7 +7,7 @@
   "team2": "Maryville University",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T16:17:45.929384+00:00",
+  "captured_at": "2026-11-20T19:44:28.391530+00:00",
   "lines": [
     {
       "match_id": 791686,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 7.0,
+      "decimal_odds": 6.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14285714285714285,
-      "implied_prob_fair": 0.1315136476426799,
+      "implied_prob_raw": 0.15625,
+      "implied_prob_fair": 0.14438502673796794,
       "source": "match:791686"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Maryville University",
       "team_tag": "MU",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8684863523573201,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8556149732620321,
       "source": "match:791686"
     },
     {

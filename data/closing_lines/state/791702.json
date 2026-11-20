@@ -1,0 +1,69 @@
+{
+  "match_id": 791702,
+  "match_url": "/791702/2game-esports-vs-master-bank-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r1",
+  "date_display": "Fri, November 20, 2026",
+  "time_display": "10:00 PM",
+  "team1": "2Game Esports",
+  "team2": "Master Bank",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 1 (0-0)",
+  "captured_at": "2026-11-20T19:44:05.594218+00:00",
+  "lines": [
+    {
+      "match_id": 791702,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52783",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.8919202518363064,
+      "source": "match:791702"
+    },
+    {
+      "match_id": 791702,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52783",
+      "stage": "pre-match",
+      "team": "Master Bank",
+      "team_tag": "171",
+      "decimal_odds": 8.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.11764705882352941,
+      "implied_prob_fair": 0.10807974816369359,
+      "source": "match:791702"
+    },
+    {
+      "match_id": 791702,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52790",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.8919202518363064,
+      "source": "match:791702"
+    },
+    {
+      "match_id": 791702,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52790",
+      "stage": "pre-match",
+      "team": "Master Bank",
+      "team_tag": "171",
+      "decimal_odds": 8.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.11764705882352941,
+      "implied_prob_fair": 0.10807974816369359,
+      "source": "match:791702"
+    }
+  ]
+}
