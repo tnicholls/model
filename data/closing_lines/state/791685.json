@@ -7,7 +7,7 @@
   "team2": "Winthrop University",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T02:40:15.874543+00:00",
+  "captured_at": "2026-11-20T02:57:56.696742+00:00",
   "lines": [
     {
       "match_id": 791685,
@@ -27,6 +27,34 @@
       "match_id": 791685,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52709",
+      "stage": "pre-match",
+      "team": "Winthrop University",
+      "team_tag": "WU",
+      "decimal_odds": 1.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.46916890080428963,
+      "source": "match:791685"
+    },
+    {
+      "match_id": 791685,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52714",
+      "stage": "pre-match",
+      "team": "SaD Esports",
+      "team_tag": "SAD",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5308310991957105,
+      "source": "match:791685"
+    },
+    {
+      "match_id": 791685,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52714",
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
