@@ -7,7 +7,7 @@
   "team2": "SaD Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T05:34:42.218825+00:00",
+  "captured_at": "2026-11-21T06:05:58.781156+00:00",
   "lines": [
     {
       "match_id": 792910,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": null,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": null,
-      "implied_prob_fair": null,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.4089709762532981,
       "source": "match:792910"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": null,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": null,
-      "implied_prob_fair": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5910290237467017,
       "source": "match:792910"
     }
   ]
