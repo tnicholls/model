@@ -7,7 +7,7 @@
   "team2": "Wildcard",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T08:16:01.151939+00:00",
+  "captured_at": "2026-11-21T09:52:01.260766+00:00",
   "lines": [
     {
       "match_id": 792905,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Yellow Dragon Gaming",
       "team_tag": "YDG",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.3953488372093023,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.3943298969072165,
       "source": "match:792905"
     },
     {
@@ -62,7 +62,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6046511627906976,
+      "implied_prob_fair": 0.6056701030927835,
       "source": "match:792905"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "ENVY",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T08:15:59.570814+00:00",
+  "captured_at": "2026-11-21T09:51:59.757089+00:00",
   "lines": [
     {
       "match_id": 792904,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.29,
+      "decimal_odds": 2.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.4067357512953368,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.4114583333333333,
       "source": "match:792904"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5932642487046632,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5885416666666665,
       "source": "match:792904"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.27,
+      "decimal_odds": 2.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.44052863436123346,
-      "implied_prob_fair": 0.40731070496083555,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.4109947643979057,
       "source": "match:792904"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5926892950391646,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5890052356020942,
       "source": "match:792904"
     },
     {

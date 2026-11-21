@@ -7,7 +7,7 @@
   "team2": "YFP",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T08:15:57.986680+00:00",
+  "captured_at": "2026-11-21T09:51:58.164966+00:00",
   "lines": [
     {
       "match_id": 792903,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 3.46,
+      "decimal_odds": 3.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28901734104046245,
-      "implied_prob_fair": 0.2684989429175476,
+      "implied_prob_raw": 0.29325513196480935,
+      "implied_prob_fair": 0.27292110874200426,
       "source": "match:792903"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7315010570824524,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7270788912579957,
       "source": "match:792903"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 3.41,
+      "decimal_odds": 3.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.27136752136752135,
+      "implied_prob_raw": 0.2976190476190476,
+      "implied_prob_fair": 0.27586206896551724,
       "source": "match:792903"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7286324786324786,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7241379310344828,
       "source": "match:792903"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 3.8,
+      "decimal_odds": 3.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2631578947368421,
-      "implied_prob_fair": 0.246031746031746,
+      "implied_prob_raw": 0.29411764705882354,
+      "implied_prob_fair": 0.2750533049040512,
       "source": "match:792903"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.753968253968254,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7249466950959489,
       "source": "match:792903"
     }
   ]

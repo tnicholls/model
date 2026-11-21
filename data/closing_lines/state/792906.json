@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T08:16:02.658925+00:00",
+  "captured_at": "2026-11-21T09:52:02.892049+00:00",
   "lines": [
     {
       "match_id": 792906,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 1.6,
+      "decimal_odds": 1.61,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5710455764075066,
+      "implied_prob_raw": 0.6211180124223602,
+      "implied_prob_fair": 0.5706666666666667,
       "source": "match:792906"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 2.13,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.42895442359249325,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.4293333333333334,
       "source": "match:792906"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.5984251968503937,
+      "implied_prob_fair": 0.5994764397905759,
       "source": "match:792906"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 2.28,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.40157480314960636,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.4005235602094241,
       "source": "match:792906"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 1.67,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5616797900262467,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6071428571428571,
       "source": "match:792906"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.4383202099737532,
+      "implied_prob_raw": 0.42016806722689076,
+      "implied_prob_fair": 0.39285714285714285,
       "source": "match:792906"
     }
   ]

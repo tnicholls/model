@@ -7,7 +7,7 @@
   "team2": "SaD Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T08:16:15.365780+00:00",
+  "captured_at": "2026-11-21T09:52:15.967246+00:00",
   "lines": [
     {
       "match_id": 792910,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 2.24,
+      "decimal_odds": 2.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4464285714285714,
-      "implied_prob_fair": 0.4089709762532981,
+      "implied_prob_raw": 0.4291845493562232,
+      "implied_prob_fair": 0.39322916666666663,
       "source": "match:792910"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5910290237467017,
-      "source": "match:792910"
-    },
-    {
-      "match_id": 792910,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52821",
-      "stage": "pre-match",
-      "team": "Xora Esports",
-      "team_tag": "XORA",
-      "decimal_odds": 2.25,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.4078947368421052,
-      "source": "match:792910"
-    },
-    {
-      "match_id": 792910,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52821",
-      "stage": "pre-match",
-      "team": "SaD Esports",
-      "team_tag": "SAD",
-      "decimal_odds": 1.55,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5921052631578947,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6067708333333334,
       "source": "match:792910"
     },
     {
@@ -72,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 2.58,
+      "decimal_odds": 2.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38759689922480617,
-      "implied_prob_fair": 0.362962962962963,
+      "implied_prob_raw": 0.3623188405797102,
+      "implied_prob_fair": 0.33812949640287776,
       "source": "match:792910"
     },
     {
@@ -86,11 +58,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6370370370370371,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6618705035971223,
       "source": "match:792910"
     }
   ]
