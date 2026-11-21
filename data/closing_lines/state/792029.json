@@ -7,7 +7,7 @@
   "team2": "BRASIL2002",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T15:35:42.541135+00:00",
+  "captured_at": "2026-11-21T17:46:02.426239+00:00",
   "lines": [
     {
       "match_id": 792029,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7411273486430063,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7448132780082988,
       "source": "match:792029"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 3.55,
+      "decimal_odds": 3.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28169014084507044,
-      "implied_prob_fair": 0.2588726513569937,
+      "implied_prob_raw": 0.2785515320334262,
+      "implied_prob_fair": 0.2551867219917013,
       "source": "match:792029"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7357293868921776,
+      "implied_prob_fair": 0.7384937238493725,
       "source": "match:792029"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 3.48,
+      "decimal_odds": 3.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28735632183908044,
-      "implied_prob_fair": 0.2642706131078224,
+      "implied_prob_raw": 0.28328611898017,
+      "implied_prob_fair": 0.26150627615062766,
       "source": "match:792029"
     }
   ]

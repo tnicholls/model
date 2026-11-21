@@ -7,7 +7,7 @@
   "team2": "YFP",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T15:35:49.095823+00:00",
+  "captured_at": "2026-11-21T17:46:08.580154+00:00",
   "lines": [
     {
       "match_id": 792903,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 2.85,
+      "decimal_odds": 2.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3508771929824561,
-      "implied_prob_fair": 0.326241134751773,
+      "implied_prob_raw": 0.42372881355932207,
+      "implied_prob_fair": 0.3948717948717949,
       "source": "match:792903"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.673758865248227,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6051282051282051,
       "source": "match:792903"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 2.78,
+      "decimal_odds": 2.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3597122302158274,
-      "implied_prob_fair": 0.33651551312649164,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4119170984455959,
       "source": "match:792903"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6634844868735083,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5880829015544041,
       "source": "match:792903"
     },
     {

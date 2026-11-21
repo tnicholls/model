@@ -7,7 +7,7 @@
   "team2": "Wildcard",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T15:35:52.273562+00:00",
+  "captured_at": "2026-11-21T17:46:11.663475+00:00",
   "lines": [
     {
       "match_id": 792905,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Yellow Dragon Gaming",
       "team_tag": "YDG",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.3969072164948454,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.3887468030690537,
       "source": "match:792905"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6030927835051546,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6112531969309464,
+      "source": "match:792905"
+    },
+    {
+      "match_id": 792905,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52816",
+      "stage": "pre-match",
+      "team": "Yellow Dragon Gaming",
+      "team_tag": "YDG",
+      "decimal_odds": 2.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.3887468030690537,
+      "source": "match:792905"
+    },
+    {
+      "match_id": 792905,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52816",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6112531969309464,
       "source": "match:792905"
     }
   ]

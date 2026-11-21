@@ -7,7 +7,7 @@
   "team2": "SaD Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T15:51:39.284418+00:00",
+  "captured_at": "2026-11-21T17:46:25.518155+00:00",
   "lines": [
     {
       "match_id": 792910,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 2.58,
+      "decimal_odds": 2.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38759689922480617,
-      "implied_prob_fair": 0.35660847880299246,
+      "implied_prob_raw": 0.37453183520599254,
+      "implied_prob_fair": 0.34558823529411764,
       "source": "match:792910"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6433915211970075,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6544117647058822,
       "source": "match:792910"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 2.72,
+      "decimal_odds": 2.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3676470588235294,
-      "implied_prob_fair": 0.3381995133819951,
+      "implied_prob_raw": 0.36101083032490977,
+      "implied_prob_fair": 0.3325301204819277,
       "source": "match:792910"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.661800486618005,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6674698795180724,
       "source": "match:792910"
     },
     {

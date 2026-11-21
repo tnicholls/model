@@ -7,7 +7,7 @@
   "team2": "Maryville University",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T15:51:36.039544+00:00",
+  "captured_at": "2026-11-21T17:46:22.461895+00:00",
   "lines": [
     {
       "match_id": 792908,
@@ -27,6 +27,34 @@
       "match_id": 792908,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52808",
+      "stage": "pre-match",
+      "team": "Maryville University",
+      "team_tag": "MU",
+      "decimal_odds": 3.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.24453280318091453,
+      "source": "match:792908"
+    },
+    {
+      "match_id": 792908,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52820",
+      "stage": "pre-match",
+      "team": "Cloud9",
+      "team_tag": "C9",
+      "decimal_odds": 1.23,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7554671968190856,
+      "source": "match:792908"
+    },
+    {
+      "match_id": 792908,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52820",
       "stage": "pre-match",
       "team": "Maryville University",
       "team_tag": "MU",
