@@ -7,7 +7,7 @@
   "team2": "TIME DO B3M",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-21T02:05:20.445499+00:00",
+  "captured_at": "2026-11-21T02:21:46.472066+00:00",
   "lines": [
     {
       "match_id": 791707,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.4424778761061947,
       "implied_prob_fair": 0.4052631578947369,
+      "source": "match:791707"
+    },
+    {
+      "match_id": 791707,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52791",
+      "stage": "live",
+      "team": "BRASIL2002",
+      "team_tag": "BRA2",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5921052631578947,
+      "source": "match:791707"
+    },
+    {
+      "match_id": 791707,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52791",
+      "stage": "live",
+      "team": "TIME DO B3M",
+      "team_tag": "TB3",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.4078947368421052,
       "source": "match:791707"
     }
   ]

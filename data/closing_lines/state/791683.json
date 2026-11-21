@@ -7,7 +7,7 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-21T02:05:22.180139+00:00",
+  "captured_at": "2026-11-21T02:21:48.074261+00:00",
   "lines": [
     {
       "match_id": 791683,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 1.82,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5120643431635389,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5684210526315789,
       "source": "match:791683"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.91,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.4879356568364612,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.431578947368421,
       "source": "match:791683"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.29,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.40364583333333337,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5555555555555556,
       "source": "match:791683"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.55,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5963541666666666,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4444444444444444,
       "source": "match:791683"
     }
   ]
