@@ -7,7 +7,7 @@
   "team2": "Xora Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-21T01:06:48.602078+00:00",
+  "captured_at": "2026-11-21T01:23:00.566144+00:00",
   "lines": [
     {
       "match_id": 791684,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Shopify Rebellion Black",
       "team_tag": "SRB",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8986615678776291,
+      "implied_prob_raw": 0.9803921568627451,
+      "implied_prob_fair": 0.9363295880149812,
       "source": "match:791684"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 9.4,
+      "decimal_odds": 15.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.10638297872340426,
-      "implied_prob_fair": 0.10133843212237095,
+      "implied_prob_raw": 0.06666666666666667,
+      "implied_prob_fair": 0.06367041198501872,
       "source": "match:791684"
     },
     {
