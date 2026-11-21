@@ -1,42 +1,14 @@
 {
   "match_id": 791686,
   "match_url": "/791686/shopify-rebellion-gold-vs-maryville-university-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
-  "date_display": "Sat, November 21, 2026",
-  "time_display": "2:30 AM",
+  "date_display": "Fri, November 20, 2026",
+  "time_display": "6:00 PM",
   "team1": "Shopify Rebellion Gold",
   "team2": "Maryville University",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-20T21:35:28.496194+00:00",
+  "captured_at": "2026-11-21T00:50:32.305111+00:00",
   "lines": [
-    {
-      "match_id": 791686,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52777",
-      "stage": "pre-match",
-      "team": "Shopify Rebellion Gold",
-      "team_tag": "SRG",
-      "decimal_odds": 6.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.15625,
-      "implied_prob_fair": 0.14438502673796794,
-      "source": "match:791686"
-    },
-    {
-      "match_id": 791686,
-      "bookmaker": "ggbet",
-      "bet_url": "/rr/bet/52777",
-      "stage": "pre-match",
-      "team": "Maryville University",
-      "team_tag": "MU",
-      "decimal_odds": 1.08,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8556149732620321,
-      "source": "match:791686"
-    },
     {
       "match_id": 791686,
       "bookmaker": "thunderpick",
@@ -44,11 +16,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 6.5,
+      "decimal_odds": 6.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.15384615384615385,
-      "implied_prob_fair": 0.14134742404227213,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.1451831750339213,
       "source": "match:791686"
     },
     {
@@ -62,7 +34,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8586525759577278,
+      "implied_prob_fair": 0.8548168249660787,
       "source": "match:791686"
     },
     {
