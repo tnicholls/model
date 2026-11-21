@@ -1,0 +1,41 @@
+{
+  "match_id": 792903,
+  "match_url": "/792903/winthrop-university-vs-yfp-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Winthrop University",
+  "team2": "YFP",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (1-0)",
+  "captured_at": "2026-11-21T05:34:24.217389+00:00",
+  "lines": [
+    {
+      "match_id": 792903,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52804",
+      "stage": "pre-match",
+      "team": "Winthrop University",
+      "team_tag": "WU",
+      "decimal_odds": 2.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3472222222222222,
+      "implied_prob_fair": 0.32235294117647056,
+      "source": "match:792903"
+    },
+    {
+      "match_id": 792903,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52804",
+      "stage": "pre-match",
+      "team": "YFP",
+      "team_tag": "YFP",
+      "decimal_odds": 1.37,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6776470588235294,
+      "source": "match:792903"
+    }
+  ]
+}

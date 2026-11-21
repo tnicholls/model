@@ -1,0 +1,41 @@
+{
+  "match_id": 792906,
+  "match_url": "/792906/qor-vs-shopify-rebellion-gold-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "12:00 AM",
+  "team1": "QoR",
+  "team2": "Shopify Rebellion Gold",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (0-1)",
+  "captured_at": "2026-11-21T05:34:29.019947+00:00",
+  "lines": [
+    {
+      "match_id": 792906,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52807",
+      "stage": "pre-match",
+      "team": "QoR",
+      "team_tag": "QOR",
+      "decimal_odds": 1.86,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.4918032786885246,
+      "source": "match:792906"
+    },
+    {
+      "match_id": 792906,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52807",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 1.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5081967213114754,
+      "source": "match:792906"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 792905,
+  "match_url": "/792905/yellow-dragon-gaming-vs-wildcard-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Yellow Dragon Gaming",
+  "team2": "Wildcard",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (0-1)",
+  "captured_at": "2026-11-21T05:34:27.529777+00:00",
+  "lines": [
+    {
+      "match_id": 792905,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52805",
+      "stage": "pre-match",
+      "team": "Yellow Dragon Gaming",
+      "team_tag": "YDG",
+      "decimal_odds": 2.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45599999999999996,
+      "source": "match:792905"
+    },
+    {
+      "match_id": 792905,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52805",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.71,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5439999999999999,
+      "source": "match:792905"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 792910,
+  "match_url": "/792910/xora-esports-vs-sad-esports-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-0-1",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "2:30 AM",
+  "team1": "Xora Esports",
+  "team2": "SaD Esports",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (0-1)",
+  "captured_at": "2026-11-21T05:34:42.218825+00:00",
+  "lines": [
+    {
+      "match_id": 792910,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52809",
+      "stage": "pre-match",
+      "team": "Xora Esports",
+      "team_tag": "XORA",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:792910"
+    },
+    {
+      "match_id": 792910,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52809",
+      "stage": "pre-match",
+      "team": "SaD Esports",
+      "team_tag": "SAD",
+      "decimal_odds": null,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": null,
+      "implied_prob_fair": null,
+      "source": "match:792910"
+    }
+  ]
+}

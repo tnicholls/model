@@ -1,0 +1,41 @@
+{
+  "match_id": 792904,
+  "match_url": "/792904/flyquest-vs-envy-vct-2027-america-kickoff-north-america-qualifier-playoffs-r2-1-0",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "12:00 AM",
+  "team1": "FlyQuest",
+  "team2": "ENVY",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (1-0)",
+  "captured_at": "2026-11-21T05:34:25.862710+00:00",
+  "lines": [
+    {
+      "match_id": 792904,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52806",
+      "stage": "pre-match",
+      "team": "FlyQuest",
+      "team_tag": "FLY",
+      "decimal_odds": 2.29,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.4067357512953368,
+      "source": "match:792904"
+    },
+    {
+      "match_id": 792904,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52806",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 1.57,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5932642487046632,
+      "source": "match:792904"
+    }
+  ]
+}
