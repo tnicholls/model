@@ -7,7 +7,7 @@
   "team2": "Xora Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-21T00:50:30.738725+00:00",
+  "captured_at": "2026-11-21T01:06:48.602078+00:00",
   "lines": [
     {
       "match_id": 791684,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.893574297188755,
+      "implied_prob_fair": 0.8986615678776291,
       "source": "match:791684"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Xora Esports",
       "team_tag": "XORA",
-      "decimal_odds": 8.9,
+      "decimal_odds": 9.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11235955056179775,
-      "implied_prob_fair": 0.106425702811245,
+      "implied_prob_raw": 0.10638297872340426,
+      "implied_prob_fair": 0.10133843212237095,
       "source": "match:791684"
     },
     {

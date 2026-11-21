@@ -7,7 +7,7 @@
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-21T00:50:33.885943+00:00",
+  "captured_at": "2026-11-21T01:06:51.732484+00:00",
   "lines": [
     {
       "match_id": 791683,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.11,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47393364928909953,
-      "implied_prob_fair": 0.44031830238726793,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.26315789473684204,
       "source": "match:791683"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5596816976127321,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7368421052631579,
       "source": "match:791683"
     }
   ]
