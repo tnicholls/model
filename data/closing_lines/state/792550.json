@@ -7,7 +7,7 @@
   "team2": "Stallions Esports",
   "event_name": "VCT 2027: EMEA Kickoff - MENA Qualifier",
   "series": "Playoffs\u2013Semifinals",
-  "captured_at": "2026-11-21T17:45:59.429890+00:00",
+  "captured_at": "2026-11-21T18:02:16.519633+00:00",
   "lines": [
     {
       "match_id": 792550,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "No Org No Problem",
       "team_tag": "NO O",
-      "decimal_odds": 1.21,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7641325536062378,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.45844504021447724,
       "source": "match:792550"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Stallions Esports",
       "team_tag": "STS",
-      "decimal_odds": 3.92,
+      "decimal_odds": 1.71,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25510204081632654,
-      "implied_prob_fair": 0.23586744639376217,
+      "implied_prob_raw": 0.5847953216374269,
+      "implied_prob_fair": 0.5415549597855228,
       "source": "match:792550"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "No Org No Problem",
       "team_tag": "NO O",
-      "decimal_odds": 1.21,
+      "decimal_odds": 2.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.764591439688716,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.4388297872340426,
       "source": "match:792550"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Stallions Esports",
       "team_tag": "STS",
-      "decimal_odds": 3.93,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2544529262086514,
-      "implied_prob_fair": 0.23540856031128404,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5611702127659575,
       "source": "match:792550"
     }
   ]
