@@ -1,0 +1,69 @@
+{
+  "match_id": 792549,
+  "match_url": "/792549/mix-my-miks-vs-gamax-esports-vct-2027-emea-kickoff-mena-qualifier-playoffs-sf",
+  "date_display": "Sat, November 21, 2026",
+  "time_display": "8:30 PM",
+  "team1": "Mix My Miks",
+  "team2": "Gamax Esports",
+  "event_name": "VCT 2027: EMEA Kickoff - MENA Qualifier",
+  "series": "Playoffs\u2013Semifinals",
+  "captured_at": "2026-11-21T15:35:40.942150+00:00",
+  "lines": [
+    {
+      "match_id": 792549,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52803",
+      "stage": "pre-match",
+      "team": "Mix My Miks",
+      "team_tag": "MIX",
+      "decimal_odds": 2.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.40469973890339433,
+      "source": "match:792549"
+    },
+    {
+      "match_id": 792549,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52803",
+      "stage": "pre-match",
+      "team": "Gamax Esports",
+      "team_tag": "GMX",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5953002610966058,
+      "source": "match:792549"
+    },
+    {
+      "match_id": 792549,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52847",
+      "stage": "pre-match",
+      "team": "Mix My Miks",
+      "team_tag": "MIX",
+      "decimal_odds": 2.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4025974025974026,
+      "source": "match:792549"
+    },
+    {
+      "match_id": 792549,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52847",
+      "stage": "pre-match",
+      "team": "Gamax Esports",
+      "team_tag": "GMX",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5974025974025974,
+      "source": "match:792549"
+    }
+  ]
+}

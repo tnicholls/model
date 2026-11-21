@@ -1,0 +1,69 @@
+{
+  "match_id": 792030,
+  "match_url": "/792030/elevate-vs-team-solid-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-1-0",
+  "date_display": "Sat, November 21, 2026",
+  "time_display": "10:00 PM",
+  "team1": "ELEVATE",
+  "team2": "Team Solid",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (1-0)",
+  "captured_at": "2026-11-21T15:35:44.143360+00:00",
+  "lines": [
+    {
+      "match_id": 792030,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52829",
+      "stage": "pre-match",
+      "team": "ELEVATE",
+      "team_tag": "ELV",
+      "decimal_odds": 2.91,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3436426116838488,
+      "implied_prob_fair": 0.31529411764705884,
+      "source": "match:792030"
+    },
+    {
+      "match_id": 792030,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52829",
+      "stage": "pre-match",
+      "team": "Team Solid",
+      "team_tag": "TSS",
+      "decimal_odds": 1.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.684705882352941,
+      "source": "match:792030"
+    },
+    {
+      "match_id": 792030,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52832",
+      "stage": "pre-match",
+      "team": "ELEVATE",
+      "team_tag": "ELV",
+      "decimal_odds": 2.91,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3436426116838488,
+      "implied_prob_fair": 0.31529411764705884,
+      "source": "match:792030"
+    },
+    {
+      "match_id": 792030,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52832",
+      "stage": "pre-match",
+      "team": "Team Solid",
+      "team_tag": "TSS",
+      "decimal_odds": 1.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7462686567164178,
+      "implied_prob_fair": 0.684705882352941,
+      "source": "match:792030"
+    }
+  ]
+}

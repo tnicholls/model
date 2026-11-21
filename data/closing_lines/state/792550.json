@@ -1,0 +1,41 @@
+{
+  "match_id": 792550,
+  "match_url": "/792550/no-org-no-problem-vs-stallions-esports-vct-2027-emea-kickoff-mena-qualifier-playoffs-sf",
+  "date_display": "Sat, November 21, 2026",
+  "time_display": "6:00 PM",
+  "team1": "No Org No Problem",
+  "team2": "Stallions Esports",
+  "event_name": "VCT 2027: EMEA Kickoff - MENA Qualifier",
+  "series": "Playoffs\u2013Semifinals",
+  "captured_at": "2026-11-21T15:35:39.339459+00:00",
+  "lines": [
+    {
+      "match_id": 792550,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52836",
+      "stage": "pre-match",
+      "team": "No Org No Problem",
+      "team_tag": "NO O",
+      "decimal_odds": 2.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3731343283582089,
+      "implied_prob_fair": 0.34313725490196073,
+      "source": "match:792550"
+    },
+    {
+      "match_id": 792550,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52836",
+      "stage": "pre-match",
+      "team": "Stallions Esports",
+      "team_tag": "STS",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6568627450980392,
+      "source": "match:792550"
+    }
+  ]
+}

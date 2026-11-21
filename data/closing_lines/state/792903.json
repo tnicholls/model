@@ -7,7 +7,7 @@
   "team2": "YFP",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T09:51:58.164966+00:00",
+  "captured_at": "2026-11-21T15:35:49.095823+00:00",
   "lines": [
     {
       "match_id": 792903,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 3.41,
+      "decimal_odds": 2.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.27292110874200426,
+      "implied_prob_raw": 0.3508771929824561,
+      "implied_prob_fair": 0.326241134751773,
       "source": "match:792903"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7270788912579957,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.673758865248227,
       "source": "match:792903"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 3.36,
+      "decimal_odds": 2.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2976190476190476,
-      "implied_prob_fair": 0.27586206896551724,
+      "implied_prob_raw": 0.3597122302158274,
+      "implied_prob_fair": 0.33651551312649164,
       "source": "match:792903"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.28,
+      "decimal_odds": 1.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.78125,
-      "implied_prob_fair": 0.7241379310344828,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6634844868735083,
       "source": "match:792903"
     },
     {

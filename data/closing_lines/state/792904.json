@@ -7,7 +7,7 @@
   "team2": "ENVY",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T09:51:59.757089+00:00",
+  "captured_at": "2026-11-21T15:35:50.770661+00:00",
   "lines": [
     {
       "match_id": 792904,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.26,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4424778761061947,
-      "implied_prob_fair": 0.4114583333333333,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41514360313315923,
       "source": "match:792904"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5885416666666665,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5848563968668407,
       "source": "match:792904"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.25,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4444444444444444,
-      "implied_prob_fair": 0.4109947643979057,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41514360313315923,
       "source": "match:792904"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5890052356020942,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5848563968668407,
       "source": "match:792904"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4035989717223651,
+      "implied_prob_raw": 0.4424778761061947,
+      "implied_prob_fair": 0.41298701298701296,
       "source": "match:792904"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "ENVY",
       "team_tag": "ENVY",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.596401028277635,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5870129870129869,
       "source": "match:792904"
     }
   ]

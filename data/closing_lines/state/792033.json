@@ -1,0 +1,69 @@
+{
+  "match_id": 792033,
+  "match_url": "/792033/time-do-b3m-vs-master-bank-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r2-0-1",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "1:00 AM",
+  "team1": "TIME DO B3M",
+  "team2": "Master Bank",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (0-1)",
+  "captured_at": "2026-11-21T15:51:29.008666+00:00",
+  "lines": [
+    {
+      "match_id": 792033,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52831",
+      "stage": "pre-match",
+      "team": "TIME DO B3M",
+      "team_tag": "TB3",
+      "decimal_odds": 1.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7733333333333333,
+      "source": "match:792033"
+    },
+    {
+      "match_id": 792033,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52831",
+      "stage": "pre-match",
+      "team": "Master Bank",
+      "team_tag": "171",
+      "decimal_odds": 4.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24630541871921185,
+      "implied_prob_fair": 0.22666666666666668,
+      "source": "match:792033"
+    },
+    {
+      "match_id": 792033,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52834",
+      "stage": "pre-match",
+      "team": "TIME DO B3M",
+      "team_tag": "TB3",
+      "decimal_odds": 1.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7733333333333333,
+      "source": "match:792033"
+    },
+    {
+      "match_id": 792033,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52834",
+      "stage": "pre-match",
+      "team": "Master Bank",
+      "team_tag": "171",
+      "decimal_odds": 4.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.24630541871921185,
+      "implied_prob_fair": 0.22666666666666668,
+      "source": "match:792033"
+    }
+  ]
+}
