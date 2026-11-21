@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T07:11:04.338273+00:00",
+  "captured_at": "2026-11-21T07:27:23.143447+00:00",
   "lines": [
     {
       "match_id": 792909,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7286324786324786,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.743801652892562,
       "source": "match:792909"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 3.41,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29325513196480935,
-      "implied_prob_fair": 0.27136752136752135,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.256198347107438,
       "source": "match:792909"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "YFP",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T07:10:48.087355+00:00",
+  "captured_at": "2026-11-21T07:27:07.143465+00:00",
   "lines": [
     {
       "match_id": 792903,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 4.1,
+      "decimal_odds": 3.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.24390243902439027,
-      "implied_prob_fair": 0.2278719397363465,
+      "implied_prob_raw": 0.2631578947368421,
+      "implied_prob_fair": 0.246031746031746,
       "source": "match:792903"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7721280602636534,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.753968253968254,
       "source": "match:792903"
     }
   ]
