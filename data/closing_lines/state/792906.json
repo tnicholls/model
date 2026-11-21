@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T06:54:33.840277+00:00",
+  "captured_at": "2026-11-21T07:10:52.896312+00:00",
   "lines": [
     {
       "match_id": 792906,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5263157894736842,
       "implied_prob_fair": 0.4808743169398907,
+      "source": "match:792906"
+    },
+    {
+      "match_id": 792906,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52817",
+      "stage": "pre-match",
+      "team": "QoR",
+      "team_tag": "QOR",
+      "decimal_odds": 1.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5459459459459459,
+      "source": "match:792906"
+    },
+    {
+      "match_id": 792906,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52817",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Gold",
+      "team_tag": "SRG",
+      "decimal_odds": 2.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.454054054054054,
       "source": "match:792906"
     },
     {
