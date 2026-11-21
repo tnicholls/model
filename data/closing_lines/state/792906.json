@@ -7,7 +7,7 @@
   "team2": "Shopify Rebellion Gold",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-21T06:38:17.434959+00:00",
+  "captured_at": "2026-11-21T06:54:33.840277+00:00",
   "lines": [
     {
       "match_id": 792906,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 1.86,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5376344086021505,
-      "implied_prob_fair": 0.4918032786885246,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5191256830601093,
       "source": "match:792906"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5081967213114754,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4808743169398907,
       "source": "match:792906"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 1.87,
+      "decimal_odds": 1.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.53475935828877,
-      "implied_prob_fair": 0.5,
+      "implied_prob_raw": 0.591715976331361,
+      "implied_prob_fair": 0.554089709762533,
       "source": "match:792906"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Shopify Rebellion Gold",
       "team_tag": "SRG",
-      "decimal_odds": 1.87,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.53475935828877,
-      "implied_prob_fair": 0.5,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.445910290237467,
       "source": "match:792906"
     }
   ]
