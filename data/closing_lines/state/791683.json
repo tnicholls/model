@@ -1,14 +1,42 @@
 {
   "match_id": 791683,
   "match_url": "/791683/flyquest-vs-masterclass-vct-2027-america-kickoff-north-america-qualifier-playoffs-r1-0-0",
-  "date_display": "Fri, November 20, 2026",
-  "time_display": "6:30 PM",
+  "date_display": "Sat, November 21, 2026",
+  "time_display": "2:30 AM",
   "team1": "FlyQuest",
   "team2": "Masterclass",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-21T01:23:03.629089+00:00",
+  "captured_at": "2026-11-21T02:05:22.180139+00:00",
   "lines": [
+    {
+      "match_id": 791683,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52800",
+      "stage": "live",
+      "team": "FlyQuest",
+      "team_tag": "FLY",
+      "decimal_odds": 1.82,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5120643431635389,
+      "source": "match:791683"
+    },
+    {
+      "match_id": 791683,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52800",
+      "stage": "live",
+      "team": "Masterclass",
+      "team_tag": "MC",
+      "decimal_odds": 1.91,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.4879356568364612,
+      "source": "match:791683"
+    },
     {
       "match_id": 791683,
       "bookmaker": "thunderpick",
@@ -16,11 +44,11 @@
       "stage": "live",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 3.81,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26246719160104987,
-      "implied_prob_fair": 0.2410358565737052,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.40364583333333337,
       "source": "match:791683"
     },
     {
@@ -30,11 +58,11 @@
       "stage": "live",
       "team": "Masterclass",
       "team_tag": "MC",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7589641434262948,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5963541666666666,
       "source": "match:791683"
     }
   ]
