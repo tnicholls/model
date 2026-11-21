@@ -7,7 +7,7 @@
   "team2": "ENVY",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-21T06:21:59.135861+00:00",
+  "captured_at": "2026-11-21T06:38:14.345507+00:00",
   "lines": [
     {
       "match_id": 792904,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6369426751592356,
       "implied_prob_fair": 0.5932642487046632,
+      "source": "match:792904"
+    },
+    {
+      "match_id": 792904,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52815",
+      "stage": "pre-match",
+      "team": "FlyQuest",
+      "team_tag": "FLY",
+      "decimal_odds": 2.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.40731070496083555,
+      "source": "match:792904"
+    },
+    {
+      "match_id": 792904,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52815",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 1.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5926892950391646,
       "source": "match:792904"
     },
     {
