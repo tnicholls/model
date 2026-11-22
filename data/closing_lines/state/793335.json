@@ -1,0 +1,69 @@
+{
+  "match_id": 793335,
+  "match_url": "/793335/maryville-university-vs-qor-vct-2027-america-kickoff-north-america-qualifier-playoffs-r3-1-1",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "2:30 AM",
+  "team1": "Maryville University",
+  "team2": "QoR",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-22T06:42:37.795337+00:00",
+  "lines": [
+    {
+      "match_id": 793335,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52862",
+      "stage": "pre-match",
+      "team": "Maryville University",
+      "team_tag": "MU",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.786618444846293,
+      "source": "match:793335"
+    },
+    {
+      "match_id": 793335,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52862",
+      "stage": "pre-match",
+      "team": "QoR",
+      "team_tag": "QOR",
+      "decimal_odds": 4.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2298850574712644,
+      "implied_prob_fair": 0.21338155515370705,
+      "source": "match:793335"
+    },
+    {
+      "match_id": 793335,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52867",
+      "stage": "pre-match",
+      "team": "Maryville University",
+      "team_tag": "MU",
+      "decimal_odds": 1.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8474576271186441,
+      "implied_prob_fair": 0.7834862385321102,
+      "source": "match:793335"
+    },
+    {
+      "match_id": 793335,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52867",
+      "stage": "pre-match",
+      "team": "QoR",
+      "team_tag": "QOR",
+      "decimal_odds": 4.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.234192037470726,
+      "implied_prob_fair": 0.21651376146788992,
+      "source": "match:793335"
+    }
+  ]
+}
