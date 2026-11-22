@@ -7,7 +7,7 @@
   "team2": "Old School Kr3w",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-22T12:28:50.296775+00:00",
+  "captured_at": "2026-11-22T16:58:10.404449+00:00",
   "lines": [
     {
       "match_id": 793238,
@@ -27,6 +27,34 @@
       "match_id": 793238,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52858",
+      "stage": "pre-match",
+      "team": "Old School Kr3w",
+      "team_tag": "OSK",
+      "decimal_odds": 3.87,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.25839793281653745,
+      "implied_prob_fair": 0.23668639053254437,
+      "source": "match:793238"
+    },
+    {
+      "match_id": 793238,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52878",
+      "stage": "pre-match",
+      "team": "Chivas Esports",
+      "team_tag": "CHV",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7633136094674556,
+      "source": "match:793238"
+    },
+    {
+      "match_id": 793238,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52878",
       "stage": "pre-match",
       "team": "Old School Kr3w",
       "team_tag": "OSK",

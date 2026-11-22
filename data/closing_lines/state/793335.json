@@ -7,7 +7,7 @@
   "team2": "QoR",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T12:28:53.532583+00:00",
+  "captured_at": "2026-11-22T16:58:13.513114+00:00",
   "lines": [
     {
       "match_id": 793335,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Maryville University",
       "team_tag": "MU",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7337526205450734,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7448979591836735,
       "source": "match:793335"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 3.5,
+      "decimal_odds": 3.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2857142857142857,
-      "implied_prob_fair": 0.26624737945492666,
+      "implied_prob_raw": 0.273972602739726,
+      "implied_prob_fair": 0.25510204081632654,
       "source": "match:793335"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Maryville University",
       "team_tag": "MU",
-      "decimal_odds": 1.27,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7874015748031495,
-      "implied_prob_fair": 0.7331932773109244,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7448979591836735,
       "source": "match:793335"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 3.49,
+      "decimal_odds": 3.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28653295128939826,
-      "implied_prob_fair": 0.2668067226890757,
+      "implied_prob_raw": 0.273972602739726,
+      "implied_prob_fair": 0.25510204081632654,
       "source": "match:793335"
     },
     {

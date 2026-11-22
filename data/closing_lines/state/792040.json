@@ -7,7 +7,7 @@
   "team2": "ARRANCA DREAMS",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T12:28:46.800120+00:00",
+  "captured_at": "2026-11-22T16:58:07.308846+00:00",
   "lines": [
     {
       "match_id": 792040,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.728448275862069,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.732905982905983,
       "source": "match:792040"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ARRANCA DREAMS",
       "team_tag": "ARRA",
-      "decimal_odds": 3.38,
+      "decimal_odds": 3.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2958579881656805,
-      "implied_prob_fair": 0.27155172413793105,
+      "implied_prob_raw": 0.29154518950437314,
+      "implied_prob_fair": 0.2670940170940171,
       "source": "match:792040"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.25,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7272727272727273,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.732905982905983,
       "source": "match:792040"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ARRANCA DREAMS",
       "team_tag": "ARRA",
-      "decimal_odds": 3.36,
+      "decimal_odds": 3.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2976190476190476,
-      "implied_prob_fair": 0.27272727272727276,
+      "implied_prob_raw": 0.29154518950437314,
+      "implied_prob_fair": 0.2670940170940171,
       "source": "match:792040"
     }
   ]

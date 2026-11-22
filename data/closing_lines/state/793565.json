@@ -7,7 +7,7 @@
   "team2": "MALAJUNTA",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-22T12:28:59.964845+00:00",
+  "captured_at": "2026-11-22T16:58:19.651806+00:00",
   "lines": [
     {
       "match_id": 793565,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8333333333333334,
+      "implied_prob_fair": 0.8358208955223881,
       "source": "match:793565"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "MALAJUNTA",
       "team_tag": "MALA",
-      "decimal_odds": 5.5,
+      "decimal_odds": 5.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18181818181818182,
-      "implied_prob_fair": 0.16666666666666669,
+      "implied_prob_raw": 0.17857142857142858,
+      "implied_prob_fair": 0.16417910447761197,
       "source": "match:793565"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.9174311926605504,
-      "implied_prob_fair": 0.8294209702660407,
+      "implied_prob_fair": 0.8345978755690441,
       "source": "match:793565"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "MALAJUNTA",
       "team_tag": "MALA",
-      "decimal_odds": 5.3,
+      "decimal_odds": 5.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18867924528301888,
-      "implied_prob_fair": 0.17057902973395933,
+      "implied_prob_raw": 0.18181818181818182,
+      "implied_prob_fair": 0.165402124430956,
       "source": "match:793565"
     }
   ]

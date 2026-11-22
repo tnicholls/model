@@ -7,7 +7,7 @@
   "team2": "ARG.MIX",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-22T12:28:56.686580+00:00",
+  "captured_at": "2026-11-22T16:58:16.582366+00:00",
   "lines": [
     {
       "match_id": 793563,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "University War",
       "team_tag": "UW",
-      "decimal_odds": 1.61,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6211180124223602,
-      "implied_prob_fair": 0.5636856368563685,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5633423180592992,
       "source": "match:793563"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4363143631436314,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.43665768194070087,
       "source": "match:793563"
     }
   ]

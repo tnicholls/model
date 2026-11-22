@@ -7,7 +7,7 @@
   "team2": "Next",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T12:28:37.040015+00:00",
+  "captured_at": "2026-11-22T16:57:58.050321+00:00",
   "lines": [
     {
       "match_id": 792038,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5710455764075066,
+      "implied_prob_fair": 0.5721925133689839,
       "source": "match:792038"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Next",
       "team_tag": "NXT",
-      "decimal_odds": 2.13,
+      "decimal_odds": 2.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.42895442359249325,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.42780748663101603,
       "source": "match:792038"
     }
   ]
