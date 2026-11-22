@@ -1,0 +1,69 @@
+{
+  "match_id": 793239,
+  "match_url": "/793239/streamer-arena-vs-squirtle-rangers-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-0-1",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "2:30 AM",
+  "team1": "STREAMER ARENA",
+  "team2": "Squirtle Rangers",
+  "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (0-1)",
+  "captured_at": "2026-11-22T12:28:51.756580+00:00",
+  "lines": [
+    {
+      "match_id": 793239,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52859",
+      "stage": "pre-match",
+      "team": "STREAMER ARENA",
+      "team_tag": "STA",
+      "decimal_odds": 1.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.49591280653950953,
+      "source": "match:793239"
+    },
+    {
+      "match_id": 793239,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52859",
+      "stage": "pre-match",
+      "team": "Squirtle Rangers",
+      "team_tag": "SQR",
+      "decimal_odds": 1.82,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5040871934604905,
+      "source": "match:793239"
+    },
+    {
+      "match_id": 793239,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52879",
+      "stage": "pre-match",
+      "team": "STREAMER ARENA",
+      "team_tag": "STA",
+      "decimal_odds": 1.85,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.49591280653950953,
+      "source": "match:793239"
+    },
+    {
+      "match_id": 793239,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52879",
+      "stage": "pre-match",
+      "team": "Squirtle Rangers",
+      "team_tag": "SQR",
+      "decimal_odds": 1.82,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5040871934604905,
+      "source": "match:793239"
+    }
+  ]
+}

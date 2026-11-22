@@ -1,0 +1,69 @@
+{
+  "match_id": 793236,
+  "match_url": "/793236/leons-vs-contra-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-1-0",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "12:00 AM",
+  "team1": "LEONS",
+  "team2": "Contra",
+  "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (1-0)",
+  "captured_at": "2026-11-22T12:28:40.337550+00:00",
+  "lines": [
+    {
+      "match_id": 793236,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52857",
+      "stage": "pre-match",
+      "team": "LEONS",
+      "team_tag": "LEON",
+      "decimal_odds": 1.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.516304347826087,
+      "source": "match:793236"
+    },
+    {
+      "match_id": 793236,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52857",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4836956521739131,
+      "source": "match:793236"
+    },
+    {
+      "match_id": 793236,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52877",
+      "stage": "pre-match",
+      "team": "LEONS",
+      "team_tag": "LEON",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5244565217391304,
+      "source": "match:793236"
+    },
+    {
+      "match_id": 793236,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52877",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 1.93,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.4755434782608696,
+      "source": "match:793236"
+    }
+  ]
+}

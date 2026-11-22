@@ -1,0 +1,69 @@
+{
+  "match_id": 793564,
+  "match_url": "/793564/tramite-vs-el-legado-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r2-1-0",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "9:00 PM",
+  "team1": "TRAMITE",
+  "team2": "EL LEGADO",
+  "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (1-0)",
+  "captured_at": "2026-11-22T12:28:58.291080+00:00",
+  "lines": [
+    {
+      "match_id": 793564,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52888",
+      "stage": "pre-match",
+      "team": "TRAMITE",
+      "team_tag": "TRAM",
+      "decimal_odds": 6.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1639344262295082,
+      "implied_prob_fair": 0.15041782729805017,
+      "source": "match:793564"
+    },
+    {
+      "match_id": 793564,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52888",
+      "stage": "pre-match",
+      "team": "EL LEGADO",
+      "team_tag": "EL L",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8495821727019499,
+      "source": "match:793564"
+    },
+    {
+      "match_id": 793564,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52891",
+      "stage": "pre-match",
+      "team": "TRAMITE",
+      "team_tag": "TRAM",
+      "decimal_odds": 5.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1694915254237288,
+      "implied_prob_fair": 0.15472779369627507,
+      "source": "match:793564"
+    },
+    {
+      "match_id": 793564,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52891",
+      "stage": "pre-match",
+      "team": "EL LEGADO",
+      "team_tag": "EL L",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8452722063037249,
+      "source": "match:793564"
+    }
+  ]
+}

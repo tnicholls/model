@@ -1,0 +1,41 @@
+{
+  "match_id": 792041,
+  "match_url": "/792041/mafiosos-vs-master-bank-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "1:00 AM",
+  "team1": "Mafiosos",
+  "team2": "Master Bank",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-22T12:28:48.619879+00:00",
+  "lines": [
+    {
+      "match_id": 792041,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52882",
+      "stage": "pre-match",
+      "team": "Mafiosos",
+      "team_tag": "MAFI",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5721925133689839,
+      "source": "match:792041"
+    },
+    {
+      "match_id": 792041,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52882",
+      "stage": "pre-match",
+      "team": "Master Bank",
+      "team_tag": "171",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.42780748663101603,
+      "source": "match:792041"
+    }
+  ]
+}

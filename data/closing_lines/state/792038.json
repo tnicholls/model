@@ -1,0 +1,69 @@
+{
+  "match_id": 792038,
+  "match_url": "/792038/manticore-vs-next-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "10:00 PM",
+  "team1": "Manticore",
+  "team2": "Next",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-22T12:28:37.040015+00:00",
+  "lines": [
+    {
+      "match_id": 792038,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52880",
+      "stage": "pre-match",
+      "team": "Manticore",
+      "team_tag": "MANT",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5721925133689839,
+      "source": "match:792038"
+    },
+    {
+      "match_id": 792038,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52880",
+      "stage": "pre-match",
+      "team": "Next",
+      "team_tag": "NXT",
+      "decimal_odds": 2.14,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4672897196261682,
+      "implied_prob_fair": 0.42780748663101603,
+      "source": "match:792038"
+    },
+    {
+      "match_id": 792038,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52884",
+      "stage": "pre-match",
+      "team": "Manticore",
+      "team_tag": "MANT",
+      "decimal_odds": 1.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5710455764075066,
+      "source": "match:792038"
+    },
+    {
+      "match_id": 792038,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52884",
+      "stage": "pre-match",
+      "team": "Next",
+      "team_tag": "NXT",
+      "decimal_odds": 2.13,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4694835680751174,
+      "implied_prob_fair": 0.42895442359249325,
+      "source": "match:792038"
+    }
+  ]
+}

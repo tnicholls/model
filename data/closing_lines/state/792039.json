@@ -1,0 +1,69 @@
+{
+  "match_id": 792039,
+  "match_url": "/792039/elevate-vs-arashi-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
+  "date_display": "Sun, November 22, 2026",
+  "time_display": "10:00 PM",
+  "team1": "ELEVATE",
+  "team2": "Arashi",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-22T12:28:38.727042+00:00",
+  "lines": [
+    {
+      "match_id": 792039,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52881",
+      "stage": "pre-match",
+      "team": "ELEVATE",
+      "team_tag": "ELV",
+      "decimal_odds": 1.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7924865831842576,
+      "source": "match:792039"
+    },
+    {
+      "match_id": 792039,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52881",
+      "stage": "pre-match",
+      "team": "Arashi",
+      "team_tag": "ARAS",
+      "decimal_odds": 4.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.22573363431151244,
+      "implied_prob_fair": 0.2075134168157424,
+      "source": "match:792039"
+    },
+    {
+      "match_id": 792039,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52885",
+      "stage": "pre-match",
+      "team": "ELEVATE",
+      "team_tag": "ELV",
+      "decimal_odds": 1.15,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8695652173913044,
+      "implied_prob_fair": 0.7920433996383363,
+      "source": "match:792039"
+    },
+    {
+      "match_id": 792039,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52885",
+      "stage": "pre-match",
+      "team": "Arashi",
+      "team_tag": "ARAS",
+      "decimal_odds": 4.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.22831050228310504,
+      "implied_prob_fair": 0.20795660036166363,
+      "source": "match:792039"
+    }
+  ]
+}

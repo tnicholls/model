@@ -1,0 +1,41 @@
+{
+  "match_id": 793238,
+  "match_url": "/793238/chivas-esports-vs-old-school-kr3w-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r2-0-1",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "2:30 AM",
+  "team1": "Chivas Esports",
+  "team2": "Old School Kr3w",
+  "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 2 (0-1)",
+  "captured_at": "2026-11-22T12:28:50.296775+00:00",
+  "lines": [
+    {
+      "match_id": 793238,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52858",
+      "stage": "pre-match",
+      "team": "Chivas Esports",
+      "team_tag": "CHV",
+      "decimal_odds": 1.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7633136094674556,
+      "source": "match:793238"
+    },
+    {
+      "match_id": 793238,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52858",
+      "stage": "pre-match",
+      "team": "Old School Kr3w",
+      "team_tag": "OSK",
+      "decimal_odds": 3.87,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.25839793281653745,
+      "implied_prob_fair": 0.23668639053254437,
+      "source": "match:793238"
+    }
+  ]
+}

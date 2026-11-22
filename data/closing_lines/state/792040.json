@@ -1,0 +1,69 @@
+{
+  "match_id": 792040,
+  "match_url": "/792040/brasil2002-vs-arranca-dreams-vct-2027-america-kickoff-brazil-qualifier-playoffs-swiss-stage-r3-1-1",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "1:00 AM",
+  "team1": "BRASIL2002",
+  "team2": "ARRANCA DREAMS",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-22T12:28:46.800120+00:00",
+  "lines": [
+    {
+      "match_id": 792040,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52883",
+      "stage": "pre-match",
+      "team": "BRASIL2002",
+      "team_tag": "BRA2",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.728448275862069,
+      "source": "match:792040"
+    },
+    {
+      "match_id": 792040,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52883",
+      "stage": "pre-match",
+      "team": "ARRANCA DREAMS",
+      "team_tag": "ARRA",
+      "decimal_odds": 3.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2958579881656805,
+      "implied_prob_fair": 0.27155172413793105,
+      "source": "match:792040"
+    },
+    {
+      "match_id": 792040,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52886",
+      "stage": "pre-match",
+      "team": "BRASIL2002",
+      "team_tag": "BRA2",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7272727272727273,
+      "source": "match:792040"
+    },
+    {
+      "match_id": 792040,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52886",
+      "stage": "pre-match",
+      "team": "ARRANCA DREAMS",
+      "team_tag": "ARRA",
+      "decimal_odds": 3.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2976190476190476,
+      "implied_prob_fair": 0.27272727272727276,
+      "source": "match:792040"
+    }
+  ]
+}
