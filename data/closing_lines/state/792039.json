@@ -7,7 +7,7 @@
   "team2": "Arashi",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T21:49:11.222554+00:00",
+  "captured_at": "2026-11-22T22:05:28.044553+00:00",
   "lines": [
     {
       "match_id": 792039,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5519999999999999,
+      "implied_prob_raw": 0.6711409395973155,
+      "implied_prob_fair": 0.6218274111675127,
       "source": "match:792039"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Arashi",
       "team_tag": "ARAS",
-      "decimal_odds": 2.07,
+      "decimal_odds": 2.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.48309178743961356,
-      "implied_prob_fair": 0.448,
+      "implied_prob_raw": 0.4081632653061224,
+      "implied_prob_fair": 0.3781725888324873,
       "source": "match:792039"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 1.79,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5188172043010751,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5917312661498708,
       "source": "match:792039"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Arashi",
       "team_tag": "ARAS",
-      "decimal_odds": 1.93,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5181347150259068,
-      "implied_prob_fair": 0.48118279569892475,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.40826873385012924,
       "source": "match:792039"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "Next",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T21:49:09.576305+00:00",
+  "captured_at": "2026-11-22T22:05:26.541263+00:00",
   "lines": [
     {
       "match_id": 792038,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Manticore",
       "team_tag": "MANT",
-      "decimal_odds": 1.64,
+      "decimal_odds": 2.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5649867374005305,
+      "implied_prob_raw": 0.37735849056603776,
+      "implied_prob_fair": 0.3488943488943489,
       "source": "match:792038"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Next",
       "team_tag": "NXT",
-      "decimal_odds": 2.13,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4694835680751174,
-      "implied_prob_fair": 0.4350132625994695,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6511056511056511,
       "source": "match:792038"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Manticore",
       "team_tag": "MANT",
-      "decimal_odds": 1.6,
+      "decimal_odds": 2.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5778364116094987,
+      "implied_prob_raw": 0.38759689922480617,
+      "implied_prob_fair": 0.35980148883374685,
       "source": "match:792038"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Next",
       "team_tag": "NXT",
-      "decimal_odds": 2.19,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4566210045662101,
-      "implied_prob_fair": 0.42216358839050133,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6401985111662531,
       "source": "match:792038"
     }
   ]

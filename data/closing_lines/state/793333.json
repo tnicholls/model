@@ -7,7 +7,7 @@
   "team2": "FlyQuest",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T21:49:16.180639+00:00",
+  "captured_at": "2026-11-22T22:05:32.934621+00:00",
   "lines": [
     {
       "match_id": 793333,
@@ -41,7 +41,7 @@
       "match_id": 793333,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52864",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "counterfeit",
       "team_tag": "FAKE",
       "decimal_odds": 2.3,
@@ -55,7 +55,7 @@
       "match_id": 793333,
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/52864",
-      "stage": "pre-match",
+      "stage": "live",
       "team": "FlyQuest",
       "team_tag": "FLY",
       "decimal_odds": 1.56,
