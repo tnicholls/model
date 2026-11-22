@@ -7,7 +7,7 @@
   "team2": "Winthrop University",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T16:58:06.269147+00:00",
+  "captured_at": "2026-11-22T21:33:03.615533+00:00",
   "lines": [
     {
       "match_id": 793334,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6202531645569621,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6076923076923076,
       "source": "match:793334"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 2.45,
+      "decimal_odds": 2.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4081632653061224,
-      "implied_prob_fair": 0.379746835443038,
+      "implied_prob_raw": 0.42194092827004215,
+      "implied_prob_fair": 0.39230769230769225,
+      "source": "match:793334"
+    },
+    {
+      "match_id": 793334,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52865",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.6015424164524421,
+      "source": "match:793334"
+    },
+    {
+      "match_id": 793334,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52865",
+      "stage": "pre-match",
+      "team": "Winthrop University",
+      "team_tag": "WU",
+      "decimal_odds": 2.34,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4273504273504274,
+      "implied_prob_fair": 0.39845758354755784,
       "source": "match:793334"
     },
     {
@@ -44,11 +72,11 @@
       "stage": "pre-match",
       "team": "Wildcard",
       "team_tag": "WC",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.596401028277635,
+      "implied_prob_raw": 0.6666666666666666,
+      "implied_prob_fair": 0.6231155778894473,
       "source": "match:793334"
     },
     {
@@ -58,11 +86,11 @@
       "stage": "pre-match",
       "team": "Winthrop University",
       "team_tag": "WU",
-      "decimal_odds": 2.32,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4310344827586207,
-      "implied_prob_fair": 0.4035989717223651,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37688442211055284,
       "source": "match:793334"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "FlyQuest",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T16:58:04.242659+00:00",
+  "captured_at": "2026-11-22T21:33:02.042608+00:00",
   "lines": [
     {
       "match_id": 793333,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 2.18,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4587155963302752,
-      "implied_prob_fair": 0.4263157894736842,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41514360313315923,
       "source": "match:793333"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5736842105263158,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5848563968668407,
       "source": "match:793333"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 2.15,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.46511627906976744,
-      "implied_prob_fair": 0.43271767810026385,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41514360313315923,
       "source": "match:793333"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5672823218997362,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5848563968668407,
       "source": "match:793333"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "counterfeit",
       "team_tag": "FAKE",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.39845758354755784,
+      "implied_prob_raw": 0.4065040650406504,
+      "implied_prob_fair": 0.380352644836272,
       "source": "match:793333"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "FlyQuest",
       "team_tag": "FLY",
-      "decimal_odds": 1.55,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.6015424164524421,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6196473551637279,
       "source": "match:793333"
     }
   ]

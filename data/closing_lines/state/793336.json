@@ -7,7 +7,7 @@
   "team2": "SaD Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T16:58:15.083874+00:00",
+  "captured_at": "2026-11-22T21:33:12.889267+00:00",
   "lines": [
     {
       "match_id": 793336,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6495098039215685,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5968992248062015,
       "source": "match:793336"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 2.65,
+      "decimal_odds": 2.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37735849056603776,
-      "implied_prob_fair": 0.35049019607843135,
+      "implied_prob_raw": 0.4329004329004329,
+      "implied_prob_fair": 0.40310077519379844,
       "source": "match:793336"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6495098039215685,
+      "implied_prob_raw": 0.625,
+      "implied_prob_fair": 0.5822454308093995,
       "source": "match:793336"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 2.65,
+      "decimal_odds": 2.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.37735849056603776,
-      "implied_prob_fair": 0.35049019607843135,
+      "implied_prob_raw": 0.4484304932735426,
+      "implied_prob_fair": 0.41775456919060056,
       "source": "match:793336"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 1.53,
+      "decimal_odds": 1.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6535947712418301,
-      "implied_prob_fair": 0.6106870229007634,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6142131979695432,
       "source": "match:793336"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 2.4,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4166666666666667,
-      "implied_prob_fair": 0.3893129770992367,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.38578680203045684,
       "source": "match:793336"
     }
   ]

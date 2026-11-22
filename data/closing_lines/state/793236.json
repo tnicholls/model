@@ -7,7 +7,7 @@
   "team2": "Contra",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-22T16:58:01.158454+00:00",
+  "captured_at": "2026-11-22T21:32:58.954246+00:00",
   "lines": [
     {
       "match_id": 793236,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "LEONS",
       "team_tag": "LEON",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.5958005249343833,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.672289156626506,
       "source": "match:793236"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.27,
+      "decimal_odds": 2.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.44052863436123346,
-      "implied_prob_fair": 0.4041994750656168,
+      "implied_prob_raw": 0.35842293906810035,
+      "implied_prob_fair": 0.327710843373494,
       "source": "match:793236"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "LEONS",
       "team_tag": "LEON",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6119791666666666,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.6962616822429907,
       "source": "match:793236"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.35,
+      "decimal_odds": 2.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.425531914893617,
-      "implied_prob_fair": 0.3880208333333333,
+      "implied_prob_raw": 0.33557046979865773,
+      "implied_prob_fair": 0.3037383177570094,
       "source": "match:793236"
     }
   ]

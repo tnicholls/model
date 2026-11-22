@@ -7,7 +7,7 @@
   "team2": "Old School Kr3w",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-22T16:58:10.404449+00:00",
+  "captured_at": "2026-11-22T21:33:08.182303+00:00",
   "lines": [
     {
       "match_id": 793238,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Chivas Esports",
       "team_tag": "CHV",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7633136094674556,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6706730769230769,
       "source": "match:793238"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Old School Kr3w",
       "team_tag": "OSK",
-      "decimal_odds": 3.87,
+      "decimal_odds": 2.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25839793281653745,
-      "implied_prob_fair": 0.23668639053254437,
+      "implied_prob_raw": 0.35842293906810035,
+      "implied_prob_fair": 0.3293269230769231,
       "source": "match:793238"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Chivas Esports",
       "team_tag": "CHV",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7633136094674556,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.645320197044335,
       "source": "match:793238"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Old School Kr3w",
       "team_tag": "OSK",
-      "decimal_odds": 3.87,
+      "decimal_odds": 2.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.25839793281653745,
-      "implied_prob_fair": 0.23668639053254437,
+      "implied_prob_raw": 0.38167938931297707,
+      "implied_prob_fair": 0.35467980295566504,
       "source": "match:793238"
     }
   ]

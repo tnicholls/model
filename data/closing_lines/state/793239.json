@@ -7,7 +7,7 @@
   "team2": "Squirtle Rangers",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-22T16:58:11.958065+00:00",
+  "captured_at": "2026-11-22T21:33:09.730452+00:00",
   "lines": [
     {
       "match_id": 793239,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "STREAMER ARENA",
       "team_tag": "STA",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.49591280653950953,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5525606469002695,
       "source": "match:793239"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Squirtle Rangers",
       "team_tag": "SQR",
-      "decimal_odds": 1.82,
+      "decimal_odds": 2.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5040871934604905,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.44743935309973043,
       "source": "match:793239"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "STREAMER ARENA",
       "team_tag": "STA",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.49591280653950953,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.553763440860215,
       "source": "match:793239"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Squirtle Rangers",
       "team_tag": "SQR",
-      "decimal_odds": 1.82,
+      "decimal_odds": 2.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5040871934604905,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.4462365591397849,
       "source": "match:793239"
     }
   ]
