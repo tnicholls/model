@@ -7,7 +7,7 @@
   "team2": "QoR",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T22:21:57.041479+00:00",
+  "captured_at": "2026-11-22T22:53:22.949206+00:00",
   "lines": [
     {
       "match_id": 793335,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7407407407407407,
+      "implied_prob_fair": 0.7402061855670102,
       "source": "match:793335"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 3.6,
+      "decimal_odds": 3.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2777777777777778,
-      "implied_prob_fair": 0.2592592592592593,
+      "implied_prob_raw": 0.2785515320334262,
+      "implied_prob_fair": 0.25979381443298966,
       "source": "match:793335"
     },
     {

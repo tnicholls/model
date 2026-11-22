@@ -7,7 +7,7 @@
   "team2": "SaD Esports",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T22:21:58.514410+00:00",
+  "captured_at": "2026-11-22T22:53:24.463224+00:00",
   "lines": [
     {
       "match_id": 793336,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 1.54,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6030927835051546,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6157760814249365,
       "source": "match:793336"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "SaD Esports",
       "team_tag": "SAD",
-      "decimal_odds": 2.34,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4273504273504274,
-      "implied_prob_fair": 0.3969072164948454,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3842239185750636,
+      "source": "match:793336"
+    },
+    {
+      "match_id": 793336,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52866",
+      "stage": "pre-match",
+      "team": "Oafs",
+      "team_tag": "OAF",
+      "decimal_odds": 1.52,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6578947368421053,
+      "implied_prob_fair": 0.6122448979591837,
+      "source": "match:793336"
+    },
+    {
+      "match_id": 793336,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52866",
+      "stage": "pre-match",
+      "team": "SaD Esports",
+      "team_tag": "SAD",
+      "decimal_odds": 2.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3877551020408163,
       "source": "match:793336"
     },
     {
