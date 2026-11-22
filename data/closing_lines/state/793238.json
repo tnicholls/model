@@ -7,7 +7,7 @@
   "team2": "Old School Kr3w",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (0-1)",
-  "captured_at": "2026-11-22T21:33:08.182303+00:00",
+  "captured_at": "2026-11-22T21:49:22.614095+00:00",
   "lines": [
     {
       "match_id": 793238,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Chivas Esports",
       "team_tag": "CHV",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6706730769230769,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.6892523364485982,
       "source": "match:793238"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Old School Kr3w",
       "team_tag": "OSK",
-      "decimal_odds": 2.79,
+      "decimal_odds": 2.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35842293906810035,
-      "implied_prob_fair": 0.3293269230769231,
+      "implied_prob_raw": 0.3389830508474576,
+      "implied_prob_fair": 0.3107476635514019,
       "source": "match:793238"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Chivas Esports",
       "team_tag": "CHV",
-      "decimal_odds": 1.44,
+      "decimal_odds": 1.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.645320197044335,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6777251184834123,
       "source": "match:793238"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Old School Kr3w",
       "team_tag": "OSK",
-      "decimal_odds": 2.62,
+      "decimal_odds": 2.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.38167938931297707,
-      "implied_prob_fair": 0.35467980295566504,
+      "implied_prob_raw": 0.3496503496503497,
+      "implied_prob_fair": 0.32227488151658773,
       "source": "match:793238"
     }
   ]
