@@ -7,7 +7,7 @@
   "team2": "ARRANCA DREAMS",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T22:05:36.039134+00:00",
+  "captured_at": "2026-11-22T22:21:50.952697+00:00",
   "lines": [
     {
       "match_id": 792040,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.732905982905983,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7301927194860813,
       "source": "match:792040"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ARRANCA DREAMS",
       "team_tag": "ARRA",
-      "decimal_odds": 3.43,
+      "decimal_odds": 3.41,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29154518950437314,
-      "implied_prob_fair": 0.2670940170940171,
+      "implied_prob_raw": 0.29325513196480935,
+      "implied_prob_fair": 0.2698072805139186,
       "source": "match:792040"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.732905982905983,
+      "implied_prob_fair": 0.7323340471092077,
       "source": "match:792040"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ARRANCA DREAMS",
       "team_tag": "ARRA",
-      "decimal_odds": 3.43,
+      "decimal_odds": 3.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.29154518950437314,
-      "implied_prob_fair": 0.2670940170940171,
+      "implied_prob_raw": 0.29239766081871343,
+      "implied_prob_fair": 0.26766595289079226,
       "source": "match:792040"
     }
   ]

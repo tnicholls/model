@@ -7,7 +7,7 @@
   "team2": "Arashi",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T22:05:28.044553+00:00",
+  "captured_at": "2026-11-22T22:21:42.896704+00:00",
   "lines": [
     {
       "match_id": 792039,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6218274111675127,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.4704301075268817,
       "source": "match:792039"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Arashi",
       "team_tag": "ARAS",
-      "decimal_odds": 2.45,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4081632653061224,
-      "implied_prob_fair": 0.3781725888324873,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5295698924731183,
       "source": "match:792039"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 1.58,
+      "decimal_odds": 2.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5917312661498708,
+      "implied_prob_raw": 0.47393364928909953,
+      "implied_prob_fair": 0.4373333333333333,
       "source": "match:792039"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Arashi",
       "team_tag": "ARAS",
-      "decimal_odds": 2.29,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.40826873385012924,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5626666666666666,
       "source": "match:792039"
     }
   ]

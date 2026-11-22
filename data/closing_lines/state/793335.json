@@ -7,7 +7,7 @@
   "team2": "QoR",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-22T22:05:42.158854+00:00",
+  "captured_at": "2026-11-22T22:21:57.041479+00:00",
   "lines": [
     {
       "match_id": 793335,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Maryville University",
       "team_tag": "MU",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7448979591836735,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7407407407407407,
       "source": "match:793335"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 3.65,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.273972602739726,
-      "implied_prob_fair": 0.25510204081632654,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.2592592592592593,
       "source": "match:793335"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Maryville University",
       "team_tag": "MU",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7443762781186095,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7396694214876034,
       "source": "match:793335"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 3.64,
+      "decimal_odds": 3.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2747252747252747,
-      "implied_prob_fair": 0.2556237218813906,
+      "implied_prob_raw": 0.27932960893854747,
+      "implied_prob_fair": 0.2603305785123967,
       "source": "match:793335"
     },
     {
