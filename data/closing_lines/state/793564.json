@@ -7,7 +7,7 @@
   "team2": "EL LEGADO",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-22T22:53:27.505038+00:00",
+  "captured_at": "2026-11-23T03:02:54.515555+00:00",
   "lines": [
     {
       "match_id": 793564,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TRAMITE",
       "team_tag": "TRAM",
-      "decimal_odds": 6.0,
+      "decimal_odds": 5.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.16666666666666666,
-      "implied_prob_fair": 0.15254237288135594,
+      "implied_prob_raw": 0.17543859649122806,
+      "implied_prob_fair": 0.16176470588235295,
       "source": "match:793564"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "EL LEGADO",
       "team_tag": "EL L",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.847457627118644,
+      "implied_prob_raw": 0.9090909090909091,
+      "implied_prob_fair": 0.8382352941176471,
       "source": "match:793564"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TRAMITE",
       "team_tag": "TRAM",
-      "decimal_odds": 5.9,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1694915254237288,
-      "implied_prob_fair": 0.15472779369627507,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.158200290275762,
       "source": "match:793564"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "EL LEGADO",
       "team_tag": "EL L",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8452722063037249,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.841799709724238,
       "source": "match:793564"
     }
   ]
