@@ -1,0 +1,69 @@
+{
+  "match_id": 793778,
+  "match_url": "/793778/funplus-phoenix-vs-keepbest-gaming-china-national-tournament-season-7-pro-qualifier-lr1",
+  "date_display": "Tue, November 24, 2026",
+  "time_display": "11:00 AM",
+  "team1": "FunPlus Phoenix",
+  "team2": "KeepBest Gaming",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Playoffs\u2013Lower Round 1",
+  "captured_at": "2026-11-23T17:54:00.981379+00:00",
+  "lines": [
+    {
+      "match_id": 793778,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52949",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5204359673024523,
+      "source": "match:793778"
+    },
+    {
+      "match_id": 793778,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52949",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.91,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5235602094240838,
+      "implied_prob_fair": 0.47956403269754766,
+      "source": "match:793778"
+    },
+    {
+      "match_id": 793778,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52951",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.81,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5524861878453039,
+      "implied_prob_fair": 0.5081521739130436,
+      "source": "match:793778"
+    },
+    {
+      "match_id": 793778,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52951",
+      "stage": "pre-match",
+      "team": "KeepBest Gaming",
+      "team_tag": "KBG",
+      "decimal_odds": 1.87,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.49184782608695654,
+      "source": "match:793778"
+    }
+  ]
+}

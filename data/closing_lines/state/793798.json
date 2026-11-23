@@ -1,0 +1,41 @@
+{
+  "match_id": 793798,
+  "match_url": "/793798/kryon-esports-vs-rankers-vct-2027-pacific-kickoff-south-asia-qualifier-ubqf",
+  "date_display": "Tue, November 24, 2026",
+  "time_display": "2:30 PM",
+  "team1": "Kryon Esports",
+  "team2": "RANKERS",
+  "event_name": "VCT 2027: Pacific Kickoff - South Asia Qualifier",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T17:54:05.899934+00:00",
+  "lines": [
+    {
+      "match_id": 793798,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52946",
+      "stage": "pre-match",
+      "team": "Kryon Esports",
+      "team_tag": "KRN",
+      "decimal_odds": 1.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.970873786407767,
+      "implied_prob_fair": 0.8871851040525739,
+      "source": "match:793798"
+    },
+    {
+      "match_id": 793798,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52946",
+      "stage": "pre-match",
+      "team": "RANKERS",
+      "team_tag": "RANK",
+      "decimal_odds": 8.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1234567901234568,
+      "implied_prob_fair": 0.11281489594742607,
+      "source": "match:793798"
+    }
+  ]
+}

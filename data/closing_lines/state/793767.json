@@ -7,7 +7,7 @@
   "team2": "505",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-23T11:20:48.584296+00:00",
+  "captured_at": "2026-11-23T17:54:10.915529+00:00",
   "lines": [
     {
       "match_id": 793767,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.1724137931034483,
       "implied_prob_fair": 0.158200290275762,
+      "source": "match:793767"
+    },
+    {
+      "match_id": 793767,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52943",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 1.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.8394698085419735,
+      "source": "match:793767"
+    },
+    {
+      "match_id": 793767,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52943",
+      "stage": "pre-match",
+      "team": "505",
+      "team_tag": "505",
+      "decimal_odds": 5.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17543859649122806,
+      "implied_prob_fair": 0.16053019145802652,
       "source": "match:793767"
     }
   ]

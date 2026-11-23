@@ -7,7 +7,7 @@
   "team2": "ARG.MIX",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-23T11:04:30.449925+00:00",
+  "captured_at": "2026-11-23T17:53:51.243052+00:00",
   "lines": [
     {
       "match_id": 793563,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "University War",
       "team_tag": "UW",
-      "decimal_odds": 1.64,
+      "decimal_odds": 1.82,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6097560975609756,
-      "implied_prob_fair": 0.5603217158176944,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5040871934604905,
       "source": "match:793563"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 2.09,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47846889952153115,
-      "implied_prob_fair": 0.4396782841823057,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.49591280653950953,
       "source": "match:793563"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "University War",
       "team_tag": "UW",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5444743935309974,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.4782608695652174,
       "source": "match:793563"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 2.02,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49504950495049505,
-      "implied_prob_fair": 0.45552560646900275,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5217391304347826,
       "source": "match:793563"
     }
   ]

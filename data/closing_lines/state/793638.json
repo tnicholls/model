@@ -7,7 +7,7 @@
   "team2": "team apanthe",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (B)",
-  "captured_at": "2026-11-23T11:21:00.020924+00:00",
+  "captured_at": "2026-11-23T17:54:22.050810+00:00",
   "lines": [
     {
       "match_id": 793638,
@@ -39,8 +39,8 @@
     },
     {
       "match_id": 793638,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52906",
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52944",
       "stage": "pre-match",
       "team": "PCIFIC Esports",
       "team_tag": "PCF",
@@ -48,21 +48,21 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6753554502369669,
+      "implied_prob_fair": 0.6836027713625867,
       "source": "match:793638"
     },
     {
       "match_id": 793638,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52906",
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52944",
       "stage": "pre-match",
       "team": "team apanthe",
       "team_tag": "APAN",
-      "decimal_odds": 2.85,
+      "decimal_odds": 2.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3508771929824561,
-      "implied_prob_fair": 0.32464454976303314,
+      "implied_prob_raw": 0.33783783783783783,
+      "implied_prob_fair": 0.31639722863741343,
       "source": "match:793638"
     }
   ]
