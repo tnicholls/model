@@ -7,7 +7,7 @@
   "team2": "Misa Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (A)",
-  "captured_at": "2026-11-23T06:50:50.511571+00:00",
+  "captured_at": "2026-11-23T11:20:45.237172+00:00",
   "lines": [
     {
       "match_id": 793633,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.18867924528301888,
       "implied_prob_fair": 0.17316692667706712,
+      "source": "match:793633"
+    },
+    {
+      "match_id": 793633,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52904",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8294930875576038,
+      "source": "match:793633"
+    },
+    {
+      "match_id": 793633,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52904",
+      "stage": "pre-match",
+      "team": "Misa Esports",
+      "team_tag": "MISA",
+      "decimal_odds": 5.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.18518518518518517,
+      "implied_prob_fair": 0.17050691244239632,
       "source": "match:793633"
     },
     {

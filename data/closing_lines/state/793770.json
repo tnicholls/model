@@ -1,0 +1,69 @@
+{
+  "match_id": 793770,
+  "match_url": "/793770/a-team-vs-funplus-phoenix-china-national-tournament-season-7-pro-qualifier-ubqf",
+  "date_display": "Mon, November 23, 2026",
+  "time_display": "1:00 PM",
+  "team1": "A Team",
+  "team2": "FunPlus Phoenix",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T11:04:27.195079+00:00",
+  "lines": [
+    {
+      "match_id": 793770,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52926",
+      "stage": "live",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 2.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.36500000000000005,
+      "source": "match:793770"
+    },
+    {
+      "match_id": 793770,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52926",
+      "stage": "live",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6350000000000001,
+      "source": "match:793770"
+    },
+    {
+      "match_id": 793770,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52930",
+      "stage": "live",
+      "team": "A Team",
+      "team_tag": "AT",
+      "decimal_odds": 2.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.36500000000000005,
+      "source": "match:793770"
+    },
+    {
+      "match_id": 793770,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52930",
+      "stage": "live",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6350000000000001,
+      "source": "match:793770"
+    }
+  ]
+}

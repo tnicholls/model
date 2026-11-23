@@ -7,7 +7,7 @@
   "team2": "Oafs",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Playoffs \u2013Upper Quarterfinals",
-  "captured_at": "2026-11-23T06:51:26.742186+00:00",
+  "captured_at": "2026-11-23T11:56:54.617094+00:00",
   "lines": [
     {
       "match_id": 793736,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.273972602739726,
       "implied_prob_fair": 0.25510204081632654,
+      "source": "match:793736"
+    },
+    {
+      "match_id": 793736,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52938",
+      "stage": "pre-match",
+      "team": "YFP",
+      "team_tag": "YFP",
+      "decimal_odds": 1.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7432712215320911,
+      "source": "match:793736"
+    },
+    {
+      "match_id": 793736,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52938",
+      "stage": "pre-match",
+      "team": "Oafs",
+      "team_tag": "OAF",
+      "decimal_odds": 3.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2785515320334262,
+      "implied_prob_fair": 0.2567287784679089,
       "source": "match:793736"
     }
   ]
