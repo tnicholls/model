@@ -1,0 +1,41 @@
+{
+  "match_id": 793767,
+  "match_url": "/793767/contra-vs-505-vct-2027-america-kickoff-latam-north-qualifier-playoffs-swiss-stage-r3-1-1",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Contra",
+  "team2": "505",
+  "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-23T06:18:07.280912+00:00",
+  "lines": [
+    {
+      "match_id": 793767,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52910",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 1.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.841799709724238,
+      "source": "match:793767"
+    },
+    {
+      "match_id": 793767,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52910",
+      "stage": "pre-match",
+      "team": "505",
+      "team_tag": "505",
+      "decimal_odds": 5.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.158200290275762,
+      "source": "match:793767"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 793737,
+  "match_url": "/793737/envy-vs-wildcard-vct-2027-america-kickoff-north-america-qualifier-playoffs-ubqf",
+  "date_display": "Wed, December 2, 2026",
+  "time_display": "2:30 AM",
+  "team1": "ENVY",
+  "team2": "Wildcard",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Playoffs \u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T06:18:43.337784+00:00",
+  "lines": [
+    {
+      "match_id": 793737,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52922",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 1.33,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.7004504504504504,
+      "source": "match:793737"
+    },
+    {
+      "match_id": 793737,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52922",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 3.11,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3215434083601286,
+      "implied_prob_fair": 0.29954954954954954,
+      "source": "match:793737"
+    }
+  ]
+}

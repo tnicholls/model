@@ -1,0 +1,69 @@
+{
+  "match_id": 793638,
+  "match_url": "/793638/pcific-esports-vs-team-apanthe-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-opening-b",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "7:30 PM",
+  "team1": "PCIFIC Esports",
+  "team2": "team apanthe",
+  "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
+  "series": "Playoffs\u2013Opening (B)",
+  "captured_at": "2026-11-23T06:18:15.360070+00:00",
+  "lines": [
+    {
+      "match_id": 793638,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52903",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6730769230769231,
+      "source": "match:793638"
+    },
+    {
+      "match_id": 793638,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52903",
+      "stage": "pre-match",
+      "team": "team apanthe",
+      "team_tag": "APAN",
+      "decimal_odds": 2.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35714285714285715,
+      "implied_prob_fair": 0.326923076923077,
+      "source": "match:793638"
+    },
+    {
+      "match_id": 793638,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52906",
+      "stage": "pre-match",
+      "team": "PCIFIC Esports",
+      "team_tag": "PCF",
+      "decimal_odds": 1.36,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7352941176470588,
+      "implied_prob_fair": 0.6754176610978521,
+      "source": "match:793638"
+    },
+    {
+      "match_id": 793638,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52906",
+      "stage": "pre-match",
+      "team": "team apanthe",
+      "team_tag": "APAN",
+      "decimal_odds": 2.83,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.35335689045936397,
+      "implied_prob_fair": 0.324582338902148,
+      "source": "match:793638"
+    }
+  ]
+}

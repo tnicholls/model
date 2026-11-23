@@ -1,0 +1,41 @@
+{
+  "match_id": 793735,
+  "match_url": "/793735/cloud9-vs-qor-vct-2027-america-kickoff-north-america-qualifier-playoffs-ubqf",
+  "date_display": "Wed, December 2, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Cloud9",
+  "team2": "QoR",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Playoffs \u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T06:18:40.050274+00:00",
+  "lines": [
+    {
+      "match_id": 793735,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52920",
+      "stage": "pre-match",
+      "team": "Cloud9",
+      "team_tag": "C9",
+      "decimal_odds": 1.12,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8333333333333333,
+      "source": "match:793735"
+    },
+    {
+      "match_id": 793735,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52920",
+      "stage": "pre-match",
+      "team": "QoR",
+      "team_tag": "QOR",
+      "decimal_odds": 5.6,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.17857142857142858,
+      "implied_prob_fair": 0.16666666666666669,
+      "source": "match:793735"
+    }
+  ]
+}

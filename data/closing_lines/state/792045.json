@@ -1,0 +1,69 @@
+{
+  "match_id": 792045,
+  "match_url": "/792045/2game-esports-vs-mafiosos-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubqf",
+  "date_display": "Sat, November 28, 2026",
+  "time_display": "1:00 AM",
+  "team1": "2Game Esports",
+  "team2": "Mafiosos",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T06:18:26.914087+00:00",
+  "lines": [
+    {
+      "match_id": 792045,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52914",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.32,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7575757575757576,
+      "implied_prob_fair": 0.6958525345622119,
+      "source": "match:792045"
+    },
+    {
+      "match_id": 792045,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52914",
+      "stage": "pre-match",
+      "team": "Mafiosos",
+      "team_tag": "MAFI",
+      "decimal_odds": 3.02,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33112582781456956,
+      "implied_prob_fair": 0.304147465437788,
+      "source": "match:792045"
+    },
+    {
+      "match_id": 792045,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52918",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.6946386946386947,
+      "source": "match:792045"
+    },
+    {
+      "match_id": 792045,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52918",
+      "stage": "pre-match",
+      "team": "Mafiosos",
+      "team_tag": "MAFI",
+      "decimal_odds": 2.98,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.33557046979865773,
+      "implied_prob_fair": 0.3053613053613054,
+      "source": "match:792045"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "team2": "EL LEGADO",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 2 (1-0)",
-  "captured_at": "2026-11-23T04:26:17.421524+00:00",
+  "captured_at": "2026-11-23T06:17:59.219410+00:00",
   "lines": [
     {
       "match_id": 793564,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.9090909090909091,
       "implied_prob_fair": 0.8382352941176471,
+      "source": "match:793564"
+    },
+    {
+      "match_id": 793564,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52891",
+      "stage": "pre-match",
+      "team": "TRAMITE",
+      "team_tag": "TRAM",
+      "decimal_odds": 5.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.158200290275762,
+      "source": "match:793564"
+    },
+    {
+      "match_id": 793564,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52891",
+      "stage": "pre-match",
+      "team": "EL LEGADO",
+      "team_tag": "EL L",
+      "decimal_odds": 1.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9174311926605504,
+      "implied_prob_fair": 0.841799709724238,
       "source": "match:793564"
     }
   ]

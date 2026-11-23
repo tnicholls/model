@@ -1,0 +1,41 @@
+{
+  "match_id": 793736,
+  "match_url": "/793736/yfp-vs-oafs-vct-2027-america-kickoff-north-america-qualifier-playoffs-ubqf",
+  "date_display": "Wed, December 2, 2026",
+  "time_display": "12:00 AM",
+  "team1": "YFP",
+  "team2": "Oafs",
+  "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
+  "series": "Playoffs \u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T06:18:41.705293+00:00",
+  "lines": [
+    {
+      "match_id": 793736,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52921",
+      "stage": "pre-match",
+      "team": "YFP",
+      "team_tag": "YFP",
+      "decimal_odds": 1.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8,
+      "implied_prob_fair": 0.7448979591836735,
+      "source": "match:793736"
+    },
+    {
+      "match_id": 793736,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52921",
+      "stage": "pre-match",
+      "team": "Oafs",
+      "team_tag": "OAF",
+      "decimal_odds": 3.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.273972602739726,
+      "implied_prob_fair": 0.25510204081632654,
+      "source": "match:793736"
+    }
+  ]
+}

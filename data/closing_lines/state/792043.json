@@ -1,0 +1,69 @@
+{
+  "match_id": 792043,
+  "match_url": "/792043/fluxo-w7m-vs-elevate-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubqf",
+  "date_display": "Fri, November 27, 2026",
+  "time_display": "1:00 AM",
+  "team1": "Fluxo W7M",
+  "team2": "ELEVATE",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Playoffs\u2013Upper Quarterfinals",
+  "captured_at": "2026-11-23T06:18:20.311339+00:00",
+  "lines": [
+    {
+      "match_id": 792043,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52912",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 1.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7861060329067642,
+      "source": "match:792043"
+    },
+    {
+      "match_id": 792043,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52912",
+      "stage": "pre-match",
+      "team": "ELEVATE",
+      "team_tag": "ELV",
+      "decimal_odds": 4.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.23255813953488372,
+      "implied_prob_fair": 0.21389396709323583,
+      "source": "match:792043"
+    },
+    {
+      "match_id": 792043,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52916",
+      "stage": "pre-match",
+      "team": "Fluxo W7M",
+      "team_tag": "FX",
+      "decimal_odds": 1.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7835820895522388,
+      "source": "match:792043"
+    },
+    {
+      "match_id": 792043,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52916",
+      "stage": "pre-match",
+      "team": "ELEVATE",
+      "team_tag": "ELV",
+      "decimal_odds": 4.2,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.23809523809523808,
+      "implied_prob_fair": 0.21641791044776118,
+      "source": "match:792043"
+    }
+  ]
+}

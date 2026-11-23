@@ -1,0 +1,69 @@
+{
+  "match_id": 793639,
+  "match_url": "/793639/be-ikta-esports-vs-galatasaray-esports-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-opening-b",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "4:30 PM",
+  "team1": "Be\u015fikta\u015f Esports",
+  "team2": "Galatasaray Esports",
+  "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
+  "series": "Playoffs\u2013Opening (B)",
+  "captured_at": "2026-11-23T06:18:13.820915+00:00",
+  "lines": [
+    {
+      "match_id": 793639,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52902",
+      "stage": "pre-match",
+      "team": "Be\u015fikta\u015f Esports",
+      "team_tag": "BJK",
+      "decimal_odds": 2.04,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.4486486486486486,
+      "source": "match:793639"
+    },
+    {
+      "match_id": 793639,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52902",
+      "stage": "pre-match",
+      "team": "Galatasaray Esports",
+      "team_tag": "GS",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5513513513513514,
+      "source": "match:793639"
+    },
+    {
+      "match_id": 793639,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52905",
+      "stage": "pre-match",
+      "team": "Be\u015fikta\u015f Esports",
+      "team_tag": "BJK",
+      "decimal_odds": 2.05,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48780487804878053,
+      "implied_prob_fair": 0.44743935309973043,
+      "source": "match:793639"
+    },
+    {
+      "match_id": 793639,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52905",
+      "stage": "pre-match",
+      "team": "Galatasaray Esports",
+      "team_tag": "GS",
+      "decimal_odds": 1.66,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5525606469002695,
+      "source": "match:793639"
+    }
+  ]
+}
