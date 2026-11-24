@@ -7,7 +7,7 @@
   "team2": "Young Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-11-23T17:54:04.275703+00:00",
+  "captured_at": "2026-11-24T07:53:30.471620+00:00",
   "lines": [
     {
       "match_id": 793779,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Second E-sport Club",
       "team_tag": "SEC",
-      "decimal_odds": 2.43,
+      "decimal_odds": 2.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4115226337448559,
-      "implied_prob_fair": 0.37692307692307686,
+      "implied_prob_raw": 0.39840637450199207,
+      "implied_prob_fair": 0.36775818639798497,
       "source": "match:793779"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.46,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6230769230769231,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6322418136020151,
       "source": "match:793779"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Second E-sport Club",
       "team_tag": "SEC",
-      "decimal_odds": 2.45,
+      "decimal_odds": 2.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4081632653061224,
-      "implied_prob_fair": 0.375,
+      "implied_prob_raw": 0.4132231404958678,
+      "implied_prob_fair": 0.3842239185750636,
       "source": "match:793779"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 1.47,
+      "decimal_odds": 1.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.625,
+      "implied_prob_raw": 0.6622516556291391,
+      "implied_prob_fair": 0.6157760814249365,
       "source": "match:793779"
     }
   ]

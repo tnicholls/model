@@ -7,7 +7,7 @@
   "team2": "BRASIL2002",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-23T18:05:18.542335+00:00",
+  "captured_at": "2026-11-24T07:54:04.584595+00:00",
   "lines": [
     {
       "match_id": 792044,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.4132231404958678,
       "implied_prob_fair": 0.3794871794871795,
+      "source": "match:792044"
+    },
+    {
+      "match_id": 792044,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52917",
+      "stage": "pre-match",
+      "team": "Team Solid",
+      "team_tag": "TSS",
+      "decimal_odds": 1.47,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6191709844559586,
+      "source": "match:792044"
+    },
+    {
+      "match_id": 792044,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52917",
+      "stage": "pre-match",
+      "team": "BRASIL2002",
+      "team_tag": "BRA2",
+      "decimal_odds": 2.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.41841004184100417,
+      "implied_prob_fair": 0.38082901554404147,
       "source": "match:792044"
     }
   ]

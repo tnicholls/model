@@ -7,7 +7,7 @@
   "team2": "STREAMER ARENA",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-23T17:54:12.627980+00:00",
+  "captured_at": "2026-11-24T07:53:38.252479+00:00",
   "lines": [
     {
       "match_id": 793768,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.7982456140350879,
+      "implied_prob_fair": 0.7999999999999999,
       "source": "match:793768"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "STREAMER ARENA",
       "team_tag": "STA",
-      "decimal_odds": 4.55,
+      "decimal_odds": 4.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.21978021978021978,
-      "implied_prob_fair": 0.20175438596491227,
+      "implied_prob_raw": 0.2173913043478261,
+      "implied_prob_fair": 0.19999999999999998,
       "source": "match:793768"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.7960992907801419,
+      "implied_prob_fair": 0.7999999999999999,
       "source": "match:793768"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "STREAMER ARENA",
       "team_tag": "STA",
-      "decimal_odds": 4.49,
+      "decimal_odds": 4.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22271714922048996,
-      "implied_prob_fair": 0.20390070921985812,
+      "implied_prob_raw": 0.2173913043478261,
+      "implied_prob_fair": 0.19999999999999998,
       "source": "match:793768"
     }
   ]
