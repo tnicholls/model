@@ -7,7 +7,7 @@
   "team2": "Oafs",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Playoffs \u2013Upper Quarterfinals",
-  "captured_at": "2026-11-23T11:56:54.617094+00:00",
+  "captured_at": "2026-11-24T14:29:12.522877+00:00",
   "lines": [
     {
       "match_id": 793736,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7448979591836735,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.63,
       "source": "match:793736"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 3.65,
+      "decimal_odds": 2.52,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.273972602739726,
-      "implied_prob_fair": 0.25510204081632654,
+      "implied_prob_raw": 0.3968253968253968,
+      "implied_prob_fair": 0.37,
       "source": "match:793736"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.43,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7432712215320911,
+      "implied_prob_raw": 0.6993006993006994,
+      "implied_prob_fair": 0.6442786069651742,
       "source": "match:793736"
     },
     {
@@ -58,11 +58,39 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 3.59,
+      "decimal_odds": 2.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2785515320334262,
-      "implied_prob_fair": 0.2567287784679089,
+      "implied_prob_raw": 0.3861003861003861,
+      "implied_prob_fair": 0.35572139303482586,
+      "source": "match:793736"
+    },
+    {
+      "match_id": 793736,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52966",
+      "stage": "pre-match",
+      "team": "YFP",
+      "team_tag": "YFP",
+      "decimal_odds": 1.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7874015748031495,
+      "implied_prob_fair": 0.7337526205450734,
+      "source": "match:793736"
+    },
+    {
+      "match_id": 793736,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/52966",
+      "stage": "pre-match",
+      "team": "Oafs",
+      "team_tag": "OAF",
+      "decimal_odds": 3.5,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.26624737945492666,
       "source": "match:793736"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "Mafiosos",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-24T08:33:15.940053+00:00",
+  "captured_at": "2026-11-24T14:28:52.717475+00:00",
   "lines": [
     {
       "match_id": 792045,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "2Game Esports",
       "team_tag": "2G",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6958525345622119,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.700228832951945,
       "source": "match:792045"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Mafiosos",
       "team_tag": "MAFI",
-      "decimal_odds": 3.02,
+      "decimal_odds": 3.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33112582781456956,
-      "implied_prob_fair": 0.304147465437788,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.29977116704805495,
       "source": "match:792045"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.6946386946386947,
+      "implied_prob_fair": 0.6988505747126437,
       "source": "match:792045"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Mafiosos",
       "team_tag": "MAFI",
-      "decimal_odds": 2.98,
+      "decimal_odds": 3.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33557046979865773,
-      "implied_prob_fair": 0.3053613053613054,
+      "implied_prob_raw": 0.32894736842105265,
+      "implied_prob_fair": 0.30114942528735633,
       "source": "match:792045"
     }
   ]

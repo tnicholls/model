@@ -7,7 +7,7 @@
   "team2": "Trigon Titans",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (A)",
-  "captured_at": "2026-11-24T08:32:44.875857+00:00",
+  "captured_at": "2026-11-24T13:20:05.259857+00:00",
   "lines": [
     {
       "match_id": 793634,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.970873786407767,
-      "implied_prob_fair": 0.8919202518363064,
+      "implied_prob_fair": 0.893042575285566,
       "source": "match:793634"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Trigon Titans",
       "team_tag": "TT",
-      "decimal_odds": 8.5,
+      "decimal_odds": 8.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.11764705882352941,
-      "implied_prob_fair": 0.10807974816369359,
+      "implied_prob_raw": 0.11627906976744186,
+      "implied_prob_fair": 0.10695742471443406,
       "source": "match:793634"
     }
   ]
