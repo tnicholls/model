@@ -7,7 +7,7 @@
   "team2": "505",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-24T13:52:35.473999+00:00",
+  "captured_at": "2026-11-24T20:06:26.352399+00:00",
   "lines": [
     {
       "match_id": 793767,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 1.1,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9090909090909091,
-      "implied_prob_fair": 0.8307692307692307,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6534653465346535,
       "source": "match:793767"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "505",
       "team_tag": "505",
-      "decimal_odds": 5.4,
+      "decimal_odds": 2.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.1692307692307692,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.3465346534653465,
       "source": "match:793767"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 1.13,
+      "decimal_odds": 1.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8849557522123894,
-      "implied_prob_fair": 0.8242612752721618,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.6041131105398457,
       "source": "match:793767"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "505",
       "team_tag": "505",
-      "decimal_odds": 5.3,
+      "decimal_odds": 2.35,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18867924528301888,
-      "implied_prob_fair": 0.17573872472783827,
+      "implied_prob_raw": 0.425531914893617,
+      "implied_prob_fair": 0.39588688946015427,
       "source": "match:793767"
     }
   ]

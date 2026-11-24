@@ -7,7 +7,7 @@
   "team2": "STREAMER ARENA",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-24T13:52:36.203214+00:00",
+  "captured_at": "2026-11-24T20:06:27.963833+00:00",
   "lines": [
     {
       "match_id": 793768,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Chivas Esports",
       "team_tag": "CHV",
-      "decimal_odds": 1.16,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7924865831842576,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7126948775055678,
       "source": "match:793768"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "STREAMER ARENA",
       "team_tag": "STA",
-      "decimal_odds": 4.43,
+      "decimal_odds": 3.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22573363431151244,
-      "implied_prob_fair": 0.2075134168157424,
+      "implied_prob_raw": 0.3125,
+      "implied_prob_fair": 0.2873051224944321,
+      "source": "match:793768"
+    },
+    {
+      "match_id": 793768,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52936",
+      "stage": "pre-match",
+      "team": "Chivas Esports",
+      "team_tag": "CHV",
+      "decimal_odds": 1.38,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.677570093457944,
+      "source": "match:793768"
+    },
+    {
+      "match_id": 793768,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52936",
+      "stage": "pre-match",
+      "team": "STREAMER ARENA",
+      "team_tag": "STA",
+      "decimal_odds": 2.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.32242990654205606,
       "source": "match:793768"
     }
   ]

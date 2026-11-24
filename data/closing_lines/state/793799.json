@@ -1,0 +1,41 @@
+{
+  "match_id": 793799,
+  "match_url": "/793799/godlike-esports-vs-sign-esports-vct-2027-pacific-kickoff-south-asia-qualifier-ubsf",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "2:30 PM",
+  "team1": "GodLike Esports",
+  "team2": "SIGN Esports",
+  "event_name": "VCT 2027: Pacific Kickoff - South Asia Qualifier",
+  "series": "Playoffs\u2013Upper Semifinals",
+  "captured_at": "2026-11-24T20:06:39.368589+00:00",
+  "lines": [
+    {
+      "match_id": 793799,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52994",
+      "stage": "pre-match",
+      "team": "GodLike Esports",
+      "team_tag": "GODL",
+      "decimal_odds": 1.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5921052631578947,
+      "source": "match:793799"
+    },
+    {
+      "match_id": 793799,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52994",
+      "stage": "pre-match",
+      "team": "SIGN Esports",
+      "team_tag": "SGN",
+      "decimal_odds": 2.25,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4444444444444444,
+      "implied_prob_fair": 0.4078947368421052,
+      "source": "match:793799"
+    }
+  ]
+}

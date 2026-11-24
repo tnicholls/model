@@ -7,7 +7,7 @@
   "team2": "Next",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-24T14:10:47.306609+00:00",
+  "captured_at": "2026-11-24T20:23:47.295663+00:00",
   "lines": [
     {
       "match_id": 792042,
@@ -63,6 +63,34 @@
       "payout": null,
       "implied_prob_raw": 0.4566210045662101,
       "implied_prob_fair": 0.4175531914893617,
+      "source": "match:792042"
+    },
+    {
+      "match_id": 792042,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/53003",
+      "stage": "pre-match",
+      "team": "S\u00d3 TEM VELHO",
+      "team_tag": "SV",
+      "decimal_odds": 1.59,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5848563968668407,
+      "source": "match:792042"
+    },
+    {
+      "match_id": 792042,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/53003",
+      "stage": "pre-match",
+      "team": "Next",
+      "team_tag": "NXT",
+      "decimal_odds": 2.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41514360313315923,
       "source": "match:792042"
     }
   ]

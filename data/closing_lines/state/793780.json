@@ -1,0 +1,69 @@
+{
+  "match_id": 793780,
+  "match_url": "/793780/victory-no-limits-gaming-vs-funplus-phoenix-china-national-tournament-season-7-pro-qualifier-lr2",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "11:00 AM",
+  "team1": "Victory No Limits Gaming",
+  "team2": "FunPlus Phoenix",
+  "event_name": "China National Tournament Season 7: Pro Qualifier",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-11-24T20:06:34.491598+00:00",
+  "lines": [
+    {
+      "match_id": 793780,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52992",
+      "stage": "pre-match",
+      "team": "Victory No Limits Gaming",
+      "team_tag": "VLG",
+      "decimal_odds": 2.03,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4926108374384237,
+      "implied_prob_fair": 0.45283018867924535,
+      "source": "match:793780"
+    },
+    {
+      "match_id": 793780,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/52992",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.68,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5471698113207547,
+      "source": "match:793780"
+    },
+    {
+      "match_id": 793780,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52993",
+      "stage": "pre-match",
+      "team": "Victory No Limits Gaming",
+      "team_tag": "VLG",
+      "decimal_odds": 1.96,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.4716981132075471,
+      "source": "match:793780"
+    },
+    {
+      "match_id": 793780,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52993",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5283018867924527,
+      "source": "match:793780"
+    }
+  ]
+}
