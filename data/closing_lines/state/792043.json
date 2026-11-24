@@ -7,7 +7,7 @@
   "team2": "ELEVATE",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-24T07:53:55.266746+00:00",
+  "captured_at": "2026-11-24T08:10:10.520901+00:00",
   "lines": [
     {
       "match_id": 792043,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Fluxo W7M",
       "team_tag": "FX",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8099173553719008,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.8020477815699659,
       "source": "match:792043"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 4.9,
+      "decimal_odds": 4.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2040816326530612,
-      "implied_prob_fair": 0.19008264462809912,
+      "implied_prob_raw": 0.2127659574468085,
+      "implied_prob_fair": 0.19795221843003413,
       "source": "match:792043"
     }
   ]

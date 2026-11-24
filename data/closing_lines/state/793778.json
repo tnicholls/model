@@ -7,7 +7,7 @@
   "team2": "KeepBest Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-11-24T07:53:27.352079+00:00",
+  "captured_at": "2026-11-24T08:09:42.834250+00:00",
   "lines": [
     {
       "match_id": 793778,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5456989247311828,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5576407506702413,
       "source": "match:793778"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4543010752688172,
+      "implied_prob_raw": 0.4807692307692307,
+      "implied_prob_fair": 0.4423592493297587,
       "source": "match:793778"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "FunPlus Phoenix",
       "team_tag": "FPX",
-      "decimal_odds": 1.74,
+      "decimal_odds": 1.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5747126436781609,
-      "implied_prob_fair": 0.5322580645161289,
+      "implied_prob_raw": 0.5882352941176471,
+      "implied_prob_fair": 0.5454545454545455,
       "source": "match:793778"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "KeepBest Gaming",
       "team_tag": "KBG",
-      "decimal_odds": 1.98,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.46774193548387094,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45454545454545453,
       "source": "match:793778"
     }
   ]
