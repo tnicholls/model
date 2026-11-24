@@ -7,7 +7,7 @@
   "team2": "Misa Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (A)",
-  "captured_at": "2026-11-24T08:09:49.089783+00:00",
+  "captured_at": "2026-11-24T08:32:43.434575+00:00",
   "lines": [
     {
       "match_id": 793633,
@@ -76,7 +76,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8381502890173409,
+      "implied_prob_fair": 0.8333333333333333,
       "source": "match:793633"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 5.8,
+      "decimal_odds": 5.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1724137931034483,
-      "implied_prob_fair": 0.16184971098265896,
+      "implied_prob_raw": 0.17857142857142858,
+      "implied_prob_fair": 0.16666666666666669,
       "source": "match:793633"
     }
   ]

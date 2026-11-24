@@ -7,7 +7,7 @@
   "team2": "Galatasaray Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (B)",
-  "captured_at": "2026-11-24T08:10:01.342335+00:00",
+  "captured_at": "2026-11-24T08:32:55.717257+00:00",
   "lines": [
     {
       "match_id": 793639,
@@ -39,44 +39,16 @@
     },
     {
       "match_id": 793639,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52905",
-      "stage": "pre-match",
-      "team": "Be\u015fikta\u015f Esports",
-      "team_tag": "BJK",
-      "decimal_odds": 2.05,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.48780487804878053,
-      "implied_prob_fair": 0.45187165775401067,
-      "source": "match:793639"
-    },
-    {
-      "match_id": 793639,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52905",
-      "stage": "pre-match",
-      "team": "Galatasaray Esports",
-      "team_tag": "GS",
-      "decimal_odds": 1.69,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5481283422459893,
-      "source": "match:793639"
-    },
-    {
-      "match_id": 793639,
       "bookmaker": "rainbet",
       "bet_url": "/rr/bet/52941",
       "stage": "pre-match",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.445910290237467,
+      "implied_prob_raw": 0.4807692307692307,
+      "implied_prob_fair": 0.44827586206896547,
       "source": "match:793639"
     },
     {
@@ -90,7 +62,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.554089709762533,
+      "implied_prob_fair": 0.5517241379310345,
       "source": "match:793639"
     }
   ]
