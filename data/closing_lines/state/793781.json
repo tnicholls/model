@@ -7,7 +7,7 @@
   "team2": "Young Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-11-25T07:16:43.895138+00:00",
+  "captured_at": "2026-11-25T07:33:09.928310+00:00",
   "lines": [
     {
       "match_id": 793781,
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 1.41,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6618705035971223,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6586538461538461,
       "source": "match:793781"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 2.76,
+      "decimal_odds": 2.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3623188405797102,
-      "implied_prob_fair": 0.33812949640287776,
+      "implied_prob_raw": 0.36496350364963503,
+      "implied_prob_fair": 0.3413461538461538,
       "source": "match:793781"
     }
   ]
