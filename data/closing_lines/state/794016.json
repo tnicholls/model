@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T16:56:32.261337+00:00",
+  "captured_at": "2026-11-25T18:09:15.739650+00:00",
   "lines": [
     {
       "match_id": 794016,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "UCAM Esports Club",
       "team_tag": "UCAM",
-      "decimal_odds": 1.38,
+      "decimal_odds": 2.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6706443914081146,
+      "implied_prob_raw": 0.4366812227074236,
+      "implied_prob_fair": 0.40364583333333337,
       "source": "match:794016"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 2.81,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35587188612099646,
-      "implied_prob_fair": 0.32935560859188545,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5963541666666666,
+      "source": "match:794016"
+    },
+    {
+      "match_id": 794016,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52983",
+      "stage": "live",
+      "team": "UCAM Esports Club",
+      "team_tag": "UCAM",
+      "decimal_odds": 2.28,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.40625000000000006,
+      "source": "match:794016"
+    },
+    {
+      "match_id": 794016,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52983",
+      "stage": "live",
+      "team": "CGN Esports",
+      "team_tag": "CGN",
+      "decimal_odds": 1.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.59375,
       "source": "match:794016"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "Trigon Titans",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Winner's (A)",
-  "captured_at": "2026-11-25T17:19:00.654404+00:00",
+  "captured_at": "2026-11-25T18:09:38.597629+00:00",
   "lines": [
     {
       "match_id": 793635,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.18867924528301888,
       "implied_prob_fair": 0.17316692667706712,
-      "source": "match:793635"
-    },
-    {
-      "match_id": 793635,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53055",
-      "stage": "pre-match",
-      "team": "Eternal Fire",
-      "team_tag": "EF",
-      "decimal_odds": 1.11,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8294930875576038,
-      "source": "match:793635"
-    },
-    {
-      "match_id": 793635,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53055",
-      "stage": "pre-match",
-      "team": "Trigon Titans",
-      "team_tag": "TRT",
-      "decimal_odds": 5.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17050691244239632,
       "source": "match:793635"
     },
     {

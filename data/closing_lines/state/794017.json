@@ -7,7 +7,7 @@
   "team2": "Aurora Gaming",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T16:56:33.893595+00:00",
+  "captured_at": "2026-11-25T18:09:17.155976+00:00",
   "lines": [
     {
       "match_id": 794017,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 6.9,
+      "decimal_odds": 1.96,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14492753623188406,
-      "implied_prob_fair": 0.1342534504391468,
+      "implied_prob_raw": 0.5102040816326531,
+      "implied_prob_fair": 0.47311827956989244,
       "source": "match:794017"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.76,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8657465495608532,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5268817204301075,
       "source": "match:794017"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 6.9,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.14492753623188406,
-      "implied_prob_fair": 0.1342534504391468,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5013477088948788,
       "source": "match:794017"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.07,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9345794392523364,
-      "implied_prob_fair": 0.8657465495608532,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.4986522911051214,
       "source": "match:794017"
     },
     {

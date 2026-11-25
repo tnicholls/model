@@ -1,0 +1,41 @@
+{
+  "match_id": 793806,
+  "match_url": "/793806/sign-esports-vs-goc-esports-vct-2027-pacific-kickoff-south-asia-qualifier-lr2",
+  "date_display": "Thu, November 26, 2026",
+  "time_display": "2:30 PM",
+  "team1": "SIGN Esports",
+  "team2": "GOC Esports",
+  "event_name": "VCT 2027: Pacific Kickoff - South Asia Qualifier",
+  "series": "Playoffs\u2013Lower Round 2",
+  "captured_at": "2026-11-25T18:09:37.091800+00:00",
+  "lines": [
+    {
+      "match_id": 793806,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53062",
+      "stage": "pre-match",
+      "team": "SIGN Esports",
+      "team_tag": "SGN",
+      "decimal_odds": 1.46,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.684931506849315,
+      "implied_prob_fair": 0.6294416243654822,
+      "source": "match:793806"
+    },
+    {
+      "match_id": 793806,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53062",
+      "stage": "pre-match",
+      "team": "GOC Esports",
+      "team_tag": "GOC",
+      "decimal_odds": 2.48,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.3705583756345178,
+      "source": "match:793806"
+    }
+  ]
+}

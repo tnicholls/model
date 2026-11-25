@@ -7,7 +7,7 @@
   "team2": "Finishers",
   "event_name": "VCT 2027: Pacific Kickoff - Oceania Qualifier",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-11-25T16:56:51.921676+00:00",
+  "captured_at": "2026-11-25T18:09:30.986438+00:00",
   "lines": [
     {
       "match_id": 790436,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6329113924050632,
       "implied_prob_fair": 0.5797872340425532,
+      "source": "match:790436"
+    },
+    {
+      "match_id": 790436,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53054",
+      "stage": "pre-match",
+      "team": "TROOPERS",
+      "team_tag": "TRP",
+      "decimal_odds": 2.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.42091152815013405,
+      "source": "match:790436"
+    },
+    {
+      "match_id": 790436,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53054",
+      "stage": "pre-match",
+      "team": "Finishers",
+      "team_tag": "FIN",
+      "decimal_odds": 1.57,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.579088471849866,
       "source": "match:790436"
     }
   ]
