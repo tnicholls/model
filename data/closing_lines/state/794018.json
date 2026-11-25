@@ -7,7 +7,7 @@
   "team2": "Bar\u00e7a eSports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T08:06:07.383824+00:00",
+  "captured_at": "2026-11-25T09:43:22.991999+00:00",
   "lines": [
     {
       "match_id": 794018,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5363881401617251,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5804749340369394,
       "source": "match:794018"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.99,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5025125628140703,
-      "implied_prob_fair": 0.46361185983827485,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.4195250659630607,
       "source": "match:794018"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5376344086021505,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.581578947368421,
       "source": "match:794018"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4623655913978494,
+      "implied_prob_raw": 0.45248868778280543,
+      "implied_prob_fair": 0.4184210526315789,
       "source": "match:794018"
     },
     {

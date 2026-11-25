@@ -7,7 +7,7 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T08:06:08.948529+00:00",
+  "captured_at": "2026-11-25T09:43:24.615031+00:00",
   "lines": [
     {
       "match_id": 794019,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6814988290398126,
+      "implied_prob_raw": 0.7299270072992701,
+      "implied_prob_fair": 0.6784037558685446,
       "source": "match:794019"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 2.91,
+      "decimal_odds": 2.89,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3436426116838488,
-      "implied_prob_fair": 0.3185011709601874,
+      "implied_prob_raw": 0.3460207612456747,
+      "implied_prob_fair": 0.3215962441314554,
       "source": "match:794019"
     },
     {

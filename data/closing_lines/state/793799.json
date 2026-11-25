@@ -7,7 +7,7 @@
   "team2": "SIGN Esports",
   "event_name": "VCT 2027: Pacific Kickoff - South Asia Qualifier",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-25T08:06:01.159348+00:00",
+  "captured_at": "2026-11-25T09:43:16.381096+00:00",
   "lines": [
     {
       "match_id": 793799,
@@ -27,6 +27,34 @@
       "match_id": 793799,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/52994",
+      "stage": "pre-match",
+      "team": "SIGN Esports",
+      "team_tag": "SGN",
+      "decimal_odds": 2.27,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.4041994750656168,
+      "source": "match:793799"
+    },
+    {
+      "match_id": 793799,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53038",
+      "stage": "pre-match",
+      "team": "GodLike Esports",
+      "team_tag": "GODL",
+      "decimal_odds": 1.54,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6493506493506493,
+      "implied_prob_fair": 0.5958005249343833,
+      "source": "match:793799"
+    },
+    {
+      "match_id": 793799,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53038",
       "stage": "pre-match",
       "team": "SIGN Esports",
       "team_tag": "SGN",

@@ -1,0 +1,69 @@
+{
+  "match_id": 794180,
+  "match_url": "/794180/leones-vs-contra-vct-2027-america-kickoff-latam-north-qualifier-playoffs-ubsf",
+  "date_display": "Fri, November 27, 2026",
+  "time_display": "12:00 AM",
+  "team1": "Leones",
+  "team2": "Contra",
+  "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
+  "series": "Playoffs\u2013Upper Semifinals",
+  "captured_at": "2026-11-25T09:59:35.611871+00:00",
+  "lines": [
+    {
+      "match_id": 794180,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53036",
+      "stage": "pre-match",
+      "team": "Leones",
+      "team_tag": "LEON",
+      "decimal_odds": 1.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6518518518518519,
+      "source": "match:794180"
+    },
+    {
+      "match_id": 794180,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53036",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 2.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3787878787878788,
+      "implied_prob_fair": 0.34814814814814815,
+      "source": "match:794180"
+    },
+    {
+      "match_id": 794180,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53040",
+      "stage": "pre-match",
+      "team": "Leones",
+      "team_tag": "LEON",
+      "decimal_odds": 1.4,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6508728179551122,
+      "source": "match:794180"
+    },
+    {
+      "match_id": 794180,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53040",
+      "stage": "pre-match",
+      "team": "Contra",
+      "team_tag": "BBB",
+      "decimal_odds": 2.61,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3831417624521073,
+      "implied_prob_fair": 0.3491271820448878,
+      "source": "match:794180"
+    }
+  ]
+}

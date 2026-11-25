@@ -1,0 +1,69 @@
+{
+  "match_id": 793991,
+  "match_url": "/793991/9z-globant-vs-arg-mix-vct-2027-america-kickoff-latam-south-qualifier-playoffs-r3-1-1",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "9:00 PM",
+  "team1": "9z Globant",
+  "team2": "ARG.MIX",
+  "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 3 (1-1)",
+  "captured_at": "2026-11-25T09:43:34.514867+00:00",
+  "lines": [
+    {
+      "match_id": 793991,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53037",
+      "stage": "pre-match",
+      "team": "9z Globant",
+      "team_tag": "9ZG",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7570281124497992,
+      "source": "match:793991"
+    },
+    {
+      "match_id": 793991,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53037",
+      "stage": "pre-match",
+      "team": "ARG.MIX",
+      "team_tag": "ARG.",
+      "decimal_odds": 3.77,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.26525198938992045,
+      "implied_prob_fair": 0.24297188755020083,
+      "source": "match:793991"
+    },
+    {
+      "match_id": 793991,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53039",
+      "stage": "pre-match",
+      "team": "9z Globant",
+      "team_tag": "9ZG",
+      "decimal_odds": 1.21,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7535641547861507,
+      "source": "match:793991"
+    },
+    {
+      "match_id": 793991,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53039",
+      "stage": "pre-match",
+      "team": "ARG.MIX",
+      "team_tag": "ARG.",
+      "decimal_odds": 3.7,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.27027027027027023,
+      "implied_prob_fair": 0.24643584521384923,
+      "source": "match:793991"
+    }
+  ]
+}
