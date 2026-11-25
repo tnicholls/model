@@ -7,7 +7,7 @@
   "team2": "F9 EICAR",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T20:14:22.057655+00:00",
+  "captured_at": "2026-11-25T20:30:46.721123+00:00",
   "lines": [
     {
       "match_id": 794020,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.06,
+      "decimal_odds": 1.66,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9433962264150942,
-      "implied_prob_fair": 0.8716707021791767,
+      "implied_prob_raw": 0.6024096385542169,
+      "implied_prob_fair": 0.5585106382978724,
       "source": "match:794020"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 7.2,
+      "decimal_odds": 2.1,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1388888888888889,
-      "implied_prob_fair": 0.12832929782082325,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.4414893617021276,
       "source": "match:794020"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.12,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8255451713395638,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5974025974025974,
       "source": "match:794020"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 5.3,
+      "decimal_odds": 2.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18867924528301888,
-      "implied_prob_fair": 0.17445482866043616,
+      "implied_prob_raw": 0.4347826086956522,
+      "implied_prob_fair": 0.4025974025974026,
       "source": "match:794020"
     },
     {

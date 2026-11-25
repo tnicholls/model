@@ -7,7 +7,7 @@
   "team2": "La Masia",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T20:14:25.130986+00:00",
+  "captured_at": "2026-11-25T20:30:49.858544+00:00",
   "lines": [
     {
       "match_id": 794022,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.29,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5900783289817232,
+      "implied_prob_raw": 0.7751937984496123,
+      "implied_prob_fair": 0.7164835164835164,
       "source": "match:794022"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 2.26,
+      "decimal_odds": 3.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4424778761061947,
-      "implied_prob_fair": 0.40992167101827676,
+      "implied_prob_raw": 0.3067484662576687,
+      "implied_prob_fair": 0.2835164835164835,
       "source": "match:794022"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 1.79,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5586592178770949,
-      "implied_prob_fair": 0.5175202156334231,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6401985111662531,
       "source": "match:794022"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 1.92,
+      "decimal_odds": 2.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.48247978436657685,
+      "implied_prob_raw": 0.38759689922480617,
+      "implied_prob_fair": 0.35980148883374685,
       "source": "match:794022"
     },
     {

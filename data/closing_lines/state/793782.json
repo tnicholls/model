@@ -7,7 +7,7 @@
   "team2": "Young Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 3",
-  "captured_at": "2026-11-25T20:14:37.484341+00:00",
+  "captured_at": "2026-11-25T20:31:02.283277+00:00",
   "lines": [
     {
       "match_id": 793782,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Victory No Limits Gaming",
       "team_tag": "VLG",
-      "decimal_odds": 1.69,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.591715976331361,
-      "implied_prob_fair": 0.5420054200542006,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5459459459459459,
       "source": "match:793782"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 2.0,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5,
-      "implied_prob_fair": 0.4579945799457995,
-      "source": "match:793782"
-    },
-    {
-      "match_id": 793782,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53049",
-      "stage": "pre-match",
-      "team": "Victory No Limits Gaming",
-      "team_tag": "VLG",
-      "decimal_odds": 1.67,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.5988023952095809,
-      "implied_prob_fair": 0.5498652291105122,
-      "source": "match:793782"
-    },
-    {
-      "match_id": 793782,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53049",
-      "stage": "pre-match",
-      "team": "Young Gaming",
-      "team_tag": "YG",
-      "decimal_odds": 2.04,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.45013477088948783,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.454054054054054,
       "source": "match:793782"
     }
   ]
