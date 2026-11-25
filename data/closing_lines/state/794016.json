@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T18:09:15.739650+00:00",
+  "captured_at": "2026-11-25T18:25:47.430484+00:00",
   "lines": [
     {
       "match_id": 794016,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "UCAM Esports Club",
       "team_tag": "UCAM",
-      "decimal_odds": 2.29,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4366812227074236,
-      "implied_prob_fair": 0.40364583333333337,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.758893280632411,
       "source": "match:794016"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.55,
+      "decimal_odds": 3.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6451612903225806,
-      "implied_prob_fair": 0.5963541666666666,
+      "implied_prob_raw": 0.2604166666666667,
+      "implied_prob_fair": 0.24110671936758893,
       "source": "match:794016"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "UCAM Esports Club",
       "team_tag": "UCAM",
-      "decimal_odds": 2.28,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4385964912280702,
-      "implied_prob_fair": 0.40625000000000006,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.754,
       "source": "match:794016"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.56,
+      "decimal_odds": 3.77,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.59375,
+      "implied_prob_raw": 0.26525198938992045,
+      "implied_prob_fair": 0.24600000000000005,
       "source": "match:794016"
     },
     {

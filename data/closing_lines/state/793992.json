@@ -7,7 +7,7 @@
   "team2": "TRAMITE",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-25T18:09:27.892150+00:00",
+  "captured_at": "2026-11-25T18:26:00.100492+00:00",
   "lines": [
     {
       "match_id": 793992,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6951501154734412,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.691415313225058,
       "source": "match:793992"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "TRAMITE",
       "team_tag": "TRAM",
-      "decimal_odds": 3.01,
+      "decimal_odds": 2.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33222591362126247,
-      "implied_prob_fair": 0.3048498845265589,
+      "implied_prob_raw": 0.33557046979865773,
+      "implied_prob_fair": 0.30858468677494205,
       "source": "match:793992"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.6939252336448598,
+      "implied_prob_raw": 0.7518796992481203,
+      "implied_prob_fair": 0.6855791962174941,
       "source": "match:793992"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "TRAMITE",
       "team_tag": "TRAM",
-      "decimal_odds": 2.97,
+      "decimal_odds": 2.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33670033670033667,
-      "implied_prob_fair": 0.3060747663551402,
+      "implied_prob_raw": 0.3448275862068966,
+      "implied_prob_fair": 0.3144208037825059,
       "source": "match:793992"
     }
   ]

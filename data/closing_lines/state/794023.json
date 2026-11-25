@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T18:09:24.874961+00:00",
+  "captured_at": "2026-11-25T18:25:57.077608+00:00",
   "lines": [
     {
       "match_id": 794023,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6460396039603962,
+      "implied_prob_raw": 0.7142857142857143,
+      "implied_prob_fair": 0.6577017114914425,
       "source": "match:794023"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.61,
+      "decimal_odds": 2.69,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.353960396039604,
+      "implied_prob_raw": 0.3717472118959108,
+      "implied_prob_fair": 0.3422982885085575,
       "source": "match:794023"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.5,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6666666666666666,
-      "implied_prob_fair": 0.6231155778894473,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6461916461916463,
       "source": "match:794023"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.48,
+      "decimal_odds": 2.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.40322580645161293,
-      "implied_prob_fair": 0.37688442211055284,
+      "implied_prob_raw": 0.3802281368821293,
+      "implied_prob_fair": 0.35380835380835385,
       "source": "match:794023"
     },
     {
