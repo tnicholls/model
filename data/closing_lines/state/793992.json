@@ -7,7 +7,7 @@
   "team2": "TRAMITE",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-25T19:57:54.113711+00:00",
+  "captured_at": "2026-11-25T20:14:29.756465+00:00",
   "lines": [
     {
       "match_id": 793992,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.6024096385542169,
       "implied_prob_fair": 0.5525606469002695,
+      "source": "match:793992"
+    },
+    {
+      "match_id": 793992,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53066",
+      "stage": "pre-match",
+      "team": "ARG.MIX",
+      "team_tag": "ARG.",
+      "decimal_odds": 2.1,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47619047619047616,
+      "implied_prob_fair": 0.43548387096774194,
+      "source": "match:793992"
+    },
+    {
+      "match_id": 793992,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53066",
+      "stage": "pre-match",
+      "team": "TRAMITE",
+      "team_tag": "TRAM",
+      "decimal_odds": 1.62,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5645161290322581,
       "source": "match:793992"
     }
   ]
