@@ -7,7 +7,7 @@
   "team2": "Galatasaray Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (B)",
-  "captured_at": "2026-11-25T18:25:50.707777+00:00",
+  "captured_at": "2026-11-25T18:42:15.408344+00:00",
   "lines": [
     {
       "match_id": 793639,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 1.88,
+      "decimal_odds": 1.86,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5319148936170213,
-      "implied_prob_fair": 0.4932614555256065,
+      "implied_prob_raw": 0.5376344086021505,
+      "implied_prob_fair": 0.4986522911051214,
       "source": "match:793639"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Galatasaray Esports",
       "team_tag": "GS",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.85,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5067385444743935,
+      "implied_prob_raw": 0.5405405405405405,
+      "implied_prob_fair": 0.5013477088948788,
       "source": "match:793639"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 1.91,
+      "decimal_odds": 1.87,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5235602094240838,
-      "implied_prob_fair": 0.4851752021563342,
+      "implied_prob_raw": 0.53475935828877,
+      "implied_prob_fair": 0.4945945945945946,
       "source": "match:793639"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Galatasaray Esports",
       "team_tag": "GS",
-      "decimal_odds": 1.8,
+      "decimal_odds": 1.83,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5555555555555556,
-      "implied_prob_fair": 0.5148247978436657,
+      "implied_prob_raw": 0.5464480874316939,
+      "implied_prob_fair": 0.5054054054054055,
       "source": "match:793639"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "Contra",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-25T18:26:16.206157+00:00",
+  "captured_at": "2026-11-25T18:42:41.470122+00:00",
   "lines": [
     {
       "match_id": 794180,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6508728179551122,
+      "implied_prob_fair": 0.6526054590570719,
       "source": "match:794180"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.61,
+      "decimal_odds": 2.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3831417624521073,
-      "implied_prob_fair": 0.3491271820448878,
+      "implied_prob_raw": 0.3802281368821293,
+      "implied_prob_fair": 0.34739454094292804,
       "source": "match:794180"
     }
   ]
