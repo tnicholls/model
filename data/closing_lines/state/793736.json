@@ -7,7 +7,7 @@
   "team2": "Oafs",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Playoffs \u2013Upper Quarterfinals",
-  "captured_at": "2026-11-24T14:29:12.522877+00:00",
+  "captured_at": "2026-11-25T05:31:17.026646+00:00",
   "lines": [
     {
       "match_id": 793736,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.48,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.63,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6334164588528678,
       "source": "match:793736"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 2.52,
+      "decimal_odds": 2.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3968253968253968,
-      "implied_prob_fair": 0.37,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.3665835411471321,
       "source": "match:793736"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "YFP",
       "team_tag": "YFP",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6442786069651742,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6417910447761194,
       "source": "match:793736"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Oafs",
       "team_tag": "OAF",
-      "decimal_odds": 2.59,
+      "decimal_odds": 2.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3861003861003861,
-      "implied_prob_fair": 0.35572139303482586,
+      "implied_prob_raw": 0.38759689922480617,
+      "implied_prob_fair": 0.3582089552238806,
       "source": "match:793736"
     },
     {

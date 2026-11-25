@@ -7,7 +7,7 @@
   "team2": "Young Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-11-25T01:26:56.990245+00:00",
+  "captured_at": "2026-11-25T05:30:08.416100+00:00",
   "lines": [
     {
       "match_id": 793781,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.6995412844036698,
+      "implied_prob_fair": 0.7036199095022625,
       "source": "match:793781"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 3.05,
+      "decimal_odds": 3.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3278688524590164,
-      "implied_prob_fair": 0.30045871559633036,
-      "source": "match:793781"
-    },
-    {
-      "match_id": 793781,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53025",
-      "stage": "pre-match",
-      "team": "A Team",
-      "team_tag": "AT",
-      "decimal_odds": 1.32,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7,
-      "source": "match:793781"
-    },
-    {
-      "match_id": 793781,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53025",
-      "stage": "pre-match",
-      "team": "Young Gaming",
-      "team_tag": "YG",
-      "decimal_odds": 3.08,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3246753246753247,
-      "implied_prob_fair": 0.3,
+      "implied_prob_raw": 0.3215434083601286,
+      "implied_prob_fair": 0.2963800904977376,
       "source": "match:793781"
     }
   ]

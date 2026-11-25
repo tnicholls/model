@@ -7,7 +7,7 @@
   "team2": "QoR",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Playoffs \u2013Upper Quarterfinals",
-  "captured_at": "2026-11-24T14:29:10.864454+00:00",
+  "captured_at": "2026-11-25T05:31:15.489791+00:00",
   "lines": [
     {
       "match_id": 793735,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Cloud9",
       "team_tag": "C9",
-      "decimal_odds": 1.12,
+      "decimal_odds": 1.11,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8928571428571428,
-      "implied_prob_fair": 0.8333333333333333,
+      "implied_prob_raw": 0.9009009009009008,
+      "implied_prob_fair": 0.8370044052863437,
       "source": "match:793735"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "QoR",
       "team_tag": "QOR",
-      "decimal_odds": 5.6,
+      "decimal_odds": 5.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.17857142857142858,
-      "implied_prob_fair": 0.16666666666666669,
-      "source": "match:793735"
-    },
-    {
-      "match_id": 793735,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52937",
-      "stage": "pre-match",
-      "team": "Cloud9",
-      "team_tag": "C9",
-      "decimal_odds": 1.11,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8294930875576038,
-      "source": "match:793735"
-    },
-    {
-      "match_id": 793735,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52937",
-      "stage": "pre-match",
-      "team": "QoR",
-      "team_tag": "QOR",
-      "decimal_odds": 5.4,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17050691244239632,
+      "implied_prob_raw": 0.17543859649122806,
+      "implied_prob_fair": 0.1629955947136564,
       "source": "match:793735"
     },
     {

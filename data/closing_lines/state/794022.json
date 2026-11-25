@@ -7,7 +7,7 @@
   "team2": "La Masia",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T01:44:07.151629+00:00",
+  "captured_at": "2026-11-25T05:30:23.890800+00:00",
   "lines": [
     {
       "match_id": 794022,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.42780748663101603,
+      "implied_prob_raw": 0.4716981132075471,
+      "implied_prob_fair": 0.4331550802139037,
       "source": "match:794022"
     },
     {
@@ -30,39 +30,39 @@
       "stage": "pre-match",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 1.6,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.625,
-      "implied_prob_fair": 0.5721925133689839,
-      "source": "match:794022"
-    },
-    {
-      "match_id": 794022,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52988",
-      "stage": "pre-match",
-      "team": "MIR",
-      "team_tag": "MIR",
-      "decimal_odds": 2.1,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.43548387096774194,
-      "source": "match:794022"
-    },
-    {
-      "match_id": 794022,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/52988",
-      "stage": "pre-match",
-      "team": "La Masia",
-      "team_tag": "MSA",
       "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5645161290322581,
+      "implied_prob_fair": 0.5668449197860962,
+      "source": "match:794022"
+    },
+    {
+      "match_id": 794022,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52988",
+      "stage": "pre-match",
+      "team": "MIR",
+      "team_tag": "MIR",
+      "decimal_odds": 2.09,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.4396782841823057,
+      "source": "match:794022"
+    },
+    {
+      "match_id": 794022,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52988",
+      "stage": "pre-match",
+      "team": "La Masia",
+      "team_tag": "MSA",
+      "decimal_odds": 1.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5603217158176944,
       "source": "match:794022"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 2.26,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4424778761061947,
-      "implied_prob_fair": 0.41298701298701296,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.42931937172774864,
       "source": "match:794022"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 1.59,
+      "decimal_odds": 1.64,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6289308176100629,
-      "implied_prob_fair": 0.5870129870129869,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5706806282722513,
       "source": "match:794022"
     }
   ]
