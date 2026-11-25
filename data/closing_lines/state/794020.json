@@ -7,7 +7,7 @@
   "team2": "F9 EICAR",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T19:17:09.735429+00:00",
+  "captured_at": "2026-11-25T19:33:33.056364+00:00",
   "lines": [
     {
       "match_id": 794020,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.15,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8060708263069141,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.758893280632411,
       "source": "match:794020"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 4.78,
+      "decimal_odds": 3.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.20920502092050208,
-      "implied_prob_fair": 0.193929173693086,
-      "source": "match:794020"
-    },
-    {
-      "match_id": 794020,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53063",
-      "stage": "live",
-      "team": "Eintracht Frankfurt",
-      "team_tag": "SGE",
-      "decimal_odds": 1.15,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8695652173913044,
-      "implied_prob_fair": 0.8067226890756303,
-      "source": "match:794020"
-    },
-    {
-      "match_id": 794020,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53063",
-      "stage": "live",
-      "team": "F9 EICAR",
-      "team_tag": "F9",
-      "decimal_odds": 4.8,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.20833333333333334,
-      "implied_prob_fair": 0.19327731092436976,
+      "implied_prob_raw": 0.2604166666666667,
+      "implied_prob_fair": 0.24110671936758893,
       "source": "match:794020"
     },
     {
