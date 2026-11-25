@@ -7,7 +7,7 @@
   "team2": "Young Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-11-25T07:33:09.928310+00:00",
+  "captured_at": "2026-11-25T07:49:35.433228+00:00",
   "lines": [
     {
       "match_id": 793781,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6784869976359339,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6493827160493827,
       "source": "match:793781"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 2.87,
+      "decimal_odds": 2.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3484320557491289,
-      "implied_prob_fair": 0.3215130023640662,
+      "implied_prob_raw": 0.3802281368821293,
+      "implied_prob_fair": 0.3506172839506173,
       "source": "match:793781"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "A Team",
       "team_tag": "AT",
-      "decimal_odds": 1.42,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.6586538461538461,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6290726817042606,
       "source": "match:793781"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Young Gaming",
       "team_tag": "YG",
-      "decimal_odds": 2.74,
+      "decimal_odds": 2.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36496350364963503,
-      "implied_prob_fair": 0.3413461538461538,
+      "implied_prob_raw": 0.39840637450199207,
+      "implied_prob_fair": 0.3709273182957394,
       "source": "match:793781"
     }
   ]

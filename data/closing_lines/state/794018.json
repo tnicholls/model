@@ -7,7 +7,7 @@
   "team2": "Bar\u00e7a eSports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T07:33:17.695634+00:00",
+  "captured_at": "2026-11-25T07:49:43.229589+00:00",
   "lines": [
     {
       "match_id": 794018,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5631578947368422,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5669291338582677,
       "source": "match:794018"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.4368421052631579,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.43307086614173224,
       "source": "match:794018"
     }
   ]
