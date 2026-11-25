@@ -1,0 +1,41 @@
+{
+  "match_id": 793635,
+  "match_url": "/793635/eternal-fire-vs-trigon-titans-vct-2027-emea-kickoff-t-rkiye-qualifier-playoffs-winners-a",
+  "date_display": "Thu, November 26, 2026",
+  "time_display": "4:30 PM",
+  "team1": "Eternal Fire",
+  "team2": "Trigon Titans",
+  "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
+  "series": "Playoffs\u2013Winner's (A)",
+  "captured_at": "2026-11-25T07:17:15.001227+00:00",
+  "lines": [
+    {
+      "match_id": 793635,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53033",
+      "stage": "pre-match",
+      "team": "Eternal Fire",
+      "team_tag": "EF",
+      "decimal_odds": 1.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9345794392523364,
+      "implied_prob_fair": 0.8548168249660787,
+      "source": "match:793635"
+    },
+    {
+      "match_id": 793635,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53033",
+      "stage": "pre-match",
+      "team": "Trigon Titans",
+      "team_tag": "TRT",
+      "decimal_odds": 6.3,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.15873015873015872,
+      "implied_prob_fair": 0.1451831750339213,
+      "source": "match:793635"
+    }
+  ]
+}
