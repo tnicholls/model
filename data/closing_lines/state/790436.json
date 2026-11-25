@@ -7,7 +7,7 @@
   "team2": "Finishers",
   "event_name": "VCT 2027: Pacific Kickoff - Oceania Qualifier",
   "series": "Playoffs\u2013Lower Round 1",
-  "captured_at": "2026-11-25T18:42:28.550991+00:00",
+  "captured_at": "2026-11-25T19:00:55.247573+00:00",
   "lines": [
     {
       "match_id": 790436,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "TROOPERS",
       "team_tag": "TRP",
-      "decimal_odds": 2.18,
+      "decimal_odds": 2.16,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4587155963302752,
-      "implied_prob_fair": 0.4202127659574468,
+      "implied_prob_raw": 0.4629629629629629,
+      "implied_prob_fair": 0.424,
       "source": "match:790436"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Finishers",
       "team_tag": "FIN",
-      "decimal_odds": 1.58,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6329113924050632,
-      "implied_prob_fair": 0.5797872340425532,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5760000000000001,
       "source": "match:790436"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "TROOPERS",
       "team_tag": "TRP",
-      "decimal_odds": 2.16,
+      "decimal_odds": 2.15,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4629629629629629,
-      "implied_prob_fair": 0.42091152815013405,
+      "implied_prob_raw": 0.46511627906976744,
+      "implied_prob_fair": 0.42513368983957217,
       "source": "match:790436"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Finishers",
       "team_tag": "FIN",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.59,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.579088471849866,
+      "implied_prob_raw": 0.6289308176100629,
+      "implied_prob_fair": 0.5748663101604278,
       "source": "match:790436"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "Galatasaray Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Opening (B)",
-  "captured_at": "2026-11-25T18:42:15.408344+00:00",
+  "captured_at": "2026-11-25T19:00:42.952715+00:00",
   "lines": [
     {
       "match_id": 793639,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 1.86,
+      "decimal_odds": 3.33,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5376344086021505,
-      "implied_prob_fair": 0.4986522911051214,
+      "implied_prob_raw": 0.3003003003003003,
+      "implied_prob_fair": 0.27765726681127983,
       "source": "match:793639"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Galatasaray Esports",
       "team_tag": "GS",
-      "decimal_odds": 1.85,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5405405405405405,
-      "implied_prob_fair": 0.5013477088948788,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7223427331887202,
       "source": "match:793639"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 1.87,
+      "decimal_odds": 3.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.53475935828877,
-      "implied_prob_fair": 0.4945945945945946,
+      "implied_prob_raw": 0.3058103975535168,
+      "implied_prob_fair": 0.2844638949671772,
       "source": "match:793639"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Galatasaray Esports",
       "team_tag": "GS",
-      "decimal_odds": 1.83,
+      "decimal_odds": 1.3,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5464480874316939,
-      "implied_prob_fair": 0.5054054054054055,
+      "implied_prob_raw": 0.7692307692307692,
+      "implied_prob_fair": 0.7155361050328227,
       "source": "match:793639"
     },
     {
