@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-11-25T19:33:45.495120+00:00",
+  "captured_at": "2026-11-25T19:57:58.777715+00:00",
   "lines": [
     {
       "match_id": 793776,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.7575757575757576,
       "implied_prob_fair": 0.6944444444444445,
+      "source": "match:793776"
+    },
+    {
+      "match_id": 793776,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52990",
+      "stage": "pre-match",
+      "team": "Unsettled Resentment",
+      "team_tag": "UR",
+      "decimal_odds": 2.77,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.36101083032490977,
+      "implied_prob_fair": 0.33732057416267947,
+      "source": "match:793776"
+    },
+    {
+      "match_id": 793776,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52990",
+      "stage": "pre-match",
+      "team": "Any Questions Gaming",
+      "team_tag": "AQ",
+      "decimal_odds": 1.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6626794258373206,
       "source": "match:793776"
     }
   ]
