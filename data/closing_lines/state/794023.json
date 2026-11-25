@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T09:43:32.918143+00:00",
+  "captured_at": "2026-11-25T16:56:45.448952+00:00",
   "lines": [
     {
       "match_id": 794023,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.42,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6674698795180724,
+      "implied_prob_raw": 0.7042253521126761,
+      "implied_prob_fair": 0.6493827160493827,
       "source": "match:794023"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.77,
+      "decimal_odds": 2.63,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36101083032490977,
-      "implied_prob_fair": 0.3325301204819277,
+      "implied_prob_raw": 0.3802281368821293,
+      "implied_prob_fair": 0.3506172839506173,
       "source": "match:794023"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.39,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7194244604316548,
-      "implied_prob_fair": 0.667464114832536,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6309226932668328,
       "source": "match:794023"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.79,
+      "decimal_odds": 2.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.35842293906810035,
-      "implied_prob_fair": 0.33253588516746413,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.3690773067331671,
       "source": "match:794023"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.4,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6682464454976303,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6504854368932039,
       "source": "match:794023"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.82,
+      "decimal_odds": 2.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3317535545023697,
+      "implied_prob_raw": 0.3731343283582089,
+      "implied_prob_fair": 0.34951456310679613,
       "source": "match:794023"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "BRASIL2002",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-25T10:15:57.915162+00:00",
+  "captured_at": "2026-11-25T17:19:17.759579+00:00",
   "lines": [
     {
       "match_id": 792044,
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.6802721088435374,
-      "implied_prob_fair": 0.6230769230769231,
+      "implied_prob_fair": 0.6240409207161125,
       "source": "match:792044"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 2.43,
+      "decimal_odds": 2.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4115226337448559,
-      "implied_prob_fair": 0.37692307692307686,
+      "implied_prob_raw": 0.4098360655737705,
+      "implied_prob_fair": 0.37595907928388744,
       "source": "match:792044"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "La Masia",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-25T09:43:31.214635+00:00",
+  "captured_at": "2026-11-25T16:56:43.793733+00:00",
   "lines": [
     {
       "match_id": 794022,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 2.2,
+      "decimal_odds": 2.02,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.45454545454545453,
-      "implied_prob_fair": 0.42408376963350786,
+      "implied_prob_raw": 0.49504950495049505,
+      "implied_prob_fair": 0.46276595744680854,
       "source": "match:794022"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5759162303664922,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5372340425531915,
       "source": "match:794022"
     }
   ]

@@ -1,0 +1,41 @@
+{
+  "match_id": 790436,
+  "match_url": "/790436/troopers-vs-finishers-vct-2027-pacific-kickoff-oceania-qualifier-lr1",
+  "date_display": "Thu, November 26, 2026",
+  "time_display": "10:00 AM",
+  "team1": "TROOPERS",
+  "team2": "Finishers",
+  "event_name": "VCT 2027: Pacific Kickoff - Oceania Qualifier",
+  "series": "Playoffs\u2013Lower Round 1",
+  "captured_at": "2026-11-25T16:56:51.921676+00:00",
+  "lines": [
+    {
+      "match_id": 790436,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53052",
+      "stage": "pre-match",
+      "team": "TROOPERS",
+      "team_tag": "TRP",
+      "decimal_odds": 2.18,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4202127659574468,
+      "source": "match:790436"
+    },
+    {
+      "match_id": 790436,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53052",
+      "stage": "pre-match",
+      "team": "Finishers",
+      "team_tag": "FIN",
+      "decimal_odds": 1.58,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5797872340425532,
+      "source": "match:790436"
+    }
+  ]
+}

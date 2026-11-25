@@ -1,0 +1,41 @@
+{
+  "match_id": 794020,
+  "match_url": "/794020/eintracht-frankfurt-vs-f9-eicar-vct-2027-emea-kickoff-europe-qualifier-playoffs-swiss-stage-r1-0-0",
+  "date_display": "Wed, November 25, 2026",
+  "time_display": "8:30 PM",
+  "team1": "Eintracht Frankfurt",
+  "team2": "F9 EICAR",
+  "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
+  "series": "Swiss Stage\u2013Round 1 (0-0)",
+  "captured_at": "2026-11-25T16:56:40.505298+00:00",
+  "lines": [
+    {
+      "match_id": 794020,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/53051",
+      "stage": "pre-match",
+      "team": "Eintracht Frankfurt",
+      "team_tag": "SGE",
+      "decimal_odds": 1.41,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7092198581560284,
+      "implied_prob_fair": 0.6634844868735083,
+      "source": "match:794020"
+    },
+    {
+      "match_id": 794020,
+      "bookmaker": "rainbet",
+      "bet_url": "/rr/bet/53051",
+      "stage": "pre-match",
+      "team": "F9 EICAR",
+      "team_tag": "F9",
+      "decimal_odds": 2.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.3597122302158274,
+      "implied_prob_fair": 0.33651551312649164,
+      "source": "match:794020"
+    }
+  ]
+}

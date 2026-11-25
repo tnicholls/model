@@ -7,7 +7,7 @@
   "team2": "ARG.MIX",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-25T09:43:34.514867+00:00",
+  "captured_at": "2026-11-25T16:56:47.078490+00:00",
   "lines": [
     {
       "match_id": 793991,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "9z Globant",
       "team_tag": "9ZG",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.22,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7570281124497992,
+      "implied_prob_raw": 0.819672131147541,
+      "implied_prob_fair": 0.7520325203252033,
       "source": "match:793991"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 3.77,
+      "decimal_odds": 3.7,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.26525198938992045,
-      "implied_prob_fair": 0.24297188755020083,
+      "implied_prob_raw": 0.27027027027027023,
+      "implied_prob_fair": 0.24796747967479674,
       "source": "match:793991"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "9z Globant",
       "team_tag": "9ZG",
-      "decimal_odds": 1.21,
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7535641547861507,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7489795918367347,
       "source": "match:793991"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 3.7,
+      "decimal_odds": 3.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27027027027027023,
-      "implied_prob_fair": 0.24643584521384923,
+      "implied_prob_raw": 0.2724795640326976,
+      "implied_prob_fair": 0.2510204081632653,
       "source": "match:793991"
     }
   ]
