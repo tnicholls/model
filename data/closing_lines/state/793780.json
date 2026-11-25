@@ -7,7 +7,7 @@
   "team2": "FunPlus Phoenix",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Lower Round 2",
-  "captured_at": "2026-11-25T07:49:32.386707+00:00",
+  "captured_at": "2026-11-25T08:05:56.450014+00:00",
   "lines": [
     {
       "match_id": 793780,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.5494505494505494,
       "implied_prob_fair": 0.5067750677506776,
+      "source": "match:793780"
+    },
+    {
+      "match_id": 793780,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52993",
+      "stage": "pre-match",
+      "team": "Victory No Limits Gaming",
+      "team_tag": "VLG",
+      "decimal_odds": 1.82,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5494505494505494,
+      "implied_prob_fair": 0.5081081081081081,
+      "source": "match:793780"
+    },
+    {
+      "match_id": 793780,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52993",
+      "stage": "pre-match",
+      "team": "FunPlus Phoenix",
+      "team_tag": "FPX",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.491891891891892,
       "source": "match:793780"
     }
   ]
