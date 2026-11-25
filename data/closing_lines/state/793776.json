@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-11-24T20:23:29.621973+00:00",
+  "captured_at": "2026-11-25T01:44:13.813480+00:00",
   "lines": [
     {
       "match_id": 793776,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.74,
+      "decimal_odds": 2.73,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36496350364963503,
-      "implied_prob_fair": 0.3333333333333333,
+      "implied_prob_raw": 0.3663003663003663,
+      "implied_prob_fair": 0.33576642335766416,
       "source": "match:793776"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.37,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7299270072992701,
-      "implied_prob_fair": 0.6666666666666666,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6642335766423357,
       "source": "match:793776"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.77,
+      "decimal_odds": 2.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.36101083032490977,
-      "implied_prob_fair": 0.3325301204819277,
+      "implied_prob_raw": 0.36363636363636365,
+      "implied_prob_fair": 0.3357487922705314,
       "source": "match:793776"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.38,
+      "decimal_odds": 1.39,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7246376811594204,
-      "implied_prob_fair": 0.6674698795180724,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6642512077294687,
       "source": "match:793776"
     }
   ]

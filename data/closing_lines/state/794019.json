@@ -7,7 +7,7 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-24T20:06:47.622217+00:00",
+  "captured_at": "2026-11-25T01:44:00.594230+00:00",
   "lines": [
     {
       "match_id": 794019,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 1.24,
+      "decimal_odds": 1.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8064516129032259,
-      "implied_prob_fair": 0.7416666666666666,
+      "implied_prob_raw": 0.78125,
+      "implied_prob_fair": 0.7253218884120172,
       "source": "match:794019"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 3.56,
+      "decimal_odds": 3.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2808988764044944,
-      "implied_prob_fair": 0.2583333333333333,
+      "implied_prob_raw": 0.2958579881656805,
+      "implied_prob_fair": 0.27467811158798283,
       "source": "match:794019"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 1.23,
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7484662576687118,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.743801652892562,
       "source": "match:794019"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Pixel Lumina",
       "team_tag": "PXL",
-      "decimal_odds": 3.66,
+      "decimal_odds": 3.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.27322404371584696,
-      "implied_prob_fair": 0.25153374233128833,
+      "implied_prob_raw": 0.2777777777777778,
+      "implied_prob_fair": 0.256198347107438,
       "source": "match:794019"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 1 (0-0)",
-  "captured_at": "2026-11-24T20:23:24.810767+00:00",
+  "captured_at": "2026-11-25T01:44:08.835577+00:00",
   "lines": [
     {
       "match_id": 794023,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.36,
+      "decimal_odds": 1.38,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7352941176470588,
-      "implied_prob_fair": 0.6746411483253588,
+      "implied_prob_raw": 0.7246376811594204,
+      "implied_prob_fair": 0.6634146341463415,
       "source": "match:794023"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 2.82,
+      "decimal_odds": 2.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3546099290780142,
-      "implied_prob_fair": 0.3253588516746412,
+      "implied_prob_raw": 0.3676470588235294,
+      "implied_prob_fair": 0.33658536585365845,
+      "source": "match:794023"
+    },
+    {
+      "match_id": 794023,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52987",
+      "stage": "pre-match",
+      "team": "Joblife",
+      "team_tag": "JL",
+      "decimal_odds": 1.39,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7194244604316548,
+      "implied_prob_fair": 0.6642512077294687,
+      "source": "match:794023"
+    },
+    {
+      "match_id": 794023,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52987",
+      "stage": "pre-match",
+      "team": "WIP Esports",
+      "team_tag": "WIP",
+      "decimal_odds": 2.75,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.36363636363636365,
+      "implied_prob_fair": 0.3357487922705314,
       "source": "match:794023"
     },
     {
