@@ -7,7 +7,7 @@
   "team2": "Trigon Titans",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Winner's (A)",
-  "captured_at": "2026-11-25T21:22:54.747839+00:00",
+  "captured_at": "2026-11-26T01:47:54.844145+00:00",
   "lines": [
     {
       "match_id": 793635,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.13,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.826833073322933,
+      "implied_prob_raw": 0.8849557522123894,
+      "implied_prob_fair": 0.8132231404958679,
       "source": "match:793635"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Trigon Titans",
       "team_tag": "TRT",
-      "decimal_odds": 5.3,
+      "decimal_odds": 4.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18867924528301888,
-      "implied_prob_fair": 0.17316692667706712,
+      "implied_prob_raw": 0.2032520325203252,
+      "implied_prob_fair": 0.18677685950413225,
       "source": "match:793635"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.11,
+      "decimal_odds": 1.14,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9009009009009008,
-      "implied_prob_fair": 0.8294930875576038,
+      "implied_prob_raw": 0.8771929824561404,
+      "implied_prob_fair": 0.8140293637846656,
       "source": "match:793635"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Trigon Titans",
       "team_tag": "TRT",
-      "decimal_odds": 5.4,
+      "decimal_odds": 4.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.18518518518518517,
-      "implied_prob_fair": 0.17050691244239632,
+      "implied_prob_raw": 0.2004008016032064,
+      "implied_prob_fair": 0.18597063621533438,
       "source": "match:793635"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Eternal Fire",
       "team_tag": "EF",
-      "decimal_odds": 1.08,
+      "decimal_odds": 1.12,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.9259259259259258,
-      "implied_prob_fair": 0.8695652173913043,
+      "implied_prob_raw": 0.8928571428571428,
+      "implied_prob_fair": 0.8381502890173409,
       "source": "match:793635"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Trigon Titans",
       "team_tag": "TRT",
-      "decimal_odds": 7.2,
+      "decimal_odds": 5.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.1388888888888889,
-      "implied_prob_fair": 0.13043478260869568,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.16184971098265896,
       "source": "match:793635"
     }
   ]

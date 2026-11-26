@@ -7,7 +7,7 @@
   "team2": "counterfeit",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Playoffs \u2013Upper Quarterfinals",
-  "captured_at": "2026-11-25T21:23:41.439557+00:00",
+  "captured_at": "2026-11-26T02:06:00.678390+00:00",
   "lines": [
     {
       "match_id": 793738,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.273972602739726,
       "implied_prob_fair": 0.25510204081632654,
+      "source": "match:793738"
+    },
+    {
+      "match_id": 793738,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52939",
+      "stage": "pre-match",
+      "team": "Shopify Rebellion Black",
+      "team_tag": "SRB",
+      "decimal_odds": 1.26,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.738045738045738,
+      "source": "match:793738"
+    },
+    {
+      "match_id": 793738,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52939",
+      "stage": "pre-match",
+      "team": "counterfeit",
+      "team_tag": "FAKE",
+      "decimal_odds": 3.55,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.28169014084507044,
+      "implied_prob_fair": 0.26195426195426197,
       "source": "match:793738"
     },
     {

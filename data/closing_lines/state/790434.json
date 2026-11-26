@@ -7,7 +7,7 @@
   "team2": "MeatZn",
   "event_name": "VCT 2027: Pacific Kickoff - Oceania Qualifier",
   "series": "Playoffs\u2013Upper Final",
-  "captured_at": "2026-11-25T21:23:04.018786+00:00",
+  "captured_at": "2026-11-26T01:48:04.613084+00:00",
   "lines": [
     {
       "match_id": 790434,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bonkers",
       "team_tag": "BONK",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.31,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.6951501154734412,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.700228832951945,
       "source": "match:790434"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "MeatZn",
       "team_tag": "MZN",
-      "decimal_odds": 3.01,
+      "decimal_odds": 3.06,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.33222591362126247,
-      "implied_prob_fair": 0.3048498845265589,
-      "source": "match:790434"
-    },
-    {
-      "match_id": 790434,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53056",
-      "stage": "pre-match",
-      "team": "Bonkers",
-      "team_tag": "BONK",
-      "decimal_odds": 1.31,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.6939252336448598,
-      "source": "match:790434"
-    },
-    {
-      "match_id": 790434,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53056",
-      "stage": "pre-match",
-      "team": "MeatZn",
-      "team_tag": "MZN",
-      "decimal_odds": 2.97,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.33670033670033667,
-      "implied_prob_fair": 0.3060747663551402,
+      "implied_prob_raw": 0.32679738562091504,
+      "implied_prob_fair": 0.29977116704805495,
       "source": "match:790434"
     }
   ]

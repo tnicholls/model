@@ -7,7 +7,7 @@
   "team2": "ELEVATE",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-25T21:23:00.890167+00:00",
+  "captured_at": "2026-11-26T01:48:01.472427+00:00",
   "lines": [
     {
       "match_id": 792043,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7917414721723518,
+      "implied_prob_fair": 0.7898550724637681,
       "source": "match:792043"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 4.41,
+      "decimal_odds": 4.36,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22675736961451246,
-      "implied_prob_fair": 0.2082585278276481,
+      "implied_prob_raw": 0.2293577981651376,
+      "implied_prob_fair": 0.21014492753623185,
       "source": "match:792043"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8620689655172414,
-      "implied_prob_fair": 0.7917414721723518,
+      "implied_prob_fair": 0.7902350813743219,
       "source": "match:792043"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 4.41,
+      "decimal_odds": 4.37,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.22675736961451246,
-      "implied_prob_fair": 0.2082585278276481,
+      "implied_prob_raw": 0.22883295194508008,
+      "implied_prob_fair": 0.2097649186256781,
       "source": "match:792043"
     },
     {
