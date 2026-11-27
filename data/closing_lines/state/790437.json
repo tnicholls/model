@@ -7,7 +7,7 @@
   "team2": "Finishers",
   "event_name": "VCT 2027: Pacific Kickoff - Oceania Qualifier",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-11-27T15:19:02.035762+00:00",
+  "captured_at": "2026-11-27T15:35:43.385179+00:00",
   "lines": [
     {
       "match_id": 790437,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MeatZn",
       "team_tag": "MZN",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6294416243654822,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6338383838383838,
       "source": "match:790437"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Finishers",
       "team_tag": "FIN",
-      "decimal_odds": 2.48,
+      "decimal_odds": 2.51,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.40322580645161293,
-      "implied_prob_fair": 0.3705583756345178,
+      "implied_prob_raw": 0.39840637450199207,
+      "implied_prob_fair": 0.36616161616161613,
       "source": "match:790437"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "MeatZn",
       "team_tag": "MZN",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6282051282051282,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.633587786259542,
       "source": "match:790437"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Finishers",
       "team_tag": "FIN",
-      "decimal_odds": 2.45,
+      "decimal_odds": 2.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4081632653061224,
-      "implied_prob_fair": 0.37179487179487175,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.366412213740458,
       "source": "match:790437"
     }
   ]

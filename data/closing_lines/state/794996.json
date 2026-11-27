@@ -7,7 +7,7 @@
   "team2": "La Masia",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T15:18:49.698693+00:00",
+  "captured_at": "2026-11-27T15:35:30.972317+00:00",
   "lines": [
     {
       "match_id": 794996,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.32,
+      "decimal_odds": 1.26,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7575757575757576,
-      "implied_prob_fair": 0.7079646017699115,
+      "implied_prob_raw": 0.7936507936507936,
+      "implied_prob_fair": 0.7433808553971486,
       "source": "match:794996"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 3.2,
+      "decimal_odds": 3.65,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3125,
-      "implied_prob_fair": 0.2920353982300885,
+      "implied_prob_raw": 0.273972602739726,
+      "implied_prob_fair": 0.2566191446028513,
       "source": "match:794996"
     }
   ]

@@ -7,7 +7,7 @@
   "team2": "Natus Vincere Junior",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (2-0)",
-  "captured_at": "2026-11-27T15:18:54.323242+00:00",
+  "captured_at": "2026-11-27T15:35:35.638682+00:00",
   "lines": [
     {
       "match_id": 795002,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.98,
+      "decimal_odds": 1.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5050505050505051,
-      "implied_prob_fair": 0.4648648648648649,
+      "implied_prob_raw": 0.5128205128205129,
+      "implied_prob_fair": 0.47297297297297297,
       "source": "match:795002"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5351351351351351,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.527027027027027,
       "source": "match:795002"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 1.95,
+      "decimal_odds": 1.93,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5128205128205129,
-      "implied_prob_fair": 0.47580645161290325,
+      "implied_prob_raw": 0.5181347150259068,
+      "implied_prob_fair": 0.47978436657681944,
       "source": "match:795002"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.78,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5241935483870968,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.5202156334231806,
       "source": "match:795002"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Joblife",
       "team_tag": "JL",
-      "decimal_odds": 2.04,
+      "decimal_odds": 1.94,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49019607843137253,
-      "implied_prob_fair": 0.4588859416445623,
+      "implied_prob_raw": 0.5154639175257733,
+      "implied_prob_fair": 0.48128342245989303,
       "source": "match:795002"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Natus Vincere Junior",
       "team_tag": "NVJ",
-      "decimal_odds": 1.73,
+      "decimal_odds": 1.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5780346820809249,
-      "implied_prob_fair": 0.5411140583554377,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5187165775401069,
       "source": "match:795002"
     }
   ]

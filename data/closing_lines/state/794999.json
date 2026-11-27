@@ -7,7 +7,7 @@
   "team2": "F9 EICAR",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T15:18:45.044690+00:00",
+  "captured_at": "2026-11-27T15:35:26.353855+00:00",
   "lines": [
     {
       "match_id": 794999,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 2.51,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39840637450199207,
-      "implied_prob_fair": 0.36616161616161613,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4202127659574468,
       "source": "match:794999"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6338383838383838,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5797872340425532,
       "source": "match:794999"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 2.51,
+      "decimal_odds": 2.18,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39840637450199207,
-      "implied_prob_fair": 0.36616161616161613,
+      "implied_prob_raw": 0.4587155963302752,
+      "implied_prob_fair": 0.4202127659574468,
       "source": "match:794999"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.58,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6338383838383838,
+      "implied_prob_raw": 0.6329113924050632,
+      "implied_prob_fair": 0.5797872340425532,
       "source": "match:794999"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 2.5,
+      "decimal_odds": 2.4,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4,
-      "implied_prob_fair": 0.37343358395989973,
+      "implied_prob_raw": 0.4166666666666667,
+      "implied_prob_fair": 0.3893129770992367,
       "source": "match:794999"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 1.49,
+      "decimal_odds": 1.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6711409395973155,
-      "implied_prob_fair": 0.6265664160401002,
+      "implied_prob_raw": 0.6535947712418301,
+      "implied_prob_fair": 0.6106870229007634,
       "source": "match:794999"
     }
   ]

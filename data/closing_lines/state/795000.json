@@ -7,7 +7,7 @@
   "team2": "Mandatory",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (0-2)",
-  "captured_at": "2026-11-27T15:18:46.627219+00:00",
+  "captured_at": "2026-11-27T15:35:27.892636+00:00",
   "lines": [
     {
       "match_id": 795000,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.62,
+      "decimal_odds": 1.56,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6172839506172839,
-      "implied_prob_fair": 0.5691489361702128,
+      "implied_prob_raw": 0.641025641025641,
+      "implied_prob_fair": 0.5894736842105263,
       "source": "match:795000"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.14,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4672897196261682,
-      "implied_prob_fair": 0.4308510638297873,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.4105263157894737,
       "source": "match:795000"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.7,
+      "decimal_odds": 1.57,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5882352941176471,
-      "implied_prob_fair": 0.5442359249329759,
+      "implied_prob_raw": 0.6369426751592356,
+      "implied_prob_fair": 0.5879265091863517,
       "source": "match:795000"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.03,
+      "decimal_odds": 2.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4926108374384237,
-      "implied_prob_fair": 0.4557640750670242,
+      "implied_prob_raw": 0.4464285714285714,
+      "implied_prob_fair": 0.41207349081364825,
       "source": "match:795000"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.68,
+      "decimal_odds": 1.62,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5952380952380952,
-      "implied_prob_fair": 0.5555555555555556,
+      "implied_prob_raw": 0.6172839506172839,
+      "implied_prob_fair": 0.5759162303664922,
       "source": "match:795000"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.1,
+      "decimal_odds": 2.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.47619047619047616,
-      "implied_prob_fair": 0.4444444444444444,
+      "implied_prob_raw": 0.45454545454545453,
+      "implied_prob_fair": 0.42408376963350786,
       "source": "match:795000"
     }
   ]
