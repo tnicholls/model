@@ -7,7 +7,7 @@
   "team2": "Any Questions Gaming",
   "event_name": "China National Tournament Season 7: Pro Qualifier",
   "series": "Playoffs\u2013Grand Final",
-  "captured_at": "2026-11-27T17:35:01.979298+00:00",
+  "captured_at": "2026-11-27T23:22:53.288168+00:00",
   "lines": [
     {
       "match_id": 793777,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.3698979591836734,
+      "implied_prob_fair": 0.3730964467005076,
       "source": "match:793777"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.45,
+      "decimal_odds": 1.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6896551724137931,
-      "implied_prob_fair": 0.6301020408163265,
+      "implied_prob_raw": 0.6802721088435374,
+      "implied_prob_fair": 0.6269035532994924,
       "source": "match:793777"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Unsettled Resentment",
       "team_tag": "UR",
-      "decimal_odds": 2.49,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4016064257028112,
-      "implied_prob_fair": 0.36962025316455693,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37373737373737376,
       "source": "match:793777"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Any Questions Gaming",
       "team_tag": "AQ",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6303797468354431,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6262626262626262,
       "source": "match:793777"
     }
   ]

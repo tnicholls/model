@@ -7,7 +7,7 @@
   "team2": "Contra",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-27T17:35:12.816155+00:00",
+  "captured_at": "2026-11-27T23:23:03.965818+00:00",
   "lines": [
     {
       "match_id": 794180,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.2857142857142857,
       "implied_prob_fair": 0.26160337552742613,
-      "source": "match:794180"
-    },
-    {
-      "match_id": 794180,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53040",
-      "stage": "pre-match",
-      "team": "LEONES",
-      "team_tag": "LEO",
-      "decimal_odds": 1.23,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8130081300813008,
-      "implied_prob_fair": 0.7421383647798742,
-      "source": "match:794180"
-    },
-    {
-      "match_id": 794180,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53040",
-      "stage": "pre-match",
-      "team": "Contra",
-      "team_tag": "BBB",
-      "decimal_odds": 3.54,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2824858757062147,
-      "implied_prob_fair": 0.2578616352201258,
       "source": "match:794180"
     }
   ]

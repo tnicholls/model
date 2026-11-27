@@ -7,7 +7,7 @@
   "team2": "ELEVATE",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-27T17:35:29.951977+00:00",
+  "captured_at": "2026-11-27T23:23:22.481653+00:00",
   "lines": [
     {
       "match_id": 792048,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Next",
       "team_tag": "NXT",
-      "decimal_odds": 2.56,
+      "decimal_odds": 2.53,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.390625,
-      "implied_prob_fair": 0.3583959899749373,
+      "implied_prob_raw": 0.3952569169960475,
+      "implied_prob_fair": 0.36272040302267,
       "source": "match:792048"
     },
     {
@@ -30,39 +30,11 @@
       "stage": "pre-match",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6416040100250627,
-      "source": "match:792048"
-    },
-    {
-      "match_id": 792048,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53130",
-      "stage": "pre-match",
-      "team": "Next",
-      "team_tag": "NXT",
-      "decimal_odds": 2.53,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.3952569169960475,
-      "implied_prob_fair": 0.359493670886076,
-      "source": "match:792048"
-    },
-    {
-      "match_id": 792048,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53130",
-      "stage": "pre-match",
-      "team": "ELEVATE",
-      "team_tag": "ELV",
-      "decimal_odds": 1.42,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.7042253521126761,
-      "implied_prob_fair": 0.640506329113924,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6372795969773298,
       "source": "match:792048"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "Finishers",
   "event_name": "VCT 2027: Pacific Kickoff - Oceania Qualifier",
   "series": "Playoffs\u2013Lower Final",
-  "captured_at": "2026-11-27T17:35:00.387092+00:00",
+  "captured_at": "2026-11-27T23:22:51.601643+00:00",
   "lines": [
     {
       "match_id": 790437,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.39840637450199207,
       "implied_prob_fair": 0.36616161616161613,
-      "source": "match:790437"
-    },
-    {
-      "match_id": 790437,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53169",
-      "stage": "pre-match",
-      "team": "MeatZn",
-      "team_tag": "MZN",
-      "decimal_odds": 1.44,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6944444444444444,
-      "implied_prob_fair": 0.633587786259542,
-      "source": "match:790437"
-    },
-    {
-      "match_id": 790437,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53169",
-      "stage": "pre-match",
-      "team": "Finishers",
-      "team_tag": "FIN",
-      "decimal_odds": 2.49,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.4016064257028112,
-      "implied_prob_fair": 0.366412213740458,
       "source": "match:790437"
     }
   ]
