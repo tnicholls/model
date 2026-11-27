@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T17:18:23.327082+00:00",
+  "captured_at": "2026-11-27T17:34:43.409611+00:00",
   "lines": [
     {
       "match_id": 794998,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.67,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8112582781456954,
+      "implied_prob_raw": 0.5988023952095809,
+      "implied_prob_fair": 0.5558510638297872,
       "source": "match:794998"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 4.9,
+      "decimal_odds": 2.09,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2040816326530612,
-      "implied_prob_fair": 0.1887417218543046,
+      "implied_prob_raw": 0.47846889952153115,
+      "implied_prob_fair": 0.4441489361702128,
       "source": "match:794998"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.14,
+      "decimal_odds": 1.79,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8771929824561404,
-      "implied_prob_fair": 0.8112582781456954,
+      "implied_prob_raw": 0.5586592178770949,
+      "implied_prob_fair": 0.5175202156334231,
       "source": "match:794998"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 4.9,
+      "decimal_odds": 1.92,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2040816326530612,
-      "implied_prob_fair": 0.1887417218543046,
+      "implied_prob_raw": 0.5208333333333334,
+      "implied_prob_fair": 0.48247978436657685,
       "source": "match:794998"
     },
     {

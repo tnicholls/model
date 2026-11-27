@@ -7,7 +7,7 @@
   "team2": "La Masia",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T17:18:28.018949+00:00",
+  "captured_at": "2026-11-27T17:34:48.090689+00:00",
   "lines": [
     {
       "match_id": 794996,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.3,
+      "decimal_odds": 1.19,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7692307692307692,
-      "implied_prob_fair": 0.7085201793721974,
+      "implied_prob_raw": 0.8403361344537815,
+      "implied_prob_fair": 0.7693798449612403,
       "source": "match:794996"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 3.16,
+      "decimal_odds": 3.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3164556962025316,
-      "implied_prob_fair": 0.2914798206278027,
+      "implied_prob_raw": 0.2518891687657431,
+      "implied_prob_fair": 0.23062015503875968,
       "source": "match:794996"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Bar\u00e7a eSports",
       "team_tag": "BAR",
-      "decimal_odds": 1.31,
+      "decimal_odds": 1.2,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7633587786259541,
-      "implied_prob_fair": 0.7069351230425056,
+      "implied_prob_raw": 0.8333333333333334,
+      "implied_prob_fair": 0.7692307692307692,
       "source": "match:794996"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "La Masia",
       "team_tag": "MSA",
-      "decimal_odds": 3.16,
+      "decimal_odds": 4.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3164556962025316,
-      "implied_prob_fair": 0.2930648769574944,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23076923076923073,
       "source": "match:794996"
     },
     {

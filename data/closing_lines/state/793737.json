@@ -7,7 +7,7 @@
   "team2": "Wildcard",
   "event_name": "VCT 2027: America Kickoff - North America Qualifier Playoffs",
   "series": "Playoffs \u2013Upper Quarterfinals",
-  "captured_at": "2026-11-27T17:19:22.674719+00:00",
+  "captured_at": "2026-11-27T17:35:42.465049+00:00",
   "lines": [
     {
       "match_id": 793737,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.3115264797507788,
       "implied_prob_fair": 0.28982300884955753,
+      "source": "match:793737"
+    },
+    {
+      "match_id": 793737,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52940",
+      "stage": "pre-match",
+      "team": "ENVY",
+      "team_tag": "ENVY",
+      "decimal_odds": 1.31,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.7633587786259541,
+      "implied_prob_fair": 0.7088888888888888,
+      "source": "match:793737"
+    },
+    {
+      "match_id": 793737,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/52940",
+      "stage": "pre-match",
+      "team": "Wildcard",
+      "team_tag": "WC",
+      "decimal_odds": 3.19,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.31347962382445144,
+      "implied_prob_fair": 0.29111111111111115,
       "source": "match:793737"
     },
     {

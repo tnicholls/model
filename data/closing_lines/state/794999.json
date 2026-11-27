@@ -7,7 +7,7 @@
   "team2": "F9 EICAR",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T17:18:24.883372+00:00",
+  "captured_at": "2026-11-27T17:34:44.977182+00:00",
   "lines": [
     {
       "match_id": 794999,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 3.53,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28328611898017,
-      "implied_prob_fair": 0.2630480167014614,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.46900269541778977,
       "source": "match:794999"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 1.26,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7936507936507936,
-      "implied_prob_fair": 0.7369519832985386,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5309973045822103,
       "source": "match:794999"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "MIR",
       "team_tag": "MIR",
-      "decimal_odds": 4.05,
+      "decimal_odds": 1.97,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2469135802469136,
-      "implied_prob_fair": 0.22857142857142856,
+      "implied_prob_raw": 0.5076142131979695,
+      "implied_prob_fair": 0.46900269541778977,
       "source": "match:794999"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "F9 EICAR",
       "team_tag": "F9",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.74,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7714285714285714,
+      "implied_prob_raw": 0.5747126436781609,
+      "implied_prob_fair": 0.5309973045822103,
       "source": "match:794999"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "WIP Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T17:18:29.543218+00:00",
+  "captured_at": "2026-11-27T17:34:49.563267+00:00",
   "lines": [
     {
       "match_id": 794997,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 2.08,
+      "decimal_odds": 2.04,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4807692307692307,
-      "implied_prob_fair": 0.4438502673796791,
+      "implied_prob_raw": 0.49019607843137253,
+      "implied_prob_fair": 0.45161290322580644,
       "source": "match:794997"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 1.66,
+      "decimal_odds": 1.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6024096385542169,
-      "implied_prob_fair": 0.5561497326203209,
+      "implied_prob_raw": 0.5952380952380952,
+      "implied_prob_fair": 0.5483870967741936,
       "source": "match:794997"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "GIANTX",
       "team_tag": "GX",
-      "decimal_odds": 2.01,
+      "decimal_odds": 1.98,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.49751243781094534,
-      "implied_prob_fair": 0.4611260053619303,
+      "implied_prob_raw": 0.5050505050505051,
+      "implied_prob_fair": 0.46916890080428963,
       "source": "match:794997"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "WIP Esports",
       "team_tag": "WIP",
-      "decimal_odds": 1.72,
+      "decimal_odds": 1.75,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5813953488372093,
-      "implied_prob_fair": 0.5388739946380697,
+      "implied_prob_raw": 0.5714285714285714,
+      "implied_prob_fair": 0.5308310991957105,
       "source": "match:794997"
     },
     {
