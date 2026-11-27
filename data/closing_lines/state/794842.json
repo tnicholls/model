@@ -1,0 +1,69 @@
+{
+  "match_id": 794842,
+  "match_url": "/794842/university-war-vs-9z-globant-vct-2027-america-kickoff-latam-south-qualifier-playoffs-ubsf",
+  "date_display": "Sat, November 28, 2026",
+  "time_display": "12:00 AM",
+  "team1": "University War",
+  "team2": "9z Globant",
+  "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
+  "series": "Playoffs\u2013Upper Semifinals",
+  "captured_at": "2026-11-27T15:18:58.967323+00:00",
+  "lines": [
+    {
+      "match_id": 794842,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53120",
+      "stage": "pre-match",
+      "team": "University War",
+      "team_tag": "UW",
+      "decimal_odds": 4.35,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2298850574712644,
+      "implied_prob_fair": 0.21195652173913046,
+      "source": "match:794842"
+    },
+    {
+      "match_id": 794842,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53120",
+      "stage": "pre-match",
+      "team": "9z Globant",
+      "team_tag": "9ZG",
+      "decimal_odds": 1.17,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8547008547008548,
+      "implied_prob_fair": 0.7880434782608696,
+      "source": "match:794842"
+    },
+    {
+      "match_id": 794842,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53122",
+      "stage": "pre-match",
+      "team": "University War",
+      "team_tag": "UW",
+      "decimal_odds": 4.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.22573363431151244,
+      "implied_prob_fair": 0.2075134168157424,
+      "source": "match:794842"
+    },
+    {
+      "match_id": 794842,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53122",
+      "stage": "pre-match",
+      "team": "9z Globant",
+      "team_tag": "9ZG",
+      "decimal_odds": 1.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7924865831842576,
+      "source": "match:794842"
+    }
+  ]
+}

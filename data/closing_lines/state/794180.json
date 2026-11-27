@@ -1,26 +1,26 @@
 {
   "match_id": 794180,
   "match_url": "/794180/leones-vs-contra-vct-2027-america-kickoff-latam-north-qualifier-playoffs-ubsf",
-  "date_display": "Fri, November 27, 2026",
+  "date_display": "Sun, November 29, 2026",
   "time_display": "12:00 AM",
-  "team1": "Leones",
+  "team1": "LEONES",
   "team2": "Contra",
   "event_name": "VCT 2027: America Kickoff - LATAM North Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-26T01:47:59.798106+00:00",
+  "captured_at": "2026-11-27T15:19:14.377810+00:00",
   "lines": [
     {
       "match_id": 794180,
       "bookmaker": "ggbet",
       "bet_url": "/rr/bet/53036",
       "stage": "pre-match",
-      "team": "Leones",
-      "team_tag": "LEON",
-      "decimal_odds": 1.41,
+      "team": "LEONES",
+      "team_tag": "LEO",
+      "decimal_odds": 1.24,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7092198581560284,
-      "implied_prob_fair": 0.6518518518518519,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7383966244725738,
       "source": "match:794180"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.64,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3787878787878788,
-      "implied_prob_fair": 0.34814814814814815,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.26160337552742613,
       "source": "match:794180"
     },
     {
@@ -42,13 +42,13 @@
       "bookmaker": "thunderpick",
       "bet_url": "/rr/bet/53040",
       "stage": "pre-match",
-      "team": "Leones",
-      "team_tag": "LEON",
-      "decimal_odds": 1.4,
+      "team": "LEONES",
+      "team_tag": "LEO",
+      "decimal_odds": 1.23,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.7142857142857143,
-      "implied_prob_fair": 0.6526054590570719,
+      "implied_prob_raw": 0.8130081300813008,
+      "implied_prob_fair": 0.7421383647798742,
       "source": "match:794180"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Contra",
       "team_tag": "BBB",
-      "decimal_odds": 2.63,
+      "decimal_odds": 3.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3802281368821293,
-      "implied_prob_fair": 0.34739454094292804,
+      "implied_prob_raw": 0.2824858757062147,
+      "implied_prob_fair": 0.2578616352201258,
       "source": "match:794180"
     }
   ]

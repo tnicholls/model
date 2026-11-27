@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Elimination (A)",
-  "captured_at": "2026-11-26T02:05:44.264405+00:00",
+  "captured_at": "2026-11-27T15:19:28.319229+00:00",
   "lines": [
     {
       "match_id": 793636,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 3.88,
+      "decimal_odds": 3.91,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2577319587628866,
-      "implied_prob_fair": 0.23622047244094488,
+      "implied_prob_raw": 0.2557544757033248,
+      "implied_prob_fair": 0.236328125,
       "source": "match:793636"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7637795275590551,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.763671875,
       "source": "match:793636"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 3.93,
+      "decimal_odds": 3.95,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2544529262086514,
-      "implied_prob_fair": 0.23391812865497078,
+      "implied_prob_raw": 0.2531645569620253,
+      "implied_prob_fair": 0.23449612403100772,
       "source": "match:793636"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Fire Flux Esports",
       "team_tag": "FF",
-      "decimal_odds": 1.2,
+      "decimal_odds": 1.21,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8333333333333334,
-      "implied_prob_fair": 0.7660818713450293,
+      "implied_prob_raw": 0.8264462809917356,
+      "implied_prob_fair": 0.7655038759689923,
       "source": "match:793636"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Misa Esports",
       "team_tag": "MISA",
-      "decimal_odds": 3.95,
+      "decimal_odds": 4.0,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2531645569620253,
-      "implied_prob_fair": 0.2359767891682785,
+      "implied_prob_raw": 0.25,
+      "implied_prob_fair": 0.23371647509578544,
       "source": "match:793636"
     },
     {
@@ -90,7 +90,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.819672131147541,
-      "implied_prob_fair": 0.7640232108317214,
+      "implied_prob_fair": 0.7662835249042146,
       "source": "match:793636"
     }
   ]
