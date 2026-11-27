@@ -7,7 +7,7 @@
   "team2": "ELEVATE",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-27T15:36:12.941196+00:00",
+  "captured_at": "2026-11-27T15:52:31.346815+00:00",
   "lines": [
     {
       "match_id": 792048,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Next",
       "team_tag": "NXT",
-      "decimal_odds": 2.54,
+      "decimal_odds": 2.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.39370078740157477,
-      "implied_prob_fair": 0.36500000000000005,
+      "implied_prob_raw": 0.4,
+      "implied_prob_fair": 0.37185929648241206,
       "source": "match:792048"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "ELEVATE",
       "team_tag": "ELV",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.6350000000000001,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6281407035175879,
       "source": "match:792048"
     }
   ]

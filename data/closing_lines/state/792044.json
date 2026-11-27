@@ -7,7 +7,7 @@
   "team2": "BRASIL2002",
   "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Quarterfinals",
-  "captured_at": "2026-11-27T15:35:38.695986+00:00",
+  "captured_at": "2026-11-27T15:51:56.939449+00:00",
   "lines": [
     {
       "match_id": 792044,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Team Solid",
       "team_tag": "TSS",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.628498727735369,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6319796954314721,
       "source": "match:792044"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.3715012722646311,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.3680203045685279,
       "source": "match:792044"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Team Solid",
       "team_tag": "TSS",
-      "decimal_odds": 1.46,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.684931506849315,
-      "implied_prob_fair": 0.628498727735369,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6319796954314721,
       "source": "match:792044"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "BRASIL2002",
       "team_tag": "BRA2",
-      "decimal_odds": 2.47,
+      "decimal_odds": 2.49,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4048582995951417,
-      "implied_prob_fair": 0.3715012722646311,
+      "implied_prob_raw": 0.4016064257028112,
+      "implied_prob_fair": 0.3680203045685279,
       "source": "match:792044"
     },
     {

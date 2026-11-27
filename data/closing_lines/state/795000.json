@@ -7,7 +7,7 @@
   "team2": "Mandatory",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (0-2)",
-  "captured_at": "2026-11-27T15:35:27.892636+00:00",
+  "captured_at": "2026-11-27T15:51:46.266367+00:00",
   "lines": [
     {
       "match_id": 795000,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.56,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.641025641025641,
-      "implied_prob_fair": 0.5894736842105263,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5942408376963351,
       "source": "match:795000"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.24,
+      "decimal_odds": 2.27,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4464285714285714,
-      "implied_prob_fair": 0.4105263157894737,
+      "implied_prob_raw": 0.44052863436123346,
+      "implied_prob_fair": 0.40575916230366493,
       "source": "match:795000"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "pre-match",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.57,
+      "decimal_odds": 1.55,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6369426751592356,
-      "implied_prob_fair": 0.5879265091863517,
+      "implied_prob_raw": 0.6451612903225806,
+      "implied_prob_fair": 0.5953002610966058,
       "source": "match:795000"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.24,
+      "decimal_odds": 2.28,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4464285714285714,
-      "implied_prob_fair": 0.41207349081364825,
+      "implied_prob_raw": 0.4385964912280702,
+      "implied_prob_fair": 0.40469973890339433,
       "source": "match:795000"
     },
     {

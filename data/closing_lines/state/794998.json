@@ -7,7 +7,7 @@
   "team2": "CGN Esports",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (1-1)",
-  "captured_at": "2026-11-27T15:35:24.857565+00:00",
+  "captured_at": "2026-11-27T15:51:43.162186+00:00",
   "lines": [
     {
       "match_id": 794998,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.77,
+      "decimal_odds": 1.72,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5649717514124294,
-      "implied_prob_fair": 0.5203252032520325,
+      "implied_prob_raw": 0.5813953488372093,
+      "implied_prob_fair": 0.5363881401617251,
       "source": "match:794998"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.99,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.4796747967479675,
+      "implied_prob_raw": 0.5025125628140703,
+      "implied_prob_fair": 0.46361185983827485,
       "source": "match:794998"
     },
     {
@@ -48,7 +48,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.5263157894736842,
-      "implied_prob_fair": 0.4878706199460916,
+      "implied_prob_fair": 0.4864864864864864,
       "source": "match:794998"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.81,
+      "decimal_odds": 1.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5524861878453039,
-      "implied_prob_fair": 0.5121293800539084,
+      "implied_prob_raw": 0.5555555555555556,
+      "implied_prob_fair": 0.5135135135135135,
       "source": "match:794998"
     },
     {
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "Enterprise Esports",
       "team_tag": "EP",
-      "decimal_odds": 1.82,
+      "decimal_odds": 1.9,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5494505494505494,
-      "implied_prob_fair": 0.5133689839572192,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4919786096256684,
       "source": "match:794998"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "CGN Esports",
       "team_tag": "CGN",
-      "decimal_odds": 1.92,
+      "decimal_odds": 1.84,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.5208333333333334,
-      "implied_prob_fair": 0.4866310160427808,
+      "implied_prob_raw": 0.5434782608695652,
+      "implied_prob_fair": 0.5080213903743315,
       "source": "match:794998"
     }
   ]

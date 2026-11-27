@@ -7,7 +7,7 @@
   "team2": "ARG.MIX",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-27T15:35:37.171034+00:00",
+  "captured_at": "2026-11-27T15:51:55.383837+00:00",
   "lines": [
     {
       "match_id": 794841,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.29069767441860467,
       "implied_prob_fair": 0.2680851063829788,
+      "source": "match:794841"
+    },
+    {
+      "match_id": 794841,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53121",
+      "stage": "pre-match",
+      "team": "EL LEGADO",
+      "team_tag": "EL L",
+      "decimal_odds": 1.24,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8064516129032259,
+      "implied_prob_fair": 0.7389473684210526,
+      "source": "match:794841"
+    },
+    {
+      "match_id": 794841,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53121",
+      "stage": "pre-match",
+      "team": "ARG.MIX",
+      "team_tag": "ARG.",
+      "decimal_odds": 3.51,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.2849002849002849,
+      "implied_prob_fair": 0.26105263157894737,
       "source": "match:794841"
     }
   ]
