@@ -7,7 +7,7 @@
   "team2": "9z Globant",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-27T16:08:17.375270+00:00",
+  "captured_at": "2026-11-27T16:24:35.819206+00:00",
   "lines": [
     {
       "match_id": 794842,
@@ -35,6 +35,34 @@
       "payout": null,
       "implied_prob_raw": 0.8547008547008548,
       "implied_prob_fair": 0.7880434782608696,
+      "source": "match:794842"
+    },
+    {
+      "match_id": 794842,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53122",
+      "stage": "pre-match",
+      "team": "University War",
+      "team_tag": "UW",
+      "decimal_odds": 4.43,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.22573363431151244,
+      "implied_prob_fair": 0.2075134168157424,
+      "source": "match:794842"
+    },
+    {
+      "match_id": 794842,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53122",
+      "stage": "pre-match",
+      "team": "9z Globant",
+      "team_tag": "9ZG",
+      "decimal_odds": 1.16,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.8620689655172414,
+      "implied_prob_fair": 0.7924865831842576,
       "source": "match:794842"
     }
   ]
