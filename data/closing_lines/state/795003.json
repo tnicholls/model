@@ -7,7 +7,7 @@
   "team2": "UCAM Esports Club",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (2-0)",
-  "captured_at": "2026-11-27T16:24:25.052153+00:00",
+  "captured_at": "2026-11-27T17:02:08.293030+00:00",
   "lines": [
     {
       "match_id": 795003,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.05,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7384937238493725,
+      "implied_prob_raw": 0.9523809523809523,
+      "implied_prob_fair": 0.8813559322033898,
       "source": "match:795003"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "UCAM Esports Club",
       "team_tag": "UCAM",
-      "decimal_odds": 3.53,
+      "decimal_odds": 7.8,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28328611898017,
-      "implied_prob_fair": 0.26150627615062766,
+      "implied_prob_raw": 0.12820512820512822,
+      "implied_prob_fair": 0.11864406779661019,
       "source": "match:795003"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Eintracht Frankfurt",
       "team_tag": "SGE",
-      "decimal_odds": 1.25,
+      "decimal_odds": 1.08,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7390396659707724,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8593749999999999,
       "source": "match:795003"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "UCAM Esports Club",
       "team_tag": "UCAM",
-      "decimal_odds": 3.54,
+      "decimal_odds": 6.6,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.2824858757062147,
-      "implied_prob_fair": 0.2609603340292275,
+      "implied_prob_raw": 0.15151515151515152,
+      "implied_prob_fair": 0.140625,
       "source": "match:795003"
     },
     {

@@ -7,7 +7,7 @@
   "team2": "Pixel Lumina",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (0-2)",
-  "captured_at": "2026-11-27T16:24:29.597355+00:00",
+  "captured_at": "2026-11-27T17:02:12.893098+00:00",
   "lines": [
     {
       "match_id": 795001,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.6578947368421053,
       "implied_prob_fair": 0.6041666666666666,
-      "source": "match:795001"
-    },
-    {
-      "match_id": 795001,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53146",
-      "stage": "pre-match",
-      "team": "xXxMasterProMegaTeamxXx",
-      "team_tag": "MPMT",
-      "decimal_odds": 2.39,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.41841004184100417,
-      "implied_prob_fair": 0.38242894056847543,
-      "source": "match:795001"
-    },
-    {
-      "match_id": 795001,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53146",
-      "stage": "pre-match",
-      "team": "Pixel Lumina",
-      "team_tag": "PXL",
-      "decimal_odds": 1.48,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.6756756756756757,
-      "implied_prob_fair": 0.6175710594315246,
       "source": "match:795001"
     }
   ]
