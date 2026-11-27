@@ -7,7 +7,7 @@
   "team2": "Mandatory",
   "event_name": "VCT 2027: EMEA Kickoff - Europe Qualifier Playoffs",
   "series": "Swiss Stage\u2013Round 3 (0-2)",
-  "captured_at": "2026-11-27T17:02:06.692945+00:00",
+  "captured_at": "2026-11-27T17:18:26.435951+00:00",
   "lines": [
     {
       "match_id": 795000,
@@ -16,11 +16,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.54,
+      "decimal_odds": 2.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6493506493506493,
-      "implied_prob_fair": 0.6020671834625323,
+      "implied_prob_raw": 0.40322580645161293,
+      "implied_prob_fair": 0.37373737373737376,
       "source": "match:795000"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "live",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.33,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.4291845493562232,
-      "implied_prob_fair": 0.3979328165374677,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6262626262626262,
       "source": "match:795000"
     },
     {
@@ -44,11 +44,11 @@
       "stage": "live",
       "team": "Aurora Gaming",
       "team_tag": "AURA",
-      "decimal_odds": 1.52,
+      "decimal_odds": 2.47,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6578947368421053,
-      "implied_prob_fair": 0.609254498714653,
+      "implied_prob_raw": 0.4048582995951417,
+      "implied_prob_fair": 0.37468354430379747,
       "source": "match:795000"
     },
     {
@@ -58,11 +58,11 @@
       "stage": "live",
       "team": "Mandatory",
       "team_tag": "MDR",
-      "decimal_odds": 2.37,
+      "decimal_odds": 1.48,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.42194092827004215,
-      "implied_prob_fair": 0.390745501285347,
+      "implied_prob_raw": 0.6756756756756757,
+      "implied_prob_fair": 0.6253164556962025,
       "source": "match:795000"
     },
     {

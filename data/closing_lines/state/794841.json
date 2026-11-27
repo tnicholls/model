@@ -7,7 +7,7 @@
   "team2": "ARG.MIX",
   "event_name": "VCT 2027: America Kickoff - LATAM South Qualifier Playoffs",
   "series": "Playoffs\u2013Upper Semifinals",
-  "captured_at": "2026-11-27T17:02:15.971092+00:00",
+  "captured_at": "2026-11-27T17:18:34.217360+00:00",
   "lines": [
     {
       "match_id": 794841,
@@ -20,7 +20,7 @@
       "stake": null,
       "payout": null,
       "implied_prob_raw": 0.8,
-      "implied_prob_fair": 0.7362869198312236,
+      "implied_prob_fair": 0.7368421052631579,
       "source": "match:794841"
     },
     {
@@ -30,11 +30,11 @@
       "stage": "pre-match",
       "team": "ARG.MIX",
       "team_tag": "ARG.",
-      "decimal_odds": 3.49,
+      "decimal_odds": 3.5,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.28653295128939826,
-      "implied_prob_fair": 0.2637130801687763,
+      "implied_prob_raw": 0.2857142857142857,
+      "implied_prob_fair": 0.26315789473684204,
       "source": "match:794841"
     },
     {
