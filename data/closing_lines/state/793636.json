@@ -7,7 +7,7 @@
   "team2": "Fire Flux Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Elimination (A)",
-  "captured_at": "2026-11-28T07:14:27.435776+00:00",
+  "captured_at": "2026-11-28T07:31:26.927824+00:00",
   "lines": [
     {
       "match_id": 793636,
@@ -35,34 +35,6 @@
       "payout": null,
       "implied_prob_raw": 0.8264462809917356,
       "implied_prob_fair": 0.763671875,
-      "source": "match:793636"
-    },
-    {
-      "match_id": 793636,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53035",
-      "stage": "pre-match",
-      "team": "Misa Esports",
-      "team_tag": "MISA",
-      "decimal_odds": 3.95,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.2531645569620253,
-      "implied_prob_fair": 0.23449612403100772,
-      "source": "match:793636"
-    },
-    {
-      "match_id": 793636,
-      "bookmaker": "thunderpick",
-      "bet_url": "/rr/bet/53035",
-      "stage": "pre-match",
-      "team": "Fire Flux Esports",
-      "team_tag": "FF",
-      "decimal_odds": 1.21,
-      "stake": null,
-      "payout": null,
-      "implied_prob_raw": 0.8264462809917356,
-      "implied_prob_fair": 0.7655038759689923,
       "source": "match:793636"
     },
     {

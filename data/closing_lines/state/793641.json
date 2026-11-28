@@ -7,7 +7,7 @@
   "team2": "Be\u015fikta\u015f Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Elimination (B)",
-  "captured_at": "2026-11-28T07:14:27.979914+00:00",
+  "captured_at": "2026-11-28T07:31:28.453942+00:00",
   "lines": [
     {
       "match_id": 793641,
@@ -72,11 +72,11 @@
       "stage": "pre-match",
       "team": "team apanthe",
       "team_tag": "APAN",
-      "decimal_odds": 2.72,
+      "decimal_odds": 2.68,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3676470588235294,
-      "implied_prob_fair": 0.34457831325301197,
+      "implied_prob_raw": 0.3731343283582089,
+      "implied_prob_fair": 0.34951456310679613,
       "source": "match:793641"
     },
     {
@@ -86,11 +86,11 @@
       "stage": "pre-match",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.44,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.655421686746988,
+      "implied_prob_raw": 0.6944444444444444,
+      "implied_prob_fair": 0.6504854368932039,
       "source": "match:793641"
     }
   ]
