@@ -1,0 +1,69 @@
+{
+  "match_id": 793808,
+  "match_url": "/793808/godlike-esports-vs-kryon-esports-vct-2027-pacific-kickoff-south-asia-qualifier-lbf",
+  "date_display": "Sat, November 28, 2026",
+  "time_display": "11:30 AM",
+  "team1": "GodLike Esports",
+  "team2": "Kryon Esports",
+  "event_name": "VCT 2027: Pacific Kickoff - South Asia Qualifier",
+  "series": "Playoffs\u2013Lower Final",
+  "captured_at": "2026-11-28T07:13:51.054663+00:00",
+  "lines": [
+    {
+      "match_id": 793808,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53183",
+      "stage": "pre-match",
+      "team": "GodLike Esports",
+      "team_tag": "GODL",
+      "decimal_odds": 2.07,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.48309178743961356,
+      "implied_prob_fair": 0.4435483870967742,
+      "source": "match:793808"
+    },
+    {
+      "match_id": 793808,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53183",
+      "stage": "pre-match",
+      "team": "Kryon Esports",
+      "team_tag": "KRN",
+      "decimal_odds": 1.65,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6060606060606061,
+      "implied_prob_fair": 0.5564516129032258,
+      "source": "match:793808"
+    },
+    {
+      "match_id": 793808,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53184",
+      "stage": "pre-match",
+      "team": "GodLike Esports",
+      "team_tag": "GODL",
+      "decimal_odds": 2.06,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.4854368932038835,
+      "implied_prob_fair": 0.4432432432432433,
+      "source": "match:793808"
+    },
+    {
+      "match_id": 793808,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53184",
+      "stage": "pre-match",
+      "team": "Kryon Esports",
+      "team_tag": "KRN",
+      "decimal_odds": 1.64,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6097560975609756,
+      "implied_prob_fair": 0.5567567567567568,
+      "source": "match:793808"
+    }
+  ]
+}

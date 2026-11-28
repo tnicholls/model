@@ -7,7 +7,7 @@
   "team2": "Be\u015fikta\u015f Esports",
   "event_name": "VCT 2027: EMEA Kickoff - T\u00fcrkiye Qualifier",
   "series": "Playoffs\u2013Elimination (B)",
-  "captured_at": "2026-11-27T23:23:19.301277+00:00",
+  "captured_at": "2026-11-28T07:14:27.979914+00:00",
   "lines": [
     {
       "match_id": 793641,
@@ -16,11 +16,11 @@
       "stage": "pre-match",
       "team": "team apanthe",
       "team_tag": "APAN",
-      "decimal_odds": 2.55,
+      "decimal_odds": 2.54,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.3921568627450981,
-      "implied_prob_fair": 0.35929648241206025,
+      "implied_prob_raw": 0.39370078740157477,
+      "implied_prob_fair": 0.3634085213032581,
       "source": "match:793641"
     },
     {
@@ -30,11 +30,39 @@
       "stage": "pre-match",
       "team": "Be\u015fikta\u015f Esports",
       "team_tag": "BJK",
-      "decimal_odds": 1.43,
+      "decimal_odds": 1.45,
       "stake": null,
       "payout": null,
-      "implied_prob_raw": 0.6993006993006994,
-      "implied_prob_fair": 0.6407035175879396,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6365914786967419,
+      "source": "match:793641"
+    },
+    {
+      "match_id": 793641,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53115",
+      "stage": "pre-match",
+      "team": "team apanthe",
+      "team_tag": "APAN",
+      "decimal_odds": 2.56,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.390625,
+      "implied_prob_fair": 0.3615960099750623,
+      "source": "match:793641"
+    },
+    {
+      "match_id": 793641,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53115",
+      "stage": "pre-match",
+      "team": "Be\u015fikta\u015f Esports",
+      "team_tag": "BJK",
+      "decimal_odds": 1.45,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.6896551724137931,
+      "implied_prob_fair": 0.6384039900249376,
       "source": "match:793641"
     },
     {

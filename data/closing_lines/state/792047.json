@@ -1,0 +1,69 @@
+{
+  "match_id": 792047,
+  "match_url": "/792047/brasil2002-vs-mafiosos-vct-2027-america-kickoff-brazil-qualifier-playoffs-lr1",
+  "date_display": "Sun, November 29, 2026",
+  "time_display": "1:00 AM",
+  "team1": "BRASIL2002",
+  "team2": "Mafiosos",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Playoffs\u2013Lower Round 1",
+  "captured_at": "2026-11-28T07:13:54.937777+00:00",
+  "lines": [
+    {
+      "match_id": 792047,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53185",
+      "stage": "pre-match",
+      "team": "BRASIL2002",
+      "team_tag": "BRA2",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.847457627118644,
+      "source": "match:792047"
+    },
+    {
+      "match_id": 792047,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53185",
+      "stage": "pre-match",
+      "team": "Mafiosos",
+      "team_tag": "MAFI",
+      "decimal_odds": 6.0,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.16666666666666666,
+      "implied_prob_fair": 0.15254237288135594,
+      "source": "match:792047"
+    },
+    {
+      "match_id": 792047,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53187",
+      "stage": "pre-match",
+      "team": "BRASIL2002",
+      "team_tag": "BRA2",
+      "decimal_odds": 1.08,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.9259259259259258,
+      "implied_prob_fair": 0.8430232558139535,
+      "source": "match:792047"
+    },
+    {
+      "match_id": 792047,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53187",
+      "stage": "pre-match",
+      "team": "Mafiosos",
+      "team_tag": "MAFI",
+      "decimal_odds": 5.8,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.1724137931034483,
+      "implied_prob_fair": 0.15697674418604654,
+      "source": "match:792047"
+    }
+  ]
+}

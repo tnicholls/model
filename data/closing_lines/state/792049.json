@@ -1,0 +1,69 @@
+{
+  "match_id": 792049,
+  "match_url": "/792049/team-solid-vs-2game-esports-vct-2027-america-kickoff-brazil-qualifier-playoffs-ubsf",
+  "date_display": "Mon, November 30, 2026",
+  "time_display": "1:00 AM",
+  "team1": "Team Solid",
+  "team2": "2Game Esports",
+  "event_name": "VCT 2027: America Kickoff - Brazil Qualifier Playoffs",
+  "series": "Playoffs\u2013Upper Semifinals",
+  "captured_at": "2026-11-28T07:14:51.556885+00:00",
+  "lines": [
+    {
+      "match_id": 792049,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53186",
+      "stage": "pre-match",
+      "team": "Team Solid",
+      "team_tag": "TSS",
+      "decimal_odds": 1.78,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5617977528089888,
+      "implied_prob_fair": 0.516304347826087,
+      "source": "match:792049"
+    },
+    {
+      "match_id": 792049,
+      "bookmaker": "ggbet",
+      "bet_url": "/rr/bet/53186",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.9,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5263157894736842,
+      "implied_prob_fair": 0.4836956521739131,
+      "source": "match:792049"
+    },
+    {
+      "match_id": 792049,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53188",
+      "stage": "pre-match",
+      "team": "Team Solid",
+      "team_tag": "TSS",
+      "decimal_odds": 1.76,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5681818181818182,
+      "implied_prob_fair": 0.5164835164835164,
+      "source": "match:792049"
+    },
+    {
+      "match_id": 792049,
+      "bookmaker": "thunderpick",
+      "bet_url": "/rr/bet/53188",
+      "stage": "pre-match",
+      "team": "2Game Esports",
+      "team_tag": "2G",
+      "decimal_odds": 1.88,
+      "stake": null,
+      "payout": null,
+      "implied_prob_raw": 0.5319148936170213,
+      "implied_prob_fair": 0.48351648351648346,
+      "source": "match:792049"
+    }
+  ]
+}
